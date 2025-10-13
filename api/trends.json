@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T06:22:19.348286+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-10-14T07:20:06.750540+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "周一（10月13日），彭博电动汽车价格回报指数涨1.43%，报3456.93点。 成分股MP材料收涨21.34%，普拉格动力公司涨14.04%，美国雅宝涨7.21%表现第三。 港股小鹏汽车、浙江零跑科技、理想汽车、蔚来集团、小米集团则收跌3.33%-5.71%，表现最差。",
@@ -60,6 +61,19 @@
           "time_info": "[02时30分 ~ 04时24分]"
         },
         {
+          "title": "想知道特斯拉电耗低的主要原因有哪些呢？",
+          "url": "https://www.zhihu.com/question/662242577",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
           "title": "极星汽车关闭国内最后一家直营门店",
           "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%98%9F%E6%B1%BD%E8%BD%A6%E5%85%B3%E9%97%AD%E5%9B%BD%E5%86%85%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E7%9B%B4%E8%90%A5%E9%97%A8%E5%BA%97",
           "source": "百度热搜",
@@ -91,18 +105,6 @@
           "ranks": [
             10,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "想知道特斯拉电耗低的主要原因有哪些呢？",
-          "url": "https://www.zhihu.com/question/662242577",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
