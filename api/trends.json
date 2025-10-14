@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T21:32:58.910199+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2025-10-14T22:24:00.273873+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
@@ -35,6 +35,31 @@
           "time_info": "[13时21分 ~ 17时24分]"
         },
         {
+          "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
+          "url": "https://www.zhihu.com/question/1961478185104400904",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时24分]"
+        },
+        {
           "title": "恒指高开0.31%，报25969.21点；恒生科技指数涨0.56%。华虹半导体涨2.9%，蔚来、中芯国际涨超2%，商汤涨近2%。",
           "url": "https://wallstreetcn.com/livenews/2987094",
           "source": "华尔街见闻-快讯",
@@ -52,9 +77,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1961377347790926575",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时24分]"
         },
         {
           "title": "马斯克第二代星舰最后一次试飞",
@@ -134,19 +172,6 @@
           "time_info": "[05时20分 ~ 07时20分]"
         },
         {
-          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时32分]"
-        },
-        {
           "title": "极星汽车关闭国内最后一家直营门店",
           "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%98%9F%E6%B1%BD%E8%BD%A6%E5%85%B3%E9%97%AD%E5%9B%BD%E5%86%85%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E7%9B%B4%E8%90%A5%E9%97%A8%E5%BA%97",
           "source": "百度热搜",
@@ -158,19 +183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 05时20分]"
-        },
-        {
-          "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1961377347790926575",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时32分]"
         },
         {
           "title": "华为耳夹耳机成国际时装周常客",
@@ -267,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "目前真正的纯电汽车车主，真的还有里程焦虑吗？",
+          "url": "https://www.zhihu.com/question/654086608",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "Melius Research LLC.分析师Rob Wertheimer基于特斯拉推荐买入的初始评级，称其是“必须持有”的股票。",
