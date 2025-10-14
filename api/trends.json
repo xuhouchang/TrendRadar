@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T01:21:44.662877+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-10-15T02:32:27.883541+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
