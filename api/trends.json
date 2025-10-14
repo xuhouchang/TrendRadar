@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T09:30:06.417429+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-10-14T11:04:16.851541+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时04分]"
         },
         {
           "title": "恒指高开0.31%，报25969.21点；恒生科技指数涨0.56%。华虹半导体涨2.9%，蔚来、中芯国际涨超2%，商汤涨近2%。",
@@ -28,7 +28,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -98,6 +98,18 @@
           "time_info": "[01时20分 ~ 05时20分]"
         },
         {
+          "title": "马斯克第二代星舰最后一次试飞",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%98%9F%E8%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E8%AF%95%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 11时04分]"
+        },
+        {
           "title": "马斯克：AI软件公司“巨硬”的厂房的徽标已经喷涂完毕。",
           "url": "https://flash.jin10.com/detail/20251014042623295800",
           "source": "金十数据",
@@ -158,17 +170,6 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "马斯克第二代星舰最后一次试飞",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%AC%E4%BA%8C%E4%BB%A3%E6%98%9F%E8%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E8%AF%95%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
           "title": "特斯拉市值一夜大增745亿美元",
           "url": "https://www.toutiao.com/trending/7560848593934880294/",
           "source": "今日头条",
@@ -186,7 +187,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
