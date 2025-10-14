@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T18:22:43.396786+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2025-10-14T19:18:43.140283+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
@@ -232,6 +232,17 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "Melius Research LLC.分析师Rob Wertheimer基于特斯拉推荐买入的初始评级，称其是“必须持有”的股票。",
           "url": "https://wallstreetcn.com/livenews/2986887",
           "source": "华尔街见闻-快讯",
@@ -311,6 +322,28 @@
           "time_info": "16时27分"
         },
         {
+          "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1961377347790926575",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "通用汽车因调整电动车计划计提16亿美元费用",
+          "url": "https://flash.jin10.com/detail/20251014183604515800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "1-9月我国汽车工业多项经济指标两位数增长",
           "url": "https://wallstreetcn.com/livenews/2987282",
           "source": "华尔街见闻-快讯",
@@ -333,17 +366,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "中汽协陈士华：2025年我国汽车出口有望超650万辆",
           "url": "https://wallstreetcn.com/livenews/2987308",
           "source": "华尔街见闻-快讯",
@@ -353,6 +375,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "通用汽车(GM.N)盘前跌3%，公司预计因调整电动汽车生产布局将面临16亿美元的支出。",
+          "url": "https://flash.jin10.com/detail/20251014182829550800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "通用汽车美股盘前跌近3%，公司称基于对电动汽车产能和制造布局的规划性战略调整，通用汽车在截至9月30日的第三季度计提16亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2987465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "美国银行：将通用汽车(GM.N)目标股价从62美元下调至61美元。",
+          "url": "https://flash.jin10.com/detail/20251014182012030800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "涉及电动汽车供电设备能效等 首批数字国家标准发布",
@@ -377,6 +432,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "通用汽车(GM.N)：预计电动汽车的普及速度将放缓。预计因调整电动汽车生产布局将面临16亿美元的支出。",
+          "url": "https://flash.jin10.com/detail/20251014181727683800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "中国建成世界最大电动汽车充电网络",
           "url": "https://wallstreetcn.com/livenews/2986880",
           "source": "华尔街见闻-快讯",
@@ -386,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "阿布扎比投资局与Stellantis签署合作协议，推动阿联酋汽车制造业发展",
+          "url": "https://wallstreetcn.com/livenews/2987456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
