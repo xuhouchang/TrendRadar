@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T00:25:36.995324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-16T01:20:11.922283+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
