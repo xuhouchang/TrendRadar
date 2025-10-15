@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T06:19:09.582077+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-10-16T07:20:30.332729+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "车顶维权案当事人称特斯拉上诉了",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 07时20分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
+          "url": "https://www.zhihu.com/question/1961478185104400904",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
