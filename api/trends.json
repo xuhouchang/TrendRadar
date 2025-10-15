@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T09:38:46.943785+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2025-10-15T11:07:46.943321+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时07分]"
         },
         {
           "title": "周二（10月14日），彭博电动汽车价格回报指数跌1.42%，报3406.77点。 成分股雅迪集团H股、浙江零跑科技H股、日本电产株式会社东京股价收跌超5%领跌，普拉格动力公司、智利化工矿业公司（SQM）、印度Sona Blw Precision Forgings Ltd.、MP材料则涨超3%领跑。",
@@ -116,6 +116,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "创业板指涨超1%，此前一度跌近1%，沪指涨0.48%，深成指涨0.73%，创新药、国产软件、汽车整车、量子科技等方向领涨，沪深京三市上涨个股近4200只。",
+          "url": "https://wallstreetcn.com/livenews/2987848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     }
