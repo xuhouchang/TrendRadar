@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T19:20:44.625430+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2025-10-15T20:45:57.375315+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 20时45分]"
         },
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -268,7 +268,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -301,7 +301,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -323,7 +323,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
