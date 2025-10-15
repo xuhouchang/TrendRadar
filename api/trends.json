@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T17:24:55.863307+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-10-15T18:25:23.192132+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 09时38分]"
+        },
+        {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时25分]"
         },
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -36,20 +51,6 @@
           "time_info": "[00时28分 ~ 15时23分]"
         },
         {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时24分]"
-        },
-        {
           "title": "现代汽车印度高管：公司计划到2030年推出26款新车，其中包括7款全新品牌车型。",
           "url": "https://flash.jin10.com/detail/20251015131943811800",
           "source": "金十数据",
@@ -59,17 +60,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "新凯来旗下万里眼称华为是客户",
-          "url": "https://wallstreetcn.com/livenews/2988118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "创业板指涨超2%。深成指涨1.4%，沪指涨0.9%。机场航运、创新药、汽车整车板块涨幅居前，全市场上涨个股超3800只。",
@@ -105,6 +95,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 06时21分]"
+        },
+        {
+          "title": "新凯来旗下万里眼称华为是客户",
+          "url": "https://wallstreetcn.com/livenews/2988118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
         },
         {
           "title": "现代汽车印度公司任命Tarun Gars为CEO。",
@@ -168,6 +170,18 @@
           "time_info": "[00时28分 ~ 07时25分]"
         },
         {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
           "title": "港股收盘：港股今日迎来反弹行情，恒生指数收涨1.84%，恒生科技指数收涨2.57%，科技股集体上扬，华虹半导体涨超5%；汽车股走高，广汽集团涨超9%；三花智控涨近13%，公司回应天价订单传闻：正在紧急核查。",
           "url": "https://wallstreetcn.com/livenews/2988059",
           "source": "华尔街见闻-快讯",
@@ -178,6 +192,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 17时24分]"
+        },
+        {
+          "title": "比亚迪在芜湖成立汽车销售服务新公司",
+          "url": "https://wallstreetcn.com/livenews/2988093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
         },
         {
           "title": "中概指数收跌超1.9%，CQQQ跌超2.9%，再鼎医药、万国数据、蔚来至少跌超5%",
@@ -203,6 +229,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "三花智控回应特斯拉订单：机器人业务进展顺利 但无法回应关于市场传言内容",
+          "url": "https://wallstreetcn.com/livenews/2988138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/2987693",
           "source": "华尔街见闻-快讯",
@@ -212,28 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
-          "url": "https://wallstreetcn.com/livenews/2988096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "比亚迪在芜湖成立汽车销售服务新公司",
-          "url": "https://wallstreetcn.com/livenews/2988093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "商务部新闻发言人就中方在世贸组织起诉印度电动汽车及电池补贴措施答记者问",
