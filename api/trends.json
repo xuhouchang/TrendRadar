@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T21:35:11.487139+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-10-16T22:21:38.485851+08:00",
+  "total_titles_processed": 2133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -37,11 +37,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时29分 ~ 21时35分]"
+          "appearance_count": 11,
+          "time_info": "[16时29分 ~ 22时21分]"
         },
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -54,8 +55,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 22时21分]"
+        },
+        {
+          "title": "雷军：汽车安全是基础",
+          "url": "https://www.toutiao.com/trending/7560869722347077641/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "马斯克星链成缅甸电诈帮凶？美方调查",
@@ -78,19 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
-        },
-        {
-          "title": "雷军：汽车安全是基础",
-          "url": "https://www.toutiao.com/trending/7560869722347077641/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 21时35分]"
         },
         {
           "title": "沃尔沃汽车上涨6.6%，此前被SEB证券上调至“买入”评级。",
@@ -209,6 +211,18 @@
           "time_info": "[12时26分 ~ 13时23分]"
         },
         {
+          "title": "京东物流与小鹏汽车深化战略合作",
+          "url": "https://wallstreetcn.com/livenews/2989040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "何小鹏：小鹏汽车明年计划真正量产飞行汽车",
           "url": "https://wallstreetcn.com/livenews/2988873",
           "source": "华尔街见闻-快讯",
@@ -310,6 +324,17 @@
           "time_info": "20时45分"
         },
         {
+          "title": "特斯拉欧洲监管机构表示，车门安全是“关键优先事项”。",
+          "url": "https://wallstreetcn.com/livenews/2989062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)召回59,006辆美国车辆，原因是电气短路可能增加火灾风险。",
           "url": "https://flash.jin10.com/detail/20251016150607463800",
           "source": "金十数据",
@@ -321,15 +346,15 @@
           "time_info": "15时23分"
         },
         {
-          "title": "京东物流与小鹏汽车深化战略合作",
-          "url": "https://wallstreetcn.com/livenews/2989040",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲汽车制造商协会呼吁解决芯片供应短缺问题。",
+          "url": "https://flash.jin10.com/detail/20251016215855894800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时21分"
         },
         {
           "title": "工业和信息化部副部长辛国斌：下一步将组织编制“十五五”智能网联新能源汽车产业发展规划",
@@ -354,6 +379,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "蔚来回应新加坡主权财富基金诉讼：2022年已完成独立调查，无事实依据",
+          "url": "https://wallstreetcn.com/livenews/2989058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
           "url": "https://flash.jin10.com/detail/20251016084813725800",
           "source": "金十数据",
@@ -376,6 +412,28 @@
           "time_info": "15时23分"
         },
         {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；Salesforce开盘涨超8%，创4月9日以来最大涨幅，此前公司预测营收将超预期；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "特斯拉欧洲监管机构表示，车门安全是“首要优先事项”。",
+          "url": "https://flash.jin10.com/detail/20251016215047631800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
           "url": "https://wallstreetcn.com/livenews/2988409",
           "source": "华尔街见闻-快讯",
@@ -396,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "蔚来股价闪崩",
+          "url": "https://www.douyin.com/hot/2272103",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）全球汽车制造商市值变化",
@@ -437,7 +506,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
