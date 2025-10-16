@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T06:18:19.972668+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-10-17T07:18:06.169982+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时18分]"
         },
         {
           "title": "如何看待蔚来遭起诉",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时18分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -38,11 +38,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时18分]"
         },
         {
           "title": "蔚来被指控涉嫌证券欺诈",
@@ -52,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时18分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -113,7 +114,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -124,7 +125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
