@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T19:19:15.927746+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-10-16T20:45:03.961922+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -31,6 +31,19 @@
           "time_info": "[09时30分 ~ 13时23分]"
         },
         {
+          "title": "“十五五”智能网联汽车规划要来了！自动驾驶等标准有望加快制定",
+          "url": "https://www.cls.cn/detail/2171393",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 20时45分]"
+        },
+        {
           "title": "马斯克星链成缅甸电诈帮凶？美方调查",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%98%9F%E9%93%BE%E6%88%90%E7%BC%85%E7%94%B8%E7%94%B5%E8%AF%88%E5%B8%AE%E5%87%B6%EF%BC%9F%E7%BE%8E%E6%96%B9%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
@@ -42,17 +55,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
-          "title": "“十五五”智能网联汽车规划要来了！自动驾驶等标准有望加快制定",
-          "url": "https://www.cls.cn/detail/2171393",
-          "source": "财联社热门",
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
             9,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时29分 ~ 19时19分]"
+          "time_info": "[17时25分 ~ 20时45分]"
         },
         {
           "title": "俄罗斯总统普京：石油需求正在增长，汽油驱动的汽车还将被长期使用。 俄罗斯今年将生产5.1亿吨石油，较2024年下降1%，这是由于OPEC+的协议所致。",
@@ -61,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -123,16 +136,16 @@
           "time_info": "[15时22分 ~ 17时25分]"
         },
         {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
+          "title": "雷军：汽车安全是基础",
+          "url": "https://www.toutiao.com/trending/7560869722347077641/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时25分 ~ 19时19分]"
+          "time_info": "[19时18分 ~ 20时45分]"
         },
         {
           "title": "车顶维权案当事人称特斯拉上诉了",
@@ -146,6 +159,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
+          "title": "雷军呼吁企业共同抵制水军黑公关",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E4%BC%81%E4%B8%9A%E5%85%B1%E5%90%8C%E6%8A%B5%E5%88%B6%E6%B0%B4%E5%86%9B%E9%BB%91%E5%85%AC%E5%85%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E5%2591%25BC%25E5%2590%2581%25E4%25BC%2581%25E4%25B8%259A%25E5%2585%25B1%25E5%2590%258C%25E6%258A%25B5%25E5%2588%25B6%25E6%25B0%25B4%25E5%2586%259B%25E9%25BB%2591%25E5%2585%25AC%25E5%2585%25B3%2523%26dgr%3D0%26cate%3D5001%26band_rank%3D10%26realpos%3D10%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26pos%3D11%26filter_type%3Drealtimehot%26display_time%3D1760618574%26pre_seqid%3D176061857403000583118",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
@@ -197,14 +221,14 @@
         },
         {
           "title": "雷军：汽车安全是基础",
-          "url": "https://www.toutiao.com/trending/7560869722347077641/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2272215",
+          "source": "抖音",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "小米汽车转单市场转冷",
@@ -273,6 +297,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "巴克莱将特斯拉的目标价从275美元上调至350美元，维持“与大市持平”评级。",
+          "url": "https://wallstreetcn.com/livenews/2988999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)召回59,006辆美国车辆，原因是电气短路可能增加火灾风险。",
           "url": "https://flash.jin10.com/detail/20251016150607463800",
           "source": "金十数据",
@@ -282,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "工业和信息化部副部长辛国斌：下一步将组织编制“十五五”智能网联新能源汽车产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/2988995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "乘联分会秘书长崔东树：9月全国汽车市场总体走势较强，卡车市场和客车市场回暖明显",
@@ -361,6 +407,17 @@
           "time_info": "16时30分"
         },
         {
+          "title": "雷军：AI大模型将给智能网联汽车无限的想象空间",
+          "url": "https://wallstreetcn.com/livenews/2988978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
           "url": "https://flash.jin10.com/detail/20251016000305371800",
           "source": "金十数据",
@@ -381,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     }
