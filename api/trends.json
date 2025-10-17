@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-10-18T06:41:59.889685+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-18T07:19:01.337180+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 20,
       "titles": [
+        {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "硬刚到底!雷军呼吁抵制黑公关",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
         {
           "title": "新能源汽车火灾事故企业报告制度",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
@@ -17,34 +41,12 @@
             3,
             4,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时41分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时41分]"
-        },
-        {
-          "title": "硬刚到底!雷军呼吁抵制黑公关",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "比亚迪宣布召回部分唐和元 Pro 汽车，此次召回将给品牌后期销量带来哪些影响？",
@@ -55,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时40分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[03时40分 ~ 07时19分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
@@ -67,8 +69,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时23分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
@@ -80,22 +82,24 @@
             13,
             21,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时23分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
           "url": "https://wallstreetcn.com/livenews/2989928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时19分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
