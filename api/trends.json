@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T00:27:32.780655+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-18T00:48:25.336743+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -26,19 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.8%，创7月29日（当天跌4.3%）一来最差单日表现，报352.00点，本周累计下跌将近0.75%。 在十个板块中，北欧医疗保健板块领跌。 沃尔沃汽车集团跌7.8%，在一众北欧个股里表现最差。",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -59,8 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
+        },
+        {
+          "title": "外国老丈人向发小炫耀中国汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时48分]"
         },
         {
           "title": "华为的鸿蒙系统你用起来怎么样",
@@ -68,17 +81,6 @@
           "source": "今日头条",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "外国老丈人向发小炫耀中国汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
