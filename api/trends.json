@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T14:31:06.419972+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2025-10-17T14:51:35.503064+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 14时51分]"
         },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时30分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时30分 ~ 14时51分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时36分 ~ 14时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时36分 ~ 14时51分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 14时51分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -84,8 +84,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 14时51分]"
         },
         {
           "title": "蔚来被指控涉嫌证券欺诈",
@@ -95,8 +95,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 14时51分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -125,15 +125,28 @@
           "time_info": "09时30分"
         },
         {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 14时51分]"
+        },
+        {
           "title": "华为官宣：HarmonyOS 6要来了",
           "url": "https://www.toutiao.com/trending/7561070445555204146/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 14时51分]"
         },
         {
           "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
@@ -159,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时31分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）全球汽车制造商市值变化",
