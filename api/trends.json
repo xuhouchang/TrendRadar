@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T01:41:20.512356+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-10-18T02:28:28.184148+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时28分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
