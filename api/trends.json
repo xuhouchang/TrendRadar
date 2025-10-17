@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T16:28:26.571515+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2025-10-17T16:48:49.935302+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时30分 ~ 16时28分]"
+          "appearance_count": 17,
+          "time_info": "[09时30分 ~ 16时48分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -30,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时24分 ~ 16时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时24分 ~ 16时48分]"
         },
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 16时28分]"
+          "appearance_count": 29,
+          "time_info": "[00时29分 ~ 16时48分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -90,6 +91,19 @@
           "time_info": "[00时29分 ~ 15时41分]"
         },
         {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 16时48分]"
+        },
+        {
           "title": "蔚来被指控涉嫌证券欺诈",
           "url": "https://search.bilibili.com/all?keyword=%E8%94%9A%E6%9D%A5%E8%A2%AB%E6%8C%87%E6%8E%A7%E6%B6%89%E5%AB%8C%E8%AF%81%E5%88%B8%E6%AC%BA%E8%AF%88",
           "source": "bilibili 热搜",
@@ -97,20 +111,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 16时28分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 16时28分]"
+          "appearance_count": 29,
+          "time_info": "[00时29分 ~ 16时48分]"
         },
         {
           "title": "华为官宣：HarmonyOS 6要来了",
@@ -172,7 +174,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
