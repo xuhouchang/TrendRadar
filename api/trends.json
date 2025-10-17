@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T20:40:47.621328+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2025-10-17T21:29:56.452487+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时24分 ~ 20时40分]"
+          "appearance_count": 25,
+          "time_info": "[12时24分 ~ 21时29分]"
         },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -63,6 +63,22 @@
           "time_info": "[11时36分 ~ 16时28分]"
         },
         {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[13时42分 ~ 21时29分]"
+        },
+        {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
           "url": "https://www.cls.cn/detail/2171811",
           "source": "财联社热门",
@@ -77,21 +93,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 09时30分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时42分 ~ 20时40分]"
         },
         {
           "title": "如何看待蔚来遭起诉",
@@ -116,8 +117,34 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时29分 ~ 20时40分]"
+          "appearance_count": 39,
+          "time_info": "[00时29分 ~ 21时29分]"
+        },
+        {
+          "title": "硬刚到底!雷军呼吁抵制黑公关",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 21时29分]"
+        },
+        {
+          "title": "华为的鸿蒙系统你用起来怎么样",
+          "url": "https://www.toutiao.com/trending/7561799182446166058/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 21时29分]"
         },
         {
           "title": "华为官宣：HarmonyOS 6要来了",
@@ -132,32 +159,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时30分 ~ 16时28分]"
-        },
-        {
-          "title": "硬刚到底!雷军呼吁抵制黑公关",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 20时40分]"
-        },
-        {
-          "title": "华为的鸿蒙系统你用起来怎么样",
-          "url": "https://www.toutiao.com/trending/7561799182446166058/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 20时40分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时21分 ~ 18时43分]"
+        },
+        {
+          "title": "李乐成在2025世界智能网联汽车大会巡展并调研",
+          "url": "https://wallstreetcn.com/livenews/2989773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
@@ -393,7 +405,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
