@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-18T00:48:25.336743+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-10-18T01:17:22.586547+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 7,
       "titles": [
-        {
-          "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
-          "url": "https://wallstreetcn.com/livenews/2989831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
-        },
         {
           "title": "新能源汽车火灾事故企业报告制度",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
@@ -27,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -38,19 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.8%，创7月29日（当天跌4.3%）一来最差单日表现，报352.00点，本周累计下跌将近0.75%。 在十个板块中，北欧医疗保健板块领跌。 沃尔沃汽车集团跌7.8%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/2989824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -60,8 +38,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
+        },
+        {
+          "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
+          "url": "https://wallstreetcn.com/livenews/2989831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1.8%，创7月29日（当天跌4.3%）一来最差单日表现，报352.00点，本周累计下跌将近0.75%。 在十个板块中，北欧医疗保健板块领跌。 沃尔沃汽车集团跌7.8%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/2989824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
         },
         {
           "title": "外国老丈人向发小炫耀中国汽车",
@@ -69,22 +71,24 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时17分]"
         },
         {
           "title": "华为的鸿蒙系统你用起来怎么样",
           "url": "https://www.toutiao.com/trending/7561799182446166058/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时17分]"
         }
       ]
     }
