@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T23:20:34.220333+08:00",
-  "total_titles_processed": 2279,
+  "generated_at": "2025-10-17T23:41:56.273625+08:00",
+  "total_titles_processed": 2299,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[09时30分 ~ 18时23分]"
+        },
+        {
+          "title": "硬刚到底!雷军呼吁抵制黑公关",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时17分 ~ 23时41分]"
         },
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -60,20 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[12时24分 ~ 23时20分]"
-        },
-        {
-          "title": "硬刚到底!雷军呼吁抵制黑公关",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时17分 ~ 23时20分]"
+          "appearance_count": 30,
+          "time_info": "[12时24分 ~ 23时41分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -88,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[13时42分 ~ 23时20分]"
+          "appearance_count": 26,
+          "time_info": "[13时42分 ~ 23时41分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -289,6 +290,18 @@
           "time_info": "[04时24分 ~ 05时20分]"
         },
         {
+          "title": "外国老丈人向发小炫耀中国汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时19分 ~ 23时41分]"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251017110605608800",
           "source": "金十数据",
@@ -299,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 12时25分]"
-        },
-        {
-          "title": "外国老丈人向发小炫耀中国汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
