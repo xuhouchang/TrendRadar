@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T12:45:34.698330+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-10-17T13:20:41.247606+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -45,8 +45,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "蔚来被指控涉嫌证券欺诈",
@@ -56,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -69,8 +69,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 13时20分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://www.douyin.com/hot/2272799",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时30分 ~ 12时45分]"
+          "time_info": "[11时36分 ~ 13时20分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 13时20分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -86,28 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 05时20分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://www.douyin.com/hot/2272799",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 12时45分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 12时45分]"
         },
         {
           "title": "恒指低开0.14%，报25851.94点；恒生科技指数跌0.07%。蔚来涨5.6%，ASMPT、腾讯音乐跌超1%。",
@@ -126,11 +126,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.91%，报8177.00点。 热门中概股里，新东方跌4.9%，百胜中国、台积电、小鹏、京东跌超1%，蔚来、网易则至多涨0.2%。 ETF中，中国科技指数ETF（CQQQ）收跌0.40%，中概互联网指数ETF（KWEB）收跌0.33%，中国ETF-iShares MSCI（MCHI）收涨0.24%，追踪富时25中国股指数ETF（FXI）涨0.48%，富时中国3倍做多ETF（YINN）收涨1.45%。 XtrackersHarvest中证50（ASHS）收跌0.97%，德银嘉实沪深300指数ETF（ASHR）收涨0.43%。",
