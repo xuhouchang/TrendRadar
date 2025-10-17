@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T15:41:13.055778+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-10-17T16:28:26.571515+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -19,21 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时30分 ~ 15时41分]"
-        },
-        {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时29分 ~ 15时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时30分 ~ 16时28分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -43,8 +30,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时24分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[12时24分 ~ 16时28分]"
+        },
+        {
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时29分 ~ 16时28分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时36分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[11时36分 ~ 16时28分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -96,8 +97,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时29分 ~ 15时41分]"
+          "appearance_count": 28,
+          "time_info": "[00时29分 ~ 16时28分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -108,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 15时41分]"
+          "appearance_count": 10,
+          "time_info": "[13时42分 ~ 16时28分]"
         },
         {
           "title": "华为官宣：HarmonyOS 6要来了",
@@ -118,11 +119,12 @@
           "ranks": [
             9,
             17,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时30分 ~ 15时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时30分 ~ 16时28分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -162,6 +164,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "美股明星科技股盘前普跌，英特尔(INTC.O)跌4.56%，AMD(AMD.O)、美光科技(MU.O)、甲骨文(ORCL.N)跌超4%，阿里巴巴(BABA.N)跌3.7%，特斯拉(TSLA.O)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20251017160634596800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.91%，报8177.00点。 热门中概股里，新东方跌4.9%，百胜中国、台积电、小鹏、京东跌超1%，蔚来、网易则至多涨0.2%。 ETF中，中国科技指数ETF（CQQQ）收跌0.40%，中概互联网指数ETF（KWEB）收跌0.33%，中国ETF-iShares MSCI（MCHI）收涨0.24%，追踪富时25中国股指数ETF（FXI）涨0.48%，富时中国3倍做多ETF（YINN）收涨1.45%。 XtrackersHarvest中证50（ASHS）收跌0.97%，德银嘉实沪深300指数ETF（ASHR）收涨0.43%。",
