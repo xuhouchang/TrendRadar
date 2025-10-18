@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:38:40.557931+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-10-18T20:36:25.764931+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
             11,
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 20时36分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -87,11 +88,12 @@
             14,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 50,
-          "time_info": "[00时27分 ~ 19时38分]"
+          "appearance_count": 52,
+          "time_info": "[00时27分 ~ 20时36分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
@@ -179,11 +181,12 @@
             13,
             14,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时45分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 20时36分]"
         },
         {
           "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
@@ -194,8 +197,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 20时35分]"
+        },
+        {
+          "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802030",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 20时36分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -349,18 +365,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时40分 ~ 05时18分]"
-        },
-        {
-          "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802030",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时38分]"
         },
         {
           "title": "外国老丈人向发小炫耀中国汽车",
