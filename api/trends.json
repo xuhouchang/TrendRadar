@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:43:18.097004+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-10-18T13:18:04.928361+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时40分 ~ 12时43分]"
+          "appearance_count": 22,
+          "time_info": "[03时40分 ~ 13时18分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 12时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 13时18分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
