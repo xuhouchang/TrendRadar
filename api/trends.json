@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T05:39:51.510261+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-10-19T06:18:33.985149+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 05时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
@@ -30,11 +30,12 @@
             13,
             18,
             19,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 06时18分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -49,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
@@ -60,8 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 06时18分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -71,8 +72,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 05时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 06时18分]"
         }
       ]
     }
