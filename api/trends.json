@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:15:10.341549+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-10-19T03:38:28.288235+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
@@ -42,8 +42,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -52,11 +52,12 @@
           "ranks": [
             14,
             16,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
@@ -66,8 +67,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         }
       ]
     }
