@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:40:07.927958+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-10-18T18:20:12.801126+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时27分 ~ 17时40分]"
+          "appearance_count": 47,
+          "time_info": "[00时27分 ~ 18时20分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
@@ -115,6 +116,21 @@
           "time_info": "[09时21分 ~ 11时47分]"
         },
         {
+          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
+          "url": "https://flash.jin10.com/detail/20251018151039587800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 18时20分]"
+        },
+        {
           "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
           "url": "https://wallstreetcn.com/livenews/2989899",
           "source": "华尔街见闻-快讯",
@@ -132,20 +148,6 @@
           "time_info": "[04时23分 ~ 07时39分]"
         },
         {
-          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
-          "url": "https://flash.jin10.com/detail/20251018151039587800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时40分 ~ 17时40分]"
-        },
-        {
           "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
           "url": "https://wallstreetcn.com/livenews/2990029",
           "source": "华尔街见闻-快讯",
@@ -154,23 +156,12 @@
             6,
             11,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 17时40分]"
-        },
-        {
-          "title": "北京经开区签约落地四大汽车产业重点项目",
-          "url": "https://wallstreetcn.com/livenews/2990044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 18时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -184,6 +175,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时41分 ~ 09时21分]"
+        },
+        {
+          "title": "北京经开区签约落地四大汽车产业重点项目",
+          "url": "https://wallstreetcn.com/livenews/2990044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 18时20分]"
         },
         {
           "title": "曝华为云CEO张平安连降三等",
@@ -343,11 +347,12 @@
           "url": "https://www.zhihu.com/question/1962263756634579137",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 18时20分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
