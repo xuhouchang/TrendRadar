@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T23:18:48.431845+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2025-10-18T23:39:46.299030+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时41分 ~ 23时18分]"
+          "appearance_count": 11,
+          "time_info": "[18时41分 ~ 23时39分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -124,8 +124,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 57,
-          "time_info": "[00时27分 ~ 23时18分]"
+          "appearance_count": 58,
+          "time_info": "[00时27分 ~ 23时39分]"
         },
         {
           "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
@@ -218,11 +218,28 @@
             7,
             9,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时24分 ~ 23时18分]"
+          "appearance_count": 6,
+          "time_info": "[21时24分 ~ 23时39分]"
+        },
+        {
+          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
+          "url": "https://flash.jin10.com/detail/20251018203430382800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            8,
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时24分 ~ 23时39分]"
         },
         {
           "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
@@ -235,21 +252,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时39分 ~ 20时35分]"
-        },
-        {
-          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
-          "url": "https://flash.jin10.com/detail/20251018203430382800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时24分 ~ 23时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -405,6 +407,18 @@
           "time_info": "[03时40分 ~ 05时18分]"
         },
         {
+          "title": "华为云业务造假 4名高管被问责",
+          "url": "https://www.toutiao.com/trending/7562507776480513582/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时17分 ~ 23时39分]"
+        },
+        {
           "title": "外国老丈人向发小炫耀中国汽车",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
@@ -416,18 +430,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时41分]"
-        },
-        {
-          "title": "华为云业务造假 4名高管被问责",
-          "url": "https://www.toutiao.com/trending/7562507776480513582/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
