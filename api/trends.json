@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T17:20:59.867313+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-10-18T17:40:07.927958+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "比亚迪宣布召回部分唐和元 Pro 汽车，此次召回将给品牌后期销量带来哪些影响？",
@@ -69,8 +69,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时27分 ~ 17时20分]"
+          "appearance_count": 45,
+          "time_info": "[00时27分 ~ 17时40分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
@@ -83,6 +83,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时23分 ~ 07时39分]"
+        },
+        {
+          "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
+          "url": "https://wallstreetcn.com/livenews/2990015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12,
+            16,
+            21,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 17时40分]"
         },
         {
           "title": "我国已召回汽车1.2亿辆",
@@ -115,34 +132,45 @@
           "time_info": "[04时23分 ~ 07时39分]"
         },
         {
-          "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
-          "url": "https://wallstreetcn.com/livenews/2990015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            16,
-            21,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 17时20分]"
-        },
-        {
           "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
           "url": "https://flash.jin10.com/detail/20251018151039587800",
           "source": "金十数据",
           "ranks": [
             1,
             4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 17时40分]"
+        },
+        {
+          "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
+          "url": "https://wallstreetcn.com/livenews/2990029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 17时40分]"
+        },
+        {
+          "title": "北京经开区签约落地四大汽车产业重点项目",
+          "url": "https://wallstreetcn.com/livenews/2990044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 17时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -158,42 +186,16 @@
           "time_info": "[06时41分 ~ 09时21分]"
         },
         {
-          "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
-          "url": "https://wallstreetcn.com/livenews/2990029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 17时20分]"
-        },
-        {
-          "title": "北京经开区签约落地四大汽车产业重点项目",
-          "url": "https://wallstreetcn.com/livenews/2990044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时20分]"
-        },
-        {
           "title": "曝华为云CEO张平安连降三等",
           "url": "https://www.douyin.com/hot/2273663",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 17时40分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
@@ -335,6 +337,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时41分]"
+        },
+        {
+          "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
+          "url": "https://www.zhihu.com/question/1962263756634579137",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
