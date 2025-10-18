@@ -1,479 +1,66 @@
 {
-  "generated_at": "2025-10-18T23:39:46.299030+08:00",
-  "total_titles_processed": 1727,
+  "generated_at": "2025-10-19T00:23:11.286605+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "比亚迪宣布召回部分唐和元 Pro 汽车，此次召回将给品牌后期销量带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1962472359094118354",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[03时40分 ~ 14时48分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 11时47分]"
-        },
         {
           "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802030",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            9,
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时41分 ~ 23时39分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5,
-            3,
-            4,
-            9,
-            10,
-            13,
-            15,
-            20,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 11时47分]"
-        },
-        {
-          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
-          "url": "https://flash.jin10.com/detail/20251018151039587800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            8,
-            9,
-            11,
-            13,
-            14,
-            18,
-            20,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时40分 ~ 22时17分]"
-        },
-        {
-          "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
-          "url": "https://flash.jin10.com/detail/20251018034706166800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时23分 ~ 07时39分]"
-        },
-        {
-          "title": "硬刚到底!雷军呼吁抵制黑公关",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            11,
-            12,
-            13,
-            14,
-            16,
-            17,
-            18,
-            19,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 58,
-          "time_info": "[00时27分 ~ 23时39分]"
-        },
-        {
-          "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
-          "url": "https://wallstreetcn.com/livenews/2990015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            12,
-            16,
-            21,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 17时40分]"
-        },
-        {
-          "title": "北京经开区签约落地四大汽车产业重点项目",
-          "url": "https://wallstreetcn.com/livenews/2990044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            13,
-            14,
-            19,
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时45分 ~ 21时24分]"
-        },
-        {
-          "title": "我国已召回汽车1.2亿辆",
-          "url": "https://www.toutiao.com/trending/7561590534926712875/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 11时47分]"
-        },
-        {
-          "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
-          "url": "https://wallstreetcn.com/livenews/2989899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            21,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时23分 ~ 07时39分]"
-        },
-        {
-          "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
-          "url": "https://wallstreetcn.com/livenews/2990029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            11,
-            14,
-            20,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 18时41分]"
-        },
-        {
-          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
-          "url": "https://wallstreetcn.com/livenews/2990073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9,
-            10,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
-          "url": "https://flash.jin10.com/detail/20251018203430382800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            8,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "新加坡主权基金 GIC 为何在蔚来股票高位下跌 80% 后，再次起诉 3 年前已澄清的 Baas 模式财务问题？",
-          "url": "https://www.zhihu.com/question/1962263756634579137",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 20时35分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时41分 ~ 09时21分]"
-        },
-        {
-          "title": "曝华为云CEO张平安连降三等",
-          "url": "https://www.douyin.com/hot/2273663",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 17时40分]"
-        },
-        {
-          "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
-          "url": "https://wallstreetcn.com/livenews/2989831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            25,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时41分 ~ 06时41分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：呼吁在所有议案上投出与公司立场一致的投票。",
-          "url": "https://flash.jin10.com/detail/20251018033314337800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌1.8%，创7月29日（当天跌4.3%）一来最差单日表现，报352.00点，本周累计下跌将近0.75%。 在十个板块中，北欧医疗保健板块领跌。 沃尔沃汽车集团跌7.8%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/2989824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
-        },
-        {
-          "title": "特斯拉：咨询公司Institutional Shareholders Services（ISS）完全错过投资的基本点。",
-          "url": "https://wallstreetcn.com/livenews/2989885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时18分]"
-        },
-        {
-          "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "与十五年前相比，美国的汽车违约率上升50%",
-          "url": "https://wallstreetcn.com/livenews/2989882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时18分]"
-        },
-        {
-          "title": "华为的鸿蒙系统你用起来怎么样",
-          "url": "https://www.toutiao.com/trending/7561799182446166058/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时17分]"
-        },
-        {
-          "title": "Institutional Shareholders Services（ISS）建议特斯拉股东们拒绝马斯克的薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2989881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
           "url": "https://www.toutiao.com/trending/7562507776480513582/",
           "source": "今日头条",
           "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时17分 ~ 23时39分]"
-        },
-        {
-          "title": "外国老丈人向发小炫耀中国汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://www.douyin.com/hot/2272799",
-          "source": "抖音",
-          "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "华为Mate80Pro备案颜色曝光",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BAMate80Pro%E5%A4%87%E6%A1%88%E9%A2%9C%E8%89%B2%E6%9B%9D%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D28%26flag%3D1%26lcate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26realpos%3D27%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BAMate80Pro%25E5%25A4%2587%25E6%25A1%2588%25E9%25A2%259C%25E8%2589%25B2%25E6%259B%259D%25E5%2585%2589%2523%26filter_type%3Drealtimehot%26display_time%3D1760757984%26pre_seqid%3D176075798466103583263151",
-          "source": "微博",
+          "title": "硬刚到底!雷军呼吁抵制黑公关",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345915&amp;topic_name=%E7%A1%AC%E5%88%9A%E5%88%B0%E5%BA%95%21%E9%9B%B7%E5%86%9B%E5%91%BC%E5%90%81%E6%8A%B5%E5%88%B6%E9%BB%91%E5%85%AC%E5%85%B3",
+          "source": "贴吧",
           "ranks": [
-            27
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "特斯拉代理顾问机构股东服务公司（ISS）建议特斯拉(TSLA.O)投资者不要支持投资XAI的提案。",
-          "url": "https://flash.jin10.com/detail/20251018022010908800",
+          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
+          "url": "https://wallstreetcn.com/livenews/2990073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
+          "url": "https://flash.jin10.com/detail/20251018203430382800",
           "source": "金十数据",
           "ranks": [
-            28
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "马斯克说普京与特朗普通话令人鼓舞",
-          "url": "https://www.toutiao.com/trending/7561554652811034670/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "00时23分"
         }
       ]
     }
