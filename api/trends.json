@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T07:17:47.766310+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-10-20T07:38:32.656474+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 07时38分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -30,11 +30,12 @@
             8,
             9,
             17,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 07时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 07时38分]"
         },
         {
           "title": "美国马里兰州发生汽车冲撞人群事件 致1死13伤",
@@ -45,11 +46,12 @@
             3,
             10,
             19,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时26分 ~ 07时17分]"
+          "appearance_count": 8,
+          "time_info": "[04时26分 ~ 07时38分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
@@ -64,6 +66,17 @@
           "time_info": "[00时23分 ~ 03时40分]"
         },
         {
+          "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
+          "url": "https://flash.jin10.com/detail/20251020070913462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
           "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
           "url": "https://www.zhihu.com/question/663800779",
           "source": "知乎",
@@ -75,6 +88,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 01时40分]"
+        },
+        {
+          "title": "李书福：AI推动汽车向智慧生命体进化",
+          "url": "https://www.toutiao.com/trending/7562527493954912266/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     }
