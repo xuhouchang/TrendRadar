@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T01:17:57.155445+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-10-20T01:40:11.052580+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 01时40分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时40分]"
         },
         {
           "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
@@ -40,8 +41,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 01时40分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
@@ -51,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时40分]"
         }
       ]
     }
