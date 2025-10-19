@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T11:16:52.496256+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-10-19T11:57:41.189699+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 11时57分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
@@ -74,11 +74,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 11时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 11时57分]"
         }
       ]
     }
