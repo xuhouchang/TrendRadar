@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T07:39:48.984112+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-10-19T09:42:12.025078+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 07时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 09时42分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
@@ -61,11 +61,12 @@
           "url": "https://flash.jin10.com/detail/20251018203430382800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 07时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 09时42分]"
         },
         {
           "title": "硬刚到底!雷军呼吁抵制黑公关",
@@ -75,8 +76,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 07时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 09时42分]"
         }
       ]
     }
