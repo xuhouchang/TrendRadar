@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T15:39:43.241671+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-10-19T16:23:10.429499+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
@@ -80,8 +80,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时39分]"
+          "appearance_count": 36,
+          "time_info": "[00时22分 ~ 16时23分]"
+        },
+        {
+          "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
+          "url": "https://www.zhihu.com/question/663800779",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         }
       ]
     }
