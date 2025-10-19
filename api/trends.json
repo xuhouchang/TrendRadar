@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:40:58.247038+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-10-19T22:18:01.413506+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时41分 ~ 21时40分]"
+          "appearance_count": 9,
+          "time_info": "[18时41分 ~ 22时18分]"
         },
         {
           "title": "华为云业务造假 4名高管被问责",
@@ -81,8 +81,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时22分 ~ 21时40分]"
+          "appearance_count": 15,
+          "time_info": "[16时22分 ~ 22时18分]"
         },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
@@ -111,8 +111,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[00时22分 ~ 21时40分]"
+          "appearance_count": 49,
+          "time_info": "[00时22分 ~ 22时18分]"
+        },
+        {
+          "title": "马斯克将把言语皮层变成新接口，“脑控”离我们还有多远？",
+          "url": "https://news.ifeng.com/c/8naFQZE9uKg",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 22时18分]"
         },
         {
           "title": "全球最大轮胎在吉林玲珑成功下线",
@@ -123,22 +134,24 @@
             8,
             17,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
           "url": "https://flash.jin10.com/detail/20251019212525735800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时18分]"
         },
         {
           "title": "云南省商务厅：11月1日起暂停2025年云南省汽车报废及置换更新补贴申请",
@@ -147,22 +160,12 @@
           "ranks": [
             2,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时40分]"
-        },
-        {
-          "title": "马斯克将把言语皮层变成新接口，“脑控”离我们还有多远？",
-          "url": "https://news.ifeng.com/c/8naFQZE9uKg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时18分]"
         }
       ]
     }
