@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T01:40:11.052580+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2025-10-20T02:26:19.741645+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             2,
-            20
+            20,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时26分]"
         },
         {
           "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
@@ -52,8 +53,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时26分]"
         }
       ]
     }
