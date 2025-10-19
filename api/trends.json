@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T05:40:23.564755+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-10-20T06:19:15.281579+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 05时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时19分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -29,11 +29,12 @@
             6,
             8,
             9,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 05时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 06时19分]"
         },
         {
           "title": "美国马里兰州发生汽车冲撞人群事件 致1死13伤",
@@ -41,11 +42,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时40分]"
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时19分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
