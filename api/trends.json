@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T18:41:28.176157+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-10-19T19:16:12.606014+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "追责云业务造假和经济舞弊！华为云CEO张平安被连降三等，多名高管遭问责",
@@ -78,11 +78,12 @@
             23,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时22分 ~ 18时41分]"
+          "appearance_count": 43,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
@@ -93,19 +94,31 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 19时16分]"
+        },
+        {
+          "title": "全球最大轮胎在吉林玲珑成功下线",
+          "url": "https://wallstreetcn.com/livenews/2990154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
           "ranks": [
-            30
+            30,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 19时16分]"
         }
       ]
     }
