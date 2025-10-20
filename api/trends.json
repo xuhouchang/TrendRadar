@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T22:48:01.461476+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2025-10-20T23:21:57.262857+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             5,
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 51,
-          "time_info": "[00时22分 ~ 22时48分]"
+          "appearance_count": 52,
+          "time_info": "[00时22分 ~ 23时21分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -59,6 +60,19 @@
           "time_info": "[04时26分 ~ 07时38分]"
         },
         {
+          "title": "马斯克转发浏阳无人机烟花秀",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时30分 ~ 23时21分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
           "url": "https://flash.jin10.com/detail/20251019212525735800",
           "source": "金十数据",
@@ -71,18 +85,6 @@
           "time_info": "[00时23分 ~ 03时40分]"
         },
         {
-          "title": "马斯克转发浏阳无人机烟花秀",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时30分 ~ 22时48分]"
-        },
-        {
           "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
           "url": "https://www.cls.cn/detail/2173901",
           "source": "财联社热门",
@@ -93,6 +95,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时42分 ~ 16时50分]"
+        },
+        {
+          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时48分 ~ 23时21分]"
         },
         {
           "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
@@ -129,18 +143,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 01时40分]"
-        },
-        {
-          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时48分 ~ 22时48分]"
         },
         {
           "title": "均胜电子：子公司新获汽车智能电动化项目定点 总金额约50亿元",
@@ -180,6 +182,19 @@
           "time_info": "[14时30分 ~ 15时20分]"
         },
         {
+          "title": "乘联分会崔东树：期待汽车行业未来能有长效的强力接续政策",
+          "url": "https://wallstreetcn.com/livenews/2990734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时21分]"
+        },
+        {
           "title": "印尼总统：印尼将在未来三年内生产国产汽车，相关预算已到位。",
           "url": "https://flash.jin10.com/detail/20251020181226449800",
           "source": "金十数据",
@@ -203,18 +218,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时27分 ~ 17时25分]"
-        },
-        {
-          "title": "乘联分会崔东树：期待汽车行业未来能有长效的强力接续政策",
-          "url": "https://wallstreetcn.com/livenews/2990734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时48分]"
         },
         {
           "title": "小米汽车回应雷军“免费送”视频",
