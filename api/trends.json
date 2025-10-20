@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T18:47:07.796009+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2025-10-20T19:19:21.209926+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时22分 ~ 18时47分]"
+          "appearance_count": 42,
+          "time_info": "[00时22分 ~ 19时19分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -199,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "小米汽车回应雷军“免费送”视频",
+          "url": "https://www.toutiao.com/trending/7562430453786361902/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
