@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T02:31:00.133427+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-21T02:54:56.291260+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -15,8 +15,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 02时54分]"
+        },
+        {
+          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
@@ -26,24 +40,23 @@
             8,
             7,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
-          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
-          "source": "澎湃新闻",
+          "title": "马斯克：Grokipedia v0.1的发布被推迟至本周末。还需要进一步清理其中的宣传性内容。",
+          "url": "https://flash.jin10.com/detail/20251021022911910800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            12,
             10
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
