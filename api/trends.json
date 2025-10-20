@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T14:55:44.403710+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-10-20T15:20:22.940270+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时22分 ~ 14时55分]"
+          "appearance_count": 31,
+          "time_info": "[00时22分 ~ 15时20分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -96,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时20分]"
         },
         {
           "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
@@ -111,8 +112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 15时20分]"
         },
         {
           "title": "李斌最新内部讲话：接近交卷时刻，蔚来吹响盈利冲锋号",
