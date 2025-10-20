@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:01:32.885946+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-10-20T12:35:01.033091+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 12时01分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时35分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -109,7 +109,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
