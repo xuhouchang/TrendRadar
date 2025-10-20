@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T16:27:29.932260+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-10-20T16:50:30.964513+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时22分 ~ 16时27分]"
+          "appearance_count": 34,
+          "time_info": "[00时22分 ~ 16时50分]"
         },
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -68,6 +69,18 @@
           "time_info": "[00时23分 ~ 03时40分]"
         },
         {
+          "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
+          "url": "https://www.cls.cn/detail/2173901",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时50分]"
+        },
+        {
           "title": "本周重要事件与数据预告：中国GDP、美国CPI；二十届四中全会、APEC财长会议；特斯拉财报",
           "url": "https://flash.jin10.com/detail/20251020070913462800",
           "source": "金十数据",
@@ -77,18 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
-          "url": "https://www.cls.cn/detail/2173901",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 16时27分]"
         },
         {
           "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
@@ -104,15 +105,15 @@
           "time_info": "[00时22分 ~ 01时40分]"
         },
         {
-          "title": "“京东汽车”车身数据曝光：搭配新国标机械式半隐藏门把手",
-          "url": "https://wallstreetcn.com/livenews/2990533",
-          "source": "华尔街见闻-快讯",
+          "title": "据日经新闻：日本永旺集团将与比亚迪合作，在日本销售电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251020163819793800",
+          "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "16时50分"
         },
         {
           "title": "国家能源局：截至9月底我国电动汽车充电基础设施（枪）总数达到1806.3万个 同比增长54.5%",
@@ -128,6 +129,18 @@
           "time_info": "[14时30分 ~ 15时20分]"
         },
         {
+          "title": "“京东汽车”车身数据曝光：搭配新国标机械式半隐藏门把手",
+          "url": "https://wallstreetcn.com/livenews/2990533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时50分]"
+        },
+        {
           "title": "李斌最新内部讲话：接近交卷时刻，蔚来吹响盈利冲锋号",
           "url": "https://wallstreetcn.com/livenews/2990364",
           "source": "华尔街见闻-快讯",
@@ -140,6 +153,17 @@
           "time_info": "[11时08分 ~ 12时01分]"
         },
         {
+          "title": "美国汽车贷款违约率较 15 年前上升 50%，这释放了哪些经济信号？",
+          "url": "https://www.zhihu.com/question/1962930571358479552",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时50分]"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251020110548899800",
           "source": "金十数据",
@@ -149,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
-        },
-        {
-          "title": "美国汽车贷款违约率较 15 年前上升 50%，这释放了哪些经济信号？",
-          "url": "https://www.zhihu.com/question/1962930571358479552",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "李书福：AI推动汽车向智慧生命体进化",
