@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-21T06:41:11.128280+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-10-21T07:19:45.207281+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 8,
       "titles": [
-        {
-          "title": "媒体炮轰雷军,小米口碑崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 06时41分]"
-        },
         {
           "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
           "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
@@ -31,8 +20,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 06时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
@@ -47,11 +48,12 @@
             23,
             22,
             21,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 06时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
