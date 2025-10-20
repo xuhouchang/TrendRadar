@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T03:17:14.376105+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-10-21T03:44:44.860694+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 03时44分]"
         },
         {
           "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
@@ -26,11 +26,12 @@
             16,
             12,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 03时44分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
@@ -41,22 +42,24 @@
             7,
             13,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 03时44分]"
         },
         {
           "title": "马斯克：Grokipedia v0.1的发布被推迟至本周末。还需要进一步清理其中的宣传性内容。",
           "url": "https://flash.jin10.com/detail/20251021022911910800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 03时44分]"
         },
         {
           "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
