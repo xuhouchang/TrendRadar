@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T00:25:18.129429+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-21T00:48:25.936142+08:00",
+  "total_titles_processed": 329,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -26,8 +27,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
+        },
+        {
+          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨幅扩大至2%。 热门中概股里，阿里巴巴涨3.8%，蔚来涨3.2%，台积电涨2.6%，腾讯涨1.8%。 ETF中，YINN涨2.98%，KWEB涨1.84%，CQQQ和MCHI涨1.1%。 富时A50夜期目前涨0.1%。",
@@ -37,19 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         }
       ]
     }
