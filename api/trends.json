@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T03:19:30.315683+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-10-22T03:39:56.168654+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 03时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 03时39分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -29,8 +29,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 03时39分]"
         },
         {
           "title": "通用汽车涨幅扩大至16%，报67.55美元，创2010年以来盘中新高。",
@@ -43,8 +43,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 03时39分]"
+        },
+        {
+          "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2991381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 03时39分]"
         },
         {
           "title": "通用汽车(GM.N)涨幅扩大至16%，触及2010年以来最高水平。",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时30分]"
-        },
-        {
-          "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2991381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时19分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀新闻",
