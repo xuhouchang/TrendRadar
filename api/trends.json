@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T05:38:01.474341+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-10-22T06:18:28.051392+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时18分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -77,11 +77,12 @@
           "ranks": [
             1,
             11,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时18分]"
         },
         {
           "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
@@ -90,11 +91,12 @@
           "ranks": [
             2,
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时18分]"
         },
         {
           "title": "通用汽车收涨15%，创最近五年来最佳单日表现。",
@@ -213,7 +215,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
