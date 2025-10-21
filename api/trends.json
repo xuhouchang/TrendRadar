@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T14:35:53.582805+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-10-21T14:53:32.081811+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时25分 ~ 14时35分]"
+          "appearance_count": 35,
+          "time_info": "[00时25分 ~ 14时53分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
@@ -57,11 +57,12 @@
             15,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时25分 ~ 14时35分]"
+          "appearance_count": 35,
+          "time_info": "[00时25分 ~ 14时53分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
@@ -80,17 +81,30 @@
           "time_info": "[04时29分 ~ 06时41分]"
         },
         {
+          "title": "沃尔沃汽车在瑞典推出免费家用充电计划",
+          "url": "https://wallstreetcn.com/livenews/2991063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时53分]"
+        },
+        {
           "title": "比亚迪8艘巨轮组成汽车“出海舰队”",
           "url": "https://wallstreetcn.com/livenews/2991028",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             9,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨2.4%。 热门中概股里，房多多初步收涨约10%，蔚来、阿里巴巴、文远知行、网易至多涨超4%，拼多多、百胜中国、腾讯、新东方、京东、百度、小米等至多涨超2%。",
@@ -102,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "沃尔沃汽车在瑞典推出免费家用充电计划",
-          "url": "https://wallstreetcn.com/livenews/2991063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "日本大使馆表示，日本敦促越南放慢电动汽车的转型速度。",
