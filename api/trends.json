@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T04:44:29.310967+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2025-10-22T05:20:14.398010+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 04时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -47,28 +47,6 @@
           "time_info": "[01时42分 ~ 03时39分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
-          "url": "https://wallstreetcn.com/livenews/2991417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
           "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2991381",
           "source": "华尔街见闻-快讯",
@@ -93,16 +71,54 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时20分]"
+        },
+        {
           "title": "通用汽车收涨15%，创最近五年来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2991407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时20分]"
+        },
+        {
+          "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
+          "url": "https://wallstreetcn.com/livenews/2991417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时44分]"
+          "time_info": "[04时44分 ~ 05时20分]"
+        },
+        {
+          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2991400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时20分]"
         },
         {
           "title": "通用汽车(GM.N)涨幅扩大至16%，触及2010年以来最高水平。",
@@ -117,18 +133,6 @@
           "time_info": "[01时42分 ~ 02时30分]"
         },
         {
-          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2991400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时44分]"
-        },
-        {
           "title": "马斯克转发浏阳无人机烟花秀新闻",
           "url": "https://www.toutiao.com/trending/7563531261148168255/",
           "source": "今日头条",
@@ -140,6 +144,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 02时30分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
+          "url": "https://wallstreetcn.com/livenews/2991405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时20分]"
         },
         {
           "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
@@ -164,17 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时44分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
-          "url": "https://wallstreetcn.com/livenews/2991405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
         },
         {
           "title": "斯泰兰蒂斯(STLA.N)通过电子邮件表示，因一家铝厂发生火灾，位于密歇根州沃伦的吉普汽车工厂已停产三周。",
