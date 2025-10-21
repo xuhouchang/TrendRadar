@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T09:28:33.835692+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2025-10-21T10:53:43.161582+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -21,22 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 09时28分]"
-        },
-        {
-          "title": "媒体炮轰雷军,小米口碑崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 09时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 10时53分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
@@ -57,6 +43,21 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "媒体炮轰雷军,小米口碑崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345939&amp;topic_name=%E5%AA%92%E4%BD%93%E7%82%AE%E8%BD%B0%E9%9B%B7%E5%86%9B%2C%E5%B0%8F%E7%B1%B3%E5%8F%A3%E7%A2%91%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 10时53分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
