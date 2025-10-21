@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T07:39:32.872342+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-10-21T09:28:33.835692+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             9,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 07时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 09时28分]"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -30,11 +31,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 07时39分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 09时28分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀",
