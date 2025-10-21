@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T06:41:49.448138+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-10-22T07:21:10.027673+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
+          "url": "https://flash.jin10.com/detail/20251022064158770800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "通用汽车收涨15%，创最近五年来最佳单日表现。",
