@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T04:43:50.471278+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-10-23T05:17:55.193914+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 04时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 05时17分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 04时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 05时17分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 04时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 05时17分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -54,8 +54,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 04时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 05时17分]"
         },
         {
           "title": "米其林1-9月份收入193亿欧元。 维持全年调整后自由现金流（FCF）预期在15亿-18亿欧元不变。 无法实现2026年剔除汇率因素后SOI超过42亿欧元的目标。 公司将在2026年2月份提供当年的SOI预测细节。",
@@ -117,28 +117,6 @@
           "time_info": "[00时26分 ~ 01时40分]"
         },
         {
-          "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
-          "url": "https://wallstreetcn.com/livenews/2992069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时43分]"
-        },
-        {
-          "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
-          "url": "https://flash.jin10.com/detail/20251023043122869800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "特斯拉三季度营收281亿美元，分析师预期263.3亿美元。 三季度调整后EPS为0.50美元，分析师预期0.54美元。 三季度自由现金流（FCF）为为39.9亿美元，分析师预期12.5亿美元。 三季度运营利润16.2亿美元，分析师预期16.5亿美元。 三季度毛利润率18%，分析师预期17.2%。 三季度汽车毛利率（剔除购车税收抵免）为15.4%，上年同期17.1%。 Cybercab、特斯拉Semi、以及Megapack 3处于正轨之上。",
           "url": "https://wallstreetcn.com/livenews/2992065",
           "source": "华尔街见闻-快讯",
@@ -161,15 +139,27 @@
           "time_info": "01时19分"
         },
         {
-          "title": "特斯拉(TSLA.O)：公司拥有充足流动性，可为产品路线图、长期产能扩张计划及其他支出提供资金。",
-          "url": "https://flash.jin10.com/detail/20251023042529619800",
-          "source": "金十数据",
+          "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
+          "url": "https://wallstreetcn.com/livenews/2992088",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时17分"
+        },
+        {
+          "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2992069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 05时17分]"
         },
         {
           "title": "特斯拉(TSLA.O)：赛博卡车、特斯拉半挂车和超大型商用储能电池3号均按计划将于2026年开始批量生产。",
@@ -219,17 +209,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "特斯拉三季度营收超预期但利润承压",
-          "url": "https://flash.jin10.com/detail/20251023042416233800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/2992005",
           "source": "华尔街见闻-快讯",
@@ -244,17 +223,6 @@
           "time_info": "[00时26分 ~ 02时32分]"
         },
         {
-          "title": "特斯拉(TSLA.O)：汽车交付量增加、能源发电与储能业务增长、服务及其他业务拓展，均对收入产生影响；但监管信用收入下降，且一次性FSD收入确认同比减少。",
-          "url": "https://flash.jin10.com/detail/20251023041913454800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
           "url": "https://flash.jin10.com/detail/20251023040538791800",
           "source": "金十数据",
@@ -265,6 +233,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时43分]"
+        },
+        {
+          "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
+          "url": "https://flash.jin10.com/detail/20251023043122869800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -326,6 +306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时43分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：公司拥有充足流动性，可为产品路线图、长期产能扩张计划及其他支出提供资金。",
+          "url": "https://flash.jin10.com/detail/20251023042529619800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
         },
         {
           "title": "米其林首席财务官：预计关税将在2025年对损益表造成约3亿欧元的影响，并在2026年上半年带来2亿欧元的冲击。",
@@ -404,6 +396,18 @@
           "time_info": "[00时51分 ~ 01时19分]"
         },
         {
+          "title": "特斯拉三季度营收超预期但利润承压",
+          "url": "https://flash.jin10.com/detail/20251023042416233800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
           "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
           "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
@@ -453,6 +457,18 @@
           "time_info": "[00时51分 ~ 01时19分]"
         },
         {
+          "title": "特斯拉(TSLA.O)：汽车交付量增加、能源发电与储能业务增长、服务及其他业务拓展，均对收入产生影响；但监管信用收入下降，且一次性FSD收入确认同比减少。",
+          "url": "https://flash.jin10.com/detail/20251023041913454800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
           "title": "开云集团首席财务官：下半年毛利率将与上半年持平。",
           "url": "https://flash.jin10.com/detail/20251023004801263800",
           "source": "金十数据",
@@ -477,6 +493,30 @@
           "time_info": "[04时25分 ~ 04时43分]"
         },
         {
+          "title": "特斯拉(TSLA.O)：我们在澳大利亚和新西兰推出了FSD（受监管版），并正在继续准备在中国进行更广泛的发布，这有待监管机构批准。",
+          "url": "https://flash.jin10.com/detail/20251023041426273800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
+          "title": "美国财长贝森特：美国正敦促欧洲和七国集团盟友，以及加拿大和澳大利亚，加入对俄罗斯的制裁行动。",
+          "url": "https://flash.jin10.com/detail/20251023040733276800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
           "title": "全球超13万汽车人将失业",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E8%B6%8513%E4%B8%87%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%B0%86%E5%A4%B1%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D27%26q%3D%2523%25E5%2585%25A8%25E7%2590%2583%25E8%25B6%258513%25E4%25B8%2587%25E6%25B1%25BD%25E8%25BD%25A6%25E4%25BA%25BA%25E5%25B0%2586%25E5%25A4%25B1%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D26%26display_time%3D1761157211%26pre_seqid%3D1761157211159032729854",
           "source": "微博",
@@ -488,26 +528,15 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
-          "title": "特斯拉(TSLA.O)：我们在澳大利亚和新西兰推出了FSD（受监管版），并正在继续准备在中国进行更广泛的发布，这有待监管机构批准。",
-          "url": "https://flash.jin10.com/detail/20251023041426273800",
-          "source": "金十数据",
+          "title": "O’reilly Automotive三季度销售47.1亿美元，分析师预期46.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2992077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "美国财长贝森特：美国正敦促欧洲和七国集团盟友，以及加拿大和澳大利亚，加入对俄罗斯的制裁行动。",
-          "url": "https://flash.jin10.com/detail/20251023040733276800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时17分"
         },
         {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
@@ -538,9 +567,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "特斯拉三季度EPS逊于预期，特朗普废除“拜登购车补贴”伤害到毛利",
+          "url": "https://wallstreetcn.com/livenews/2992065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "通用汽车(GM.N)：计划于2028年将“眼离驾驶（Eyes-Off Driving）”技术推向市场，并率先应用于凯迪拉克Escalade IQ电动SUV。",
@@ -552,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.93%，报8202.71点。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.23%，中国科技指数ETF（CQQQ）收跌0.73%，追踪富时25中国股指数ETF-iShares（FXI）收跌0.50%。 XtrackersHarvest中证50（ASHS）收跌0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.09%。 富时中国3倍做多ETF（YINN）收跌1.50%，富时中国3倍做空ETF（YANG）收涨1.74%。",
+          "url": "https://wallstreetcn.com/livenews/2992061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
