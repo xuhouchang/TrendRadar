@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T13:22:15.198517+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2025-10-22T13:44:43.197973+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车 轮胎 特斯拉 小米汽车 米其林 雷军 马斯克 华为 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 13时22分]"
+          "appearance_count": 30,
+          "time_info": "[00时27分 ~ 13时44分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -138,6 +138,20 @@
           "time_info": "[00时49分 ~ 07时41分]"
         },
         {
+          "title": "中汽协：1-9月汽车销量排名前十位的企业（集团）共销售2043.1万辆",
+          "url": "https://wallstreetcn.com/livenews/2991636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时44分]"
+        },
+        {
           "title": "通用汽车收涨15%，创最近五年来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2991407",
           "source": "华尔街见闻-快讯",
@@ -151,17 +165,15 @@
           "time_info": "[04时24分 ~ 05时20分]"
         },
         {
-          "title": "中汽协：1-9月汽车销量排名前十位的企业（集团）共销售2043.1万辆",
-          "url": "https://wallstreetcn.com/livenews/2991636",
-          "source": "华尔街见闻-快讯",
+          "title": "NASA代理局长指认SpaceX登月进度落后，马斯克反击",
+          "url": "https://news.ifeng.com/c/8neeFC9mR9O",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            18,
-            24
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
@@ -189,6 +201,18 @@
           "time_info": "[01时42分 ~ 02时30分]"
         },
         {
+          "title": "为什么小车的轮胎气压从路边店到 4s 都打 2.5Bar？",
+          "url": "https://www.zhihu.com/question/303193694",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 13时44分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
           "url": "https://wallstreetcn.com/livenews/2991405",
           "source": "华尔街见闻-快讯",
@@ -200,18 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时44分 ~ 05时38分]"
-        },
-        {
-          "title": "为什么小车的轮胎气压从路边店到 4s 都打 2.5Bar？",
-          "url": "https://www.zhihu.com/question/303193694",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 13时22分]"
         },
         {
           "title": "泰国汽车联合会：泰国9月国内汽车销量同比增长23.82%（8月为5.38%）。",
@@ -260,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 12时46分]"
+        },
+        {
+          "title": "当地警方：乌干达发生一起涉及公共汽车的致命交通事故，造成63人死亡。",
+          "url": "https://flash.jin10.com/detail/20251022130740522800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）全球汽车制造商市值变化",
