@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T09:29:39.178777+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-10-22T10:58:20.125976+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 09时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 10时58分]"
         },
         {
           "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
@@ -95,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
