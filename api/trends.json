@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T05:39:33.130757+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-10-23T06:17:43.698569+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 71,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 05时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 05时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 05时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -51,11 +51,12 @@
             22,
             24,
             23,
-            27
+            27,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 05时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "米其林1-9月份收入193亿欧元。 维持全年调整后自由现金流（FCF）预期在15亿-18亿欧元不变。 无法实现2026年剔除汇率因素后SOI超过42亿欧元的目标。 公司将在2026年2月份提供当年的SOI预测细节。",
@@ -117,17 +118,6 @@
           "time_info": "[00时26分 ~ 01时40分]"
         },
         {
-          "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
-          "url": "https://wallstreetcn.com/livenews/2992088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 05时39分]"
-        },
-        {
           "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
           "url": "https://wallstreetcn.com/livenews/2992069",
           "source": "华尔街见闻-快讯",
@@ -138,6 +128,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 05时39分]"
+        },
+        {
+          "title": "马斯克表示，特斯拉之所以更专注于自己的芯片，而不是仅仅依靠英伟达的gpu或人工智能加速器，是因为黄仁勋的公司必须为更广泛的客户提供服务。 马斯克的观点是，特斯拉最好保持简单，使用专门为他们需要完成的任务而设计的芯片（训练和运行支持基于视觉的自动驾驶的模型）。",
+          "url": "https://wallstreetcn.com/livenews/2992110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "特斯拉三季度营收281亿美元，分析师预期263.3亿美元。 三季度调整后EPS为0.50美元，分析师预期0.54美元。 三季度自由现金流（FCF）为为39.9亿美元，分析师预期12.5亿美元。 三季度运营利润16.2亿美元，分析师预期16.5亿美元。 三季度毛利润率18%，分析师预期17.2%。 三季度汽车毛利率（剔除购车税收抵免）为15.4%，上年同期17.1%。 Cybercab、特斯拉Semi、以及Megapack 3处于正轨之上。",
@@ -162,6 +163,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "马斯克澄清：三星和台积电都将参与设计特斯拉AI 5芯片，不会取代英伟达",
+          "url": "https://wallstreetcn.com/livenews/2992107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：赛博卡车、特斯拉半挂车和超大型商用储能电池3号均按计划将于2026年开始批量生产。",
           "url": "https://flash.jin10.com/detail/20251023040445099800",
           "source": "金十数据",
@@ -171,6 +183,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。",
+          "url": "https://flash.jin10.com/detail/20251023060011080800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克：打造“一支机器人军队”之后，担心我自己会被公司驱赶。 所以，才保持对特斯拉的强大影响力。",
+          "url": "https://wallstreetcn.com/livenews/2992106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
@@ -198,6 +232,18 @@
           "time_info": "[01时19分 ~ 02时56分]"
         },
         {
+          "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
+          "url": "https://wallstreetcn.com/livenews/2992088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)2025年Q3营收281亿美元，市场预期为261.65亿美元，上年同期为251.8亿美元。",
           "url": "https://flash.jin10.com/detail/20251023040413122800",
           "source": "金十数据",
@@ -207,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "马斯克：预计今年年底前将在8到10个都市区运营机器人出租车。",
+          "url": "https://flash.jin10.com/detail/20251023055506701800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
@@ -221,6 +278,72 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "特斯拉首席财务官：预计2026年资本支出将大幅增加。",
+          "url": "https://flash.jin10.com/detail/20251023055504421800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉被问及是否会为其他超大规模企业提供电力。 一位高管表示，公用事业公司和超大规模企业明白，在电力需求激增之际，Megapack的价值。",
+          "url": "https://wallstreetcn.com/livenews/2992104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉首席财务官：公司预计与员工相关的支出将继续增加。",
+          "url": "https://flash.jin10.com/detail/20251023055502382800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "提醒：特斯拉在电话会上跳过一名散户投资者的提问，该投资者问及未来产品，特斯拉称“这不是（交流）该问题的合理平台”。",
+          "url": "https://wallstreetcn.com/livenews/2992103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉首席财务官：第三季度关税影响已超4亿美元。",
+          "url": "https://flash.jin10.com/detail/20251023055114459800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。 预计年底前将在8-10个大都会区域运营无人驾驶出租车，尤其是内华达、佛罗里达、亚利桑那州。",
+          "url": "https://wallstreetcn.com/livenews/2992102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
@@ -282,6 +405,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时43分]"
+        },
+        {
+          "title": "特斯拉首席财务官：特斯拉上海超级工厂正加速投产，以满足非美国市场需求，从而规避关税。",
+          "url": "https://flash.jin10.com/detail/20251023055042136800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉：（美国）关税在三季度的影响超过4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2992101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "开云集团首席财务官：看好美国高端客户的强劲韧性。",
@@ -421,6 +566,19 @@
           "time_info": "[00时26分 ~ 01时40分]"
         },
         {
+          "title": "全球超13万汽车人将失业",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E8%B6%8513%E4%B8%87%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%B0%86%E5%A4%B1%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D27%26q%3D%2523%25E5%2585%25A8%25E7%2590%2583%25E8%25B6%258513%25E4%25B8%2587%25E6%25B1%25BD%25E8%25BD%25A6%25E4%25BA%25BA%25E5%25B0%2586%25E5%25A4%25B1%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D26%26display_time%3D1761157211%26pre_seqid%3D1761157211159032729854",
+          "source": "微博",
+          "ranks": [
+            27,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 06时17分]"
+        },
+        {
           "title": "开云集团首席运营官：第三季度业绩受益于更轻松的比较基数及各项举措的积极影响。新战略的首要任务将是重振收入增长。集团正致力于制定未来几年的战略规划。",
           "url": "https://flash.jin10.com/detail/20251023001908422800",
           "source": "金十数据",
@@ -480,18 +638,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 02时32分]"
-        },
-        {
-          "title": "全球超13万汽车人将失业",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E8%B6%8513%E4%B8%87%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%B0%86%E5%A4%B1%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D27%26q%3D%2523%25E5%2585%25A8%25E7%2590%2583%25E8%25B6%258513%25E4%25B8%2587%25E6%25B1%25BD%25E8%25BD%25A6%25E4%25BA%25BA%25E5%25B0%2586%25E5%25A4%25B1%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D26%26display_time%3D1761157211%26pre_seqid%3D1761157211159032729854",
-          "source": "微博",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 05时39分]"
         },
         {
           "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
@@ -560,6 +706,105 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 05时39分]"
+        },
+        {
+          "title": "特斯拉首席财务官：由于竞争加剧和关税影响，公司储能业务正面临逆风。",
+          "url": "https://flash.jin10.com/detail/20251023055030475800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉：车队的FSD安装率仅仅12%",
+          "url": "https://wallstreetcn.com/livenews/2992100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克：看好特斯拉电池组助力提升任何电网的能源输出潜力。",
+          "url": "https://flash.jin10.com/detail/20251023054843240800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉盘后跌幅扩大至4.1%，马斯克称Optimus是一台不可思议的“外科医生”，计划一季度将发布下一版Optimus。",
+          "url": "https://wallstreetcn.com/livenews/2992099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉首席财务官：第三季度欧洲、中东和非洲地区的交付量增长了25%。",
+          "url": "https://flash.jin10.com/detail/20251023054749879800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
+          "url": "https://wallstreetcn.com/livenews/2992097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)盘后跌3%。",
+          "url": "https://flash.jin10.com/detail/20251023054619176800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克：Optimus 3代可能将于明年第一季度发布。",
+          "url": "https://flash.jin10.com/detail/20251023054423506800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "马斯克：公司正迈向全自动驾驶与机器人出租车的规模化应用初期，公司计划尽快扩大生产。",
+          "url": "https://flash.jin10.com/detail/20251023054033963800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
