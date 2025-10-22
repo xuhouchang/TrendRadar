@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T20:42:34.833196+08:00",
-  "total_titles_processed": 2135,
+  "generated_at": "2025-10-22T21:34:28.289113+08:00",
+  "total_titles_processed": 2227,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 20时42分]"
+          "appearance_count": 10,
+          "time_info": "[17时25分 ~ 21时34分]"
         },
         {
           "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
@@ -57,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时32分 ~ 20时42分]"
+          "appearance_count": 18,
+          "time_info": "[14时32分 ~ 21时34分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -68,11 +69,12 @@
             3,
             9,
             20,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 20时42分]"
+          "appearance_count": 9,
+          "time_info": "[17时44分 ~ 21时34分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -81,11 +83,12 @@
           "ranks": [
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时30分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[16时30分 ~ 21时34分]"
         },
         {
           "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
@@ -114,8 +117,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时30分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[16时30分 ~ 21时34分]"
+        },
+        {
+          "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
+          "url": "https://www.zhihu.com/question/1964090985731547258",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 21时34分]"
         },
         {
           "title": "LVMH集团探索将对Fenty Beauty的持股出售50%。 该公司正就此考虑与Evercore合作。（路透）",
@@ -172,18 +187,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 03时39分]"
-        },
-        {
-          "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
-          "url": "https://www.zhihu.com/question/1964090985731547258",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 20时42分]"
         },
         {
           "title": "福特汽车(F.N)：召回涉及配备模拟后视摄像头的2015至2019年款部分车型，相信召回将解决受影响客户所面临的模拟后视摄像头问题。",
@@ -828,7 +831,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -960,7 +963,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
