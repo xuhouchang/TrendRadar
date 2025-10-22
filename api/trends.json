@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:40:13.761118+08:00",
-  "total_titles_processed": 2044,
+  "generated_at": "2025-10-22T20:42:34.833196+08:00",
+  "total_titles_processed": 2135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -20,6 +20,18 @@
           "time_info": "[00时27分 ~ 13时44分]"
         },
         {
+          "title": "爆粗口！马斯克炮轰美高官",
+          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时25分 ~ 20时42分]"
+        },
+        {
           "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
           "url": "https://finance.ifeng.com/c/8ndLK052oFH",
           "source": "凤凰网",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时27分 ~ 07时41分]"
-        },
-        {
-          "title": "爆粗口！马斯克炮轰美高官",
-          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时25分 ~ 19时40分]"
         },
         {
           "title": "为什么小车的轮胎气压从路边店到 4S 店都打 2.5Bar？",
@@ -53,11 +53,26 @@
             11,
             10,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时32分 ~ 19时40分]"
+          "appearance_count": 17,
+          "time_info": "[14时32分 ~ 20时42分]"
+        },
+        {
+          "title": "详解最晚加入中国的达曼人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%9C%80%E6%99%9A%E5%8A%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%BE%BE%E6%9B%BC%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 20时42分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -69,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时30分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[16时30分 ~ 20时42分]"
         },
         {
           "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
@@ -95,24 +110,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时30分 ~ 19时40分]"
-        },
-        {
-          "title": "详解最晚加入中国的达曼人",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%9C%80%E6%99%9A%E5%8A%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%BE%BE%E6%9B%BC%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[16时30分 ~ 20时42分]"
         },
         {
           "title": "LVMH集团探索将对Fenty Beauty的持股出售50%。 该公司正就此考虑与Evercore合作。（路透）",
@@ -171,6 +174,18 @@
           "time_info": "[01时42分 ~ 03时39分]"
         },
         {
+          "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
+          "url": "https://www.zhihu.com/question/1964090985731547258",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 20时42分]"
+        },
+        {
           "title": "福特汽车(F.N)：召回涉及配备模拟后视摄像头的2015至2019年款部分车型，相信召回将解决受影响客户所面临的模拟后视摄像头问题。",
           "url": "https://flash.jin10.com/detail/20251022181327210800",
           "source": "金十数据",
@@ -223,17 +238,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时44分 ~ 06时41分]"
-        },
-        {
-          "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
-          "url": "https://www.zhihu.com/question/1964090985731547258",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
@@ -301,7 +305,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -818,6 +822,17 @@
           "time_info": "[15时22分 ~ 15时42分]"
         },
         {
+          "title": "雪佛龙(CVX.N)：以色列塔玛尔（Tamar）天然气田将关闭12天以进行定期维护。",
+          "url": "https://flash.jin10.com/detail/20251022200822315800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "百度旗下的阿波罗智行（Apollo Go）与瑞士邮政巴士（PostBus）合作，将在瑞士部署自动驾驶汽车。",
           "url": "https://flash.jin10.com/detail/20251022160213148800",
           "source": "金十数据",
@@ -937,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "瑞银：将通用汽车(GM.N)目标价从81美元上调至85美元。",
+          "url": "https://flash.jin10.com/detail/20251022195229337800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "通用汽车（GM）收涨14.86%，创最近五年来最佳单日表现，并在标普500指数所有成分股里领跑，报66.62美元，",
