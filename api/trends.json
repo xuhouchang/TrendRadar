@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T21:34:28.289113+08:00",
-  "total_titles_processed": 2227,
+  "generated_at": "2025-10-22T22:23:26.328784+08:00",
+  "total_titles_processed": 2305,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时25分 ~ 21时34分]"
+          "appearance_count": 11,
+          "time_info": "[17时25分 ~ 22时23分]"
         },
         {
           "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
@@ -58,8 +58,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时32分 ~ 21时34分]"
+          "appearance_count": 19,
+          "time_info": "[14时32分 ~ 22时23分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -70,11 +70,12 @@
             9,
             20,
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时44分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[17时44分 ~ 22时23分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -84,11 +85,12 @@
             16,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时30分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[16时30分 ~ 22时23分]"
         },
         {
           "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
@@ -117,8 +119,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时30分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[16时30分 ~ 22时23分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -129,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 21时34分]"
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 22时23分]"
         },
         {
           "title": "LVMH集团探索将对Fenty Beauty的持股出售50%。 该公司正就此考虑与Evercore合作。（路透）",
@@ -365,6 +367,19 @@
           "time_info": "[00时49分 ~ 07时41分]"
         },
         {
+          "title": "车主买小米汽车被另一品牌销售诅咒",
+          "url": "https://www.toutiao.com/trending/7563446421257650222/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时23分]"
+        },
+        {
           "title": "巴黎圣日尔曼7-2勒沃库森",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E5%B0%94%E6%9B%BC7-2%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE",
           "source": "bilibili 热搜",
@@ -597,18 +612,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时41分]"
-        },
-        {
-          "title": "车主买小米汽车被另一品牌销售诅咒",
-          "url": "https://www.toutiao.com/trending/7563446421257650222/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "为什么小车的轮胎气压从路边店到 4s 都打 2.5Bar？",
