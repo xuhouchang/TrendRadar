@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:20:05.198872+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2025-10-22T19:40:13.761118+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -31,6 +31,18 @@
           "time_info": "[00时27分 ~ 07时41分]"
         },
         {
+          "title": "爆粗口！马斯克炮轰美高官",
+          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 19时40分]"
+        },
+        {
           "title": "为什么小车的轮胎气压从路边店到 4S 店都打 2.5Bar？",
           "url": "https://www.zhihu.com/question/303193694",
           "source": "知乎",
@@ -44,20 +56,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时32分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[14时32分 ~ 19时40分]"
         },
         {
-          "title": "爆粗口！马斯克炮轰美高官",
-          "url": "https://news.ifeng.com/c/8nf4SgpH7t6",
-          "source": "凤凰网",
+          "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823142",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            4
+            16,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 19时40分]"
         },
         {
           "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
@@ -76,19 +89,6 @@
           "time_info": "[14时54分 ~ 18时23分]"
         },
         {
-          "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时30分 ~ 19时20分]"
-        },
-        {
           "title": "商务部部长王文涛与荷兰经济大臣卡雷曼斯通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_31820342",
           "source": "澎湃新闻",
@@ -98,8 +98,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时30分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 19时40分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -111,8 +111,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 19时40分]"
         },
         {
           "title": "LVMH集团探索将对Fenty Beauty的持股出售50%。 该公司正就此考虑与Evercore合作。（路透）",
@@ -225,6 +225,17 @@
           "time_info": "[04时44分 ~ 06时41分]"
         },
         {
+          "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
+          "url": "https://www.zhihu.com/question/1964090985731547258",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
+        },
+        {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
           "url": "https://flash.jin10.com/detail/20251022064158770800",
           "source": "金十数据",
@@ -271,17 +282,6 @@
           "time_info": "[03时19分 ~ 04时44分]"
         },
         {
-          "title": "俄总统新闻秘书：普京不会赴南非出席二十国集团峰会",
-          "url": "https://wallstreetcn.com/livenews/2991896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2991381",
           "source": "华尔街见闻-快讯",
@@ -293,6 +293,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时52分 ~ 04时24分]"
+        },
+        {
+          "title": "德意志银行：将通用汽车(GM.N)目标价从58美元上调至65美元。",
+          "url": "https://flash.jin10.com/detail/20251022191802426800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
@@ -318,6 +329,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
+          "title": "汽车博主透露蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
+          "url": "https://www.zhihu.com/question/1963985406870647114",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 19时40分]"
         },
         {
           "title": "马斯克转发浏阳无人机烟花秀新闻",
@@ -456,6 +480,18 @@
           "time_info": "[15时22分 ~ 15时42分]"
         },
         {
+          "title": "俄总统新闻秘书：普京不会赴南非出席二十国集团峰会",
+          "url": "https://wallstreetcn.com/livenews/2991896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时40分]"
+        },
+        {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
           "url": "https://wallstreetcn.com/livenews/2991400",
           "source": "华尔街见闻-快讯",
@@ -590,18 +626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 11时47分]"
-        },
-        {
-          "title": "汽车博主透露蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.97%，报8279.61点。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，追踪富时25中国股指数ETF-iShares（FXI）收跌1.36%，中概互联网指数ETF（KWEB）收跌1.02%，中国科技指数ETF（CQQQ）收跌0.02%。 XtrackersHarvest中证50（ASHS）收涨0.72%，德银嘉实沪深300指数ETF（ASHR）收涨0.56%。 富时中国3倍做多ETF（YINN）收跌4.13%，富时中国3倍做空ETF（YANG）收涨3.97%。",
