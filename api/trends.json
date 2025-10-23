@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T14:52:51.828922+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-10-23T15:21:43.472026+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 113,
+      "match_count": 118,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 14时52分]"
+          "appearance_count": 12,
+          "time_info": "[09时25分 ~ 15时21分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -53,22 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时26分 ~ 14时52分]"
-        },
-        {
-          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
-          "url": "https://www.cls.cn/detail/2177770",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 14时52分]"
+          "appearance_count": 34,
+          "time_info": "[00时26分 ~ 15时21分]"
         },
         {
           "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
@@ -81,8 +67,46 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 14时52分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 15时21分]"
+        },
+        {
+          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
+          "url": "https://wallstreetcn.com/articles/3757692",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 15时21分]"
+        },
+        {
+          "title": "特斯拉为何取消卡片钥匙",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 15时21分]"
+        },
+        {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 15时21分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -104,30 +128,6 @@
           "is_new": false,
           "appearance_count": 30,
           "time_info": "[00时26分 ~ 14时31分]"
-        },
-        {
-          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
-          "url": "https://wallstreetcn.com/articles/3757692",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 14时52分]"
-        },
-        {
-          "title": "特斯拉为何取消卡片钥匙",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 14时52分]"
         },
         {
           "title": "为什么小车的轮胎气压从路边店到 4S 店都打 2.5Bar？",
@@ -288,15 +288,15 @@
           "time_info": "[13时22分 ~ 14时31分]"
         },
         {
-          "title": "沃尔沃汽车首席财务官谈关税：此前曾表示，高关税将使集团2025年全年的息税前利润（EBIT）受到1%-2%的影响，但由于定价措施和关税下调，我们预计关税波动将导致集团利润大致下降1%。",
-          "url": "https://flash.jin10.com/detail/20251023144942212800",
+          "title": "美国国家公路交通安全管理局：特斯拉公司召回63,619辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20251023150527893800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "15时21分"
         },
         {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
@@ -333,17 +333,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时38分]"
-        },
-        {
-          "title": "香港恒生指数涨超1.1%，恒生科技指数涨1%。美团、京东集团、阿里巴巴等纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/2992380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "特斯拉三季度营收281亿美元，分析师预期263.3亿美元。 三季度调整后EPS为0.50美元，分析师预期0.54美元。 三季度自由现金流（FCF）为为39.9亿美元，分析师预期12.5亿美元。 三季度运营利润16.2亿美元，分析师预期16.5亿美元。 三季度毛利润率18%，分析师预期17.2%。 三季度汽车毛利率（剔除购车税收抵免）为15.4%，上年同期17.1%。 Cybercab、特斯拉Semi、以及Megapack 3处于正轨之上。",
@@ -472,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "沃尔沃汽车在欧洲瑞典股价上涨29%，此前发布的三季度盈利超出预期。",
+          "url": "https://wallstreetcn.com/livenews/2992401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "马斯克谈及咨询公司Institutional Shareholders Services（ISS）和Glass Lewis建议股东反对其薪酬计划，称：希望对特斯拉拥有足够的掌控权。 如果被（董事会）赶出公司，我会对打造一支机器人军队感到不舒服。 ISS和 Glass Lewis“都是企业级恐怖分子”。",
@@ -654,6 +654,29 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "开云集团股价上涨5.1%，该公司公布第三季度业绩超过预期。",
+          "url": "https://flash.jin10.com/detail/20251023150215601800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "沃尔沃汽车首席财务官谈关税：此前曾表示，高关税将使集团2025年全年的息税前利润（EBIT）受到1%-2%的影响，但由于定价措施和关税下调，我们预计关税波动将导致集团利润大致下降1%。",
+          "url": "https://flash.jin10.com/detail/20251023144942212800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时21分]"
+        },
+        {
           "title": "金十图示：2025年10月23日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251023111039447800",
           "source": "金十数据",
@@ -687,6 +710,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
+          "title": "香港恒生指数涨超1.1%，恒生科技指数涨1%。美团、京东集团、阿里巴巴等纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/2992380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -757,17 +792,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "瑞银集团：预计布伦特原油价格将维持在每桶60至70美元区间。",
-          "url": "https://flash.jin10.com/detail/20251023144045982800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "开云集团首席财务官：看好美国高端客户的强劲韧性。",
@@ -1034,6 +1058,18 @@
           "time_info": "[10时50分 ~ 11时38分]"
         },
         {
+          "title": "瑞银集团：预计布伦特原油价格将维持在每桶60至70美元区间。",
+          "url": "https://flash.jin10.com/detail/20251023144045982800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时21分]"
+        },
+        {
           "title": "开云集团首席财务官：下半年毛利率将与上半年持平。",
           "url": "https://flash.jin10.com/detail/20251023004801263800",
           "source": "金十数据",
@@ -1260,7 +1296,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1282,7 +1318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1304,7 +1340,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -1353,6 +1389,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "安世半导体风波影响汽车行业",
+          "url": "https://www.toutiao.com/trending/7564273030965235263/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "通用汽车(GM.N)：计划于2028年将“眼离驾驶（Eyes-Off Driving）”技术推向市场，并率先应用于凯迪拉克Escalade IQ电动SUV。",
           "url": "https://flash.jin10.com/detail/20251022230549459800",
           "source": "金十数据",
@@ -1384,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "何小鹏带队全球路测新款X9",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%B8%A6%E9%98%9F%E5%85%A8%E7%90%83%E8%B7%AF%E6%B5%8B%E6%96%B0%E6%AC%BEX9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D30%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26realpos%3D30%26lcate%3D5001%26q%3D%2523%25E4%25BD%2595%25E5%25B0%258F%25E9%25B9%258F%25E5%25B8%25A6%25E9%2598%259F%25E5%2585%25A8%25E7%2590%2583%25E8%25B7%25AF%25E6%25B5%258B%25E6%2596%25B0%25E6%25AC%25BEX9%2523%26band_rank%3D30%26display_time%3D1761204068%26pre_seqid%3D176120406831501181320157",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }
