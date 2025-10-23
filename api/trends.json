@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T22:21:22.404668+08:00",
-  "total_titles_processed": 2317,
+  "generated_at": "2025-10-23T22:46:36.087523+08:00",
+  "total_titles_processed": 2366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 152,
+      "match_count": 153,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[13时22分 ~ 22时21分]"
+          "appearance_count": 24,
+          "time_info": "[13时22分 ~ 22时46分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时25分 ~ 22时21分]"
+          "appearance_count": 29,
+          "time_info": "[09时25分 ~ 22时46分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -370,6 +370,18 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
+          "url": "https://wallstreetcn.com/livenews/2992649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
           "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。 预计年底前将在8-10个大都会区域运营无人驾驶出租车，尤其是内华达、佛罗里达、亚利桑那州。",
           "url": "https://wallstreetcn.com/livenews/2992102",
           "source": "华尔街见闻-快讯",
@@ -544,17 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
-          "url": "https://wallstreetcn.com/livenews/2992649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
@@ -1289,6 +1290,18 @@
           "time_info": "[16时29分 ~ 16时51分]"
         },
         {
+          "title": "中国稀土集团：严格落实出口管制政策",
+          "url": "https://www.cls.cn/detail/2178752",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
           "title": "特斯拉盘后跌幅扩大至4.1%，马斯克称Optimus是一台不可思议的“外科医生”，计划一季度将发布下一版Optimus。",
           "url": "https://wallstreetcn.com/livenews/2992099",
           "source": "华尔街见闻-快讯",
@@ -1436,6 +1449,18 @@
           "time_info": "[19时17分 ~ 19时41分]"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
+        },
+        {
           "title": "马斯克：公司正迈向全自动驾驶与机器人出租车的规模化应用初期，公司计划尽快扩大生产。",
           "url": "https://flash.jin10.com/detail/20251023054033963800",
           "source": "金十数据",
@@ -1458,6 +1483,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时40分]"
+        },
+        {
+          "title": "日本汽车工业协会（JAMA）发布声明称，其成员企业丰田、日产和本田均已收到关于芯片供应问题的警告。",
+          "url": "https://wallstreetcn.com/livenews/2992647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时46分]"
         },
         {
           "title": "特斯拉三季度EPS逊于预期，特朗普废除“拜登购车补贴”伤害到毛利",
@@ -1550,24 +1587,13 @@
           "time_info": "14时52分"
         },
         {
-          "title": "中国稀土集团：严格落实出口管制政策",
-          "url": "https://www.cls.cn/detail/2178752",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "美联储鲍曼将于十分钟后作证词陈述；欧元区10月消费者信心指数初值、美国9月成屋销售总数年化将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251023215000002800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1578,9 +1604,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "美国电动汽车行业遇冷 Rivian将裁员约600人",
+          "url": "https://flash.jin10.com/detail/20251023221546264800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "中国稀土集团：严格落实出口管制政策",
@@ -1682,17 +1719,6 @@
           "time_info": "18时22分"
         },
         {
-          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/2992629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "必和必拓集团首席执行官表示，公司并未就关键矿产项目与各国政府展开谈判，但对此持开放态度。",
           "url": "https://flash.jin10.com/detail/20251023142211515800",
           "source": "金十数据",
@@ -1724,17 +1750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "日本汽车工业协会（JAMA）发布声明称，其成员企业丰田、日产和本田均已收到关于芯片供应问题的警告。",
-          "url": "https://wallstreetcn.com/livenews/2992647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
@@ -1798,7 +1813,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
