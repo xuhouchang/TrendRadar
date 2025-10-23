@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T11:38:47.518474+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-10-23T12:23:41.552686+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 12时23分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -61,8 +61,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 12时23分]"
         },
         {
           "title": "为什么小车的轮胎气压从路边店到 4S 店都打 2.5Bar？",
@@ -95,6 +95,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 03时40分]"
+        },
+        {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 12时23分]"
         },
         {
           "title": "日本软银集团2025年第二次重返海外债券市场。 据知情人士透露，该公司发行20亿美元债券，收益率定价在8.25%。 发行7.5亿欧元债券，收益率定价在6.50%。（彭博）",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时40分 ~ 03时40分]"
-        },
-        {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 11时38分]"
         },
         {
           "title": "周三（10月22日），彭博电动汽车价格回报指数跌0.83%，报3398.87点，日内绝大部分时间处于下跌状态。",
@@ -507,13 +507,25 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 12时23分]"
+        },
+        {
           "title": "金十图示：2025年10月23日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251023111039447800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -596,7 +608,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -865,18 +877,6 @@
           "time_info": "[10时50分 ~ 11时38分]"
         },
         {
-          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
-          "url": "https://www.cls.cn/detail/2177770",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时50分 ~ 11时38分]"
-        },
-        {
           "title": "开云集团首席财务官：下半年毛利率将与上半年持平。",
           "url": "https://flash.jin10.com/detail/20251023004801263800",
           "source": "金十数据",
@@ -914,6 +914,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
+          "url": "https://www.cls.cn/detail/2177813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时23分]"
         },
         {
           "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
@@ -1069,18 +1081,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
-          "url": "https://www.cls.cn/detail/2177813",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
