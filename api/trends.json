@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T23:23:34.058465+08:00",
-  "total_titles_processed": 2436,
+  "generated_at": "2025-10-23T23:43:27.503391+08:00",
+  "total_titles_processed": 2456,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[13时22分 ~ 23时23分]"
+          "appearance_count": 26,
+          "time_info": "[13时22分 ~ 23时43分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时25分 ~ 23时23分]"
+          "appearance_count": 31,
+          "time_info": "[09时25分 ~ 23时43分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -358,6 +358,20 @@
           "time_info": "[19时17分 ~ 19时41分]"
         },
         {
+          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
+          "url": "https://wallstreetcn.com/livenews/2992649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时43分]"
+        },
+        {
           "title": "提醒：特斯拉在电话会上跳过一名散户投资者的提问，该投资者问及未来产品，特斯拉称“这不是（交流）该问题的合理平台”。",
           "url": "https://wallstreetcn.com/livenews/2992103",
           "source": "华尔街见闻-快讯",
@@ -489,19 +503,6 @@
           "time_info": "[19时17分 ~ 20时44分]"
         },
         {
-          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
-          "url": "https://wallstreetcn.com/livenews/2992649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
           "title": "美国能源股盘前上涨，斯伦贝谢(SLB.N)上涨2.4%，康菲石油(COP.N)涨2.2%，雪佛龙(CVX.N)上涨1.4%，埃克森美孚石油(XOM.N)涨1.7%，哈利伯顿(HAL.N)涨2.4%。",
           "url": "https://flash.jin10.com/detail/20251023174859744800",
           "source": "金十数据",
@@ -593,6 +594,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 02时56分]"
+        },
+        {
+          "title": "中国稀土集团：严格落实出口管制政策",
+          "url": "https://www.cls.cn/detail/2178752",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时43分]"
         },
         {
           "title": "沃尔沃汽车股价涨幅扩大，目前上涨37.1%，有望创下历史最佳单日表现，此前发布的三季度盈利超出预期。",
@@ -963,19 +977,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时40分]"
-        },
-        {
-          "title": "中国稀土集团：严格落实出口管制政策",
-          "url": "https://www.cls.cn/detail/2178752",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时23分]"
         },
         {
           "title": "米其林首席财务官：预计关税将在2025年对损益表造成约3亿欧元的影响，并在2026年上半年带来2亿欧元的冲击。",
@@ -1406,6 +1407,17 @@
           "time_info": "[13时22分 ~ 13时42分]"
         },
         {
+          "title": "加拿大总理卡尔尼：通用汽车(GM.N)将在安大略工厂停产电动面包车的情况下，履行对工人的义务。",
+          "url": "https://flash.jin10.com/detail/20251023225726213800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
           "title": "美国财长贝森特：美国正敦促欧洲和七国集团盟友，以及加拿大和澳大利亚，加入对俄罗斯的制裁行动。",
           "url": "https://flash.jin10.com/detail/20251023040733276800",
           "source": "金十数据",
@@ -1485,6 +1497,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时40分]"
+        },
+        {
+          "title": "白宫记者团：白宫确认当地时间下午3点将就贩毒集团发表声明。",
+          "url": "https://flash.jin10.com/detail/20251023225007394800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
         },
         {
           "title": "日本汽车工业协会（JAMA）发布声明称，其成员企业丰田、日产和本田均已收到关于芯片供应问题的警告。",
@@ -1655,17 +1678,6 @@
           "time_info": "21时34分"
         },
         {
-          "title": "加拿大总理卡尔尼：通用汽车(GM.N)将在安大略工厂停产电动面包车的情况下，履行对工人的义务。",
-          "url": "https://flash.jin10.com/detail/20251023225726213800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
           "title": "空客、泰雷兹集团和莱昂纳多公司签署协议 联手打造卫星",
           "url": "https://wallstreetcn.com/livenews/2992574",
           "source": "华尔街见闻-快讯",
@@ -1763,17 +1775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "白宫记者团：白宫确认当地时间下午3点将就贩毒集团发表声明。",
-          "url": "https://flash.jin10.com/detail/20251023225007394800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
         },
         {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
