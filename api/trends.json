@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T17:23:46.039007+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2025-10-23T17:44:28.321640+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 17时44分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 17时44分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时25分 ~ 17时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时25分 ~ 17时44分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时38分 ~ 17时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时38分 ~ 17时44分]"
         },
         {
           "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
@@ -535,6 +535,20 @@
           "time_info": "[01时19分 ~ 02时56分]"
         },
         {
+          "title": "沃尔沃汽车股价涨幅扩大，目前上涨37.1%，有望创下历史最佳单日表现，此前发布的三季度盈利超出预期。",
+          "url": "https://wallstreetcn.com/livenews/2992455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 17时44分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)2025年Q3营收281亿美元，市场预期为261.65亿美元，上年同期为251.8亿美元。",
           "url": "https://flash.jin10.com/detail/20251023040413122800",
           "source": "金十数据",
@@ -713,19 +727,6 @@
           "time_info": "11时38分"
         },
         {
-          "title": "沃尔沃汽车股价涨幅扩大，目前上涨37.1%，有望创下历史最佳单日表现，此前发布的三季度盈利超出预期。",
-          "url": "https://wallstreetcn.com/livenews/2992455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
           "url": "https://flash.jin10.com/detail/20251023040538791800",
           "source": "金十数据",
@@ -748,6 +749,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时17分]"
+        },
+        {
+          "title": "2025年全国汽车以旧换新补贴申请量突破1000万份",
+          "url": "https://wallstreetcn.com/livenews/2992465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -917,18 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时51分]"
-        },
-        {
-          "title": "2025年全国汽车以旧换新补贴申请量突破1000万份",
-          "url": "https://wallstreetcn.com/livenews/2992465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 17时23分]"
         },
         {
           "title": "开云集团首席财务官：集团正按计划实现成本效率提升。",
