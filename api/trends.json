@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T19:17:47.164624+08:00",
-  "total_titles_processed": 2019,
+  "generated_at": "2025-10-23T19:41:14.837408+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时22分 ~ 19时17分]"
+          "appearance_count": 19,
+          "time_info": "[13时22分 ~ 19时41分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时25分 ~ 19时17分]"
+          "appearance_count": 24,
+          "time_info": "[09时25分 ~ 19时41分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -189,6 +189,17 @@
           "time_info": "[06时17分 ~ 06时37分]"
         },
         {
+          "title": "亿纬锂能：第三季度净利润为12.11亿元，同比增长15.13%",
+          "url": "https://wallstreetcn.com/livenews/2992560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时41分]"
+        },
+        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -300,17 +311,6 @@
           "time_info": "15时21分"
         },
         {
-          "title": "亿纬锂能：第三季度净利润为12.11亿元，同比增长15.13%",
-          "url": "https://wallstreetcn.com/livenews/2992560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
           "url": "https://wallstreetcn.com/livenews/2992125",
           "source": "华尔街见闻-快讯",
@@ -356,6 +356,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 04时43分]"
+        },
+        {
+          "title": "黑石集团第三季度每股可分配收益超过预估",
+          "url": "https://wallstreetcn.com/livenews/2992552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时41分]"
         },
         {
           "title": "提醒：特斯拉在电话会上跳过一名散户投资者的提问，该投资者问及未来产品，特斯拉称“这不是（交流）该问题的合理平台”。",
@@ -437,6 +448,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时38分]"
+        },
+        {
+          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
+          "url": "https://wallstreetcn.com/livenews/2992525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 19时41分]"
         },
         {
           "title": "特斯拉：（美国）关税在三季度的影响超过4亿美元。",
@@ -674,17 +698,6 @@
           "time_info": "16时51分"
         },
         {
-          "title": "黑石集团第三季度每股可分配收益超过预估",
-          "url": "https://wallstreetcn.com/livenews/2992552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "特斯拉首席财务官：公司预计与员工相关的支出将继续增加。",
           "url": "https://flash.jin10.com/detail/20251023055502382800",
           "source": "金十数据",
@@ -747,19 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
-        },
-        {
-          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
-          "url": "https://wallstreetcn.com/livenews/2992525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时17分]"
         },
         {
           "title": "香港恒生指数涨超1.1%，恒生科技指数涨1%。美团、京东集团、阿里巴巴等纷纷拉升。",
@@ -1368,6 +1368,17 @@
           "time_info": "[04时43分 ~ 05时17分]"
         },
         {
+          "title": "黑石集团(BX.N)第三季度每股可分配收益1.52美元。",
+          "url": "https://flash.jin10.com/detail/20251023185942678800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时41分]"
+        },
+        {
           "title": "马斯克阐释特斯拉为何不光靠英伟达芯片",
           "url": "https://wallstreetcn.com/livenews/2992110",
           "source": "华尔街见闻-快讯",
@@ -1377,6 +1388,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时38分]"
+        },
+        {
+          "title": "黑石集团(BX.N)2025年Q3营收30.9亿美元，上年同期36.63亿美元。",
+          "url": "https://flash.jin10.com/detail/20251023185900446800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时41分]"
         },
         {
           "title": "马斯克：公司正迈向全自动驾驶与机器人出租车的规模化应用初期，公司计划尽快扩大生产。",
@@ -1535,28 +1557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
-        },
-        {
-          "title": "黑石集团(BX.N)第三季度每股可分配收益1.52美元。",
-          "url": "https://flash.jin10.com/detail/20251023185942678800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "黑石集团(BX.N)2025年Q3营收30.9亿美元，上年同期36.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20251023185900446800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "必和必拓集团首席执行官表示，公司并未就关键矿产项目与各国政府展开谈判，但对此持开放态度。",
