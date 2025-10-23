@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T06:22:44.523788+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-10-24T06:42:48.423270+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 06时42分]"
         },
         {
           "title": "中国稀土集团：严格落实出口管制政策",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 06时42分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 06时42分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -104,18 +104,6 @@
           "time_info": "[04时41分 ~ 06时22分]"
         },
         {
-          "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
-          "url": "https://wallstreetcn.com/livenews/2992779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时22分]"
-        },
-        {
           "title": "周四（10月23日），彭博电动汽车价格回报指数涨1.18%，报3437.72点，北京时间14:00前后出现一波显著的上涨行情，日内剩余时间持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/2992757",
           "source": "华尔街见闻-快讯",
@@ -128,6 +116,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 06时22分]"
+        },
+        {
+          "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
+          "url": "https://wallstreetcn.com/livenews/2992779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 06时42分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨幅扩大至2.2%。",
@@ -181,15 +182,17 @@
           "time_info": "[05时17分 ~ 06时22分]"
         },
         {
-          "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
-          "url": "https://flash.jin10.com/detail/20251024052411316800",
+          "title": "福特汽车(F.N)首席执行官：认为短期内电动汽车在美国市场的渗透率将仅为5%。",
+          "url": "https://flash.jin10.com/detail/20251024051135729800",
           "source": "金十数据",
           "ranks": [
-            10
+            6,
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 06时42分]"
         },
         {
           "title": "全美汽车工人联合会：田纳西州查塔努加的福特汽车(F.N)工厂工人将于10月28日和10月29日举行罢工授权投票。",
@@ -204,16 +207,16 @@
           "time_info": "[03时39分 ~ 04时21分]"
         },
         {
-          "title": "福特汽车(F.N)首席执行官：认为短期内电动汽车在美国市场的渗透率将仅为5%。",
-          "url": "https://flash.jin10.com/detail/20251024051135729800",
+          "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
+          "url": "https://flash.jin10.com/detail/20251024052411316800",
           "source": "金十数据",
           "ranks": [
-            6,
-            16
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时22分]"
+          "time_info": "[06时22分 ~ 06时42分]"
         },
         {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
