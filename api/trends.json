@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:44:28.321640+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2025-10-23T18:22:08.300451+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 127,
+      "match_count": 132,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时22分 ~ 17时44分]"
+          "appearance_count": 15,
+          "time_info": "[13时22分 ~ 18时22分]"
         },
         {
           "title": "「太子集团」在韩国超 910 亿韩元资产被冻结，其旗下银行陷挤兑危机，这对柬埔寨金融体系影响有多大？",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时22分 ~ 17时44分]"
+          "appearance_count": 15,
+          "time_info": "[13时22分 ~ 18时22分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时25分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时25分 ~ 18时22分]"
         },
         {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
@@ -300,6 +300,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
+          "url": "https://wallstreetcn.com/livenews/2992525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
           "url": "https://wallstreetcn.com/livenews/2992125",
           "source": "华尔街见闻-快讯",
@@ -453,6 +464,17 @@
           "time_info": "[06时37分 ~ 07时38分]"
         },
         {
+          "title": "美国能源股盘前上涨，斯伦贝谢(SLB.N)上涨2.4%，康菲石油(COP.N)涨2.2%，雪佛龙(CVX.N)上涨1.4%，埃克森美孚石油(XOM.N)涨1.7%，哈利伯顿(HAL.N)涨2.4%。",
+          "url": "https://flash.jin10.com/detail/20251023174859744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "欣旺达发布能量密度400Wh/kg聚合物固态电芯 年底建成0.2GWh产能",
           "url": "https://wallstreetcn.com/livenews/2992334",
           "source": "华尔街见闻-快讯",
@@ -585,6 +607,20 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "2025年全国汽车以旧换新补贴申请量突破1000万份",
+          "url": "https://wallstreetcn.com/livenews/2992465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 18时22分]"
+        },
+        {
           "title": "马斯克：预计今年年底前将在8到10个都市区运营机器人出租车。",
           "url": "https://flash.jin10.com/detail/20251023055506701800",
           "source": "金十数据",
@@ -691,6 +727,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "雷诺集团2025年Q3营收增长6.8%，全年营业利润率预期约6.5%",
+          "url": "https://wallstreetcn.com/livenews/2992512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "香港恒生指数涨超1.1%，恒生科技指数涨1%。美团、京东集团、阿里巴巴等纷纷拉升。",
           "url": "https://wallstreetcn.com/livenews/2992380",
           "source": "华尔街见闻-快讯",
@@ -749,19 +796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时17分]"
-        },
-        {
-          "title": "2025年全国汽车以旧换新补贴申请量突破1000万份",
-          "url": "https://wallstreetcn.com/livenews/2992465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -1456,6 +1490,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "消息人士：尚不清楚大众汽车11月的生产情况。",
+          "url": "https://flash.jin10.com/detail/20251023173421068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "必和必拓集团首席执行官表示，公司并未就关键矿产项目与各国政府展开谈判，但对此持开放态度。",
           "url": "https://flash.jin10.com/detail/20251023142211515800",
           "source": "金十数据",
@@ -1476,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "消息人士：大众汽车正与德国联邦劳动局就实施短时工作制进行“预防性”磋商，目前沃尔夫斯堡工厂暂无实施短时工作制的计划。",
+          "url": "https://flash.jin10.com/detail/20251023173349812800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
