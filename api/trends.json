@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T13:42:15.939408+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-10-23T14:31:14.470664+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 103,
+      "match_count": 107,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -30,6 +30,19 @@
           "time_info": "[00时26分 ~ 07时38分]"
         },
         {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 14时31分]"
+        },
+        {
           "title": "丽江龙蟠提水工程隧道被举报偷工减料，当地已成立调查组核查",
           "url": "https://m.thepaper.cn/newsDetail_forward_31823142",
           "source": "澎湃新闻",
@@ -40,21 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时26分 ~ 13时42分]"
-        },
-        {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时26分 ~ 14时31分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -74,8 +74,35 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时26分 ~ 13时42分]"
+          "appearance_count": 30,
+          "time_info": "[00时26分 ~ 14时31分]"
+        },
+        {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时50分 ~ 14时31分]"
+        },
+        {
+          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
+          "url": "https://www.cls.cn/detail/2177813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 14时31分]"
         },
         {
           "title": "为什么小车的轮胎气压从路边店到 4S 店都打 2.5Bar？",
@@ -94,6 +121,30 @@
           "time_info": "[00时26分 ~ 07时38分]"
         },
         {
+          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
+          "url": "https://wallstreetcn.com/articles/3757692",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
+          "title": "特斯拉为何取消卡片钥匙",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
           "title": "米其林1-9月份收入193亿欧元。 维持全年调整后自由现金流（FCF）预期在15亿-18亿欧元不变。 无法实现2026年剔除汇率因素后SOI超过42亿欧元的目标。 公司将在2026年2月份提供当年的SOI预测细节。",
           "url": "https://wallstreetcn.com/livenews/2992016",
           "source": "华尔街见闻-快讯",
@@ -108,19 +159,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 03时40分]"
-        },
-        {
-          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
-          "url": "https://www.cls.cn/detail/2177770",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 13时42分]"
         },
         {
           "title": "日本软银集团2025年第二次重返海外债券市场。 据知情人士透露，该公司发行20亿美元债券，收益率定价在8.25%。 发行7.5亿欧元债券，收益率定价在6.50%。（彭博）",
@@ -149,19 +187,6 @@
           "time_info": "[06时17分 ~ 06时37分]"
         },
         {
-          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
-          "url": "https://www.cls.cn/detail/2177813",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 13时42分]"
-        },
-        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -176,58 +201,11 @@
           "time_info": "[01时40分 ~ 03时40分]"
         },
         {
-          "title": "特斯拉为何取消卡片钥匙",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 13时42分]"
-        },
-        {
-          "title": "哥外交部呼吁美停止在太平洋打击所谓“贩毒船”",
-          "url": "https://wallstreetcn.com/livenews/2992333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时42分]"
-        },
-        {
           "title": "沃尔沃汽车：美欧关税协议带来明确性，同时降低对欧盟进口的关税。",
           "url": "https://flash.jin10.com/detail/20251023131456700800",
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时42分]"
-        },
-        {
-          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
-          "url": "https://wallstreetcn.com/articles/3757692",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 13时42分]"
-        },
-        {
-          "title": "A股高位人气股持续调整，上实发展、建设机械双双跌停，此前华建集团、睿能科技跌停，蓝丰生化、三孚股份、合肥城建、海鸥住工、远大控股等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/2992332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -244,6 +222,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 05时39分]"
+        },
+        {
+          "title": "全球最大吨位 东风汽车万吨级压铸工厂调试生产",
+          "url": "https://wallstreetcn.com/livenews/2992324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时31分]"
         },
         {
           "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
@@ -282,6 +274,19 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "哥外交部呼吁美停止在太平洋打击所谓“贩毒船”",
+          "url": "https://wallstreetcn.com/livenews/2992333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
           "url": "https://wallstreetcn.com/livenews/2992125",
           "source": "华尔街见闻-快讯",
@@ -293,17 +298,17 @@
           "time_info": "[07时19分 ~ 07时38分]"
         },
         {
-          "title": "全球最大吨位 东风汽车万吨级压铸工厂调试生产",
-          "url": "https://wallstreetcn.com/livenews/2992324",
+          "title": "A股高位人气股持续调整，上实发展、建设机械双双跌停，此前华建集团、睿能科技跌停，蓝丰生化、三孚股份、合肥城建、海鸥住工、远大控股等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/2992332",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            11
+            2,
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时42分]"
+          "time_info": "[13时22分 ~ 14时31分]"
         },
         {
           "title": "特斯拉被问及是否会为其他超大规模企业提供电力。 一位高管表示，公用事业公司和超大规模企业明白，在电力需求激增之际，Megapack的价值。",
@@ -441,7 +446,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -718,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "智利铜矿公司安托法加斯塔：2025年集团层面黄金、钼产量指导区间保持不变。",
+          "url": "https://flash.jin10.com/detail/20251023141349242800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "开云集团首席财务官：看好美国高端客户的强劲韧性。",
@@ -1192,6 +1208,28 @@
           "time_info": "11时38分"
         },
         {
+          "title": "欣旺达推出新一代固态电池",
+          "url": "https://wallstreetcn.com/livenews/2992347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "伦敦证券交易所集团上调2025年展望。",
+          "url": "https://flash.jin10.com/detail/20251023140759340800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "中英汽车工作组第三次会议在京召开",
           "url": "https://wallstreetcn.com/livenews/2992237",
           "source": "华尔街见闻-快讯",
@@ -1256,6 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "特斯拉在法兰克福上市的股票开盘下跌近4%。",
+          "url": "https://flash.jin10.com/detail/20251023140312841800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1.1%。华虹半导体跌超4%，比亚迪电子跌3%。",
