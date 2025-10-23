@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T12:23:41.552686+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-10-23T12:45:52.478350+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "爆粗口！马斯克炮轰美高官",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 12时45分]"
         },
         {
           "title": "详解最晚加入中国的达曼人",
@@ -106,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 12时45分]"
         },
         {
           "title": "日本软银集团2025年第二次重返海外债券市场。 据知情人士透露，该公司发行20亿美元债券，收益率定价在8.25%。 发行7.5亿欧元债券，收益率定价在6.50%。（彭博）",
@@ -196,6 +196,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时38分]"
+        },
+        {
+          "title": "全球最大吨位 东风汽车万吨级压铸工厂调试生产",
+          "url": "https://wallstreetcn.com/livenews/2992324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
@@ -300,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时38分]"
+        },
+        {
+          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
+          "url": "https://www.cls.cn/detail/2177770",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 12时45分]"
         },
         {
           "title": "特斯拉：（美国）关税在三季度的影响超过4亿美元。",
@@ -505,18 +528,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时38分]"
-        },
-        {
-          "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
-          "url": "https://www.cls.cn/detail/2177770",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 12时23分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）全球汽车制造商市值变化",
@@ -877,6 +888,18 @@
           "time_info": "[10时50分 ~ 11时38分]"
         },
         {
+          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
+          "url": "https://www.cls.cn/detail/2177813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 12时45分]"
+        },
+        {
           "title": "开云集团首席财务官：下半年毛利率将与上半年持平。",
           "url": "https://flash.jin10.com/detail/20251023004801263800",
           "source": "金十数据",
@@ -914,18 +937,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时19分]"
-        },
-        {
-          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
-          "url": "https://www.cls.cn/detail/2177813",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时23分]"
         },
         {
           "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
