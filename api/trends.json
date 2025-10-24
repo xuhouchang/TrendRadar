@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T18:45:41.932179+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-10-24T19:19:25.452932+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
@@ -80,11 +80,12 @@
             12,
             6,
             13,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时43分 ~ 18时45分]"
+          "appearance_count": 17,
+          "time_info": "[12时43分 ~ 19时19分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -99,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时41分 ~ 18时45分]"
+          "appearance_count": 14,
+          "time_info": "[13时41分 ~ 19时19分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -117,11 +118,12 @@
             21,
             19,
             26,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时22分 ~ 18时45分]"
+          "appearance_count": 24,
+          "time_info": "[09时22分 ~ 19时19分]"
         },
         {
           "title": "雷军回应K90定价",
@@ -134,11 +136,12 @@
             18,
             14,
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时29分 ~ 18时45分]"
+          "appearance_count": 13,
+          "time_info": "[14时29分 ~ 19时19分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -153,8 +156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时33分 ~ 18时45分]"
+          "appearance_count": 20,
+          "time_info": "[11时33分 ~ 19时19分]"
         },
         {
           "title": "雷军回应红米K90价格争议",
@@ -186,6 +189,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 03时39分]"
+        },
+        {
+          "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1964991158896792248",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 19时19分]"
         },
         {
           "title": "雷军回应K90定价",
@@ -227,19 +243,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 06时22分]"
-        },
-        {
-          "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1964991158896792248",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时45分]"
         },
         {
           "title": "安世半导体风波波及全球汽车供应链",
@@ -354,7 +357,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -399,7 +402,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -638,17 +641,6 @@
           "time_info": "[16时26分 ~ 16时48分]"
         },
         {
-          "title": "国轩高科：第三季度净利润21.67亿元，同比增长1434.42%",
-          "url": "https://wallstreetcn.com/livenews/2993337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "全美汽车工人联合会：田纳西州查塔努加的福特汽车(F.N)工厂工人将于10月28日和10月29日举行罢工授权投票。",
           "url": "https://flash.jin10.com/detail/20251024025622132800",
           "source": "金十数据",
@@ -745,6 +737,18 @@
           "time_info": "[06时22分 ~ 06时42分]"
         },
         {
+          "title": "国轩高科：第三季度净利润21.67亿元，同比增长1434.42%",
+          "url": "https://wallstreetcn.com/livenews/2993337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时19分]"
+        },
+        {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
           "url": "https://flash.jin10.com/detail/20251023235226911800",
           "source": "金十数据",
@@ -792,6 +796,30 @@
           "time_info": "[12时23分 ~ 12时43分]"
         },
         {
+          "title": "亿纬锂能：外协产能明年预计将贡献30GWh增量",
+          "url": "https://wallstreetcn.com/livenews/2993332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时19分]"
+        },
+        {
+          "title": "博世工会：博世工厂因芯片短缺申请缩短工时。",
+          "url": "https://wallstreetcn.com/livenews/2993331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时19分]"
+        },
+        {
           "title": "埃尼集团第三季度调整后净利润为12.5亿欧元，市场预期为10.1亿欧元。",
           "url": "https://wallstreetcn.com/livenews/2993091",
           "source": "华尔街见闻-快讯",
@@ -837,17 +865,6 @@
           "time_info": "16时48分"
         },
         {
-          "title": "亿纬锂能：外协产能明年预计将贡献30GWh增量",
-          "url": "https://wallstreetcn.com/livenews/2993332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
           "title": "法国喷气发动机制造商赛峰集团：预计关税对经常性营业利润的净负面影响为1-1.5亿欧元。",
           "url": "https://flash.jin10.com/detail/20251024130712306800",
           "source": "金十数据",
@@ -857,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
-        },
-        {
-          "title": "博世工会：博世工厂因芯片短缺申请缩短工时。",
-          "url": "https://wallstreetcn.com/livenews/2993331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "消息人士透露，埃隆·马斯克的星链计划正在印度开始进行安全测试，这是该公司准备在印度提供商业卫星宽带服务的最后一道障碍之一。",
