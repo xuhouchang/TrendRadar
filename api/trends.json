@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T12:43:41.124868+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-10-24T13:21:09.363894+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 12时43分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 13时21分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -77,6 +77,17 @@
           "time_info": "[00时50分 ~ 03时39分]"
         },
         {
+          "title": "关键词看党的二十届四中全会公报",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时21分]"
+        },
+        {
           "title": "雷军回应K90定价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94K90%E5%AE%9A%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D2%26c_type%3D31%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E5%259B%259E%25E5%25BA%2594K90%25E5%25AE%259A%25E4%25BB%25B7%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D2%26pos%3D1%26display_time%3D1761274028%26pre_seqid%3D1761274028582033095185",
           "source": "微博",
@@ -88,6 +99,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 12时23分]"
+        },
+        {
+          "title": "小米汽车购置税补贴方案",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26band_rank%3D2%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26dgr%3D0%26display_time%3D1761280928%26pre_seqid%3D17612809280360329505152",
+          "source": "微博",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -118,6 +141,19 @@
           "time_info": "[04时21分 ~ 06时22分]"
         },
         {
+          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
+          "url": "https://www.zhihu.com/question/1964977532433572573",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 13时21分]"
+        },
+        {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
           "url": "https://wallstreetcn.com/livenews/2992727",
           "source": "华尔街见闻-快讯",
@@ -131,17 +167,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 05时17分]"
-        },
-        {
-          "title": "关键词看党的二十届四中全会公报",
-          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时43分]"
         },
         {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
@@ -186,38 +211,17 @@
           "time_info": "[04时41分 ~ 06时22分]"
         },
         {
-          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
-          "url": "https://www.zhihu.com/question/1964977532433572573",
-          "source": "知乎",
+          "title": "雷军回应红米K90价格争议",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%BA%A2%E7%B1%B3K90%E4%BB%B7%E6%A0%BC%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            13
+            21,
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 12时43分]"
-        },
-        {
-          "title": "小米汽车推出购置税补贴方案",
-          "url": "https://wallstreetcn.com/livenews/2993051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "小米汽车购置税补贴方案",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26band_rank%3D2%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26dgr%3D0%26display_time%3D1761280928%26pre_seqid%3D17612809280360329505152",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 13时21分]"
         },
         {
           "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
@@ -313,6 +317,18 @@
           "time_info": "11时34分"
         },
         {
+          "title": "比亚迪腾势总经理赵长江离职",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时21分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：正与Uber(UBER.N)合作开发自动驾驶汽车。",
           "url": "https://flash.jin10.com/detail/20251024030228022800",
           "source": "金十数据",
@@ -323,6 +339,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时21分]"
+        },
+        {
+          "title": "小米汽车推出购置税补贴方案",
+          "url": "https://wallstreetcn.com/livenews/2993051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
@@ -363,6 +391,19 @@
           "time_info": "[03时39分 ~ 04时21分]"
         },
         {
+          "title": "中国汽车工业协会：1-9月销量排名前十位的MPV生产企业销售量占总量的77.5%",
+          "url": "https://wallstreetcn.com/livenews/2993031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 13时21分]"
+        },
+        {
           "title": "被控与电诈集团有关，泰国财政部副部长辞职",
           "url": "https://news.ifeng.com/c/8nhYfXrmELZ",
           "source": "凤凰网",
@@ -372,18 +413,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 10时48分]"
-        },
-        {
-          "title": "雷军回应红米K90价格争议",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%BA%A2%E7%B1%B3K90%E4%BB%B7%E6%A0%BC%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 12时43分]"
         },
         {
           "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
@@ -398,18 +427,6 @@
           "time_info": "[06时22分 ~ 06时42分]"
         },
         {
-          "title": "中国汽车工业协会：1-9月销量排名前十位的MPV生产企业销售量占总量的77.5%",
-          "url": "https://wallstreetcn.com/livenews/2993031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时43分]"
-        },
-        {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
           "url": "https://flash.jin10.com/detail/20251023235226911800",
           "source": "金十数据",
@@ -420,6 +437,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时20分]"
+        },
+        {
+          "title": "比亚迪宣布：老车主OTA后油耗可降10%",
+          "url": "https://www.toutiao.com/trending/7563558787844898825/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时21分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
@@ -464,28 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "比亚迪宣布：老车主OTA后油耗可降10%",
-          "url": "https://www.toutiao.com/trending/7563558787844898825/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "比亚迪腾势总经理赵长江离职",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         }
       ]
     }
