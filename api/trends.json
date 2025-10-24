@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T16:26:25.893126+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2025-10-24T16:48:52.830964+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时23分 ~ 16时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时23分 ~ 16时48分]"
         },
         {
           "title": "中国稀土集团：严格落实出口管制政策",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 16时48分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -101,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时22分 ~ 16时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时22分 ~ 16时48分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -115,8 +115,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时33分 ~ 16时26分]"
+          "appearance_count": 14,
+          "time_info": "[11时33分 ~ 16时48分]"
         },
         {
           "title": "雷军回应红米K90价格争议",
@@ -138,11 +138,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 16时48分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -175,6 +176,20 @@
           "time_info": "[10时47分 ~ 12时23分]"
         },
         {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 16时48分]"
+        },
+        {
           "title": "小米汽车都卖到哪去了",
           "url": "https://www.toutiao.com/trending/7563335440552738826/",
           "source": "今日头条",
@@ -201,19 +216,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 06时22分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 16时26分]"
         },
         {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
@@ -243,6 +245,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 06时22分]"
+        },
+        {
+          "title": "长城汽车：第三季度净利润为22.98亿元，同比下降31.23%",
+          "url": "https://wallstreetcn.com/livenews/2993234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
@@ -305,17 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        },
-        {
-          "title": "一汽-大众扩大召回超2万辆进口和国产奥迪汽车",
-          "url": "https://wallstreetcn.com/livenews/2993215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
@@ -418,9 +420,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "福特汽车(F.N)股价盘前上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251024162503248800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "红米K90被指各版价差过大，雷军回应：标准版首销月内降300元",
@@ -470,6 +483,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 06时42分]"
+        },
+        {
+          "title": "一汽-大众扩大召回超2万辆进口和国产奥迪汽车",
+          "url": "https://wallstreetcn.com/livenews/2993215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时48分]"
         },
         {
           "title": "全美汽车工人联合会：田纳西州查塔努加的福特汽车(F.N)工厂工人将于10月28日和10月29日举行罢工授权投票。",
@@ -556,6 +581,19 @@
           "time_info": "[06时22分 ~ 06时42分]"
         },
         {
+          "title": "安世半导体风波波及全球汽车供应链",
+          "url": "https://www.toutiao.com/trending/7564662734042697266/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 16时48分]"
+        },
+        {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
           "url": "https://flash.jin10.com/detail/20251023235226911800",
           "source": "金十数据",
@@ -578,18 +616,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 13时21分]"
-        },
-        {
-          "title": "安世半导体风波波及全球汽车供应链",
-          "url": "https://www.toutiao.com/trending/7564662734042697266/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时26分]"
         },
         {
           "title": "吉利联合中国汽车工程学会发布行业首个《AI CAR白皮书》",
@@ -649,6 +675,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "亿纬锂能：预计四季度继续推出固态电池下一代产品",
+          "url": "https://wallstreetcn.com/livenews/2993219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "法国喷气发动机制造商赛峰集团：预计关税对经常性营业利润的净负面影响为1-1.5亿欧元。",
           "url": "https://flash.jin10.com/detail/20251024130712306800",
           "source": "金十数据",
@@ -699,7 +736,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
