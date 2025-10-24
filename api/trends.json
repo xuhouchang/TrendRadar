@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T05:38:49.040129+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2025-10-25T06:20:37.437725+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "汽车巨头拉响停产警报：芯片告急",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
@@ -54,11 +54,12 @@
             20,
             22,
             18,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "罗曼蒂克乌托邦音乐剧舞台",
@@ -71,11 +72,12 @@
             29,
             25,
             19,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 05时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 06时20分]"
         },
         {
           "title": "白鹿曾舜晞售后自拍照",
@@ -100,8 +102,51 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 06时20分]"
+        },
+        {
+          "title": "美国财长贝森特：佩特罗任由贩毒集团猖獗，并拒绝制止这种活动。",
+          "url": "https://flash.jin10.com/detail/20251025030729291800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时40分 ~ 06时20分]"
+        },
+        {
+          "title": "雷军回应K90定价",
+          "url": "https://www.douyin.com/hot/2280913",
+          "source": "抖音",
+          "ranks": [
+            25,
+            24,
+            22,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 06时20分]"
+        },
+        {
+          "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2993586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            14,
+            17,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时40分 ~ 06时20分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
@@ -136,46 +181,18 @@
           "time_info": "[00时25分 ~ 02时49分]"
         },
         {
-          "title": "美国财长贝森特：佩特罗任由贩毒集团猖獗，并拒绝制止这种活动。",
-          "url": "https://flash.jin10.com/detail/20251025030729291800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 05时38分]"
-        },
-        {
-          "title": "雷军回应K90定价",
-          "url": "https://www.douyin.com/hot/2280913",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            22,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时17分 ~ 05时38分]"
-        },
-        {
-          "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2993586",
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/2993598",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            4,
             7,
-            14,
-            17,
-            23
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 06时20分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -191,6 +208,20 @@
           "time_info": "[01时20分 ~ 03时17分]"
         },
         {
+          "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/2993597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 06时20分]"
+        },
+        {
           "title": "本周，标普500指数累计上涨大约2%，道指累涨约2.2%，纳指累涨约2.4%，纳斯达克100指数累涨约2.2%，七巨头指数涨2.5%，迷因股指数涨6%。 周五发布美国CPI当天，标普500指数初步收 %，科技、电信、公用事业、金融板块至少涨约1%，能源板块跌0.9%。 纳斯达克100指数初步收 %，成分股中，AMD涨7.6%，核电股CEG涨6.3%，美光科技涨6%，霍尼韦尔、ADI、微芯科技、贝克休斯、特斯拉、TTD则至多跌3.7%。 IBM涨8%，高盛涨4.4%，英伟达、摩根大通、亚马逊至少涨1.5%，领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/2993591",
           "source": "华尔街见闻-快讯",
@@ -200,32 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
-          "url": "https://wallstreetcn.com/livenews/2993598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时38分]"
-        },
-        {
-          "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/2993597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时38分]"
         },
         {
           "title": "标普500指数涨1%，道指涨511点涨幅1.09%，纳指涨293点涨幅1.28%，纳斯达克100指数涨292点涨幅1.17%，半导体指数涨2.2%，银行指数涨2.3%，小盘股指涨1.5%，特斯拉跌1.8%。",
@@ -289,8 +294,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时22分 ~ 06时20分]"
         },
         {
           "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
@@ -303,6 +308,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "安世半导体风波波及汽车供应链",
+          "url": "https://www.douyin.com/hot/2281393",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 06时20分]"
         },
         {
           "title": "马斯克：对于社交媒体平台“X”算法带来的不便，我们深表歉意。我们正在努力修复这个问题。",
@@ -327,15 +344,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "安世半导体风波波及汽车供应链",
-          "url": "https://www.douyin.com/hot/2281393",
-          "source": "抖音",
+          "title": "特斯拉车主反映账号设置离奇丢失",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%8D%E6%98%A0%E8%B4%A6%E5%8F%B7%E8%AE%BE%E7%BD%AE%E7%A6%BB%E5%A5%87%E4%B8%A2%E5%A4%B1",
+          "source": "百度热搜",
           "ranks": [
-            29
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "06时20分"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%。",
