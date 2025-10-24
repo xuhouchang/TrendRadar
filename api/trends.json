@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T22:23:04.783696+08:00",
-  "total_titles_processed": 2313,
+  "generated_at": "2025-10-24T22:47:09.203508+08:00",
+  "total_titles_processed": 2344,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时43分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[17时43分 ~ 22时47分]"
         },
         {
           "title": "中国稀土集团：严格落实出口管制政策",
@@ -97,11 +97,12 @@
             8,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时41分 ~ 22时23分]"
+          "appearance_count": 22,
+          "time_info": "[13时41分 ~ 22时47分]"
         },
         {
           "title": "比亚迪腾势总经理赵长江离职",
@@ -121,8 +122,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时43分 ~ 22时23分]"
+          "appearance_count": 25,
+          "time_info": "[12时43分 ~ 22时47分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -180,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时33分 ~ 22时23分]"
+          "appearance_count": 28,
+          "time_info": "[11时33分 ~ 22时47分]"
         },
         {
           "title": "雷军回应红米K90价格争议",
@@ -213,6 +214,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 03时39分]"
+        },
+        {
+          "title": "蔚来卖爆了 开启“疯狂”招工模式",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%8D%96%E7%88%86%E4%BA%86+%E5%BC%80%E5%90%AF%E2%80%9C%E7%96%AF%E7%8B%82%E2%80%9D%E6%8B%9B%E5%B7%A5%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时33分 ~ 22时47分]"
         },
         {
           "title": "雷军回应K90定价",
@@ -297,6 +310,18 @@
           "time_info": "[03时17分 ~ 05时17分]"
         },
         {
+          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
+          "url": "https://wallstreetcn.com/livenews/2993516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时47分]"
+        },
+        {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
           "url": "https://wallstreetcn.com/livenews/2992761",
           "source": "华尔街见闻-快讯",
@@ -311,6 +336,18 @@
           "time_info": "[04时41分 ~ 06时22分]"
         },
         {
+          "title": "汽车巨头拉响停产警报：芯片告急",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 22时47分]"
+        },
+        {
           "title": "长江电力：控股股东中国三峡集团获得不超72亿元股票增持专项贷款 仅用于增持长江电力股票",
           "url": "https://wallstreetcn.com/livenews/2993283",
           "source": "华尔街见闻-快讯",
@@ -323,18 +360,6 @@
           "time_info": "[17时43分 ~ 18时22分]"
         },
         {
-          "title": "蔚来卖爆了 开启“疯狂”招工模式",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%8D%96%E7%88%86%E4%BA%86+%E5%BC%80%E5%90%AF%E2%80%9C%E7%96%AF%E7%8B%82%E2%80%9D%E6%8B%9B%E5%B7%A5%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 22时23分]"
-        },
-        {
           "title": "广汽集团：第三季度净亏损17.74亿元",
           "url": "https://wallstreetcn.com/livenews/2993271",
           "source": "华尔街见闻-快讯",
@@ -344,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
-          "url": "https://wallstreetcn.com/livenews/2993516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
@@ -923,17 +937,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时51分]"
-        },
-        {
-          "title": "汽车巨头拉响停产警报：芯片告急",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "第三季度财报公布后，福特汽车(F.N)上涨7%。",
