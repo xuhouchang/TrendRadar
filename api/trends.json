@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:47:09.203508+08:00",
-  "total_titles_processed": 2344,
+  "generated_at": "2025-10-24T23:21:51.216519+08:00",
+  "total_titles_processed": 2411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 91,
+      "match_count": 94,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时43分 ~ 22时47分]"
+          "appearance_count": 13,
+          "time_info": "[17时43分 ~ 23时21分]"
         },
         {
           "title": "中国稀土集团：严格落实出口管制政策",
@@ -101,8 +101,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时41分 ~ 22时47分]"
+          "appearance_count": 23,
+          "time_info": "[13时41分 ~ 23时21分]"
         },
         {
           "title": "比亚迪腾势总经理赵长江离职",
@@ -122,8 +122,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时43分 ~ 22时47分]"
+          "appearance_count": 26,
+          "time_info": "[12时43分 ~ 23时21分]"
         },
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -178,11 +178,12 @@
             15,
             11,
             16,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[11时33分 ~ 22时47分]"
+          "appearance_count": 29,
+          "time_info": "[11时33分 ~ 23时21分]"
         },
         {
           "title": "雷军回应红米K90价格争议",
@@ -214,6 +215,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 03时39分]"
+        },
+        {
+          "title": "汽车巨头拉响停产警报：芯片告急",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时22分 ~ 23时21分]"
         },
         {
           "title": "蔚来卖爆了 开启“疯狂”招工模式",
@@ -310,18 +324,6 @@
           "time_info": "[03时17分 ~ 05时17分]"
         },
         {
-          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
-          "url": "https://wallstreetcn.com/livenews/2993516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时47分]"
-        },
-        {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
           "url": "https://wallstreetcn.com/livenews/2992761",
           "source": "华尔街见闻-快讯",
@@ -334,18 +336,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 06时22分]"
-        },
-        {
-          "title": "汽车巨头拉响停产警报：芯片告急",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时22分 ~ 22时47分]"
         },
         {
           "title": "长江电力：控股股东中国三峡集团获得不超72亿元股票增持专项贷款 仅用于增持长江电力股票",
@@ -399,6 +389,19 @@
           "time_info": "[04时41分 ~ 06时22分]"
         },
         {
+          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
+          "url": "https://wallstreetcn.com/livenews/2993516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时21分]"
+        },
+        {
           "title": "前三季度上海接待入境旅游者超415万人次，韩泰两国游客同比翻番",
           "url": "https://m.thepaper.cn/newsDetail_forward_31827963",
           "source": "澎湃新闻",
@@ -421,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "福特汽车(F.N)延续涨势，涨幅扩大至10.5%。",
+          "url": "https://flash.jin10.com/detail/20251024231503797800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
@@ -525,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20251024230909986800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "NASA再回应马斯克：目标只有一个，赶在中国前头登月",
@@ -1047,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美国汽车安全监管机构表示，已就 “疯狂麦克斯”（Mad Max）版全自动驾驶（FSD）辅助模式向特斯拉(TSLA.O)提出问询。",
+          "url": "https://flash.jin10.com/detail/20251024224620862800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "法国喷气发动机制造商赛峰集团第三季度营收77.1亿欧元。",
