@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T04:22:12.896618+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-10-25T04:42:37.589704+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "汽车巨头拉响停产警报：芯片告急",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 04时42分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 04时42分]"
         },
         {
           "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             7,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 04时42分]"
         },
         {
           "title": "比亚迪腾势总经理赵长江离职",
@@ -56,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 04时42分]"
         },
         {
           "title": "罗曼蒂克乌托邦音乐剧舞台",
@@ -68,11 +69,12 @@
             16,
             15,
             29,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 04时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 04时42分]"
         },
         {
           "title": "白鹿曾舜晞售后自拍照",
@@ -88,6 +90,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时20分 ~ 04时22分]"
+        },
+        {
+          "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2993568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            13,
+            17,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 04时42分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报361.96点，创6月16日以来收盘新高，本周累计上涨将近2.83%。 在十个板块中，北欧工业板块涨幅最大。 牙科产品、机械、工具、汽车内饰等产品供应商Lifco AB涨10.1%，在一众北欧个股里领跑。",
@@ -106,33 +124,6 @@
           "time_info": "[00时25分 ~ 02时49分]"
         },
         {
-          "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2993568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 04时22分]"
-        },
-        {
-          "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/2993586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时22分]"
-        },
-        {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
           "url": "https://flash.jin10.com/detail/20251025010101795800",
           "source": "金十数据",
@@ -146,15 +137,39 @@
           "time_info": "[01时20分 ~ 03时17分]"
         },
         {
+          "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/2993586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时42分]"
+        },
+        {
           "title": "本周，标普500指数累计上涨大约2%，道指累涨约2.2%，纳指累涨约2.4%，纳斯达克100指数累涨约2.2%，七巨头指数涨2.5%，迷因股指数涨6%。 周五发布美国CPI当天，标普500指数初步收 %，科技、电信、公用事业、金融板块至少涨约1%，能源板块跌0.9%。 纳斯达克100指数初步收 %，成分股中，AMD涨7.6%，核电股CEG涨6.3%，美光科技涨6%，霍尼韦尔、ADI、微芯科技、贝克休斯、特斯拉、TTD则至多跌3.7%。 IBM涨8%，高盛涨4.4%，英伟达、摩根大通、亚马逊至少涨1.5%，领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/2993591",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "福特汽车(F.N)收涨12%，创2020年3月以来最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20251025040252974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时42分]"
         },
         {
           "title": "标普500指数涨1%，道指涨511点涨幅1.09%，纳指涨293点涨幅1.28%，纳斯达克100指数涨292点涨幅1.17%，半导体指数涨2.2%，银行指数涨2.3%，小盘股指涨1.5%，特斯拉跌1.8%。",
@@ -170,6 +185,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 02时29分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/2993598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美联储将首次根据新提案披露压力测试模型和情景，并征求反馈意见。美联储理事巴尔反对拟议中的修改，警告称这将削弱测试并降低银行资本。美联储理事鲍曼表示，这些变化将有助于改善银行的资本规划。",
@@ -198,17 +224,6 @@
           "time_info": "[02时29分 ~ 03时40分]"
         },
         {
-          "title": "福特汽车(F.N)收涨12%，创2020年3月以来最大涨幅。",
-          "url": "https://flash.jin10.com/detail/20251025040252974800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国财长贝森特：佩特罗任由贩毒集团猖獗，并拒绝制止这种活动。",
           "url": "https://flash.jin10.com/detail/20251025030729291800",
           "source": "金十数据",
@@ -217,8 +232,30 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时42分]"
+        },
+        {
+          "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/2993597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "福特汽车收涨12%，创2020年3月份以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2993596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "雷军回应K90定价",
@@ -227,11 +264,23 @@
           "ranks": [
             25,
             24,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 04时42分]"
+        },
+        {
+          "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
+          "url": "https://flash.jin10.com/detail/20251025033137365800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时42分]"
         },
         {
           "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
@@ -255,17 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
-          "url": "https://flash.jin10.com/detail/20251025033137365800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "福特汽车(F.N)延续涨势，涨幅扩大至10.5%。",
