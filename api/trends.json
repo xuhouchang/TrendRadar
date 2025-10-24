@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:23:40.578761+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-10-24T12:43:41.124868+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -45,6 +45,21 @@
           "time_info": "[00时25分 ~ 06时42分]"
         },
         {
+          "title": "安世半导体风波如何影响汽车行业",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A3%8E%E6%B3%A2%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14,
+            15,
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 12时43分]"
+        },
+        {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
           "url": "https://wallstreetcn.com/livenews/2992705",
           "source": "华尔街见闻-快讯",
@@ -73,20 +88,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 12时23分]"
-        },
-        {
-          "title": "安世半导体风波如何影响汽车行业",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A3%8E%E6%B3%A2%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时23分]"
         },
         {
           "title": "小米汽车都卖到哪去了",
@@ -132,6 +133,17 @@
           "time_info": "[03时17分 ~ 05时17分]"
         },
         {
+          "title": "关键词看党的二十届四中全会公报",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时43分]"
+        },
+        {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
           "url": "https://wallstreetcn.com/livenews/2992761",
           "source": "华尔街见闻-快讯",
@@ -174,6 +186,40 @@
           "time_info": "[04时41分 ~ 06时22分]"
         },
         {
+          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
+          "url": "https://www.zhihu.com/question/1964977532433572573",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时43分]"
+        },
+        {
+          "title": "小米汽车推出购置税补贴方案",
+          "url": "https://wallstreetcn.com/livenews/2993051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "小米汽车购置税补贴方案",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26band_rank%3D2%26q%3D%25E5%25B0%258F%25E7%25B1%25B3%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B4%25AD%25E7%25BD%25AE%25E7%25A8%258E%25E8%25A1%25A5%25E8%25B4%25B4%25E6%2596%25B9%25E6%25A1%2588%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26dgr%3D0%26display_time%3D1761280928%26pre_seqid%3D17612809280360329505152",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2992809",
           "source": "华尔街见闻-快讯",
@@ -184,17 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时39分]"
-        },
-        {
-          "title": "关键词看党的二十届四中全会公报",
-          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "特斯拉(TSLA.O)涨幅扩大至2.2%。",
@@ -256,6 +291,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "NASA再回应马斯克：目标只有一个，赶在中国前头登月",
+          "url": "https://news.ifeng.com/c/8nhzghofv2Z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时43分]"
+        },
+        {
           "title": "金十图示：2025年10月24日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251024110830298800",
           "source": "金十数据",
@@ -265,18 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
-        },
-        {
-          "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
-          "url": "https://www.zhihu.com/question/1964977532433572573",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时23分]"
         },
         {
           "title": "英伟达(NVDA.O)：正与Uber(UBER.N)合作开发自动驾驶汽车。",
@@ -317,28 +351,6 @@
           "time_info": "[05时38分 ~ 06时42分]"
         },
         {
-          "title": "NASA再回应马斯克：目标只有一个，赶在中国前头登月",
-          "url": "https://news.ifeng.com/c/8nhzghofv2Z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "中国汽车工业协会：1-9月销量排名前十位的MPV生产企业销售量占总量的77.5%",
-          "url": "https://wallstreetcn.com/livenews/2993031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "全美汽车工人联合会：田纳西州查塔努加的福特汽车(F.N)工厂工人将于10月28日和10月29日举行罢工授权投票。",
           "url": "https://flash.jin10.com/detail/20251024025622132800",
           "source": "金十数据",
@@ -362,6 +374,18 @@
           "time_info": "[09时22分 ~ 10时48分]"
         },
         {
+          "title": "雷军回应红米K90价格争议",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%BA%A2%E7%B1%B3K90%E4%BB%B7%E6%A0%BC%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 12时43分]"
+        },
+        {
           "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
           "url": "https://flash.jin10.com/detail/20251024052411316800",
           "source": "金十数据",
@@ -372,6 +396,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 06时42分]"
+        },
+        {
+          "title": "中国汽车工业协会：1-9月销量排名前十位的MPV生产企业销售量占总量的77.5%",
+          "url": "https://wallstreetcn.com/livenews/2993031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时43分]"
         },
         {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
@@ -386,16 +422,15 @@
           "time_info": "[00时25分 ~ 01时20分]"
         },
         {
-          "title": "雷军回应红米K90价格争议",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%BA%A2%E7%B1%B3K90%E4%BB%B7%E6%A0%BC%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
+          "title": "理想汽车回应MEGA起火事故",
+          "url": "https://www.douyin.com/hot/2280942",
+          "source": "抖音",
           "ranks": [
-            21,
-            28
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 12时23分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时43分]"
         },
         {
           "title": "加拿大政府：将大幅削减对通用汽车和斯特兰蒂斯的进口配额。将通用汽车的年度退税配额削减24.2%，并将斯特兰蒂斯的年度退税配额削减50%。",
@@ -407,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故",
-          "url": "https://www.douyin.com/hot/2280942",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "消息人士透露，埃隆·马斯克的星链计划正在印度开始进行安全测试，这是该公司准备在印度提供商业卫星宽带服务的最后一道障碍之一。",
@@ -440,6 +464,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "比亚迪宣布：老车主OTA后油耗可降10%",
+          "url": "https://www.toutiao.com/trending/7563558787844898825/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "比亚迪腾势总经理赵长江离职",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     }
