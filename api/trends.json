@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:41:55.234099+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-10-25T14:28:08.499347+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -195,17 +195,6 @@
           "time_info": "[03时17分 ~ 07时19分]"
         },
         {
-          "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
-          "url": "https://flash.jin10.com/detail/20251025033137365800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时22分 ~ 07时40分]"
-        },
-        {
           "title": "宁德时代与易控智驾战略合作，后者正在冲击“矿区无人驾驶第一股”",
           "url": "https://wallstreetcn.com/livenews/2993625",
           "source": "华尔街见闻-快讯",
@@ -215,11 +204,23 @@
             13,
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 13时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 14时28分]"
+        },
+        {
+          "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
+          "url": "https://flash.jin10.com/detail/20251025033137365800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时22分 ~ 07时40分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
