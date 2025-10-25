@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T06:19:30.892354+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-10-26T06:40:42.820370+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 06时40分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 06时40分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -57,11 +57,12 @@
             20,
             23,
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 06时40分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -73,11 +74,12 @@
             21,
             19,
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时17分 ~ 06时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 06时40分]"
         }
       ]
     }
