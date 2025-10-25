@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:28:08.499347+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2025-10-25T14:47:18.514616+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -205,11 +205,12 @@
             17,
             18,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 14时47分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
