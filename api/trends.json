@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T17:40:23.899873+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-10-25T18:20:18.286477+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -182,8 +182,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时50分 ~ 17时40分]"
+          "appearance_count": 29,
+          "time_info": "[00时50分 ~ 18时20分]"
         },
         {
           "title": "白鹿曾舜晞售后自拍照",
@@ -224,8 +224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "贵州省能源局局长陈华接任茅台集团董事长",
@@ -236,11 +236,12 @@
             4,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时20分]"
         },
         {
           "title": "贵州省能源局局长陈华接任茅台集团董事长",
@@ -251,11 +252,12 @@
             5,
             7,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时20分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
@@ -325,6 +327,21 @@
           "time_info": "04时22分"
         },
         {
+          "title": "陈华接任茅台集团董事长",
+          "url": "https://www.toutiao.com/trending/7565056227210694154/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14,
+            15,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "标普500指数涨1%，道指涨511点涨幅1.09%，纳指涨293点涨幅1.28%，纳斯达克100指数涨292点涨幅1.17%，半导体指数涨2.2%，银行指数涨2.3%，小盘股指涨1.5%，特斯拉跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/2993537",
           "source": "华尔街见闻-快讯",
@@ -392,20 +409,6 @@
           "time_info": "[10时49分 ~ 12时43分]"
         },
         {
-          "title": "陈华接任茅台集团董事长",
-          "url": "https://www.toutiao.com/trending/7565056227210694154/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 17时40分]"
-        },
-        {
           "title": "美国国家公路交通安全管理局：法拉利正在召回部分2025款296 GTS和296 GTB车型，共计6辆。涡轮增压器机油供给管上固定机油滤清器连接处的螺母因未正确拧紧，可能导致机油泄漏。",
           "url": "https://flash.jin10.com/detail/20251025111958604800",
           "source": "金十数据",
@@ -443,6 +446,18 @@
           "time_info": "[09时24分 ~ 10时49分]"
         },
         {
+          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
           "title": "特斯拉市值蒸发超3600亿元",
           "url": "https://www.toutiao.com/trending/7564218921932030003/",
           "source": "今日头条",
@@ -453,17 +468,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 13时20分]"
-        },
-        {
-          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时40分]"
         },
         {
           "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
