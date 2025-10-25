@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T23:19:54.864032+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-10-25T23:38:33.706013+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时19分 ~ 23时19分]"
+          "appearance_count": 16,
+          "time_info": "[17时19分 ~ 23时38分]"
         },
         {
           "title": "福特汽车(F.N)收涨12%，创2020年3月以来最大涨幅。",
@@ -284,6 +284,19 @@
           "time_info": "[03时17分 ~ 07时19分]"
         },
         {
+          "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
+          "url": "https://wallstreetcn.com/livenews/2993697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时18分 ~ 23时38分]"
+        },
+        {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
           "url": "https://flash.jin10.com/detail/20251025033137365800",
           "source": "金十数据",
@@ -325,19 +338,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 02时49分]"
-        },
-        {
-          "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
-          "url": "https://wallstreetcn.com/livenews/2993697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时18分 ~ 23时19分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -601,7 +601,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时19分"
         }
