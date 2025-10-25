@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T01:39:58.017792+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-10-26T02:27:10.546517+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 01时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 02时27分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 02时27分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
@@ -48,11 +49,12 @@
           "ranks": [
             21,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 02时27分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -60,11 +62,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 02时27分]"
         }
       ]
     }
