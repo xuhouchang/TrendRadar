@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:20:05.441911+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-10-25T13:41:55.234099+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
@@ -206,6 +206,22 @@
           "time_info": "[04时22分 ~ 07时40分]"
         },
         {
+          "title": "宁德时代与易控智驾战略合作，后者正在冲击“矿区无人驾驶第一股”",
+          "url": "https://wallstreetcn.com/livenews/2993625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            13,
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 13时41分]"
+        },
+        {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/2993568",
           "source": "华尔街见闻-快讯",
@@ -236,21 +252,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 02时49分]"
-        },
-        {
-          "title": "宁德时代与易控智驾战略合作，后者正在冲击“矿区无人驾驶第一股”",
-          "url": "https://wallstreetcn.com/livenews/2993625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 13时20分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -344,6 +345,19 @@
           "time_info": "[10时49分 ~ 12时43分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：法拉利正在召回部分2025款296 GTS和296 GTB车型，共计6辆。涡轮增压器机油供给管上固定机油滤清器连接处的螺母因未正确拧紧，可能导致机油泄漏。",
+          "url": "https://flash.jin10.com/detail/20251025111958604800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 13时41分]"
+        },
+        {
           "title": "安世半导体风波波及汽车供应链",
           "url": "https://www.douyin.com/hot/2281393",
           "source": "抖音",
@@ -366,18 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 10时49分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：法拉利正在召回部分2025款296 GTS和296 GTB车型，共计6辆。涡轮增压器机油供给管上固定机油滤清器连接处的螺母因未正确拧紧，可能导致机油泄漏。",
-          "url": "https://flash.jin10.com/detail/20251025111958604800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 13时20分]"
         },
         {
           "title": "特斯拉市值蒸发超3600亿元",
