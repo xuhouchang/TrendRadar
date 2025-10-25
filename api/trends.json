@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:47:18.514616+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-10-25T15:18:03.439531+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -126,6 +126,25 @@
           "time_info": "[04时42分 ~ 11时35分]"
         },
         {
+          "title": "宁德时代与易控智驾战略合作，后者正在冲击“矿区无人驾驶第一股”",
+          "url": "https://wallstreetcn.com/livenews/2993625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            13,
+            17,
+            18,
+            20,
+            21,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 15时18分]"
+        },
+        {
           "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/2993586",
           "source": "华尔街见闻-快讯",
@@ -157,11 +176,12 @@
             20,
             24,
             21,
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 12时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 15时18分]"
         },
         {
           "title": "白鹿曾舜晞售后自拍照",
@@ -193,24 +213,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时17分 ~ 07时19分]"
-        },
-        {
-          "title": "宁德时代与易控智驾战略合作，后者正在冲击“矿区无人驾驶第一股”",
-          "url": "https://wallstreetcn.com/livenews/2993625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            13,
-            17,
-            18,
-            20,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 14时47分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
