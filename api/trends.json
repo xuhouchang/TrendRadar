@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T21:25:22.683970+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-10-25T21:41:44.196625+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,22 @@
           "time_info": "[16时25分 ~ 21时25分]"
         },
         {
+          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时19分 ~ 21时41分]"
+        },
+        {
           "title": "福特汽车(F.N)收涨12%，创2020年3月以来最大涨幅。",
           "url": "https://flash.jin10.com/detail/20251025040252974800",
           "source": "金十数据",
@@ -75,21 +91,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[15时38分 ~ 20时36分]"
-        },
-        {
-          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时19分 ~ 21时25分]"
         },
         {
           "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
