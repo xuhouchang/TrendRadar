@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T18:20:18.286477+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-10-25T18:41:12.440434+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时22分 ~ 07时40分]"
+        },
+        {
+          "title": "陈华接任茅台集团董事长",
+          "url": "https://www.douyin.com/hot/2282594",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 18时41分]"
         },
         {
           "title": "比亚迪腾势方程豹直营事业部总经理赵长江离职，如何看待他的选择？可能会对比亚迪带来哪些影响？",
@@ -182,8 +193,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时50分 ~ 18时20分]"
+          "appearance_count": 31,
+          "time_info": "[00时50分 ~ 18时41分]"
         },
         {
           "title": "白鹿曾舜晞售后自拍照",
@@ -217,17 +228,6 @@
           "time_info": "[03时17分 ~ 07时19分]"
         },
         {
-          "title": "陈华接任茅台集团董事长",
-          "url": "https://www.douyin.com/hot/2282594",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时20分]"
-        },
-        {
           "title": "贵州省能源局局长陈华接任茅台集团董事长",
           "url": "https://flash.jin10.com/detail/20251025151336181800",
           "source": "金十数据",
@@ -237,11 +237,12 @@
             7,
             10,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 18时41分]"
         },
         {
           "title": "贵州省能源局局长陈华接任茅台集团董事长",
@@ -253,11 +254,12 @@
             7,
             9,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 18时41分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
@@ -409,6 +411,19 @@
           "time_info": "[10时49分 ~ 12时43分]"
         },
         {
+          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 18时41分]"
+        },
+        {
           "title": "美国国家公路交通安全管理局：法拉利正在召回部分2025款296 GTS和296 GTB车型，共计6辆。涡轮增压器机油供给管上固定机油滤清器连接处的螺母因未正确拧紧，可能导致机油泄漏。",
           "url": "https://flash.jin10.com/detail/20251025111958604800",
           "source": "金十数据",
@@ -444,18 +459,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 10时49分]"
-        },
-        {
-          "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31835788",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "特斯拉市值蒸发超3600亿元",
