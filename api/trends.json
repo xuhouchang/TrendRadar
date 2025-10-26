@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T06:43:20.476217+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-10-27T07:20:08.485371+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 06时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 06时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "赛力斯集团预计11月4日在港上市交易，招股价格不超过每股131.5港元。",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 07时20分]"
         }
       ]
     }
