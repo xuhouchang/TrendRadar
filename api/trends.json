@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T03:17:30.932211+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-10-27T03:40:20.150222+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 03时40分]"
         }
       ]
     }
