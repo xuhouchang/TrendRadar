@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T18:20:58.893542+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-10-26T18:42:52.017953+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -16,22 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时39分 ~ 18时20分]"
-        },
-        {
-          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
-          "url": "https://wallstreetcn.com/articles/3757910",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时39分 ~ 18时42分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -47,6 +33,21 @@
           "is_new": false,
           "appearance_count": 35,
           "time_info": "[00时21分 ~ 15时39分]"
+        },
+        {
+          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
+          "url": "https://wallstreetcn.com/articles/3757910",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[11时10分 ~ 18时42分]"
         },
         {
           "title": "曼联4:2布莱顿",
@@ -75,11 +76,12 @@
             10,
             15,
             16,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时39分 ~ 18时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时39分 ~ 18时42分]"
         },
         {
           "title": "李在明警告诈骗集团：别碰韩国人",
@@ -133,11 +135,12 @@
             22,
             26,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时39分 ~ 18时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时39分 ~ 18时42分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
