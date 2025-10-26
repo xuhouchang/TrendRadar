@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T17:19:01.751884+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-10-26T17:39:56.936935+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时39分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时39分 ~ 17时39分]"
         },
         {
           "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 17时39分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -77,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时39分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时39分 ~ 17时39分]"
         },
         {
           "title": "李在明警告诈骗集团：别碰韩国人",
@@ -130,11 +130,12 @@
             23,
             13,
             22,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时39分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时39分 ~ 17时39分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
