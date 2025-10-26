@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T19:38:43.885975+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-10-26T20:36:44.464039+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时39分 ~ 19时38分]"
+          "appearance_count": 22,
+          "time_info": "[09时39分 ~ 20时36分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -96,11 +96,12 @@
             21,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时39分 ~ 19时38分]"
+          "appearance_count": 20,
+          "time_info": "[09时39分 ~ 20时36分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -158,11 +159,12 @@
             10,
             15,
             18,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时39分 ~ 19时38分]"
+          "appearance_count": 22,
+          "time_info": "[09时39分 ~ 20时36分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -284,6 +286,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 16时25分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "华为官网更新余承东新头衔",
