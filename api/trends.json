@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T15:19:35.299816+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-10-26T15:39:03.751269+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 15时39分]"
         },
         {
           "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
@@ -32,8 +32,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 15时39分]"
+        },
+        {
+          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
+          "url": "https://wallstreetcn.com/articles/3757910",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 15时39分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -47,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 35,
+          "time_info": "[00时21分 ~ 15时39分]"
         },
         {
           "title": "曼联4:2布莱顿",
@@ -61,22 +75,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 15时39分]"
         },
         {
-          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
-          "url": "https://wallstreetcn.com/articles/3757910",
-          "source": "华尔街见闻",
+          "title": "李在明警告诈骗集团：别碰韩国人",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
+            4,
             8,
-            6,
-            5,
-            4
+            7,
+            10,
+            18,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时10分 ~ 15时39分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -112,25 +129,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时19分]"
-        },
-        {
-          "title": "李在明警告诈骗集团：别碰韩国人",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8,
-            7,
-            10,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 15时39分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
@@ -148,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时43分 ~ 15时19分]"
+          "appearance_count": 33,
+          "time_info": "[00时43分 ~ 15时39分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -165,8 +165,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时22分 ~ 15时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 15时39分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -215,6 +215,20 @@
           "time_info": "[12时23分 ~ 14时29分]"
         },
         {
+          "title": "曼联三连胜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B8%89%E8%BF%9E%E8%83%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 15时39分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
           "url": "https://flash.jin10.com/detail/20251026103053632800",
           "source": "金十数据",
@@ -242,20 +256,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时10分 ~ 12时43分]"
-        },
-        {
-          "title": "曼联三连胜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B8%89%E8%BF%9E%E8%83%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            19,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时19分]"
         },
         {
           "title": "华为官网更新余承东头衔",
