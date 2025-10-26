@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T11:53:49.097557+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-10-26T12:23:23.553229+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -15,11 +15,12 @@
             4,
             5,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时21分 ~ 11时53分]"
+          "appearance_count": 27,
+          "time_info": "[00时21分 ~ 12时23分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -46,11 +47,12 @@
           "ranks": [
             7,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 11时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 12时23分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
@@ -67,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时43分 ~ 11时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时43分 ~ 12时23分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -93,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时23分]"
         },
         {
           "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
@@ -108,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时23分]"
         },
         {
           "title": "曼联4:2布莱顿",
@@ -120,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时23分]"
         },
         {
           "title": "曼联4-2布莱顿",
@@ -130,11 +133,12 @@
           "ranks": [
             2,
             3,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时23分]"
         },
         {
           "title": "李在明警告诈骗集团：别碰韩国人",
@@ -142,11 +146,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 12时23分]"
         },
         {
           "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
@@ -157,20 +162,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 12时23分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
-          "url": "https://flash.jin10.com/detail/20251026103053632800",
+          "title": "华为官网更新余承东职位信息",
+          "url": "https://flash.jin10.com/detail/20251026114329928800",
           "source": "金十数据",
           "ranks": [
-            6,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 11时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "2526 赛季英超联赛英超第 9 轮曼联 4:2 布莱顿，如何评价这场比赛？",
@@ -178,11 +182,36 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 12时23分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
+          "url": "https://flash.jin10.com/detail/20251026103053632800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 12时23分]"
+        },
+        {
+          "title": "茅台集团五年内第四次换帅，陈华接替张德芹出任董事长，如何看待这一调整？新帅将会给茅台带来哪些新气象？",
+          "url": "https://www.zhihu.com/question/1965494526287274913",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
