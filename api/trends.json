@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T21:26:26.912200+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-10-26T21:41:03.068154+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时39分 ~ 21时26分]"
+          "appearance_count": 25,
+          "time_info": "[09时39分 ~ 21时41分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -164,8 +164,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时39分 ~ 21时26分]"
+          "appearance_count": 25,
+          "time_info": "[09时39分 ~ 21时41分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -215,6 +215,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时23分 ~ 15时19分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 21时41分]"
         },
         {
           "title": "华为官网更新余承东职位信息",
@@ -273,18 +285,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时10分 ~ 12时43分]"
-        },
-        {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时26分]"
         },
         {
           "title": "华为官网更新余承东头衔",
