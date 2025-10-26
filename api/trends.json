@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T13:20:23.267608+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-10-26T13:42:40.499523+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -19,8 +19,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 30,
+          "time_info": "[00时21分 ~ 13时42分]"
+        },
+        {
+          "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
+          "url": "https://www.cls.cn/detail/2180702",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 13时42分]"
+        },
+        {
+          "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
+          "url": "https://wallstreetcn.com/livenews/2993718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 13时42分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -41,6 +67,19 @@
           "time_info": "[01时17分 ~ 07时39分]"
         },
         {
+          "title": "曼联4:2布莱顿",
+          "url": "https://www.douyin.com/hot/2283185",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 13时42分]"
+        },
+        {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
           "url": "https://wallstreetcn.com/livenews/2993697",
           "source": "华尔街见闻-快讯",
@@ -48,36 +87,12 @@
             7,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 13时20分]"
-        },
-        {
-          "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
-          "url": "https://wallstreetcn.com/livenews/2993718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时20分]"
-        },
-        {
-          "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
-          "url": "https://www.cls.cn/detail/2180702",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 13时42分]"
         },
         {
           "title": "李在明警告东南亚诈骗集团",
@@ -94,21 +109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时43分 ~ 13时20分]"
-        },
-        {
-          "title": "曼联4:2布莱顿",
-          "url": "https://www.douyin.com/hot/2283185",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时43分 ~ 13时42分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -128,19 +130,6 @@
           "time_info": "[01时17分 ~ 06时40分]"
         },
         {
-          "title": "李在明警告诈骗集团：别碰韩国人",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时20分]"
-        },
-        {
           "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
           "url": "https://wallstreetcn.com/articles/3757910",
           "source": "华尔街见闻",
@@ -149,8 +138,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 13时42分]"
+        },
+        {
+          "title": "李在明警告诈骗集团：别碰韩国人",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 13时42分]"
         },
         {
           "title": "曼联4-2布莱顿",
@@ -162,11 +165,12 @@
             16,
             9,
             24,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 13时42分]"
         },
         {
           "title": "华为官网更新余承东职位信息",
@@ -175,11 +179,12 @@
           "ranks": [
             1,
             2,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时42分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -220,8 +225,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时42分]"
         },
         {
           "title": "曼联三连胜",
@@ -229,11 +234,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            19
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时42分]"
+        },
+        {
+          "title": "华为官网更新余承东头衔",
+          "url": "https://www.toutiao.com/trending/7565035024664723482/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 13时42分]"
         },
         {
           "title": "华为官网更新余承东新头衔",
@@ -243,19 +261,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时42分]"
         },
         {
-          "title": "华为官网更新余承东头衔",
-          "url": "https://www.toutiao.com/trending/7565035024664723482/",
+          "title": "马斯克“捍卫”万亿美元薪酬方案",
+          "url": "https://www.toutiao.com/trending/7565371189137247807/",
           "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "13时42分"
         }
       ]
     }
