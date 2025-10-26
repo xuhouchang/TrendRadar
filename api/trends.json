@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T18:42:52.017953+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-10-26T19:17:30.722864+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时39分 ~ 18时42分]"
+          "appearance_count": 20,
+          "time_info": "[09时39分 ~ 19时17分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -46,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时10分 ~ 18时42分]"
+          "appearance_count": 19,
+          "time_info": "[11时10分 ~ 19时17分]"
         },
         {
           "title": "曼联4:2布莱顿",
@@ -77,11 +77,12 @@
             15,
             16,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时39分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[09时39分 ~ 19时17分]"
         },
         {
           "title": "李在明警告诈骗集团：别碰韩国人",
@@ -119,30 +120,6 @@
           "time_info": "[01时17分 ~ 07时39分]"
         },
         {
-          "title": "曼联4-2布莱顿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%944-2%E5%B8%83%E8%8E%B1%E9%A1%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            16,
-            9,
-            24,
-            21,
-            17,
-            23,
-            13,
-            22,
-            26,
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时39分 ~ 18时42分]"
-        },
-        {
           "title": "李在明警告东南亚诈骗集团",
           "url": "https://www.douyin.com/hot/2282791",
           "source": "抖音",
@@ -160,6 +137,31 @@
           "is_new": false,
           "appearance_count": 33,
           "time_info": "[00时43分 ~ 15时39分]"
+        },
+        {
+          "title": "曼联4-2布莱顿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%944-2%E5%B8%83%E8%8E%B1%E9%A1%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            16,
+            9,
+            24,
+            21,
+            17,
+            23,
+            13,
+            22,
+            26,
+            10,
+            15,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[09时39分 ~ 19时17分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
