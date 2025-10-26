@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T23:19:55.883256+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2025-10-26T23:40:15.123697+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[09时39分 ~ 23时19分]"
+          "appearance_count": 30,
+          "time_info": "[09时39分 ~ 23时40分]"
         },
         {
           "title": "茅台集团时隔一年半再换帅：贵州省能源局局长陈华接任董事长，张德芹另作他任",
@@ -62,6 +62,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时39分 ~ 15时39分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[20时36分 ~ 23时40分]"
         },
         {
           "title": "李在明警告诈骗集团：别碰韩国人",
@@ -166,19 +179,6 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[09时39分 ~ 21时41分]"
-        },
-        {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
