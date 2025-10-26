@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T14:29:32.693720+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2025-10-26T14:49:35.602294+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时21分 ~ 14时29分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时49分]"
         },
         {
           "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时49分]"
         },
         {
           "title": "华为官网更新余承东职位：增任华为产品投资委员会主任",
@@ -43,11 +43,12 @@
             3,
             4,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时49分]"
         },
         {
           "title": "曼联4:2布莱顿",
@@ -60,8 +61,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时49分]"
+        },
+        {
+          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
+          "url": "https://wallstreetcn.com/articles/3757910",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时29分]"
+          "time_info": "[11时10分 ~ 14时49分]"
         },
         {
           "title": "马斯克盛赞朱雀三号",
@@ -97,21 +112,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时43分 ~ 14时29分]"
+          "appearance_count": 30,
+          "time_info": "[00时43分 ~ 14时49分]"
         },
         {
-          "title": "马斯克盛赞朱雀三号：能够击败SpaceX猎鹰9号",
-          "url": "https://wallstreetcn.com/articles/3757910",
-          "source": "华尔街见闻",
+          "title": "李在明警告诈骗集团：别碰韩国人",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
+            4,
             8,
-            6,
-            5
+            7,
+            10,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 14时49分]"
         },
         {
           "title": "宁德时代“6006”纯电动货船入选交通运输与能源融合创新发展优秀典型案例",
@@ -123,26 +141,31 @@
             18,
             19,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 14时49分]"
         },
         {
-          "title": "李在明警告诈骗集团：别碰韩国人",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%E8%AF%88%E9%AA%97%E9%9B%86%E5%9B%A2%EF%BC%9A%E5%88%AB%E7%A2%B0%E9%9F%A9%E5%9B%BD%E4%BA%BA",
-          "source": "百度热搜",
+          "title": "曼联4-2布莱顿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%944-2%E5%B8%83%E8%8E%B1%E9%A1%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            8,
-            7,
-            10,
-            18
+            2,
+            3,
+            16,
+            9,
+            24,
+            21,
+            17,
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 14时49分]"
         },
         {
           "title": "BLACKPINK曼谷演唱会",
@@ -162,24 +185,6 @@
           "time_info": "[01时17分 ~ 06时40分]"
         },
         {
-          "title": "曼联4-2布莱顿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%944-2%E5%B8%83%E8%8E%B1%E9%A1%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            16,
-            9,
-            24,
-            21,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时29分]"
-        },
-        {
           "title": "华为官网更新余承东职位信息",
           "url": "https://flash.jin10.com/detail/20251026114329928800",
           "source": "金十数据",
@@ -193,6 +198,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 14时29分]"
+        },
+        {
+          "title": "茅台集团五年内第四次换帅，陈华接替张德芹出任董事长，如何看待这一调整？新帅将会给茅台带来哪些新气象？",
+          "url": "https://www.zhihu.com/question/1965494526287274913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 14时49分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -224,30 +243,18 @@
           "time_info": "[11时10分 ~ 12时43分]"
         },
         {
-          "title": "茅台集团五年内第四次换帅，陈华接替张德芹出任董事长，如何看待这一调整？新帅将会给茅台带来哪些新气象？",
-          "url": "https://www.zhihu.com/question/1965494526287274913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 14时29分]"
-        },
-        {
           "title": "曼联三连胜",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B8%89%E8%BF%9E%E8%83%9C",
           "source": "bilibili 热搜",
           "ranks": [
             23,
             19,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时49分]"
         },
         {
           "title": "华为官网更新余承东头衔",
@@ -259,8 +266,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 14时49分]"
         },
         {
           "title": "华为官网更新余承东新头衔",
