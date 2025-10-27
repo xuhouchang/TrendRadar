@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T20:44:05.986620+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2025-10-27T21:33:09.418558+08:00",
+  "total_titles_processed": 1861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
@@ -52,6 +52,18 @@
           "time_info": "[11时21分 ~ 18时25分]"
         },
         {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 21时33分]"
+        },
+        {
           "title": "丰田：9月从日本出口至美国的汽车数量同比增长49%，达到58,430辆。",
           "url": "https://flash.jin10.com/detail/20251027124939764800",
           "source": "金十数据",
@@ -75,15 +87,18 @@
           "time_info": "19时18分"
         },
         {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "佘诗曼谈许绍雄身体状况落泪",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%B0%88%E8%AE%B8%E7%BB%8D%E9%9B%84%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E8%90%BD%E6%B3%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E8%25B0%2588%25E8%25AE%25B8%25E7%25BB%258D%25E9%259B%2584%25E8%25BA%25AB%25E4%25BD%2593%25E7%258A%25B6%25E5%2586%25B5%25E8%2590%25BD%25E6%25B3%25AA%2523%26filter_type%3Drealtimehot%26pos%3D19%26flag%3D1%26band_rank%3D18%26cate%3D5001%26dgr%3D0%26realpos%3D18%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761563834%26pre_seqid%3D17615638348090206808407",
+          "source": "微博",
           "ranks": [
-            6
+            18,
+            16,
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 20时44分]"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "法拉第未来在美成立汽车金融公司并完成牌照申请",
@@ -95,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
-          "url": "https://flash.jin10.com/detail/20251027203231598800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "赛力斯集团预计11月4日在港上市交易，招股价格不超过每股131.5港元。",
@@ -133,17 +137,6 @@
           "time_info": "[19时18分 ~ 20时44分]"
         },
         {
-          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2994338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "龙佰集团：第三季度净利润2.89亿元，同比下降65.66%。",
           "url": "https://wallstreetcn.com/livenews/2994278",
           "source": "华尔街见闻-快讯",
@@ -154,6 +147,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时18分 ~ 20时44分]"
+        },
+        {
+          "title": "佘诗曼回应许绍雄病危入院",
+          "url": "https://www.toutiao.com/trending/7565784984788090918/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 21时33分]"
         },
         {
           "title": "据日经新闻：丰田汽车(TM.N)将向越南投资3.6亿美元，以提升产能。",
@@ -184,7 +190,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -219,9 +225,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251027203231598800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时33分]"
         },
         {
           "title": "丰田汽车上半财年全球销售创纪录，美国市场强劲增长",
@@ -234,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 14时33分]"
+        },
+        {
+          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2994338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时33分]"
         },
         {
           "title": "丰田：9月集团全球销量同比增长2.8%，达到949,153辆。",
@@ -260,19 +290,6 @@
           "time_info": "[15时21分 ~ 15时40分]"
         },
         {
-          "title": "佘诗曼谈许绍雄身体状况落泪",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%B0%88%E8%AE%B8%E7%BB%8D%E9%9B%84%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E8%90%BD%E6%B3%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E8%25B0%2588%25E8%25AE%25B8%25E7%25BB%258D%25E9%259B%2584%25E8%25BA%25AB%25E4%25BD%2593%25E7%258A%25B6%25E5%2586%25B5%25E8%2590%25BD%25E6%25B3%25AA%2523%26filter_type%3Drealtimehot%26pos%3D19%26flag%3D1%26band_rank%3D18%26cate%3D5001%26dgr%3D0%26realpos%3D18%26c_type%3D31%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761563834%26pre_seqid%3D17615638348090206808407",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 20时44分]"
-        },
-        {
           "title": "中央决定：王俊任东风汽车集团副总经理、党委常委",
           "url": "https://wallstreetcn.com/livenews/2994080",
           "source": "华尔街见闻-快讯",
@@ -295,18 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时45分]"
-        },
-        {
-          "title": "佘诗曼回应许绍雄病危入院",
-          "url": "https://www.toutiao.com/trending/7565784984788090918/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 20时44分]"
         },
         {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
@@ -383,9 +388,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "亿纬锂能：初步确定的转让价格为72.2元/股",
+          "url": "https://wallstreetcn.com/livenews/2994354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "英国财政大臣里夫斯：我相信英国能够达成海湾合作委员会贸易协议。",
@@ -416,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
