@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:29:50.216498+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2025-10-28T02:52:05.957845+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/2994488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 02时52分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -40,8 +29,35 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 02时52分]"
+        },
+        {
+          "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2994488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时52分]"
+        },
+        {
+          "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
+          "url": "https://wallstreetcn.com/livenews/2994461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时29分]"
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "美元兑加元持稳，暂报1.4。 加拿大股指维持0.6%的跌幅，暂报30167点。 加拿大安大略省长Doug Ford表示，美国人正在钢铁贸易问题上欺诈加拿大。 在加拿大与美国贸易磋商中，汽车行业（的重要性）已经下滑。",
@@ -57,20 +73,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 02时29分]"
-        },
-        {
-          "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
-          "url": "https://wallstreetcn.com/livenews/2994461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 02时29分]"
         },
         {
           "title": "加拿大安大略省省长：加拿大汽车行业在美加谈判中已处于不利地位。",
@@ -120,11 +122,38 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时52分]"
+        },
+        {
+          "title": "考克斯汽车：展望未来，电动汽车领域将开辟一条新路径，不再依赖政府支持的销售激励措施。随着价格上涨，未来几个月其他车辆的市场状况预计将变得更加严峻。",
+          "url": "https://flash.jin10.com/detail/20251028010747526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时52分]"
+        },
+        {
+          "title": "考克斯汽车：尽管关税不确定性持续存在，但今年夏季新车销售速度却出人意料地强劲。预计10月份销量将达到130万辆，同比下降3.1%，但环比增长2.7%。",
+          "url": "https://flash.jin10.com/detail/20251028010718301800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 02时52分]"
         },
         {
           "title": "花旗集团(C.N)和Coinbase(COIN.O)将在未来几个月分享具体举措。",
@@ -166,18 +195,6 @@
           "time_info": "[00时50分 ~ 01时41分]"
         },
         {
-          "title": "考克斯汽车：展望未来，电动汽车领域将开辟一条新路径，不再依赖政府支持的销售激励措施。随着价格上涨，未来几个月其他车辆的市场状况预计将变得更加严峻。",
-          "url": "https://flash.jin10.com/detail/20251028010747526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时29分]"
-        },
-        {
           "title": "佘诗曼回应许绍雄病危入院",
           "url": "https://www.toutiao.com/trending/7565784984788090918/",
           "source": "今日头条",
@@ -188,18 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时41分]"
-        },
-        {
-          "title": "考克斯汽车：尽管关税不确定性持续存在，但今年夏季新车销售速度却出人意料地强劲。预计10月份销量将达到130万辆，同比下降3.1%，但环比增长2.7%。",
-          "url": "https://flash.jin10.com/detail/20251028010718301800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时29分]"
         },
         {
           "title": "花旗集团(C.N)与Coinbase(COIN.O)合作开发面向机构客户的数字资产支付能力。",
