@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T05:39:41.406120+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-10-28T06:30:58.495395+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 05时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 06时30分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 05时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 06时30分]"
         },
         {
           "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
@@ -63,6 +64,18 @@
           "time_info": "[00时50分 ~ 02时52分]"
         },
         {
+          "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
+          "url": "https://wallstreetcn.com/livenews/2994547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时30分]"
+        },
+        {
           "title": "佘诗曼回应许绍雄病危入院",
           "url": "https://www.toutiao.com/trending/7565784984788090918/",
           "source": "今日头条",
@@ -91,6 +104,35 @@
           "time_info": "[00时29分 ~ 02时29分]"
         },
         {
+          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
+          "url": "https://flash.jin10.com/detail/20251028033138017800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            16,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 06时30分]"
+        },
+        {
+          "title": "阿斯顿维拉1:0曼城",
+          "url": "https://www.douyin.com/hot/2284137",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 06时30分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/2994517",
           "source": "华尔街见闻-快讯",
@@ -102,17 +144,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
-          "url": "https://wallstreetcn.com/livenews/2994547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
           "url": "https://wallstreetcn.com/livenews/2994515",
           "source": "华尔街见闻-快讯",
@@ -122,6 +153,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
+          "url": "https://wallstreetcn.com/livenews/2994531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 06时30分]"
         },
         {
           "title": "加拿大安大略省省长：加拿大汽车行业在美加谈判中已处于不利地位。",
@@ -138,31 +183,18 @@
           "time_info": "[00时29分 ~ 01时41分]"
         },
         {
-          "title": "阿斯顿维拉1:0曼城",
-          "url": "https://www.douyin.com/hot/2284137",
-          "source": "抖音",
+          "title": "周一（10月27日），彭博电动汽车价格回报指数涨0.56%，报3540.75点，北京时间09:45曾涨至3564.34点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/2994526",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            15,
-            9
+            3,
+            14,
+            21,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时20分 ~ 05时20分]"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，纽约州审计长托马斯·P·迪纳波利敦促特斯拉(TSLA.O)股东投票反对2025年首席执行官绩效奖励方案。",
-          "url": "https://flash.jin10.com/detail/20251028033138017800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 05时39分]"
+          "time_info": "[04时41分 ~ 06时30分]"
         },
         {
           "title": "伦敦证券交易所集团（LSEG）与Anthropic构建合作伙伴关系。",
@@ -193,30 +225,18 @@
           "time_info": "[00时50分 ~ 02时29分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
-          "url": "https://wallstreetcn.com/livenews/2994531",
+          "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/2994517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12,
-            19
+            8,
+            19,
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时39分]"
-        },
-        {
-          "title": "周一（10月27日），彭博电动汽车价格回报指数涨0.56%，报3540.75点，北京时间09:45曾涨至3564.34点刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/2994526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 06时30分]"
         },
         {
           "title": "巴拿马运河表示，已启动与航运业的合作，以确定对大西洋和太平洋沿岸港口码头开发潜在感兴趣的各方。",
@@ -258,17 +278,17 @@
           "time_info": "[01时41分 ~ 02时52分]"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
-          "url": "https://wallstreetcn.com/livenews/2994517",
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19,
-            26
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时39分]"
+          "time_info": "[05时20分 ~ 06时30分]"
         },
         {
           "title": "花旗集团(C.N)和Coinbase(COIN.O)将在未来几个月分享具体举措。",
@@ -308,18 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时41分]"
-        },
-        {
-          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
-          "url": "https://wallstreetcn.com/livenews/2994535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时39分]"
         },
         {
           "title": "花旗集团(C.N)与Coinbase(COIN.O)合作开发面向机构客户的数字资产支付能力。",
