@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T03:18:02.881251+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-10-28T03:40:10.895236+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 03时40分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 03时40分]"
         },
         {
           "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
@@ -54,11 +54,25 @@
           "ranks": [
             1,
             7,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 03时40分]"
+        },
+        {
+          "title": "佘诗曼回应许绍雄病危入院",
+          "url": "https://www.toutiao.com/trending/7565784984788090918/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时40分]"
         },
         {
           "title": "美元兑加元持稳，暂报1.4。 加拿大股指维持0.6%的跌幅，暂报30167点。 加拿大安大略省长Doug Ford表示，美国人正在钢铁贸易问题上欺诈加拿大。 在加拿大与美国贸易磋商中，汽车行业（的重要性）已经下滑。",
@@ -194,18 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时41分]"
-        },
-        {
-          "title": "佘诗曼回应许绍雄病危入院",
-          "url": "https://www.toutiao.com/trending/7565784984788090918/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时41分]"
         },
         {
           "title": "花旗集团(C.N)与Coinbase(COIN.O)合作开发面向机构客户的数字资产支付能力。",
