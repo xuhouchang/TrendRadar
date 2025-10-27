@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:52:05.957845+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-10-28T03:18:02.881251+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 02时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -29,20 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 02时52分]"
-        },
-        {
-          "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/2994488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 02时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时18分]"
         },
         {
           "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
@@ -58,6 +46,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 02时52分]"
+        },
+        {
+          "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2994488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 03时18分]"
         },
         {
           "title": "美元兑加元持稳，暂报1.4。 加拿大股指维持0.6%的跌幅，暂报30167点。 加拿大安大略省长Doug Ford表示，美国人正在钢铁贸易问题上欺诈加拿大。 在加拿大与美国贸易磋商中，汽车行业（的重要性）已经下滑。",
