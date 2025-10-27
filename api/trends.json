@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T12:04:50.667552+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-10-27T12:50:40.738218+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时23分 ~ 12时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时23分 ~ 12时50分]"
         },
         {
           "title": "法拉第未来在美成立汽车金融公司并完成牌照申请",
@@ -61,11 +62,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 12时50分]"
         },
         {
           "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
@@ -130,7 +132,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
