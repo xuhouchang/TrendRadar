@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T22:43:24.812320+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2025-10-27T23:22:25.133446+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】光刻胶领域，我国取得新突破；茅台集团换帅",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时43分 ~ 22时43分]"
+          "appearance_count": 7,
+          "time_info": "[20时43分 ~ 23时22分]"
         },
         {
           "title": "姆伯莫摊手封神,曼联杀回欧冠区",
@@ -71,11 +71,12 @@
             26,
             15,
             17,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时41分 ~ 22时43分]"
+          "appearance_count": 8,
+          "time_info": "[19时41分 ~ 23时22分]"
         },
         {
           "title": "丰田：9月从日本出口至美国的汽车数量同比增长49%，达到58,430辆。",
@@ -436,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "据英国金融时报：黑石集团(BX.N)聘请了阿波罗公司的Raba担任欧洲企业私募股权业务负责人。",
+          "url": "https://flash.jin10.com/detail/20251027224118857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "A股钢铁板块震荡上扬，常宝股份涨停，中信特钢涨超7%，钒钛股份、友发集团、金洲管道、首钢股份跟涨。",
