@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T09:28:14.462736+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2025-10-28T10:53:31.398991+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 09时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 10时53分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -29,11 +30,12 @@
             10,
             8,
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 09时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 10时53分]"
         },
         {
           "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
@@ -122,6 +124,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 02时29分]"
+        },
+        {
+          "title": "商务部：中国与东盟首次明确在制定自身标准时可考虑参考对方标准，并优先推进新能源汽车、电子电器等领域标准合作",
+          "url": "https://wallstreetcn.com/livenews/2994714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "阿斯顿维拉1:0曼城",
@@ -242,6 +255,17 @@
           "time_info": "[06时42分 ~ 07时38分]"
         },
         {
+          "title": "特斯拉：计划2025年内在美进一步运营Robotaxi，并逐步取消车内安全员",
+          "url": "https://flash.jin10.com/detail/20251028103402293800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
           "url": "https://wallstreetcn.com/livenews/2994517",
           "source": "华尔街见闻-快讯",
@@ -276,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -395,6 +419,28 @@
           "time_info": "[00时29分 ~ 00时50分]"
         },
         {
+          "title": "据韩联社：现代汽车集团董事长郑义宣昨日与沙特王储穆罕默德·本·萨勒曼会面，讨论了现代汽车在当地的发展战略，并探索未来商机。",
+          "url": "https://flash.jin10.com/detail/20251028100358678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "小鹏前三季度获海外10国新势力销量第一",
+          "url": "https://wallstreetcn.com/livenews/2994682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "特斯拉(TSLA.O)涨超5%。",
           "url": "https://flash.jin10.com/detail/20251027233346891800",
           "source": "金十数据",
@@ -404,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "A股福建本地股延续强势，平潭发展8天6板，福建水泥2连板，厦门港务、日上集团涨停，海峡创新涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/2994663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
