@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:31:33.195774+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-10-28T14:56:42.404683+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -38,11 +38,12 @@
             11,
             12,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 33,
+          "time_info": "[00时29分 ~ 14时56分]"
         },
         {
           "title": "佘诗曼 文慧心回来了",
@@ -54,8 +55,22 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 14时56分]"
+        },
+        {
+          "title": "比亚迪多款新车型上市",
+          "url": "https://www.toutiao.com/trending/7565437065040756745/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            30,
+            18,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时23分 ~ 14时31分]"
+          "time_info": "[12时23分 ~ 14时56分]"
         },
         {
           "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
@@ -83,20 +98,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时24分 ~ 13时43分]"
-        },
-        {
-          "title": "比亚迪多款新车型上市",
-          "url": "https://www.toutiao.com/trending/7565437065040756745/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            30,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 14时31分]"
         },
         {
           "title": "德意志交易所集团三季度净营收14.4亿欧元，分析师预期14.3亿欧元。 三季度EBITDA为8.42亿欧元，分析师预期8.324亿欧元。 三季度净利润4.73亿欧元，分析师预期4.566亿欧元。 确认全年业绩指引。 维持全年净营收预期在大约52亿欧元不变。 维持全年EBITDA预期在大约27亿欧元不变，分析师预期35.1亿欧元。",
@@ -157,6 +158,29 @@
           "time_info": "[13时21分 ~ 13时43分]"
         },
         {
+          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时56分]"
+        },
+        {
+          "title": "特斯拉董事长呼吁批准马斯克万亿薪酬计划",
+          "url": "https://flash.jin10.com/detail/20251028143104144800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "欧洲汽车制造商协会：9月份欧盟、英国和欧洲自贸联盟（EFTA）的乘用车注册量同比增长10.7%。",
           "url": "https://flash.jin10.com/detail/20251028130202767800",
           "source": "金十数据",
@@ -167,6 +191,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时43分]"
+        },
+        {
+          "title": "小伙买新车未出4S店就报故障",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B9%B0%E6%96%B0%E8%BD%A6%E6%9C%AA%E5%87%BA4S%E5%BA%97%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 14时56分]"
         },
         {
           "title": "佘诗曼回应许绍雄病危入院",
@@ -206,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
-        },
-        {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "阿斯顿维拉1:0曼城",
@@ -279,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "华为余承东：鸿蒙智行全系交付突破100万台。",
-          "url": "https://wallstreetcn.com/livenews/2994811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
@@ -360,20 +376,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 02时29分]"
-        },
-        {
-          "title": "小伙买新车未出4S店就报故障",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E4%B9%B0%E6%96%B0%E8%BD%A6%E6%9C%AA%E5%87%BA4S%E5%BA%97%E5%B0%B1%E6%8A%A5%E6%95%85%E9%9A%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 14时31分]"
         },
         {
           "title": "丰田汽车最早将于2027年在越南生产HV（混合动力汽车）。（日经新闻）",
@@ -513,17 +515,6 @@
           "time_info": "[13时21分 ~ 13时43分]"
         },
         {
-          "title": "蔚来公司单周交付再次破万，乐道L90上市86天突破3万台",
-          "url": "https://wallstreetcn.com/livenews/2994803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
           "title": "考克斯汽车：尽管关税不确定性持续存在，但今年夏季新车销售速度却出人意料地强劲。预计10月份销量将达到130万辆，同比下降3.1%，但环比增长2.7%。",
           "url": "https://flash.jin10.com/detail/20251028010718301800",
           "source": "金十数据",
@@ -562,6 +553,18 @@
           "time_info": "[00时29分 ~ 01时19分]"
         },
         {
+          "title": "华为余承东：鸿蒙智行全系交付突破100万台。",
+          "url": "https://wallstreetcn.com/livenews/2994811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时56分]"
+        },
+        {
           "title": "花旗集团(C.N)和Coinbase(COIN.O)合作初期重点聚焦于法定货币的存取款业务，支持Coinbase的出入金通道。",
           "url": "https://flash.jin10.com/detail/20251028000329176800",
           "source": "金十数据",
@@ -598,6 +601,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时24分]"
+        },
+        {
+          "title": "蔚来公司单周交付再次破万，乐道L90上市86天突破3万台",
+          "url": "https://wallstreetcn.com/livenews/2994803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时56分]"
         },
         {
           "title": "小鹏汽车港股盘中市值超过理想汽车",
