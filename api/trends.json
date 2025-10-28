@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T11:43:06.087777+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2025-10-28T12:24:18.843079+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -15,11 +15,12 @@
             5,
             6,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 11时43分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 12时24分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -32,11 +33,12 @@
             8,
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 11时43分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 12时24分]"
         },
         {
           "title": "标普道琼斯指数公司：Solstice Advanced Materials Inc.（SOLSV）和Qnity Electronics Inc.（Q-W）将被纳入标普500指数，取代车美仕（Carmax）和Chemical。",
@@ -84,6 +86,17 @@
           "time_info": "[04时20分 ~ 06时42分]"
         },
         {
+          "title": "佘诗曼 文慧心回来了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BD%98%E8%AF%97%E6%9B%BC+%E6%96%87%E6%85%A7%E5%BF%83%E5%9B%9E%E6%9D%A5%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D4%26cate%3D5001%26q%3D%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%2520%25E6%2596%2587%25E6%2585%25A7%25E5%25BF%2583%25E5%259B%259E%25E6%259D%25A5%25E4%25BA%2586%26pos%3D3%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1761624603%26pre_seqid%3D17616246033700122575252",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
+        },
+        {
           "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
           "url": "https://wallstreetcn.com/livenews/2994461",
           "source": "华尔街见闻-快讯",
@@ -97,6 +110,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 02时52分]"
+        },
+        {
+          "title": "上海交大和宁德时代联手破世界纪录，大尺寸钙钛矿光伏模组光电转换效率超20%",
+          "url": "https://wallstreetcn.com/livenews/2994760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "佘诗曼回应许绍雄病危入院",
@@ -133,7 +157,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -163,6 +187,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "马斯克推出AI百科全书Grokipedia 挑战维基百科",
+          "url": "https://flash.jin10.com/detail/20251028115301733800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
           "url": "https://wallstreetcn.com/livenews/2994515",
           "source": "华尔街见闻-快讯",
@@ -172,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "比亚迪多款新车型上市",
+          "url": "https://www.toutiao.com/trending/7565437065040756745/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
@@ -214,28 +260,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 06时30分]"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
-          "url": "https://flash.jin10.com/detail/20251028111935881800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "汇天新签约200台飞行汽车采购协议",
-          "url": "https://wallstreetcn.com/livenews/2994727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "伦敦证券交易所集团（LSEG）与Anthropic构建合作伙伴关系。",
@@ -317,6 +341,19 @@
           "time_info": "[05时20分 ~ 06时42分]"
         },
         {
+          "title": "商务部：中国与东盟首次明确在制定自身标准时可考虑参考对方标准，并优先推进新能源汽车、电子电器等领域标准合作",
+          "url": "https://wallstreetcn.com/livenews/2994714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时24分]"
+        },
+        {
           "title": "中国商务部副部长凌激会见韩国SK集团副会长徐镇宇",
           "url": "https://wallstreetcn.com/livenews/2994628",
           "source": "华尔街见闻-快讯",
@@ -339,18 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 02时52分]"
-        },
-        {
-          "title": "商务部：中国与东盟首次明确在制定自身标准时可考虑参考对方标准，并优先推进新能源汽车、电子电器等领域标准合作",
-          "url": "https://wallstreetcn.com/livenews/2994714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时43分]"
         },
         {
           "title": "考克斯汽车：展望未来，电动汽车领域将开辟一条新路径，不再依赖政府支持的销售激励措施。随着价格上涨，未来几个月其他车辆的市场状况预计将变得更加严峻。",
@@ -418,6 +443,30 @@
           "time_info": "[00时50分 ~ 01时41分]"
         },
         {
+          "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
+          "url": "https://flash.jin10.com/detail/20251028111935881800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时24分]"
+        },
+        {
+          "title": "汇天新签约200台飞行汽车采购协议",
+          "url": "https://wallstreetcn.com/livenews/2994727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时24分]"
+        },
+        {
           "title": "马斯克如何评价中国可重复使用火箭",
           "url": "https://www.toutiao.com/trending/7565856789887979054/",
           "source": "今日头条",
@@ -440,6 +489,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时50分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251028110751099800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时24分]"
         },
         {
           "title": "伦敦证券交易所集团（LSEG）宣布与Anthropic合作，旨在为企业客户的Claude提供更多金融数据的访问渠道。",
@@ -466,17 +527,6 @@
           "time_info": "[10时53分 ~ 11时43分]"
         },
         {
-          "title": "金十图示：2025年10月28日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251028110751099800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
           "title": "据韩联社：现代汽车集团董事长郑义宣昨日与沙特王储穆罕默德·本·萨勒曼会面，讨论了现代汽车在当地的发展战略，并探索未来商机。",
           "url": "https://flash.jin10.com/detail/20251028100358678800",
           "source": "金十数据",
@@ -486,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "小鹏汽车港股盘中市值超过理想汽车",
+          "url": "https://wallstreetcn.com/livenews/2994735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%。",
