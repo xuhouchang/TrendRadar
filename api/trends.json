@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T00:53:23.168349+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-10-29T01:23:24.973780+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时23分]"
         },
         {
           "title": "5300亿元！钟睒睒第四次成中国首富，雷军、李书福进前十",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时23分]"
         },
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时23分]"
         },
         {
           "title": "特斯拉（董事会）主席Robyn Denholm：马斯克薪酬计划与绩效挂钩。 除了马斯克，没有人能够领导特斯拉。 “时间将证明”薪酬方案被股东否决后，马斯克是否会离开特斯拉。 对于解决马斯克投票权而言，薪酬计划是唯一的出路。",
@@ -73,7 +73,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
         }
