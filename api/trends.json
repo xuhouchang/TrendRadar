@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:31:34.781038+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2025-10-29T14:54:58.146230+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡润：雷军平均每分钟赚37万",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 14时54分]"
         },
         {
           "title": "宇树机器人拖动1.4吨汽车",
@@ -83,6 +83,17 @@
           "time_info": "[04时25分 ~ 06时20分]"
         },
         {
+          "title": "网警提醒护老安全莫松懈平安度重阳",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E6%8A%A4%E8%80%81%E5%AE%89%E5%85%A8%E8%8E%AB%E6%9D%BE%E6%87%88%E5%B9%B3%E5%AE%89%E5%BA%A6%E9%87%8D%E9%98%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D3%26pos%3D2%26q%3D%2523%25E7%25BD%2591%25E8%25AD%25A6%25E6%258F%2590%25E9%2586%2592%25E6%258A%25A4%25E8%2580%2581%25E5%25AE%2589%25E5%2585%25A8%25E8%258E%25AB%25E6%259D%25BE%25E6%2587%2588%25E5%25B9%25B3%25E5%25AE%2589%25E5%25BA%25A6%25E9%2587%258D%25E9%2598%25B3%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26realpos%3D3%26display_time%3D1761718503%26pre_seqid%3D176171850364202608070125",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时54分]"
+        },
+        {
           "title": "女子弃小米汽车5千定金后获赠直饮杯",
           "url": "https://www.toutiao.com/trending/7565795147196612658/",
           "source": "今日头条",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 13时45分]"
-        },
-        {
-          "title": "网警提醒护老安全莫松懈平安度重阳",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E6%8A%A4%E8%80%81%E5%AE%89%E5%85%A8%E8%8E%AB%E6%9D%BE%E6%87%88%E5%B9%B3%E5%AE%89%E5%BA%A6%E9%87%8D%E9%98%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D3%26pos%3D2%26q%3D%2523%25E7%25BD%2591%25E8%25AD%25A6%25E6%258F%2590%25E9%2586%2592%25E6%258A%25A4%25E8%2580%2581%25E5%25AE%2589%25E5%2585%25A8%25E8%258E%25AB%25E6%259D%25BE%25E6%2587%2588%25E5%25B9%25B3%25E5%25AE%2589%25E5%25BA%25A6%25E9%2587%258D%25E9%2598%25B3%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26realpos%3D3%26display_time%3D1761718503%26pre_seqid%3D176171850364202608070125",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
@@ -357,6 +357,19 @@
           "time_info": "[04时25分 ~ 05时41分]"
         },
         {
+          "title": "马斯克为何称中国火箭5年追平SpaceX",
+          "url": "https://www.toutiao.com/trending/7566461338692619782/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 14时54分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.23%，报8390.32点。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，中国ETF-iShares MSCI（MCHI）收跌0.72%，中概互联网指数ETF（KWEB）收跌0.70%，中国科技指数ETF（CQQQ）收涨0.07%， XtrackersHarvest中证50（ASHS）收跌0.14%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。 富时中国3倍做多ETF（YINN）收跌1.58%，富时中国3倍做空ETF（YANG）收涨1.70%。",
           "url": "https://wallstreetcn.com/livenews/2995347",
           "source": "华尔街见闻-快讯",
@@ -382,18 +395,6 @@
           "time_info": "[11时07分 ~ 12时36分]"
         },
         {
-          "title": "马斯克为何称中国火箭5年追平SpaceX",
-          "url": "https://www.toutiao.com/trending/7566461338692619782/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时31分]"
-        },
-        {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
           "url": "https://flash.jin10.com/detail/20251029024018931800",
           "source": "金十数据",
@@ -404,6 +405,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 03时40分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰集团第三季度调整后息税前利润超过预估",
+          "url": "https://wallstreetcn.com/livenews/2995641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时54分]"
         },
         {
           "title": "湖北省委书记王忠林与小米集团董事长雷军交流",
@@ -465,17 +478,6 @@
           "time_info": "09时29分"
         },
         {
-          "title": "梅赛德斯-奔驰集团第三季度调整后息税前利润超过预估",
-          "url": "https://wallstreetcn.com/livenews/2995641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
           "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
           "url": "https://flash.jin10.com/detail/20251029114229037800",
           "source": "金十数据",
@@ -496,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "比亚迪首款K-Car车型Racco面向日本市场首发",
+          "url": "https://flash.jin10.com/detail/20251029142354772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "金十图示：2025年10月29日（周三）全球汽车制造商市值变化",
