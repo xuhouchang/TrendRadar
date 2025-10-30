@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T22:23:55.442765+08:00",
-  "total_titles_processed": 2142,
+  "generated_at": "2025-10-30T22:46:40.012489+08:00",
+  "total_titles_processed": 2197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "宗馥莉现身宏胜集团会议",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时24分 ~ 22时23分]"
+          "appearance_count": 25,
+          "time_info": "[12时24分 ~ 22时46分]"
         },
         {
           "title": "余承东宣布鸿蒙智行全系交付突破 100 万台，这一成绩在新势力品牌中处于什么水平？",
@@ -176,15 +176,17 @@
           "time_info": "17时43分"
         },
         {
-          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
-          "url": "https://wallstreetcn.com/livenews/2997000",
-          "source": "华尔街见闻-快讯",
+          "title": "清华回应孙颖莎王曼昱免试录取",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%85%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%8D%E8%AF%95%E5%BD%95%E5%8F%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26q%3D%2523%25E6%25B8%2585%25E5%258D%258E%25E5%259B%259E%25E5%25BA%2594%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E5%2585%258D%25E8%25AF%2595%25E5%25BD%2595%25E5%258F%2596%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D29%26lcate%3D5001%26band_rank%3D29%26pos%3D29%26stream_entry_id%3D31%26display_time%3D1761830405%26pre_seqid%3D1761830405348027496981",
+          "source": "微博",
           "ranks": [
-            1
+            29,
+            7,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时46分]"
         },
         {
           "title": "大众汽车首席财务官：（谈及美国关税）我们正在研究对策，其中最大的举措将是在成本端进行补偿。也在考虑奥迪方面的本土化问题，但目前尚无法对此作出明确表态。",
@@ -256,6 +258,17 @@
           "time_info": "17时43分"
         },
         {
+          "title": "壳牌(SHEL.N)CEO：人工智能正在提升上游业务表现。",
+          "url": "https://flash.jin10.com/detail/20251030224331616800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。",
           "url": "https://wallstreetcn.com/livenews/2996540",
           "source": "华尔街见闻-快讯",
@@ -265,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "新能源汽车出口同比增长52%",
+          "url": "https://www.douyin.com/hot/2288899",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         },
         {
           "title": "壳牌宣布35亿美元的股票回购计划。",
@@ -313,17 +337,6 @@
           "time_info": "20时42分"
         },
         {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
-        },
-        {
           "title": "大众汽车CFO：今年迄今关税影响达21亿欧元。",
           "url": "https://flash.jin10.com/detail/20251030162308535800",
           "source": "金十数据",
@@ -347,15 +360,39 @@
           "time_info": "[14时53分 ~ 15时40分]"
         },
         {
-          "title": "新能源汽车出口同比增长52%",
-          "url": "https://www.douyin.com/hot/2288899",
-          "source": "抖音",
+          "title": "壳牌(SHEL.N)CFO：我们并未看到第四季度有像第三季度那样多的优质液化天然气贸易机会。",
+          "url": "https://flash.jin10.com/detail/20251030224213619800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "22时46分"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时46分]"
+        },
+        {
+          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
+          "url": "https://wallstreetcn.com/livenews/2997000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         },
         {
           "title": "松下到2035年将把电动汽车电池价格砍掉40%。（日刊工业新闻）",
@@ -429,18 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时42分]"
-        },
-        {
-          "title": "清华回应孙颖莎王曼昱免试录取",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%85%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%8D%E8%AF%95%E5%BD%95%E5%8F%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26q%3D%2523%25E6%25B8%2585%25E5%258D%258E%25E5%259B%259E%25E5%25BA%2594%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E5%2585%258D%25E8%25AF%2595%25E5%25BD%2595%25E5%258F%2596%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D29%26lcate%3D5001%26band_rank%3D29%26pos%3D29%26stream_entry_id%3D31%26display_time%3D1761830405%26pre_seqid%3D1761830405348027496981",
-          "source": "微博",
-          "ranks": [
-            29,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时23分]"
         },
         {
           "title": "现代汽车印度公司高管：公司SUV车型在销量中仍有进一步提升的空间。",
