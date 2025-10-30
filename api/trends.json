@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T17:22:18.003718+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2025-10-30T17:43:28.304653+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "宗馥莉现身宏胜集团会议",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时24分 ~ 17时22分]"
+          "appearance_count": 15,
+          "time_info": "[12时24分 ~ 17时43分]"
         },
         {
           "title": "余承东宣布鸿蒙智行全系交付突破 100 万台，这一成绩在新势力品牌中处于什么水平？",
@@ -92,6 +92,18 @@
           "time_info": "[11时48分 ~ 13时42分]"
         },
         {
+          "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
+          "url": "https://flash.jin10.com/detail/20251030171732851800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时43分]"
+        },
+        {
           "title": "现代汽车：新兴市场需求正在放缓。",
           "url": "https://flash.jin10.com/detail/20251030130756177800",
           "source": "金十数据",
@@ -140,15 +152,15 @@
           "time_info": "16时50分"
         },
         {
-          "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
-          "url": "https://flash.jin10.com/detail/20251030171732851800",
+          "title": "在英国《金融时报》报道埃克森美孚高管取消与莫桑比克总统的会面后，莫桑比克唯一一只国际债券价格下跌逾3美分，至每美元85.5美分。",
+          "url": "https://flash.jin10.com/detail/20251030172730163800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "17时43分"
         },
         {
           "title": "大众汽车首席财务官：（谈及美国关税）我们正在研究对策，其中最大的举措将是在成本端进行补偿。也在考虑奥迪方面的本土化问题，但目前尚无法对此作出明确表态。",
@@ -207,6 +219,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时22分 ~ 14时30分]"
+        },
+        {
+          "title": "大众汽车首席财务官：如果美国电动汽车的快速扩张未能如期实现，将调整PowerCo电池工厂的扩建计划。",
+          "url": "https://flash.jin10.com/detail/20251030172615221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。",
@@ -460,7 +483,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
