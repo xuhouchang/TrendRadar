@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T06:41:57.520306+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-10-31T07:18:50.739441+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 06时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 06时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 06时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "你如何看孙颖莎王曼昱被清华免试录取",
@@ -54,8 +54,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 06时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -79,6 +79,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 03时38分]"
+        },
+        {
+          "title": "比亚迪高管谈固态电池布局",
+          "url": "https://www.toutiao.com/trending/7566958527453875755/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24,
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "曼谷有什么小众有特点的地方值得去？",
@@ -114,19 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "比亚迪高管谈固态电池布局",
-          "url": "https://www.toutiao.com/trending/7566958527453875755/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 05时39分]"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -246,9 +247,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时18分]"
         }
       ]
     }
