@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T01:43:00.766632+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-10-31T02:29:15.357450+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 02时29分]"
         },
         {
           "title": "你如何看孙颖莎王曼昱被清华免试录取",
@@ -50,8 +51,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 02时29分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时18分]"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 01时43分]"
         }
       ]
     }
