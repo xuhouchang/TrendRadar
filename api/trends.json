@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T09:31:31.883403+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-10-30T11:01:54.186676+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时31分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[04时31分 ~ 11时01分]"
         },
         {
           "title": "蒯曼2比3不敌金娜英",
@@ -63,17 +63,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时31分 ~ 06时45分]"
-        },
-        {
-          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
-          "url": "https://www.zhihu.com/question/1966813234586678079",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
@@ -99,6 +88,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时41分]"
+        },
+        {
+          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
+          "url": "https://www.zhihu.com/question/1966813234586678079",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 11时01分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -144,7 +145,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
