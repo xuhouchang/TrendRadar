@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T15:19:41.182719+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-10-31T15:39:30.189509+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "新能源汽车出口同比增长52%",
@@ -69,11 +69,12 @@
             29,
             27,
             28,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时18分 ~ 13时44分]"
+          "appearance_count": 19,
+          "time_info": "[01时18分 ~ 15时39分]"
         },
         {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
@@ -99,6 +100,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 07时18分]"
+        },
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时39分]"
+        },
+        {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 15时39分]"
         },
         {
           "title": "曼谷有什么小众有特点的地方值得去？",
@@ -136,26 +160,15 @@
           "time_info": "04时22分"
         },
         {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
+          "title": "韩国总统办公室：英伟达(NVDA.O)与现代汽车将成立人工智能合资企业。",
+          "url": "https://flash.jin10.com/detail/20251031151914390800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时19分]"
+          "time_info": "15时39分"
         },
         {
           "title": "被传获雷军旗下顺为资本投资，国货羽绒服高梵：不作回应",
@@ -372,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回14,843辆美国车辆。因为停车功能失效可能导致车辆溜车，增加碰撞或受伤的风险。",
+          "url": "https://flash.jin10.com/detail/20251031150606980800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "三星SDI与宝马集团就全固态电池验证项目达成合作",
