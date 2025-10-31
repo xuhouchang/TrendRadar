@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T23:25:36.670904+08:00",
-  "total_titles_processed": 2333,
+  "generated_at": "2025-10-31T23:44:27.346832+08:00",
+  "total_titles_processed": 2357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "中美在建立“G2”集团？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时29分 ~ 23时25分]"
+          "appearance_count": 18,
+          "time_info": "[16时29分 ~ 23时44分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时19分 ~ 23时25分]"
+          "appearance_count": 20,
+          "time_info": "[15时19分 ~ 23时44分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时53分 ~ 23时25分]"
+          "appearance_count": 21,
+          "time_info": "[14时53分 ~ 23时44分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -89,6 +89,20 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时28分 ~ 09时28分]"
+        },
+        {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时38分 ~ 23时44分]"
         },
         {
           "title": "比亚迪第三季度营收1950亿元，归母净利润78.2亿元 | 财报见闻",
@@ -146,18 +160,17 @@
           "time_info": "[01时18分 ~ 16时48分]"
         },
         {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            11,
-            10
+            3,
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时38分 ~ 23时25分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时44分]"
         },
         {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
@@ -223,18 +236,6 @@
           "time_info": "[16时29分 ~ 17时42分]"
         },
         {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时25分]"
-        },
-        {
           "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
           "url": "https://wallstreetcn.com/livenews/2997591",
           "source": "华尔街见闻-快讯",
@@ -286,6 +287,17 @@
           "time_info": "[18时46分 ~ 19时39分]"
         },
         {
+          "title": "大众汽车：从巴西国家经济和社会发展银行获得23亿雷亚尔的信贷额度，以推动混合动力汽车的开发和出口。",
+          "url": "https://flash.jin10.com/detail/20251031233024932800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度营收及其他收入497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2997653",
           "source": "华尔街见闻-快讯",
@@ -295,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "雪佛龙CFO：供应充足，油价低迷恐持续到2026年",
+          "url": "https://wallstreetcn.com/livenews/2997807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "MEGA2024款电动汽车部分召回",
@@ -452,17 +475,6 @@
           "time_info": "[18时21分 ~ 19时17分]"
         },
         {
-          "title": "市场消息：花旗集团(C.N)正与安哥拉一家银行洽谈，以提供清算服务。",
-          "url": "https://flash.jin10.com/detail/20251031225614690800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
           "title": "被传获雷军旗下顺为资本投资，国货羽绒服高梵：不作回应",
           "url": "https://wallstreetcn.com/livenews/2997468",
           "source": "华尔街见闻-快讯",
@@ -510,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)CEO：在联合国周期间会见了哈萨克斯坦总统。与哈萨克斯坦的谈判进展顺利。",
+          "url": "https://flash.jin10.com/detail/20251031231253565800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美联储理事、负责金融监管事务的副主席鲍曼宣布重组计划：将银行监管部门成员砍掉大约30%。",
@@ -659,6 +682,18 @@
           "time_info": "[19时17分 ~ 19时39分]"
         },
         {
+          "title": "市场消息：花旗集团(C.N)正与安哥拉一家银行洽谈，以提供清算服务。",
+          "url": "https://flash.jin10.com/detail/20251031225614690800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时44分]"
+        },
+        {
           "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
           "url": "https://flash.jin10.com/detail/20251031222512027800",
           "source": "金十数据",
@@ -729,6 +764,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时44分]"
         },
         {
           "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
@@ -900,17 +946,6 @@
           "time_info": "17时23分"
         },
         {
-          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
-          "url": "https://www.cls.cn/detail/2188129",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
           "title": "埃克森美孚石油(XOM.N)CEO：低碳领域的市场发展速度未达公司预期，公司将相应放慢支出步伐。",
           "url": "https://flash.jin10.com/detail/20251031214634219800",
           "source": "金十数据",
@@ -931,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回14,843辆美国车辆。因为停车功能失效可能导致车辆溜车，增加碰撞或受伤的风险。",
