@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T23:44:27.346832+08:00",
-  "total_titles_processed": 2357,
+  "generated_at": "2025-11-01T00:27:35.864324+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 99,
+      "match_count": 14,
       "titles": [
         {
           "title": "中美在建立“G2”集团？外交部回应",
@@ -15,1177 +15,151 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时29分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "雪佛龙：本公司在阿根廷并没有短期计划。",
+          "url": "https://wallstreetcn.com/livenews/2997817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时19分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
           "url": "https://wallstreetcn.com/articles/3758353",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时53分 ~ 23时44分]"
-        },
-        {
-          "title": "新能源汽车出口同比增长52%",
-          "url": "https://www.douyin.com/hot/2288899",
-          "source": "抖音",
-          "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 10时57分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
-          "url": "https://www.cls.cn/detail/2187768",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时21分 ~ 22时45分]"
-        },
-        {
-          "title": "华为余承东称「车速跑到 120km/h，风阻消耗的能量可占总能耗 70% 以上」，有这么夸张吗？",
-          "url": "https://www.zhihu.com/question/1966514830467892473",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            9,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 09时28分]"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[19时38分 ~ 23时44分]"
-        },
-        {
-          "title": "比亚迪第三季度营收1950亿元，归母净利润78.2亿元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758312",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 19时39分]"
-        },
-        {
-          "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
-          "url": "https://www.cls.cn/detail/2186736",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 07时18分]"
-        },
-        {
-          "title": "你如何看孙颖莎王曼昱被清华免试录取",
-          "url": "https://www.toutiao.com/trending/7566956563190136875/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 22时20分]"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            29,
-            27,
-            28,
-            14,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时18分 ~ 16时48分]"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时45分 ~ 23时44分]"
-        },
-        {
-          "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
-          "url": "https://flash.jin10.com/detail/20251031031357046800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时38分]"
-        },
-        {
-          "title": "摩根大通：将花旗集团(C.N)目标价从104.50美元上调至107美元。",
-          "url": "https://flash.jin10.com/detail/20251031171834341800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时42分]"
-        },
-        {
-          "title": "比亚迪高管谈固态电池布局",
-          "url": "https://www.toutiao.com/trending/7566958527453875755/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24,
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 07时18分]"
-        },
-        {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17,
-            8,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 21时50分]"
-        },
-        {
-          "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
-          "url": "https://wallstreetcn.com/livenews/2997574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 17时42分]"
-        },
-        {
-          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
-          "url": "https://wallstreetcn.com/livenews/2997591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时42分]"
-        },
-        {
-          "title": "理想汽车为车辆起火事件致歉",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            12,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时46分 ~ 21时30分]"
-        },
-        {
-          "title": "曼谷有什么小众有特点的地方值得去？",
-          "url": "https://www.zhihu.com/question/60120345",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 06时20分]"
-        },
-        {
-          "title": "比亚迪公布车辆和充电桩修复电池包专利",
-          "url": "https://wallstreetcn.com/livenews/2997663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时39分]"
-        },
-        {
-          "title": "大众汽车：从巴西国家经济和社会发展银行获得23亿雷亚尔的信贷额度，以推动混合动力汽车的开发和出口。",
-          "url": "https://flash.jin10.com/detail/20251031233024932800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度营收及其他收入497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "雪佛龙CFO：供应充足，油价低迷恐持续到2026年",
-          "url": "https://wallstreetcn.com/livenews/2997807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "MEGA2024款电动汽车部分召回",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23MEGA2024%E6%AC%BE%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%83%A8%E5%88%86%E5%8F%AC%E5%9B%9E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D5%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D5%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523MEGA2024%25E6%25AC%25BE%25E7%2594%25B5%25E5%258A%25A8%25E6%25B1%25BD%25E8%25BD%25A6%25E9%2583%25A8%25E5%2588%2586%25E5%258F%25AC%25E5%259B%259E%2523%26dgr%3D0%26band_rank%3D5%26cate%3D5001%26display_time%3D1761903091%26pre_seqid%3D176190309181302530100112&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时21分]"
-        },
-        {
-          "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时39分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，KWEB跌2.2%，CQQQ跌2.1%，ASHS和ASHR也跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "天华新能：裴振华、容建芬夫妇拟通过协议转让方式向宁德时代转让其合计持有的公司12.95 %股份，转让价款合计为人民币26.35亿元。",
-          "url": "https://wallstreetcn.com/livenews/2997661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时39分]"
-        },
-        {
-          "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/2997668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时42分]"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：预计第四季度股票回购规模为25亿至30亿美元。",
-          "url": "https://flash.jin10.com/detail/20251031182000339800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时25分]"
-        },
-        {
-          "title": "小马智行(PONY.O)：与西湖集团联合获得深圳首个全市范围商业无人驾驶出租车运营许可证。将首先在南山、前海和宝安地区展开运营，之后逐步扩展至全市。",
-          "url": "https://flash.jin10.com/detail/20251031171134637800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时42分]"
-        },
-        {
-          "title": "韩国总统办公室：英伟达(NVDA.O)与现代汽车将成立人工智能合资企业。",
-          "url": "https://flash.jin10.com/detail/20251031151914390800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)第三季度上游业务盈利33亿美元，市场预期33.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20251031181703169800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "雪佛龙(CVX.N)第三季度营收及其他收入为497.3亿美元，市场预期为467.3亿美元。第三季度全球产量4086万桶油当量/日，市场预期3873万桶油当量/日，第三季度液体产量1496万桶/日，市场预期2401万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251031181641488800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "雪佛龙(CVX.N)第三季度调整后每股收益1.85美元，市场预期为1.66美元。",
-          "url": "https://flash.jin10.com/detail/20251031181525100800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "被传获雷军旗下顺为资本投资，国货羽绒服高梵：不作回应",
-          "url": "https://wallstreetcn.com/livenews/2997468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2997100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时44分]"
-        },
-        {
-          "title": "强化专业化市场化招商力量 临港集团成立专业招商平台",
-          "url": "https://wallstreetcn.com/livenews/2997767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时45分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：预计将实现超过180亿美元的累计成本节约。",
-          "url": "https://flash.jin10.com/detail/20251031183346648800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：在联合国周期间会见了哈萨克斯坦总统。与哈萨克斯坦的谈判进展顺利。",
-          "url": "https://flash.jin10.com/detail/20251031231253565800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美联储理事、负责金融监管事务的副主席鲍曼宣布重组计划：将银行监管部门成员砍掉大约30%。",
-          "url": "https://wallstreetcn.com/livenews/2997097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时44分]"
-        },
-        {
-          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时39分]"
-        },
-        {
-          "title": "石油巨头埃克森美孚第三季度盈利超预期",
-          "url": "https://flash.jin10.com/detail/20251031183743747800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时39分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：低油价和产能下降正推动炼油业发展。",
-          "url": "https://flash.jin10.com/detail/20251031222909377800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时25分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：预计今年的资本支出将略低于270亿至290亿美元区间的下限。",
-          "url": "https://flash.jin10.com/detail/20251031183327878800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：希望避免与委内瑞拉的冲突。",
-          "url": "https://flash.jin10.com/detail/20251031212914297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "GlobalStar（GSAT）上涨12%，随后触发盘中临时停牌。 彭博援引知情人士报道称，该公司在出售过程中吸引到马斯克旗下太空探索公司SpaceX的兴趣。 该公司与顾问合作，研究潜在的竞购方。",
-          "url": "https://wallstreetcn.com/livenews/2997096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时44分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：预计到2030年底，圭亚那8个开发项目将实现日均170万桶油当量的总产能。",
-          "url": "https://flash.jin10.com/detail/20251031183638459800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时39分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：有望在2025年完成200亿美元的股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20251031183605496800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时39分]"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
-          "url": "https://wallstreetcn.com/livenews/2997032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时43分]"
-        },
-        {
-          "title": "印尼相关部门称，韩国现代汽车集团表示，对参与印尼发展国产汽车的计划表现出浓厚兴趣。",
-          "url": "https://flash.jin10.com/detail/20251031114757349800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时47分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)：预计二叠纪盆地的年产量约为160万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251031183438947800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时39分]"
-        },
-        {
-          "title": "市场消息：花旗集团(C.N)正与安哥拉一家银行洽谈，以提供清算服务。",
-          "url": "https://flash.jin10.com/detail/20251031225614690800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时44分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251031222512027800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时25分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与现代汽车及政府相关方合作将带来约30亿美元的投资。",
-          "url": "https://flash.jin10.com/detail/20251031142121490800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时19分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.88%，报8230.19点。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌2.28%，中国科技指数ETF（CQQQ）收跌2.19%。 XtrackersHarvest中证50（ASHS）收跌1.33%，德银嘉实沪深300指数ETF（ASHR）收跌1.15%。",
-          "url": "https://wallstreetcn.com/livenews/2997114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时18分]"
-        },
-        {
-          "title": "特斯拉因为越野灯条配件潜在的安装问题而召回6,197辆Cybertruck，这已经是短短不到两年时间里第十次召回该车型。",
-          "url": "https://wallstreetcn.com/livenews/2997028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时18分]"
-        },
-        {
-          "title": "深创投集团与中国国新签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/2997454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "刘宇宁祝绪丹姐夫和小姨子居然有售后",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%88%98%E5%AE%87%E5%AE%81%E7%A5%9D%E7%BB%AA%E4%B8%B9%E5%A7%90%E5%A4%AB%E5%92%8C%E5%B0%8F%E5%A7%A8%E5%AD%90%E5%B1%85%E7%84%B6%E6%9C%89%E5%94%AE%E5%90%8E&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26flag%3D1%26band_rank%3D27%26filter_type%3Drealtimehot%26pos%3D28%26realpos%3D27%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E5%2588%2598%25E5%25AE%2587%25E5%25AE%2581%25E7%25A5%259D%25E7%25BB%25AA%25E4%25B8%25B9%25E5%25A7%2590%25E5%25A4%25AB%25E5%2592%258C%25E5%25B0%258F%25E5%25A7%25A8%25E5%25AD%2590%25E5%25B1%2585%25E7%2584%25B6%25E6%259C%2589%25E5%2594%25AE%25E5%2590%258E%26display_time%3D1761864023%26pre_seqid%3D17618640236980361970914",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时38分]"
+          "time_info": "00时27分"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
           "url": "https://www.cls.cn/detail/2188129",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时44分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141930569800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时19分]"
-        },
-        {
-          "title": "工信部公开征求对《电动汽车安全要求》强制性国家标准（报批稿）等意见",
-          "url": "https://wallstreetcn.com/livenews/2997703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时30分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：SK集团正在建设配备超5万块英伟达GPU的人工智能工厂，打造亚洲首个工业级人工智能云。",
-          "url": "https://flash.jin10.com/detail/20251031141649618800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时19分]"
-        },
-        {
-          "title": "小马智行：与西湖集团在深圳启动首批Robotaxi创新应用试点",
-          "url": "https://wallstreetcn.com/livenews/2997701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时30分]"
-        },
-        {
-          "title": "奥迪集团维持全年营收指引，仍预计全年净现金流将在25亿-35亿欧元之间。",
-          "url": "https://flash.jin10.com/detail/20251031160325489800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时48分]"
-        },
-        {
-          "title": "市场消息：福特汽车(F.N)将在印度投资3.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20251031033719566800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时44分]"
-        },
-        {
-          "title": "奥迪集团：前九个月面临严峻挑战，并进行了战略调整。",
-          "url": "https://flash.jin10.com/detail/20251031160307936800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时48分]"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部：中美可以共同展现大国担当",
-          "url": "https://wallstreetcn.com/livenews/2997534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时48分]"
-        },
-        {
-          "title": "奥迪集团前九个月营收为484亿欧元，高于去年同期的463亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251031160254078800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时48分]"
-        },
-        {
-          "title": "鲍曼拟三年内裁减美国银行监管部门30%人员",
-          "url": "https://flash.jin10.com/detail/20251031033152945800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时44分]"
-        },
-        {
-          "title": "市场消息：美联储理事鲍曼提议裁减银行监管部门约30%人员。",
-          "url": "https://flash.jin10.com/detail/20251031032619288800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时44分]"
-        },
-        {
-          "title": "现代汽车韩股涨幅扩大至10%。",
-          "url": "https://flash.jin10.com/detail/20251031102804960800",
-          "source": "金十数据",
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "00时27分"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)第三季度业绩公布后盘前下跌1.9%。",
-          "url": "https://flash.jin10.com/detail/20251031183316439800",
-          "source": "金十数据",
+          "title": "雪佛龙CFO：供应充足，油价低迷恐持续到2026年",
+          "url": "https://wallstreetcn.com/livenews/2997807",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时27分"
         },
         {
-          "title": "雪佛龙(CVX.N)：在委内瑞拉的存在对该国人民和我们自身都有益处。",
-          "url": "https://flash.jin10.com/detail/20251031212721335800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：低碳领域的市场发展速度未达公司预期，公司将相应放慢支出步伐。",
-          "url": "https://flash.jin10.com/detail/20251031214634219800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251031110725241800",
+          "title": "瑞银集团：将亚马逊(AMZN.O)目标价从279美元上调至310美元，维持买入评级。",
+          "url": "https://flash.jin10.com/detail/20251031235148937800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时45分"
+          "time_info": "00时27分"
         },
         {
-          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回14,843辆美国车辆。因为停车功能失效可能导致车辆溜车，增加碰撞或受伤的风险。",
-          "url": "https://flash.jin10.com/detail/20251031150606980800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)第三季度总收入及其他收入为852.9亿美元，市场预期为836亿美元。第三季度调整后每股收益为1.88美元，市场预期为1.81美元。",
-          "url": "https://flash.jin10.com/detail/20251031183106778800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：预计第四季度其他所有业务板块的收益将计入9亿至11亿美元的费用。",
-          "url": "https://flash.jin10.com/detail/20251031182331667800",
+          "title": "雪佛龙(CVX.N)CEO：阿根廷选举结果令人鼓舞。",
+          "url": "https://flash.jin10.com/detail/20251031234941851800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时27分"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)CEO：美国及其他国家将坚决抵制委内瑞拉的任何欺凌行为。",
-          "url": "https://flash.jin10.com/detail/20251031202807732800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)在公布第三季度业绩后盘前上涨1.3%。",
-          "url": "https://flash.jin10.com/detail/20251031182153347800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：预计本财年平均产量增长将位于6%至8%指引区间的高端，不包括原赫斯公司的业务。",
-          "url": "https://flash.jin10.com/detail/20251031182139621800",
+          "title": "雪佛龙(CVX.N)CEO：目前二叠纪盆地的钻机数量似乎合适。",
+          "url": "https://flash.jin10.com/detail/20251031234735166800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时27分"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)：将于12月9日公布公司计划的最新情况。",
-          "url": "https://flash.jin10.com/detail/20251031214339865800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "现代汽车：投资约30亿美元，推动韩国人工智能发展。",
-          "url": "https://flash.jin10.com/detail/20251031221639821800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：认为加州正在追随欧洲那样的“有缺陷的意识形态”。",
-          "url": "https://flash.jin10.com/detail/20251031202340698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "三星SDI与宝马集团就全固态电池验证项目达成合作",
-          "url": "https://wallstreetcn.com/livenews/2997243",
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "00时27分"
         },
         {
-          "title": "现代汽车：现代汽车与英伟达将利用5万块Blackwell GPU实现AI训练。",
-          "url": "https://flash.jin10.com/detail/20251031221137886800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "现代汽车：现代汽车、英伟达将与韩国政府合作。",
-          "url": "https://flash.jin10.com/detail/20251031221025009800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：继道达尔能源解除其在莫桑比克的LNG项目不可抗力后，公司正在考虑解除该项目的不可抗力状态。",
-          "url": "https://flash.jin10.com/detail/20251031220939067800",
+          "title": "雪佛龙(CVX.N)CEO：加州的炼油政策正取得预期效果。政府在解决炼油问题上采取的措施微不足道。",
+          "url": "https://flash.jin10.com/detail/20251031233639627800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "00时27分"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)CEO：欧佩克正试图以“适度”的步伐增加供应。",
-          "url": "https://flash.jin10.com/detail/20251031202021427800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：媒体关于莫桑比克的报道并非全都准确。",
-          "url": "https://flash.jin10.com/detail/20251031220903449800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "A股免税概念走强，海汽集团盘中触及涨停，平潭发展、凯撒旅业、海南发展、茂业商业等涨幅居前。消息面上，财政部、商务部、文化和旅游部、海关总署、税务总局印发《关于完善免税店政策支持提振消费的通知》。",
-          "url": "https://wallstreetcn.com/livenews/2997296",
+          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
+          "url": "https://wallstreetcn.com/livenews/2997787",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "00时27分"
         },
         {
-          "title": "现代汽车集团宣布推出英伟达Blackwell AI工厂，推动AI驱动的出行解决方案车队。",
-          "url": "https://flash.jin10.com/detail/20251031220840673800",
+          "title": "大众汽车：从巴西国家经济和社会发展银行获得23亿雷亚尔的信贷额度，以推动混合动力汽车的开发和出口。",
+          "url": "https://flash.jin10.com/detail/20251031233024932800",
           "source": "金十数据",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：最大的挑战是即将进入市场的石油供应量。",
-          "url": "https://flash.jin10.com/detail/20251031201924547800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：莫桑比克的安全形势已有所改善。",
-          "url": "https://flash.jin10.com/detail/20251031220647866800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "00时27分"
         }
       ]
     }
