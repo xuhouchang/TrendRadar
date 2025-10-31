@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:45:22.855894+08:00",
-  "total_titles_processed": 2275,
+  "generated_at": "2025-10-31T23:25:36.670904+08:00",
+  "total_titles_processed": 2333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
         {
           "title": "中美在建立“G2”集团？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时29分 ~ 22时45分]"
+          "appearance_count": 17,
+          "time_info": "[16时29分 ~ 23时25分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[15时19分 ~ 22时45分]"
+          "appearance_count": 19,
+          "time_info": "[15时19分 ~ 23时25分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[14时53分 ~ 22时45分]"
+          "appearance_count": 20,
+          "time_info": "[14时53分 ~ 23时25分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -155,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[19时38分 ~ 23时25分]"
         },
         {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
@@ -220,6 +221,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 17时42分]"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时25分]"
         },
         {
           "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
@@ -309,17 +322,6 @@
           "time_info": "[18时46分 ~ 19时39分]"
         },
         {
-          "title": "埃克森美孚石油(XOM.N)CEO：低油价和产能下降正推动炼油业发展。",
-          "url": "https://flash.jin10.com/detail/20251031222909377800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，KWEB跌2.2%，CQQQ跌2.1%，ASHS和ASHR也跌超1%。",
           "url": "https://wallstreetcn.com/livenews/2997114",
           "source": "华尔街见闻-快讯",
@@ -329,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "天华新能：裴振华、容建芬夫妇拟通过协议转让方式向宁德时代转让其合计持有的公司12.95 %股份，转让价款合计为人民币26.35亿元。",
@@ -389,6 +380,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时25分]"
         },
         {
           "title": "小马智行(PONY.O)：与西湖集团联合获得深圳首个全市范围商业无人驾驶出租车运营许可证。将首先在南山、前海和宝安地区展开运营，之后逐步扩展至全市。",
@@ -449,6 +452,17 @@
           "time_info": "[18时21分 ~ 19时17分]"
         },
         {
+          "title": "市场消息：花旗集团(C.N)正与安哥拉一家银行洽谈，以提供清算服务。",
+          "url": "https://flash.jin10.com/detail/20251031225614690800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "被传获雷军旗下顺为资本投资，国货羽绒服高梵：不作回应",
           "url": "https://wallstreetcn.com/livenews/2997468",
           "source": "华尔街见闻-快讯",
@@ -459,28 +473,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251031222512027800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -556,6 +548,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：低油价和产能下降正推动炼油业发展。",
+          "url": "https://flash.jin10.com/detail/20251031222909377800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时25分]"
         },
         {
           "title": "埃克森美孚石油(XOM.N)：预计今年的资本支出将略低于270亿至290亿美元区间的下限。",
@@ -653,6 +657,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251031222512027800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时25分]"
         },
         {
           "title": "英伟达(NVDA.O)：与现代汽车及政府相关方合作将带来约30亿美元的投资。",
@@ -884,6 +900,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "埃克森美孚石油(XOM.N)CEO：低碳领域的市场发展速度未达公司预期，公司将相应放慢支出步伐。",
           "url": "https://flash.jin10.com/detail/20251031214634219800",
           "source": "金十数据",
@@ -989,7 +1016,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1022,7 +1049,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1033,7 +1060,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1044,7 +1071,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1066,7 +1093,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1088,7 +1115,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1110,7 +1137,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
