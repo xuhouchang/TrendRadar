@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T17:23:50.066019+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2025-10-31T17:42:59.664761+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "新能源汽车出口同比增长52%",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 17时42分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -55,8 +55,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 17时42分]"
+        },
+        {
+          "title": "中美在建立“G2”集团？外交部回应",
+          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 17时42分]"
         },
         {
           "title": "零跑联姻中创新航、理想牵手欣旺达 动力电池合资潮再起",
@@ -102,17 +113,6 @@
           "time_info": "[01时18分 ~ 16时48分]"
         },
         {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 17时23分]"
-        },
-        {
           "title": "美国卫星通讯公司全球星（Globalstar）盘中直线拉升，一度涨超30%。消息面上，该公司正探索出售可能性，并与马斯克旗下的SpaceX等潜在收购方进行初步接洽。",
           "url": "https://flash.jin10.com/detail/20251031031357046800",
           "source": "金十数据",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 03时38分]"
+        },
+        {
+          "title": "摩根大通：将花旗集团(C.N)目标价从104.50美元上调至107美元。",
+          "url": "https://flash.jin10.com/detail/20251031171834341800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时42分]"
         },
         {
           "title": "比亚迪高管谈固态电池布局",
@@ -138,15 +149,27 @@
           "time_info": "[00时28分 ~ 07时18分]"
         },
         {
-          "title": "摩根大通：将花旗集团(C.N)目标价从104.50美元上调至107美元。",
-          "url": "https://flash.jin10.com/detail/20251031171834341800",
-          "source": "金十数据",
+          "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
+          "url": "https://wallstreetcn.com/livenews/2997574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 17时42分]"
+        },
+        {
+          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
+          "url": "https://wallstreetcn.com/livenews/2997591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时42分]"
         },
         {
           "title": "曼谷有什么小众有特点的地方值得去？",
@@ -173,18 +196,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
-          "url": "https://wallstreetcn.com/livenews/2997574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
-        },
-        {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
           "url": "https://wallstreetcn.com/livenews/2997111",
           "source": "华尔街见闻-快讯",
@@ -194,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "小马智行(PONY.O)：与西湖集团联合获得深圳首个全市范围商业无人驾驶出租车运营许可证。将首先在南山、前海和宝安地区展开运营，之后逐步扩展至全市。",
+          "url": "https://flash.jin10.com/detail/20251031171134637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时42分]"
         },
         {
           "title": "韩国总统办公室：英伟达(NVDA.O)与现代汽车将成立人工智能合资企业。",
@@ -207,15 +229,26 @@
           "time_info": "15时39分"
         },
         {
-          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
-          "url": "https://wallstreetcn.com/livenews/2997591",
-          "source": "华尔街见闻-快讯",
+          "title": "MEGA2024款电动汽车部分召回",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23MEGA2024%E6%AC%BE%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%83%A8%E5%88%86%E5%8F%AC%E5%9B%9E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D5%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D5%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523MEGA2024%25E6%25AC%25BE%25E7%2594%25B5%25E5%258A%25A8%25E6%25B1%25BD%25E8%25BD%25A6%25E9%2583%25A8%25E5%2588%2586%25E5%258F%25AC%25E5%259B%259E%2523%26dgr%3D0%26band_rank%3D5%26cate%3D5001%26display_time%3D1761903091%26pre_seqid%3D176190309181302530100112&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "17时42分"
+        },
+        {
+          "title": "比亚迪第三季度营收1950亿元，归母净利润78.2亿元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758312",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时42分]"
         },
         {
           "title": "被传获雷军旗下顺为资本投资，国货羽绒服高梵：不作回应",
@@ -243,17 +276,6 @@
           "time_info": "[03时38分 ~ 04时44分]"
         },
         {
-          "title": "小马智行(PONY.O)：与西湖集团联合获得深圳首个全市范围商业无人驾驶出租车运营许可证。将首先在南山、前海和宝安地区展开运营，之后逐步扩展至全市。",
-          "url": "https://flash.jin10.com/detail/20251031171134637800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
           "title": "美联储理事、负责金融监管事务的副主席鲍曼宣布重组计划：将银行监管部门成员砍掉大约30%。",
           "url": "https://wallstreetcn.com/livenews/2997097",
           "source": "华尔街见闻-快讯",
@@ -265,17 +287,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时38分 ~ 04时44分]"
-        },
-        {
-          "title": "比亚迪第三季度营收1950亿元，归母净利润78.2亿元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758312",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "GlobalStar（GSAT）上涨12%，随后触发盘中临时停牌。 彭博援引知情人士报道称，该公司在出售过程中吸引到马斯克旗下太空探索公司SpaceX的兴趣。 该公司与顾问合作，研究潜在的竞购方。",
@@ -495,9 +506,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "金十图示：2025年10月31日（周五）全球汽车制造商市值变化",
