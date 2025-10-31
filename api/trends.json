@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T01:41:50.119130+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-11-01T02:30:46.501777+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -48,8 +48,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
+        },
+        {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "雪佛龙：本公司在阿根廷并没有短期计划。",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时48分]"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时41分]"
         },
         {
           "title": "雪佛龙CFO：供应充足，油价低迷恐持续到2026年",
