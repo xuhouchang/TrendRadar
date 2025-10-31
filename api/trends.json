@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T12:25:09.453617+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-10-31T12:47:25.646200+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -135,17 +135,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "印尼相关部门称，韩国现代汽车集团表示，对参与印尼发展国产汽车的计划表现出浓厚兴趣。",
-          "url": "https://flash.jin10.com/detail/20251031114757349800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2997100",
           "source": "华尔街见闻-快讯",
@@ -197,6 +186,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 01时43分]"
+        },
+        {
+          "title": "印尼相关部门称，韩国现代汽车集团表示，对参与印尼发展国产汽车的计划表现出浓厚兴趣。",
+          "url": "https://flash.jin10.com/detail/20251031114757349800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时47分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.88%，报8230.19点。 热门中概股里，小马智行初步收跌7.4%，百度和文远知行跌超4%，网易、阿里、小米、京东、理想至少跌约2.5%，蔚来、拼多多、小鹏跌超1%，新东方则涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌2.28%，中国科技指数ETF（CQQQ）收跌2.19%。 XtrackersHarvest中证50（ASHS）收跌1.33%，德银嘉实沪深300指数ETF（ASHR）收跌1.15%。",
