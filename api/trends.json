@@ -1,459 +1,12 @@
 {
-  "generated_at": "2025-11-01T23:39:34.277858+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2025-11-02T00:21:08.899177+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 65,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "中美在建立“G2”集团？外交部回应",
-          "url": "https://news.ifeng.com/c/8ntvnzjNl5m",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 09时40分]"
-        },
-        {
-          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
-          "url": "https://www.cls.cn/detail/2188129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 09时40分]"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 04时23分]"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时27分 ~ 17时20分]"
-        },
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            9,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[07时37分 ~ 23时39分]"
-        },
-        {
-          "title": "深蓝汽车公布10月交付数据。10月深蓝汽车全球销量36792辆，10月深蓝S05全球销量突破20000辆。",
-          "url": "https://wallstreetcn.com/livenews/2997995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            7,
-            15,
-            16,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时44分 ~ 21时40分]"
-        },
-        {
-          "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
-          "url": "https://flash.jin10.com/detail/20251101030330901800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 07时37分]"
-        },
-        {
-          "title": "加拿大能源部长：将在七国集团能源与环境部长会议上加快推进一项价值64亿加元的关键矿产项目。",
-          "url": "https://flash.jin10.com/detail/20251101030038568800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 07时37分]"
-        },
-        {
-          "title": "蔚来公司10月新车交付首次超过4万台 连续三个月创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            10,
-            12,
-            20,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 20时38分]"
-        },
-        {
-          "title": "零跑汽车：10月，零跑全系交付再创新高，达70289台，同比增长超84%，月销量首次突破7万台。",
-          "url": "https://wallstreetcn.com/livenews/2997993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            9,
-            17,
-            18,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时44分 ~ 21时24分]"
-        },
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 53,
-          "time_info": "[00时27分 ~ 23时39分]"
-        },
-        {
-          "title": "美国汽车工人联合会：大众汽车查塔努加工厂工人将就罢工授权进行投票。",
-          "url": "https://flash.jin10.com/detail/20251101040834044800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时42分 ~ 09时40分]"
-        },
-        {
-          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
-          "url": "https://wallstreetcn.com/livenews/2998008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            11,
-            14,
-            17,
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时15分 ~ 23时39分]"
-        },
-        {
-          "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
-          "url": "https://wallstreetcn.com/livenews/2997890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            13,
-            18,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时23分 ~ 07时37分]"
-        },
-        {
-          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高",
-          "url": "https://wallstreetcn.com/livenews/2998000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            10,
-            17,
-            20,
-            23,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时41分 ~ 22时41分]"
-        },
-        {
-          "title": "11月1日，乐道汽车迎11万台纯电交付，限时加推1.1亿元购车福利。",
-          "url": "https://wallstreetcn.com/livenews/2997950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            12,
-            19,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 14时49分]"
-        },
-        {
-          "title": "据蔚来汽车消息，第30万台蔚来ES6正式下线。",
-          "url": "https://wallstreetcn.com/livenews/2997986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            13,
-            15,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 19时39分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦三季度前五大持仓公司为美国运通、苹果、美国银行、可口可乐以及雪佛龙",
-          "url": "https://wallstreetcn.com/livenews/2998018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时38分 ~ 23时39分]"
-        },
-        {
-          "title": "小鹏汽车：单月交付量创下历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            13,
-            20,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 14时49分]"
-        },
-        {
-          "title": "据岚图汽车消息，岚图汽车2025年10月交付17218辆，1-10月累计同比增长82%。",
-          "url": "https://wallstreetcn.com/livenews/2997948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            14,
-            21,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时13分 ~ 14时49分]"
-        },
-        {
-          "title": "蔚来李斌：公司10月首破月销4万台，连续三个月创历史新高",
-          "url": "https://flash.jin10.com/detail/20251101160755272800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            9,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 18时41分]"
-        },
-        {
-          "title": "中国石油集团董事长戴厚良到驻乌兹别克斯坦企业调研",
-          "url": "https://wallstreetcn.com/livenews/2998022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "梅赛德斯奔驰集团将启动股票回购计划，回购规模最高9600万股。 10月31日，奔驰德国法兰克福股价收报55.88欧元。",
-          "url": "https://wallstreetcn.com/livenews/2997911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 09时40分]"
-        },
-        {
-          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
-          "url": "https://wallstreetcn.com/livenews/2998021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "智己汽车宣布，10月销售13159台。 上汽旗舰智己LS9将于11月4日全球首发。",
-          "url": "https://wallstreetcn.com/livenews/2997946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            16,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时27分]"
-        },
-        {
-          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
-          "url": "https://flash.jin10.com/detail/20251101210222165800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            13,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "理想汽车：2025年10月交付了31767辆汽车。截至2025年10月31日，累计交付量达1462788辆。",
-          "url": "https://wallstreetcn.com/livenews/2997945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            17,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 14时27分]"
-        },
-        {
-          "title": "吉利汽车10月销量超30万辆，同比增长35%",
-          "url": "https://flash.jin10.com/detail/20251101205513643800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            14,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时24分 ~ 23时39分]"
-        },
-        {
-          "title": "现代汽车美国公司：10月份总销量为70,118辆，较2024年10月相比下降了2%。",
-          "url": "https://flash.jin10.com/detail/20251101155546350800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            12,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 18时41分]"
-        },
         {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.toutiao.com/trending/7567154802250088494/",
@@ -462,22 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时18分 ~ 23时39分]"
-        },
-        {
-          "title": "金十整理：造车新势力10月成绩单出炉——小米单月交付量持续破4万，小鹏单月交付量再创新高",
-          "url": "https://flash.jin10.com/detail/20251101130259919800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 15时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "中国平安在华南布局的首家康复医院正式开业，落子广东深圳",
@@ -486,415 +25,130 @@
           "ranks": [
             1
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时39分]"
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "深蓝汽车10月交付36792辆",
-          "url": "https://flash.jin10.com/detail/20251101161557682800",
-          "source": "金十数据",
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            8,
-            21,
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 18时41分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "乐道汽车10月交付17342台，同比增长301.5%",
-          "url": "https://flash.jin10.com/detail/20251101154755379800",
-          "source": "金十数据",
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
           "ranks": [
-            6,
-            10,
-            14,
-            27
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
-          "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
-          "url": "https://flash.jin10.com/detail/20251101211429872800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时40分 ~ 23时39分]"
-        },
-        {
-          "title": "荷兰国际集团（ING）高级利率策略师Michiel Tukker：全球货币市场都需要在储备不再过剩的世界中找到自己的路。 尽管央行现在有很多方法可以在必要时注入流动性，但问题在于，这些流动性能否流向需要它的地方。",
-          "url": "https://wallstreetcn.com/livenews/2997876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 06时20分]"
-        },
-        {
-          "title": "零跑汽车宣布10月全系交付达70289台，同比增长超84%。",
-          "url": "https://wallstreetcn.com/livenews/2997937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 12时44分]"
-        },
-        {
-          "title": "小米汽车：2025年10月，小米汽车交付量持续超过40000台。",
-          "url": "https://wallstreetcn.com/livenews/2997943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 13时41分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦表示，截至2025年9月30日，其前五大持股的公允价值合计占比66%，前五大持仓集中于美国运通(AXP.N)、苹果(AAPL.O)、美国银行(BAC.N)、雪佛龙(CVX.N)和可口可乐(KO.N)。",
-          "url": "https://flash.jin10.com/detail/20251101202538324800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            19,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时38分 ~ 22时41分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
-          "url": "https://flash.jin10.com/detail/20251101190850258800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时24分]"
-        },
-        {
-          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高，2025年1-10月累计销售3701852辆。新能源累计销售超1420万辆。",
-          "url": "https://flash.jin10.com/detail/20251101181158849800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时39分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时21分]"
         },
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
           "url": "https://flash.jin10.com/detail/20251101221419283800",
           "source": "金十数据",
           "ranks": [
-            5,
             13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时41分 ~ 23时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "费曼杨阳洋互拍",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B4%B9%E6%9B%BC%E6%9D%A8%E9%98%B3%E6%B4%8B%E4%BA%92%E6%8B%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D26%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D27%26flag%3D1%26q%3D%2523%25E8%25B4%25B9%25E6%259B%25BC%25E6%259D%25A8%25E9%2598%25B3%25E6%25B4%258B%25E4%25BA%2592%25E6%258B%258D%2523%26filter_type%3Drealtimehot%26realpos%3D26%26dgr%3D0%26c_type%3D31%26display_time%3D1761987994%26pre_seqid%3D176198799484602535471116&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26,
-            23,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时15分]"
-        },
-        {
-          "title": "雪佛龙：本公司在阿根廷并没有短期计划。",
-          "url": "https://wallstreetcn.com/livenews/2997817",
+          "title": "中国石油集团董事长戴厚良到驻乌兹别克斯坦企业调研",
+          "url": "https://wallstreetcn.com/livenews/2998022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
-        },
-        {
-          "title": "法国汽车制造商协会（PFA）：法国10月份新车注册量同比增长2.94%，达到139,513辆。10月份法国特斯拉注册量增长2.35%。",
-          "url": "https://flash.jin10.com/detail/20251101085104334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "起亚汽车美国：10月份销量达69,002辆。",
-          "url": "https://flash.jin10.com/detail/20251101171602428800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 19时39分]"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：2025年10月交付40,397辆汽车，同比增长92.6%。2025年年初至今交付241,618辆，同比增长41.9%。",
-          "url": "https://flash.jin10.com/detail/20251101153153335800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 17时38分]"
-        },
-        {
-          "title": "赵鸿刚扇耳光大赛被KO 发文报平安",
-          "url": "https://www.toutiao.com/trending/7566873776157245476/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 19时39分]"
-        },
-        {
-          "title": "中概指数收涨超0.5%，阿特斯涨超15.7%，蔚来涨超3.4%，小马智行则跌约5.5%",
-          "url": "https://wallstreetcn.com/livenews/2997886",
+          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
+          "url": "https://wallstreetcn.com/livenews/2998021",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 07时37分]"
-        },
-        {
-          "title": "雪佛龙CFO：供应充足，油价低迷恐持续到2026年",
-          "url": "https://wallstreetcn.com/livenews/2997807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时48分]"
-        },
-        {
-          "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
-          "url": "https://flash.jin10.com/detail/20251101024513127800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 03时40分]"
-        },
-        {
-          "title": "燃油车里为什么很少有柴油家用小汽车？",
-          "url": "https://www.zhihu.com/question/1934527271311474792",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
-        },
-        {
-          "title": "理想汽车：10月交付新车31767辆",
-          "url": "https://www.toutiao.com/trending/7567359832395874367/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
-        },
-        {
-          "title": "马斯克：植入Neuralink设备的人将最终将战胜所有人类玩家",
-          "url": "https://wallstreetcn.com/livenews/2997904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 05时40分]"
-        },
-        {
-          "title": "瑞银集团：将亚马逊(AMZN.O)目标价从279美元上调至310美元，维持买入评级。",
-          "url": "https://flash.jin10.com/detail/20251031235148937800",
-          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时21分"
         },
         {
-          "title": "雪佛龙(CVX.N)CEO：阿根廷选举结果令人鼓舞。",
-          "url": "https://flash.jin10.com/detail/20251031234941851800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：目前二叠纪盆地的钻机数量似乎合适。",
-          "url": "https://flash.jin10.com/detail/20251031234735166800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
+          "title": "伯克希尔哈撒韦三季度前五大持仓公司为美国运通、苹果、美国银行、可口可乐以及雪佛龙",
+          "url": "https://wallstreetcn.com/livenews/2998018",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时21分"
         },
         {
-          "title": "雪佛龙(CVX.N)CEO：加州的炼油政策正取得预期效果。政府在解决炼油问题上采取的措施微不足道。",
-          "url": "https://flash.jin10.com/detail/20251031233639627800",
+          "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
+          "url": "https://flash.jin10.com/detail/20251101211429872800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时21分"
         },
         {
-          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "大众汽车：从巴西国家经济和社会发展银行获得23亿雷亚尔的信贷额度，以推动混合动力汽车的开发和出口。",
-          "url": "https://flash.jin10.com/detail/20251031233024932800",
+          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
+          "url": "https://flash.jin10.com/detail/20251101210222165800",
           "source": "金十数据",
           "ranks": [
-            25
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时21分"
         },
         {
-          "title": "欧洲股市连涨四个月，公用事业、原材料、油气板块10月份至少涨超5.7%，汽车板块跌超3.4%",
-          "url": "https://wallstreetcn.com/livenews/2997831",
+          "title": "丁薛祥同俄罗斯第一副总理曼图罗夫共同主持中俄投资合作委员会第十二次会议",
+          "url": "https://wallstreetcn.com/livenews/2998008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时51分"
+          "time_info": "00时21分"
         },
         {
-          "title": "辽宁一汽车4S店养了50余只流浪猫狗",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%B1%BD%E8%BD%A64S%E5%BA%97%E5%85%BB%E4%BA%8650%E4%BD%99%E5%8F%AA%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97",
-          "source": "百度热搜",
+          "title": "吉利汽车10月销量超30万辆，同比增长35%",
+          "url": "https://flash.jin10.com/detail/20251101205513643800",
+          "source": "金十数据",
           "ranks": [
-            30
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "00时21分"
         }
       ]
     }
