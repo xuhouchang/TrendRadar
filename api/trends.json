@@ -1,29 +1,12 @@
 {
-  "generated_at": "2025-11-02T14:50:15.002731+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2025-11-02T15:19:53.270974+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            2,
-            1,
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 14时50分]"
-        },
         {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26band_rank%3D1%26flag%3D1%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26c_type%3D31%26pos%3D0%26stream_entry_id%3D31%26display_time%3D1762046903%26pre_seqid%3D17620469030180253298875&launchid=10000360-page_H5",
@@ -40,16 +23,35 @@
           "time_info": "[09时40分 ~ 14时50分]"
         },
         {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            2,
+            1,
+            4,
+            5,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时19分]"
+        },
+        {
           "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
           "url": "https://wallstreetcn.com/articles/3758477",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 14时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 15时19分]"
         },
         {
           "title": "中国平安在华南布局的首家康复医院正式开业，落子广东深圳",
@@ -64,6 +66,20 @@
           "time_info": "[00时21分 ~ 09时40分]"
         },
         {
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 15时19分]"
+        },
+        {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.toutiao.com/trending/7567154802250088494/",
           "source": "今日头条",
@@ -74,26 +90,12 @@
             22,
             21,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 14时50分]"
-        },
-        {
-          "title": "长安汽车10月总销量27.8万辆，同比增长11%",
-          "url": "https://wallstreetcn.com/livenews/2998084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 14时50分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -104,21 +106,24 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 15时19分]"
         },
         {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
+          "title": "长安汽车10月总销量27.8万辆，同比增长11%",
+          "url": "https://wallstreetcn.com/livenews/2998084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
+            1,
+            4,
+            7,
+            8,
             12,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 14时50分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 15时19分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -126,11 +131,46 @@
           "source": "抖音",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 15时19分]"
+        },
+        {
+          "title": "方程豹汽车10月销售31052辆，同比增长415.3%",
+          "url": "https://wallstreetcn.com/livenews/2998076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            12,
+            15,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 15时19分]"
+        },
+        {
+          "title": "中国华能董事长温枢刚会见美国景顺集团总裁兼首席执行官",
+          "url": "https://wallstreetcn.com/livenews/2998075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            13,
+            16,
+            17,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 15时19分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -210,11 +250,12 @@
             21,
             22,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 14时50分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时19分]"
         },
         {
           "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
@@ -261,51 +302,6 @@
           "time_info": "[00时21分 ~ 07时39分]"
         },
         {
-          "title": "方程豹汽车10月销售31052辆，同比增长415.3%",
-          "url": "https://wallstreetcn.com/livenews/2998076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            12,
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 14时50分]"
-        },
-        {
-          "title": "中国华能董事长温枢刚会见美国景顺集团总裁兼首席执行官",
-          "url": "https://wallstreetcn.com/livenews/2998075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            13,
-            16,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 14时50分]"
-        },
-        {
-          "title": "汽车行业外资及合资企业高端闭门研讨会在长春召开",
-          "url": "https://wallstreetcn.com/livenews/2998091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 14时50分]"
-        },
-        {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
           "url": "https://flash.jin10.com/detail/20251102131630826800",
           "source": "金十数据",
@@ -314,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时19分]"
         },
         {
           "title": "马斯克预言5年后无手机App",
@@ -326,8 +322,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
+          "title": "汽车行业外资及合资企业高端闭门研讨会在长春召开",
+          "url": "https://wallstreetcn.com/livenews/2998091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 15时19分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -338,8 +348,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时19分]"
         },
         {
           "title": "马斯克最新预测：五年后传统手机和APP将消失",
@@ -349,19 +359,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "马斯克最新预测：五年后传统手机和APP将消失",
           "url": "https://wallstreetcn.com/livenews/2998095",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
         },
         {
           "title": "比亚迪10月销售441706辆创年内新高",
@@ -376,17 +399,6 @@
           "time_info": "[02时25分 ~ 04时38分]"
         },
         {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时50分]"
-        },
-        {
           "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
           "url": "https://wallstreetcn.com/livenews/2998058",
           "source": "华尔街见闻-快讯",
@@ -399,6 +411,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 12时44分]"
+        },
+        {
+          "title": "上汽集团10月销售整车45.4万辆，同比增长13%",
+          "url": "https://wallstreetcn.com/livenews/2998101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "国务院国资委宣布聘任中国长安汽车外部董事",
