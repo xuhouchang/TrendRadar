@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T22:18:22.684440+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-11-02T22:40:02.290480+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时19分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[17时19分 ~ 22时40分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时26分 ~ 22时18分]"
+          "appearance_count": 24,
+          "time_info": "[12时26分 ~ 22时40分]"
         },
         {
           "title": "马斯克预言5年后无手机App",
@@ -111,8 +111,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时58分 ~ 22时18分]"
+          "appearance_count": 26,
+          "time_info": "[11时58分 ~ 22时40分]"
+        },
+        {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时16分 ~ 22时40分]"
         },
         {
           "title": "中国平安在华南布局的首家康复医院正式开业，落子广东深圳",
@@ -125,6 +139,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时21分 ~ 09时40分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.douyin.com/hot/2291489",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时19分 ~ 22时40分]"
         },
         {
           "title": "长安汽车10月总销量27.8万辆，同比增长11%",
@@ -184,20 +212,6 @@
           "time_info": "[14时30分 ~ 18时40分]"
         },
         {
-          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时16分 ~ 22时18分]"
-        },
-        {
           "title": "马斯克称5年后不再有手机和App",
           "url": "https://www.toutiao.com/trending/7567154802250088494/",
           "source": "今日头条",
@@ -254,20 +268,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时17分 ~ 15时38分]"
-        },
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.douyin.com/hot/2291489",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时19分 ~ 22时18分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
@@ -513,6 +513,22 @@
           "time_info": "[16时22分 ~ 19时38分]"
         },
         {
+          "title": "广西金融投资集团有限公司原党委书记、董事长蒙坤伟接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/2998140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            11,
+            15,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 22时40分]"
+        },
+        {
           "title": "海南调整2025年汽车报废更新补贴政策",
           "url": "https://wallstreetcn.com/livenews/2998127",
           "source": "华尔街见闻-快讯",
@@ -543,21 +559,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时19分 ~ 20时36分]"
-        },
-        {
-          "title": "广西金融投资集团有限公司原党委书记、董事长蒙坤伟接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/2998140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "上汽集团10月销售整车45.4万辆，同比增长13%",
@@ -600,6 +601,21 @@
           "time_info": "[02时25分 ~ 04时38分]"
         },
         {
+          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
+          "url": "https://wallstreetcn.com/livenews/2998143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            12,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 22时40分]"
+        },
+        {
           "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
           "url": "https://wallstreetcn.com/livenews/2998058",
           "source": "华尔街见闻-快讯",
@@ -612,20 +628,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 12时44分]"
-        },
-        {
-          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
-          "url": "https://wallstreetcn.com/livenews/2998143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时18分]"
         },
         {
           "title": "国务院国资委宣布聘任中国长安汽车外部董事",
@@ -685,6 +687,19 @@
           "time_info": "[09时40分 ~ 13时19分]"
         },
         {
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 22时40分]"
+        },
+        {
           "title": "奇瑞集团10月汽车销量28.1万辆，同比增长3.3%",
           "url": "https://wallstreetcn.com/livenews/2998055",
           "source": "华尔街见闻-快讯",
@@ -710,16 +725,16 @@
           "time_info": "[12时26分 ~ 13时41分]"
         },
         {
-          "title": "马斯克：AI在2026年超越单个人类智商",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
-          "source": "百度热搜",
+          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
+          "url": "https://flash.jin10.com/detail/20251102213258278800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            28
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时18分]"
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时40分]"
         },
         {
           "title": "香港地铁偶遇费曼杨阳洋",
@@ -731,17 +746,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 13时41分]"
-        },
-        {
-          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
-          "url": "https://flash.jin10.com/detail/20251102213258278800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "比亚迪三季报里悲喜交加",
