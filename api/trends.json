@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:19:20.921706+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2025-11-02T18:40:47.481014+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时30分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[14时30分 ~ 18时40分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时26分 ~ 18时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时26分 ~ 18时40分]"
         },
         {
           "title": "中国平安在华南布局的首家康复医院正式开业，落子广东深圳",
@@ -101,11 +101,12 @@
             12,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时58分 ~ 18时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时58分 ~ 18时40分]"
         },
         {
           "title": "长安汽车10月总销量27.8万辆，同比增长11%",
@@ -128,24 +129,6 @@
           "time_info": "[11时59分 ~ 17时38分]"
         },
         {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.toutiao.com/trending/7567154802250088494/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            6,
-            22,
-            21,
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时20分 ~ 15时19分]"
-        },
-        {
           "title": "汽车行业外资及合资企业高端闭门研讨会在长春召开",
           "url": "https://wallstreetcn.com/livenews/2998091",
           "source": "华尔街见闻-快讯",
@@ -163,6 +146,43 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[13时19分 ~ 18时19分]"
+        },
+        {
+          "title": "马斯克最新预测：五年后传统手机和APP将消失",
+          "url": "https://wallstreetcn.com/livenews/2998095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            9,
+            14,
+            19,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时30分 ~ 18时40分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.toutiao.com/trending/7567154802250088494/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            6,
+            22,
+            21,
+            19,
+            24,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 33,
+          "time_info": "[00时20分 ~ 18时40分]"
         },
         {
           "title": "方程豹汽车10月销售31052辆，同比增长415.3%",
@@ -199,23 +219,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时17分 ~ 15时38分]"
-        },
-        {
-          "title": "马斯克最新预测：五年后传统手机和APP将消失",
-          "url": "https://wallstreetcn.com/livenews/2998095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            9,
-            14,
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时30分 ~ 18时19分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -432,24 +435,12 @@
             3,
             8,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时19分]"
-        },
-        {
-          "title": "万科：深铁集团同意向公司提供本金总额最多为220亿元贷款",
-          "url": "https://wallstreetcn.com/livenews/2998120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
@@ -460,8 +451,38 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 18时40分]"
+        },
+        {
+          "title": "上汽集团10月销售整车45.4万辆，同比增长13%",
+          "url": "https://flash.jin10.com/detail/20251102154156000800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            14,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时40分]"
+        },
+        {
+          "title": "万科：深铁集团同意向公司提供本金总额最多为220亿元贷款",
+          "url": "https://wallstreetcn.com/livenews/2998120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 18时40分]"
         },
         {
           "title": "上汽集团10月销售整车45.4万辆，同比增长13%",
@@ -488,19 +509,19 @@
           "time_info": "[02时25分 ~ 04时38分]"
         },
         {
-          "title": "上汽集团10月销售整车45.4万辆，同比增长13%",
-          "url": "https://flash.jin10.com/detail/20251102154156000800",
-          "source": "金十数据",
+          "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
+          "url": "https://wallstreetcn.com/livenews/2998101",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            7,
+            8,
+            13,
             14,
-            18,
-            26
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时40分]"
         },
         {
           "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
@@ -515,6 +536,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 12时44分]"
+        },
+        {
+          "title": "海南调整2025年汽车报废更新补贴政策",
+          "url": "https://wallstreetcn.com/livenews/2998127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时40分]"
+        },
+        {
+          "title": "比亚迪：前10月新能源汽车销量同比增长13.88%",
+          "url": "https://wallstreetcn.com/livenews/2998117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 18时40分]"
         },
         {
           "title": "国务院国资委宣布聘任中国长安汽车外部董事",
@@ -532,53 +579,16 @@
           "time_info": "[11时17分 ~ 13时41分]"
         },
         {
-          "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
-          "url": "https://wallstreetcn.com/livenews/2998101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时19分]"
-        },
-        {
-          "title": "比亚迪：前10月新能源汽车销量同比增长13.88%",
-          "url": "https://wallstreetcn.com/livenews/2998117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时19分]"
-        },
-        {
-          "title": "海南调整2025年汽车报废更新补贴政策",
-          "url": "https://wallstreetcn.com/livenews/2998127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "海南调整2025年汽车报废更新补贴政策",
           "url": "https://flash.jin10.com/detail/20251102173813671800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时40分]"
         },
         {
           "title": "董明珠再发“大红包” 雷军躺枪",
@@ -594,6 +604,19 @@
           "time_info": "[09时40分 ~ 13时19分]"
         },
         {
+          "title": "北汽集团：10月整车销量160133辆 同比增长11%",
+          "url": "https://flash.jin10.com/detail/20251102171706100800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时40分]"
+        },
+        {
           "title": "奇瑞集团10月汽车销量28.1万辆，同比增长3.3%",
           "url": "https://wallstreetcn.com/livenews/2998055",
           "source": "华尔街见闻-快讯",
@@ -605,18 +628,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时40分 ~ 11时59分]"
-        },
-        {
-          "title": "北汽集团：10月整车销量160133辆 同比增长11%",
-          "url": "https://flash.jin10.com/detail/20251102171706100800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时19分]"
         },
         {
           "title": "2526 赛季英超联赛第 10 轮，诺丁汉森林 2:2 曼联，如何评价这场比赛？",
@@ -648,7 +659,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
