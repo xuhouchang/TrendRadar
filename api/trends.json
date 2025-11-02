@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T12:26:57.270264+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-11-02T12:44:48.129501+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 12时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 12时44分]"
         },
         {
           "title": "马斯克称5年后不再有手机和App",
@@ -34,8 +34,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 12时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 12时44分]"
         },
         {
           "title": "中国平安在华南布局的首家康复医院正式开业，落子广东深圳",
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 12时44分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -142,8 +142,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 12时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 12时44分]"
         },
         {
           "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
@@ -198,8 +198,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 12时44分]"
+        },
+        {
+          "title": "长安汽车10月总销量27.8万辆，同比增长11%",
+          "url": "https://wallstreetcn.com/livenews/2998084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 12时44分]"
         },
         {
           "title": "比亚迪10月销售441706辆创年内新高",
@@ -214,18 +226,6 @@
           "time_info": "[02时25分 ~ 04时38分]"
         },
         {
-          "title": "长安汽车10月总销量27.8万辆，同比增长11%",
-          "url": "https://wallstreetcn.com/livenews/2998084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时26分]"
-        },
-        {
           "title": "方程豹汽车10月销售31052辆，同比增长415.3%",
           "url": "https://wallstreetcn.com/livenews/2998076",
           "source": "华尔街见闻-快讯",
@@ -235,8 +235,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 12时44分]"
         },
         {
           "title": "中国华能董事长温枢刚会见美国景顺集团总裁兼首席执行官",
@@ -248,8 +248,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 12时44分]"
         },
         {
           "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
@@ -262,8 +262,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 12时44分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时44分]"
         },
         {
           "title": "奇瑞集团10月汽车销量28.1万辆，同比增长3.3%",
@@ -279,15 +290,16 @@
           "time_info": "[09时40分 ~ 11时59分]"
         },
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
           "ranks": [
-            10
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 12时44分]"
         },
         {
           "title": "董明珠再发“大红包” 雷军躺枪",
@@ -302,18 +314,6 @@
           "time_info": "[09时40分 ~ 11时59分]"
         },
         {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 12时26分]"
-        },
-        {
           "title": "国务院国资委宣布聘任中国长安汽车外部董事",
           "url": "https://wallstreetcn.com/livenews/2998061",
           "source": "华尔街见闻-快讯",
@@ -323,8 +323,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 12时44分]"
         },
         {
           "title": "2526 赛季英超联赛第 10 轮，诺丁汉森林 2:2 曼联，如何评价这场比赛？",
@@ -333,9 +333,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时44分]"
         }
       ]
     }
