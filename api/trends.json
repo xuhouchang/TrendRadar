@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T02:50:33.903670+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-11-04T03:16:52.093287+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -66,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 03时16分]"
         },
         {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
