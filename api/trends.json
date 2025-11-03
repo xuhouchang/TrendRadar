@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T18:47:58.377644+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-11-03T19:17:58.647920+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时22分 ~ 18时47分]"
+          "appearance_count": 14,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 18时47分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 19时17分]"
         },
         {
           "title": "曼城3-1伯恩茅斯",
@@ -131,11 +131,24 @@
             17,
             12,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时49分 ~ 18时47分]"
+          "appearance_count": 14,
+          "time_info": "[12时49分 ~ 19时17分]"
+        },
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 19时17分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -148,18 +161,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 18时47分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -228,6 +229,20 @@
           "time_info": "[18时25分 ~ 18时47分]"
         },
         {
+          "title": "中国移动：中国移动集团拟通过国有股份划转方式将其持有的公司4198.13万股A股股份（占公司总股数的0.19%）划转给中国石油天然气集团有限公司。",
+          "url": "https://wallstreetcn.com/livenews/2998511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时17分]"
+        },
+        {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
           "url": "https://wallstreetcn.com/livenews/2998371",
           "source": "华尔街见闻-快讯",
@@ -250,19 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        },
-        {
-          "title": "中国移动：中国移动集团拟通过国有股份划转方式将其持有的公司4198.13万股A股股份（占公司总股数的0.19%）划转给中国石油天然气集团有限公司。",
-          "url": "https://wallstreetcn.com/livenews/2998511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 18时47分]"
         },
         {
           "title": "贝伦贝格：将壳牌的目标价从3000便士上调至3250便士。",
@@ -314,6 +316,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 13时43分]"
+        },
+        {
+          "title": "报道：美国在制定军事计划打击墨西哥境内的贩毒集团",
+          "url": "https://wallstreetcn.com/livenews/2998539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "石药集团港交所发布文件显示：公司执行董事潘卫东近日收到证监会向其出具的《行政处罚决定书》，潘违反《中华人民共和国证券法》的相关规定，构成证券法项下的内幕交易。据此，中国证监会责令潘依法处理非法持有的证券，并对其处以人民币500万元罚款。",
