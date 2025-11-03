@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-03T16:52:37.557931+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-03T17:26:16.674098+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 17时26分]"
+        },
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
           "url": "https://wallstreetcn.com/articles/3758424",
@@ -44,18 +56,6 @@
           "time_info": "[09时41分 ~ 14时33分]"
         },
         {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 16时52分]"
-        },
-        {
           "title": "曼城vs伯恩茅斯",
           "url": "https://www.douyin.com/hot/2292308",
           "source": "抖音",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时02分 ~ 17时26分]"
         },
         {
           "title": "曼城3-1伯恩茅斯",
@@ -123,18 +123,6 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
           "url": "https://www.zhihu.com/question/1967568181846602402",
           "source": "知乎",
@@ -146,8 +134,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 16时52分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 17时26分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时25分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -193,6 +193,17 @@
           "time_info": "[00时23分 ~ 05时38分]"
         },
         {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 17时26分]"
+        },
+        {
           "title": "曼城3:1伯恩茅斯",
           "url": "https://www.douyin.com/hot/2292308",
           "source": "抖音",
@@ -203,17 +214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 12时49分]"
-        },
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 16时52分]"
         },
         {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
@@ -486,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "马斯克万亿美元薪酬方案真实目的是啥",
+          "url": "https://www.toutiao.com/trending/7568389694271016494/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "汇丰银行：将大众汽车目标价从115欧元上调至127欧元。",
