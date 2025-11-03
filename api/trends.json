@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T14:33:13.202286+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-11-03T15:22:35.063904+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -58,6 +58,24 @@
           "time_info": "[01时16分 ~ 07时39分]"
         },
         {
+          "title": "曼城3-1伯恩茅斯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            22,
+            4,
+            10,
+            15,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时41分 ~ 15时22分]"
+        },
+        {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/1968007806016819893",
           "source": "知乎",
@@ -74,23 +92,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时22分 ~ 07时39分]"
-        },
-        {
-          "title": "曼城3-1伯恩茅斯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            22,
-            4,
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时41分 ~ 14时33分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -156,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时22分]"
         },
         {
           "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
@@ -168,11 +169,12 @@
             12,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 15时22分]"
         },
         {
           "title": "曼城3:1伯恩茅斯",
@@ -211,13 +213,27 @@
           "time_info": "09时41分"
         },
         {
+          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
+          "url": "https://www.zhihu.com/question/1967568181846602402",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时22分]"
+        },
+        {
           "title": "贝伦贝格：将壳牌的目标价从3000便士上调至3250便士。",
           "url": "https://flash.jin10.com/detail/20251103142045752800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -232,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时49分]"
+        },
+        {
+          "title": "通用汽车韩国子公司：十月份全球销量同比下降了21%，至39,630辆汽车。",
+          "url": "https://flash.jin10.com/detail/20251103151353961800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "埃克森美孚CEO称，正与莫桑比克合作重启液化天然气（LNG）项目工程。 计划坚守莫桑比克液化天然气（LNG）项目2026年作出最终投资决定（FID）的目标。",
@@ -287,6 +314,28 @@
           "time_info": "[11时25分 ~ 12时02分]"
         },
         {
+          "title": "意大利油企埃尼集团与马来西亚国家石油公司签署了投资协议，将在印度尼西亚和马来西亚成立一家新的合资卫星公司。",
+          "url": "https://flash.jin10.com/detail/20251103150226628800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "威马汽车宣布“好事将近”",
+          "url": "https://wallstreetcn.com/livenews/2998414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "马斯克万亿美元薪酬方案下周表决",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E4%25B8%2587%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%2596%25AA%25E9%2585%25AC%25E6%2596%25B9%25E6%25A1%2588%25E4%25B8%258B%25E5%2591%25A8%25E8%25A1%25A8%25E5%2586%25B3%2523%26filter_type%3Drealtimehot%26pos%3D9%26band_rank%3D10%26cate%3D5001%26realpos%3D10%26dgr%3D0%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26display_time%3D1762133824%26pre_seqid%3D17621338243970168881309&launchid=10000360-page_H5",
           "source": "微博",
@@ -309,19 +358,6 @@
           "time_info": "11时25分"
         },
         {
-          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
-          "url": "https://www.zhihu.com/question/1967568181846602402",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 14时33分]"
-        },
-        {
           "title": "埃克森美孚CEO：正与莫桑比克合作重启液化天然气项目工程。",
           "url": "https://flash.jin10.com/detail/20251103124755182800",
           "source": "金十数据",
@@ -338,11 +374,12 @@
           "url": "https://www.toutiao.com/trending/7568320078001737254/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时22分]"
         },
         {
           "title": "一口气看懂土库曼斯坦",
@@ -354,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "埃克森美孚CEO警告 欧盟可持续发展法律或令其无法在欧开展业务",
+          "url": "https://wallstreetcn.com/livenews/2998411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "董明珠再发“大红包” 雷军躺枪",
@@ -373,7 +421,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -384,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -395,9 +443,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "汇丰银行：将大众汽车目标价从115欧元上调至127欧元。",
+          "url": "https://flash.jin10.com/detail/20251103143304382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "奇瑞集团10月销量28.1万辆",
