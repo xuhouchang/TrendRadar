@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T17:46:44.971295+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2025-11-03T18:25:19.580398+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 17时46分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 18时25分]"
         },
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 17时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时02分 ~ 18时25分]"
         },
         {
           "title": "曼城3-1伯恩茅斯",
@@ -134,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时49分 ~ 17时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时49分 ~ 18时25分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -200,8 +200,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 17时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 18时25分]"
         },
         {
           "title": "曼城3:1伯恩茅斯",
@@ -220,11 +220,12 @@
           "url": "https://wallstreetcn.com/livenews/2998511",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时25分]"
         },
         {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
@@ -272,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时49分]"
+        },
+        {
+          "title": "注册数据显示，特斯拉(TSLA.O)10月份在挪威的新车注册量同比下降50.2%。",
+          "url": "https://flash.jin10.com/detail/20251103181653465800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "埃克森美孚CEO称，正与莫桑比克合作重启液化天然气（LNG）项目工程。 计划坚守莫桑比克液化天然气（LNG）项目2026年作出最终投资决定（FID）的目标。",
@@ -510,6 +522,17 @@
           "time_info": "17时26分"
         },
         {
+          "title": "据NBC新闻：美军正制定在墨西哥境内打击贩毒集团的军事行动计划，其计划在早期阶段在墨西哥境内执行任务，可能向墨西哥派遣美军和情报官员。",
+          "url": "https://flash.jin10.com/detail/20251103180810261800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "汇丰银行：将大众汽车目标价从115欧元上调至127欧元。",
           "url": "https://flash.jin10.com/detail/20251103143304382800",
           "source": "金十数据",
@@ -519,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "据日经新闻：日本政府官员透露，菲律宾和阿联酋已申请加入《跨太平洋伙伴关系协定》。",
+          "url": "https://flash.jin10.com/detail/20251103180632111800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "奇瑞集团10月销量28.1万辆",
