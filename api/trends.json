@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T16:29:01.769436+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-11-03T16:52:37.557931+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[09时41分 ~ 14时33分]"
         },
         {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 16时52分]"
+        },
+        {
           "title": "曼城vs伯恩茅斯",
           "url": "https://www.douyin.com/hot/2292308",
           "source": "抖音",
@@ -71,20 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 16时29分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时02分 ~ 16时52分]"
         },
         {
           "title": "曼城3-1伯恩茅斯",
@@ -135,6 +135,21 @@
           "time_info": "[00时22分 ~ 02时25分]"
         },
         {
+          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
+          "url": "https://www.zhihu.com/question/1967568181846602402",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 16时52分]"
+        },
+        {
           "title": "马斯克：AI在2026年超越单个人类智商",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
           "source": "百度热搜",
@@ -178,21 +193,6 @@
           "time_info": "[00时23分 ~ 05时38分]"
         },
         {
-          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
-          "url": "https://www.zhihu.com/question/1967568181846602402",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时29分]"
-        },
-        {
           "title": "曼城3:1伯恩茅斯",
           "url": "https://www.douyin.com/hot/2292308",
           "source": "抖音",
@@ -203,6 +203,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时41分 ~ 12时49分]"
+        },
+        {
+          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
+          "url": "https://news.ifeng.com/c/8nywSREDnvu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 16时52分]"
         },
         {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
@@ -250,17 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时49分]"
-        },
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "埃克森美孚CEO称，正与莫桑比克合作重启液化天然气（LNG）项目工程。 计划坚守莫桑比克液化天然气（LNG）项目2026年作出最终投资决定（FID）的目标。",
@@ -411,6 +411,28 @@
           "time_info": "[15时22分 ~ 15时42分]"
         },
         {
+          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
+          "url": "https://flash.jin10.com/detail/20251103160211080800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时52分]"
+        },
+        {
+          "title": "现代汽车：10月全球销量同比下降6.9%，至351,753辆。",
+          "url": "https://flash.jin10.com/detail/20251103155345712800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时52分]"
+        },
+        {
           "title": "一口气看懂土库曼斯坦",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%87%82%E5%9C%9F%E5%BA%93%E6%9B%BC%E6%96%AF%E5%9D%A6",
           "source": "bilibili 热搜",
@@ -422,17 +444,6 @@
           "time_info": "[14时32分 ~ 14时33分]"
         },
         {
-          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
-          "url": "https://flash.jin10.com/detail/20251103160211080800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "董明珠再发“大红包” 雷军躺枪",
           "url": "https://www.toutiao.com/trending/7567773530348064299/",
           "source": "今日头条",
@@ -442,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "现代汽车：10月全球销量同比下降6.9%，至351,753辆。",
-          "url": "https://flash.jin10.com/detail/20251103155345712800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "埃克森美孚CEO：目前石油、天然气和化学品的需求前景良好。",
