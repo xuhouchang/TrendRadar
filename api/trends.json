@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T13:43:55.585411+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-11-03T14:33:13.202286+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -25,11 +25,23 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 13时43分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 14时33分]"
+        },
+        {
+          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 14时33分]"
         },
         {
           "title": "曼城vs伯恩茅斯",
@@ -64,15 +76,21 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
-          "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
+          "title": "曼城3-1伯恩茅斯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            5,
+            9,
+            22,
+            4,
+            10,
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 13时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 14时33分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -130,20 +148,31 @@
           "time_info": "[00时23分 ~ 05时38分]"
         },
         {
-          "title": "曼城3-1伯恩茅斯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
-          "source": "bilibili 热搜",
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
           "ranks": [
-            5,
-            9,
-            22,
-            4,
-            10,
-            15
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 14时33分]"
+        },
+        {
+          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
+          "url": "https://www.cls.cn/detail/2189164",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 14时33分]"
         },
         {
           "title": "曼城3:1伯恩茅斯",
@@ -158,27 +187,17 @@
           "time_info": "[09时41分 ~ 12时49分]"
         },
         {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时43分]"
-        },
-        {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
           "url": "https://wallstreetcn.com/livenews/2998371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时33分]"
         },
         {
           "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
@@ -192,18 +211,15 @@
           "time_info": "09时41分"
         },
         {
-          "title": "特斯拉Optimus新进展曝光：数据采集靠雇人做家务 动捕方案或遭放弃",
-          "url": "https://www.cls.cn/detail/2189164",
-          "source": "财联社热门",
+          "title": "贝伦贝格：将壳牌的目标价从3000便士上调至3250便士。",
+          "url": "https://flash.jin10.com/detail/20251103142045752800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12,
-            9,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 13时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -216,6 +232,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时49分]"
+        },
+        {
+          "title": "埃克森美孚CEO称，正与莫桑比克合作重启液化天然气（LNG）项目工程。 计划坚守莫桑比克液化天然气（LNG）项目2026年作出最终投资决定（FID）的目标。",
+          "url": "https://wallstreetcn.com/livenews/2998356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时33分]"
         },
         {
           "title": "汇天飞行汽车量产工厂首台“陆地航母”飞行器正式下线",
@@ -243,19 +273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 07时39分]"
-        },
-        {
-          "title": "埃克森美孚CEO称，正与莫桑比克合作重启液化天然气（LNG）项目工程。 计划坚守莫桑比克液化天然气（LNG）项目2026年作出最终投资决定（FID）的目标。",
-          "url": "https://wallstreetcn.com/livenews/2998356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时43分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球汽车制造商市值变化",
@@ -292,6 +309,19 @@
           "time_info": "11时25分"
         },
         {
+          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
+          "url": "https://www.zhihu.com/question/1967568181846602402",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时33分]"
+        },
+        {
           "title": "埃克森美孚CEO：正与莫桑比克合作重启液化天然气项目工程。",
           "url": "https://flash.jin10.com/detail/20251103124755182800",
           "source": "金十数据",
@@ -304,16 +334,26 @@
           "time_info": "[13时22分 ~ 13时43分]"
         },
         {
-          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
-          "url": "https://www.zhihu.com/question/1967568181846602402",
-          "source": "知乎",
+          "title": "“机器人保姆”离普及还有多远",
+          "url": "https://www.toutiao.com/trending/7568320078001737254/",
+          "source": "今日头条",
           "ranks": [
-            19,
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时43分]"
+          "time_info": "[14时32分 ~ 14时33分]"
+        },
+        {
+          "title": "一口气看懂土库曼斯坦",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%87%82%E5%9C%9F%E5%BA%93%E6%9B%BC%E6%96%AF%E5%9D%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 14时33分]"
         },
         {
           "title": "董明珠再发“大红包” 雷军躺枪",
@@ -325,6 +365,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "埃克森美孚CEO：目前石油、天然气和化学品的需求前景良好。",
+          "url": "https://flash.jin10.com/detail/20251103134407509800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "埃克森美孚CEO：正就伊拉克油田开发项目的利润分成合同进行谈判，尚未看到全球库存上升，这表明市场上的石油供应正满足需求。",
+          "url": "https://flash.jin10.com/detail/20251103134357716800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "埃克森美孚CEO：如果欧盟的可持续发展法律不作修改，埃克森美孚将无法继续在欧洲开展业务。",
+          "url": "https://flash.jin10.com/detail/20251103134335296800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "奇瑞集团10月销量28.1万辆",
