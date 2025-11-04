@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T18:25:43.982509+08:00",
-  "total_titles_processed": 1811,
+  "generated_at": "2025-11-04T18:48:33.557151+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "马斯克：我承诺在播客节目公布“外星人证据”",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时23分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[12时23分 ~ 18时48分]"
         },
         {
           "title": "白家犯罪集团案一审宣判：白所成等5人被判死刑",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时22分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[13时22分 ~ 18时48分]"
         },
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -60,6 +60,21 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[12时23分 ~ 17时45分]"
+        },
+        {
+          "title": "缅北白家犯罪集团主案一审宣判，白所成等 5 人被判死刑，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1953553720605368525",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            9,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 18时48分]"
         },
         {
           "title": "马斯克：若掌握外星人证据将公开",
@@ -101,23 +116,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 18时25分]"
-        },
-        {
-          "title": "缅北白家犯罪集团主案一审宣判，白所成等 5 人被判死刑，有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1953553720605368525",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            9,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 18时48分]"
         },
         {
           "title": "马斯克：我永远不会自杀",
@@ -130,8 +130,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 18时48分]"
         },
         {
           "title": "白家犯罪集团案一审宣判：白所成等5人被判死刑",
@@ -143,8 +143,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 18时48分]"
+        },
+        {
+          "title": "阿达尼集团第二财季净利润320亿卢比，同比增长84%。 第二财季营收为2125亿卢比，同比下降6%，市场预期2475.8亿卢比。 公司将通过配股方式筹集28亿美元资金。",
+          "url": "https://wallstreetcn.com/livenews/2999132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时48分]"
         },
         {
           "title": "三星SDI称正与特斯拉洽谈向其供应电池",
@@ -182,6 +195,19 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
+          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/2999122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时48分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
           "url": "https://wallstreetcn.com/livenews/2998754",
           "source": "华尔街见闻-快讯",
@@ -193,17 +219,15 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
-          "title": "阿达尼集团第二财季净利润320亿卢比，同比增长84%。 第二财季营收为2125亿卢比，同比下降6%，市场预期2475.8亿卢比。 公司将通过配股方式筹集28亿美元资金。",
-          "url": "https://wallstreetcn.com/livenews/2999132",
+          "title": "雅居乐集团10月合约销售额7.10亿元人民币，1-10月累计合约销售额74.4亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/2999158",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3,
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时25分]"
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时48分]"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -294,6 +318,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "宁德时代：截至2025年10月31日，公司累计回购公司A股股份1599.08万股，占公司同日A股总股本的0.3628%，成交总金额为人民币43.86亿元。",
+          "url": "https://wallstreetcn.com/livenews/2999151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时48分]"
+        },
+        {
           "title": "调研机构Omdia：10月份美国轻型汽车总销量为130万辆。",
           "url": "https://flash.jin10.com/detail/20251104062523725800",
           "source": "金十数据",
@@ -329,19 +364,6 @@
           "time_info": "[07时34分 ~ 07时39分]"
         },
         {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时25分]"
-        },
-        {
           "title": "特斯拉欧洲市场销量再度大幅下滑，保持数季度以来的低迷态势",
           "url": "https://wallstreetcn.com/livenews/2998688",
           "source": "华尔街见闻-快讯",
@@ -353,17 +375,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 03时16分]"
-        },
-        {
-          "title": "雅居乐集团10月合约销售额7.10亿元人民币，1-10月累计合约销售额74.4亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/2999158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "王曼昱出发全运会",
@@ -401,6 +412,19 @@
           "time_info": "09时29分"
         },
         {
+          "title": "乘联分会：据月度数据综合预估，10月全国新能源乘用车厂商批发销量161万辆，同比增长16%，环比增长7%。综合预估今年1-10月累计批发1,205.4万辆，同比增长30%。特斯拉中国10月份批发销量为61,497辆。",
+          "url": "https://wallstreetcn.com/livenews/2999116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时48分]"
+        },
+        {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
           "url": "https://www.zhihu.com/question/1967568181846602402",
           "source": "知乎",
@@ -414,6 +438,17 @@
           "time_info": "[00时23分 ~ 06时42分]"
         },
         {
+          "title": "法雷奥首席执行官：建议欧盟2035年禁售内燃机的禁令应排除纯电动汽车以外的其他技术。",
+          "url": "https://flash.jin10.com/detail/20251104182321908800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
           "url": "https://wallstreetcn.com/livenews/2998859",
           "source": "华尔街见闻-快讯",
@@ -423,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "宁德时代：截至2025年10月31日，公司累计回购公司A股股份1599.08万股，占公司同日A股总股本的0.3628%，成交总金额为人民币43.86亿元。",
-          "url": "https://wallstreetcn.com/livenews/2999151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "汇丰集团行政总裁艾桥智：汇丰已推出代币化存款给到香港客户",
@@ -449,17 +473,6 @@
           "time_info": "[10时58分 ~ 12时23分]"
         },
         {
-          "title": "根据官方文件和消息人士透露，由于天然气供应过剩，巴基斯坦取消了原定于2026至2027年交付的21批埃尼集团液化天然气货物。",
-          "url": "https://flash.jin10.com/detail/20251104180205616800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "杰富瑞集团：将英伟达(NVDA.O)的目标价从220美元上调至240美元。",
           "url": "https://flash.jin10.com/detail/20251104141709625800",
           "source": "金十数据",
@@ -470,19 +483,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时56分]"
-        },
-        {
-          "title": "乘联分会：据月度数据综合预估，10月全国新能源乘用车厂商批发销量161万辆，同比增长16%，环比增长7%。综合预估今年1-10月累计批发1,205.4万辆，同比增长30%。特斯拉中国10月份批发销量为61,497辆。",
-          "url": "https://wallstreetcn.com/livenews/2999116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时25分]"
         },
         {
           "title": "市场消息：特斯拉(TSLA.O)将聘请前兰博基尼负责人Sharad Agarwal来推动在印度的销售。",
@@ -543,6 +543,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 01时43分]"
+        },
+        {
+          "title": "根据官方文件和消息人士透露，由于天然气供应过剩，巴基斯坦取消了原定于2026至2027年交付的21批埃尼集团液化天然气货物。",
+          "url": "https://flash.jin10.com/detail/20251104180205616800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时48分]"
         },
         {
           "title": "三星SDI称正与特斯拉洽谈向其供应电池",
@@ -743,7 +755,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -809,7 +821,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
