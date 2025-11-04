@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T22:21:41.857276+08:00",
-  "total_titles_processed": 2169,
+  "generated_at": "2025-11-04T22:48:46.011476+08:00",
+  "total_titles_processed": 2221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
         {
           "title": "马斯克：我承诺在播客节目公布“外星人证据”",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时22分 ~ 22时21分]"
+          "appearance_count": 21,
+          "time_info": "[13时22分 ~ 22时48分]"
         },
         {
           "title": "5人死刑！缅北白家犯罪集团案宣判",
@@ -47,11 +47,12 @@
             16,
             14,
             10,
-            24
+            24,
+            5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时23分 ~ 22时21分]"
+          "appearance_count": 23,
+          "time_info": "[12时23分 ~ 22时48分]"
         },
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -95,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时20分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[15时20分 ~ 22时48分]"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
@@ -270,17 +271,6 @@
           "time_info": "[00时48分 ~ 02时50分]"
         },
         {
-          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/2999262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "道富集团CEO称特朗普移民政策“反增长”",
           "url": "https://wallstreetcn.com/livenews/2999031",
           "source": "华尔街见闻-快讯",
@@ -450,6 +440,17 @@
           "time_info": "[18时25分 ~ 19时41分]"
         },
         {
+          "title": "2026款比亚迪夏上市",
+          "url": "https://www.toutiao.com/trending/7568011860265205769/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "韩国总统李在明：通过与美国的贸易谈判，为本土汽车和芯片行业争取到了公平的竞争环境。",
           "url": "https://flash.jin10.com/detail/20251104091114265800",
           "source": "金十数据",
@@ -493,7 +494,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -548,6 +549,31 @@
           "time_info": "[10时58分 ~ 12时23分]"
         },
         {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时48分]"
+        },
+        {
+          "title": "美的集团：已累计支付95.75亿元回购A股股份",
+          "url": "https://wallstreetcn.com/livenews/2999236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时48分]"
+        },
+        {
           "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
           "url": "https://wallstreetcn.com/livenews/2999214",
           "source": "华尔街见闻-快讯",
@@ -571,18 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时56分]"
-        },
-        {
-          "title": "美的集团：已累计支付95.75亿元回购A股股份",
-          "url": "https://wallstreetcn.com/livenews/2999236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时21分]"
         },
         {
           "title": "百胜餐饮集团启动对必胜客的战略评估",
@@ -692,6 +706,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 18时48分]"
+        },
+        {
+          "title": "美国一特斯拉打不开车门 5人被烧死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时48分]"
         },
         {
           "title": "埃克森美孚石油(XOM.N)上游业务负责人：短期内油价面临下行压力。",
@@ -833,18 +859,6 @@
           "time_info": "[06时20分 ~ 06时42分]"
         },
         {
-          "title": "美国一特斯拉打不开车门 5人被烧死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时21分]"
-        },
-        {
           "title": "中概指数收涨超0.2%，阿特斯涨约9.7%，蔚来涨超2.3%，CQQQ跌约0.6%，阿里跌1.6%",
           "url": "https://wallstreetcn.com/livenews/2998754",
           "source": "华尔街见闻-快讯",
@@ -886,7 +900,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
