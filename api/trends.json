@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T05:41:52.916365+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-11-05T06:19:11.817576+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 05时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "汽车电池界双寡头垄断超60%市场",
@@ -29,11 +29,12 @@
             9,
             18,
             10,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 05时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "5人死刑！缅北白家犯罪集团案宣判",
@@ -48,8 +49,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 05时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "2026款比亚迪夏上市",
@@ -63,11 +64,12 @@
             22,
             23,
             17,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 05时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "美国一特斯拉打不开车门 5人被烧死",
@@ -77,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 05时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "缅北白家犯罪集团主案一审宣判，白所成等 5 人被判死刑，有哪些警示意义？",
@@ -141,18 +143,6 @@
           "time_info": "[03时18分 ~ 04时44分]"
         },
         {
-          "title": "“特斯拉劲敌”Rivian三季度产量10,720辆，分析师预期10,487辆。",
-          "url": "https://wallstreetcn.com/livenews/2999399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时41分]"
-        },
-        {
           "title": "市场消息：美国马里兰州政府运营的公共养老金体系（MSRPS）将投票反对马斯克的薪酬计划。",
           "url": "https://flash.jin10.com/detail/20251105004501901800",
           "source": "金十数据",
@@ -188,6 +178,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时44分]"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian三季度产量10,720辆，分析师预期10,487辆。",
+          "url": "https://wallstreetcn.com/livenews/2999399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 06时19分]"
         },
         {
           "title": "纳指尾盘跌幅扩大至2%，英伟达(NVDA.O)跌近4%，特斯拉(TSLA.O)跌4.7%。",
@@ -250,17 +253,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌2.05%，报8125.31点。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.79%。 XtrackersHarvest中证50（ASHS）收跌1.91%，德银嘉实沪深300指数ETF（ASHR）收跌1.24%。 富时中国3倍做多ETF（YINN）收跌3.40%。",
-          "url": "https://wallstreetcn.com/livenews/2999395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
           "url": "https://wallstreetcn.com/livenews/2999295",
           "source": "华尔街见闻-快讯",
@@ -286,6 +278,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 02时52分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.05%，报8125.31点。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.79%。 XtrackersHarvest中证50（ASHS）收跌1.91%，德银嘉实沪深300指数ETF（ASHR）收跌1.24%。 富时中国3倍做多ETF（YINN）收跌3.40%。",
+          "url": "https://wallstreetcn.com/livenews/2999395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时19分]"
         },
         {
           "title": "FTX创始人山姆·班克曼-弗里德的律师在纽约上诉法院表示，对其欺诈审判本质上是不公平的，并以此为由试图推翻其欺诈定罪。",
