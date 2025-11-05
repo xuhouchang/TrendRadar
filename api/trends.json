@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T17:45:27.733055+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2025-11-05T18:23:22.193863+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "白家犯罪集团案一审宣判：白所成等5人被判死刑",
@@ -186,18 +186,6 @@
           "time_info": "[00时51分 ~ 02时30分]"
         },
         {
-          "title": "中国国际汽车零部件及售后服务（美国）展举行",
-          "url": "https://wallstreetcn.com/livenews/2999807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时45分]"
-        },
-        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -232,6 +220,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "中国国际汽车零部件及售后服务（美国）展举行",
+          "url": "https://wallstreetcn.com/livenews/2999807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "纳指尾盘跌幅扩大至2%，英伟达(NVDA.O)跌近4%，特斯拉(TSLA.O)跌4.7%。",
@@ -303,17 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "何小鹏：三款Robotaxi有7座、6座和5座版本",
-          "url": "https://wallstreetcn.com/livenews/2999816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "英国汽车制造商和贸易商协会：英国10月份新车注册量同比增长0.5%，达到144,948辆。",
@@ -412,6 +402,19 @@
           "time_info": "13时44分"
         },
         {
+          "title": "新加坡取消对太子集团关联家族办公室的税收优惠。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 18时23分]"
+        },
+        {
           "title": "日股丰田汽车股价一度下跌5%，此前发布第二季度财报。",
           "url": "https://wallstreetcn.com/livenews/2999663",
           "source": "华尔街见闻-快讯",
@@ -436,6 +439,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时54分 ~ 15时40分]"
+        },
+        {
+          "title": "何小鹏：三款Robotaxi有7座、6座和5座版本",
+          "url": "https://wallstreetcn.com/livenews/2999816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时23分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
@@ -490,6 +505,20 @@
           "time_info": "[11时47分 ~ 12时45分]"
         },
         {
+          "title": "小鹏机器人会走猫步太像人了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E8%B5%B0%E7%8C%AB%E6%AD%A5%E5%A4%AA%E5%83%8F%E4%BA%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D25%26cate%3D5001%26lcate%3D5001%26realpos%3D24%26band_rank%3D24%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25BC%259A%25E8%25B5%25B0%25E7%258C%25AB%25E6%25AD%25A5%25E5%25A4%25AA%25E5%2583%258F%25E4%25BA%25BA%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762334452%26pre_seqid%3D176233445252909431422&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24,
+            23,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
           "title": "高德成为小鹏Robotaxi首个全球生态合作伙伴",
           "url": "https://wallstreetcn.com/livenews/2999746",
           "source": "华尔街见闻-快讯",
@@ -512,18 +541,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 17时24分]"
-        },
-        {
-          "title": "新加坡取消对太子集团关联家族办公室的税收优惠。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.05%，报8125.31点。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.79%。 XtrackersHarvest中证50（ASHS）收跌1.91%，德银嘉实沪深300指数ETF（ASHR）收跌1.24%。 富时中国3倍做多ETF（YINN）收跌3.40%。",
@@ -574,17 +591,15 @@
           "time_info": "[02时52分 ~ 03时38分]"
         },
         {
-          "title": "小鹏机器人会走猫步太像人了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E8%B5%B0%E7%8C%AB%E6%AD%A5%E5%A4%AA%E5%83%8F%E4%BA%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D25%26cate%3D5001%26lcate%3D5001%26realpos%3D24%26band_rank%3D24%26stream_entry_id%3D31%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25BC%259A%25E8%25B5%25B0%25E7%258C%25AB%25E6%25AD%25A5%25E5%25A4%25AA%25E5%2583%258F%25E4%25BA%25BA%25E4%25BA%2586%2523%26flag%3D1%26dgr%3D0%26display_time%3D1762334452%26pre_seqid%3D176233445252909431422&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "红人保暖buff是真的天花板",
+          "url": "https://www.douyin.com/hot/2293983",
+          "source": "抖音",
           "ranks": [
-            24,
-            23,
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时23分 ~ 17时45分]"
+          "time_info": "[17时23分 ~ 18时23分]"
         },
         {
           "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
@@ -608,6 +623,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时53分]"
+        },
+        {
+          "title": "车主背着轮胎飞到意大利找车商维权",
+          "url": "https://www.toutiao.com/trending/7568809414720045083/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
@@ -680,17 +707,6 @@
           "time_info": "[16时28分 ~ 16时53分]"
         },
         {
-          "title": "红人保暖buff是真的天花板",
-          "url": "https://www.douyin.com/hot/2293983",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
           "title": "丰田汽车预计2025/2026财年美日平均汇率为146，此前预期145。",
           "url": "https://flash.jin10.com/detail/20251105132703868800",
           "source": "金十数据",
@@ -724,6 +740,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "三菱汽车首席执行官加藤：我们在美国销售的所有车辆均在日本生产，因此将全额承担美国关税成本，不会将关税转嫁给供应商。",
+          "url": "https://flash.jin10.com/detail/20251105174606185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国肯塔基州州长：UPS飞机坠毁事故造成3人死亡，死亡人数预计可能上升。附近地区的一座福特汽车公司工厂虽然没有受到波及，但失去了电力供应。",
           "url": "https://wallstreetcn.com/livenews/2999497",
           "source": "华尔街见闻-快讯",
@@ -733,17 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "车主背着轮胎飞到意大利找车商维权",
-          "url": "https://www.toutiao.com/trending/7568809414720045083/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "小鹏第二代VLA大模型将上线“小路NGP”，大众成为首发客户",
@@ -843,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "曝特斯拉打算供应链“去中国化”",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E7%AE%97%E4%BE%9B%E5%BA%94%E9%93%BE%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     }
