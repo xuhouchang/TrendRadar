@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:47:22.555336+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2025-11-05T12:25:06.113580+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -276,11 +276,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时25分]"
+        },
+        {
+          "title": "A股电力股异动拉升，闽东电力直线涨停，恒盛能源涨超7%，九洲集团、乐山电力、豫能控股、廊坊发展等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2999573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时25分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）全球汽车制造商市值变化",
@@ -289,21 +303,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
-        },
-        {
-          "title": "A股电力股异动拉升，闽东电力直线涨停，恒盛能源涨超7%，九洲集团、乐山电力、豫能控股、廊坊发展等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2999573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时47分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
@@ -369,6 +371,18 @@
           "time_info": "[02时52分 ~ 03时38分]"
         },
         {
+          "title": "蔚来 10 月交付新车 40397 台，同比增长 92.6%，对蔚来以后的发展怎么看？",
+          "url": "https://www.zhihu.com/question/1968013610698666074",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时25分]"
+        },
+        {
           "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
           "url": "https://flash.jin10.com/detail/20251105045858317800",
           "source": "金十数据",
@@ -424,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "蔚来 10 月交付新车 40397 台，同比增长 92.6%，对蔚来以后的发展怎么看？",
-          "url": "https://www.zhihu.com/question/1968013610698666074",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "诺基亚与软银集团延长了合作伙伴关系，签订了在日本的网络现代化协议。",
