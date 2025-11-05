@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T00:53:13.174828+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-11-06T01:20:47.481078+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E5%AF%B9%E8%B5%8C%E6%A3%8B%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "香港、台湾冻结“太子集团”资产，总值超35亿元",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "特斯拉撞死闯国道野猪 车主被判全责",
