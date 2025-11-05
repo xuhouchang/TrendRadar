@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T03:17:53.673911+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2025-11-06T03:39:17.615914+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 03时39分]"
         },
         {
           "title": "香港、台湾冻结“太子集团”资产，总值超35亿元",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 03时39分]"
         },
         {
           "title": "汽车置换补贴券疑被同一人抢到93张",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 03时39分]"
         },
         {
           "title": "特斯拉撞死闯国道野猪 车主被判全责",
