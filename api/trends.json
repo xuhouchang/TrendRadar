@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T15:21:43.939817+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2025-11-05T15:40:59.001817+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -356,17 +356,6 @@
           "time_info": "13时44分"
         },
         {
-          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
-          "url": "https://wallstreetcn.com/livenews/2999698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "日股丰田汽车股价一度下跌5%，此前发布第二季度财报。",
           "url": "https://wallstreetcn.com/livenews/2999663",
           "source": "华尔街见闻-快讯",
@@ -378,6 +367,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
+          "title": "宝马汽车第三季度销售额323.1亿欧元，预估339.5亿欧元。 第三季度汽车业务息税前利润率5.2％，上年同期2.3％，预估5.33％。 第三季度EBIT 22.6亿欧元，预估23.4亿欧元。 第三季度汽车部门营收285.1亿欧元，预估287.7亿欧元。 宝马汽车仍然预测全年汽车业务息税前利润率5％至6％，市场预估5.54％。",
+          "url": "https://wallstreetcn.com/livenews/2999683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时40分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
@@ -420,18 +422,6 @@
           "time_info": "[11时47分 ~ 12时45分]"
         },
         {
-          "title": "宝马汽车第三季度销售额323.1亿欧元，预估339.5亿欧元。 第三季度汽车业务息税前利润率5.2％，上年同期2.3％，预估5.33％。 第三季度EBIT 22.6亿欧元，预估23.4亿欧元。 第三季度汽车部门营收285.1亿欧元，预估287.7亿欧元。 宝马汽车仍然预测全年汽车业务息税前利润率5％至6％，市场预估5.54％。",
-          "url": "https://wallstreetcn.com/livenews/2999683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时21分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数收跌2.05%，报8125.31点。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.79%。 XtrackersHarvest中证50（ASHS）收跌1.91%，德银嘉实沪深300指数ETF（ASHR）收跌1.24%。 富时中国3倍做多ETF（YINN）收跌3.40%。",
           "url": "https://wallstreetcn.com/livenews/2999395",
           "source": "华尔街见闻-快讯",
@@ -454,6 +444,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
+          "url": "https://wallstreetcn.com/livenews/2999698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时40分]"
         },
         {
           "title": "FTX创始人山姆·班克曼-弗里德的律师在纽约上诉法院表示，对其欺诈审判本质上是不公平的，并以此为由试图推翻其欺诈定罪。",
