@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T02:54:43.185508+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2025-11-07T03:17:29.075209+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -37,30 +37,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
           "url": "https://www.cls.cn/detail/2193135",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -71,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -85,8 +87,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -101,8 +103,38 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "何小鹏再回应机器人里藏真人质疑",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
+        },
+        {
+          "title": "小鹏汽车是真做机器人还是炒作",
+          "url": "https://www.toutiao.com/trending/7569605442133822985/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            18,
+            17,
+            22,
+            23,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -117,35 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 02时30分]"
-        },
-        {
-          "title": "何小鹏再回应机器人里藏真人质疑",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%E8%B4%A8%E7%96%91",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
-        },
-        {
-          "title": "小鹏汽车是真做机器人还是炒作",
-          "url": "https://www.toutiao.com/trending/7569605442133822985/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            18,
-            17,
-            22,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 02时54分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
