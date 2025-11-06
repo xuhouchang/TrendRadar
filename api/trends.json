@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:42:35.102507+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-11-06T16:28:13.439587+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 15时42分]"
+          "appearance_count": 14,
+          "time_info": "[11时05分 ~ 16时28分]"
         },
         {
           "title": "马斯克万亿薪酬背后的对赌棋局",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 16时28分]"
         },
         {
           "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 16时28分]"
         },
         {
           "title": "香港、台湾冻结“太子集团”资产，总值超35亿元",
@@ -72,6 +72,37 @@
           "time_info": "[00时27分 ~ 07时40分]"
         },
         {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时22分 ~ 16时28分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时22分 ~ 16时28分]"
+        },
+        {
           "title": "曼城大胜多特",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E5%A4%A7%E8%83%9C%E5%A4%9A%E7%89%B9",
           "source": "bilibili 热搜",
@@ -83,11 +114,12 @@
             9,
             7,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 16时28分]"
         },
         {
           "title": "电池续航不够混电来凑？天翎科、汇天飞行汽车发布新产品 市场看法不一|直击进博会",
@@ -103,36 +135,6 @@
           "time_info": "[11时05分 ~ 15时42分]"
         },
         {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 15时42分]"
-        },
-        {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 15时42分]"
-        },
-        {
           "title": "如何评价比亚迪海狮 06 上市 100 天就达成十万辆？这款车靠什么赢得大众选择？",
           "url": "https://www.zhihu.com/question/1969340794436559798",
           "source": "知乎",
@@ -141,8 +143,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 15时42分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 16时28分]"
         },
         {
           "title": "何小鹏一镜到底回应网友质疑",
@@ -155,8 +157,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时00分 ~ 15时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时00分 ~ 16时28分]"
         },
         {
           "title": "汽车置换补贴券疑被同一人抢到93张",
@@ -187,11 +189,12 @@
             10,
             17,
             16,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 14时56分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 16时28分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -280,6 +283,39 @@
           "time_info": "[11时05分 ~ 14时30分]"
         },
         {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "小鹏的人形机器人为啥让网友吵疯了",
+          "url": "https://www.toutiao.com/trending/7569493216051858987/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "马斯克万亿薪酬背后的权力博弈",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E5%8D%9A%E5%BC%88",
           "source": "bilibili 热搜",
@@ -291,6 +327,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时34分 ~ 14时56分]"
+        },
+        {
+          "title": "日产首席执行官：在日本上半年销量低迷后，我们无法实现全年汽车销售预期。",
+          "url": "https://flash.jin10.com/detail/20251106162012590800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "市场消息：特朗普提名的美国航空航天局局长贾里德·艾萨克曼提议最早于明年发射一次无人火星任务。",
@@ -461,6 +508,17 @@
           "time_info": "[12时00分 ~ 12时34分]"
         },
         {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.1%。 热门中概股里，晶科能源初步收涨16%，阿特斯太阳能涨13.7%，拼多多、腾讯、蔚来、理想涨超1%，百度、小马智行跌超1%，新东方跌3.3%，小鹏跌4.1%，文远知行跌5.1%。 ETF中，CQQQ涨1%，KWEB涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3000101",
           "source": "华尔街见闻-快讯",
@@ -478,9 +536,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)：预计希腊海上项目将于2030至2035年实现首次通气。",
+          "url": "https://flash.jin10.com/detail/20251106160919199800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）全球汽车制造商市值变化",
@@ -503,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "日产汽车第二季度净亏损1,061.6亿日元，预估亏损1,139.8亿日元。 第二季度经营利润514.7亿日元，预估亏损787.7亿日元。 日产汽车仍然预测全年股息0.0日元，市场预估0.00日元。 日产汽车仍然预测全年经营亏损2,750亿日元，市场预估亏损1,126.9亿日元。 日产汽车仍然预测全年销售净额11.70万亿日元，市场预估12.16万亿日元。 日产汽车仍然预测全年全球汽车销量325万辆。",
+          "url": "https://wallstreetcn.com/livenews/3000407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国民主党参议员Warren：要求鲍曼阻止“向欧洲大型银行提供优惠待遇”的国际政策",
