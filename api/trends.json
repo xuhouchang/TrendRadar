@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T05:16:17.057113+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-11-08T05:38:31.712653+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
@@ -39,19 +39,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
           "url": "https://www.zhihu.com/question/1970064184793334914",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -63,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -91,11 +92,12 @@
             19,
             17,
             8,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -106,11 +108,12 @@
             12,
             14,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -120,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 05时38分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -131,11 +134,12 @@
             27,
             29,
             26,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 05时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 05时38分]"
         },
         {
           "title": "太平洋投资管理公司（PIMCO，品浩）呼吁，趁着“时机正好合适”，阿根廷总统米莱应该容忍本币比索汇率浮动。",
@@ -161,8 +165,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时40分 ~ 05时38分]"
         },
         {
           "title": "据日经新闻：联合国COP30大会将公布由日本主导的拟议回收信息披露规则。苹果公司和丰田汽车等企业披露其使用再生材料相关数据的框架，拟在联合国气候大会上提出。",
@@ -176,6 +180,28 @@
           "time_info": "01时42分"
         },
         {
+          "title": "纳斯达克金龙中国指数初步收跌1%，本周累跌约2.6%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3001397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "本周，标普累跌约1.8%，道指累跌约1.3%，纳指累跌约3.2%，纳指科技指数累跌约4.1%，半导体指数累跌约4.5%，银行指数涨0.4%，小盘股指跌2.2%。 周五当天，标普500指数初步收涨约0.1%，电信板块跌0.9%，科技板块跌0.6%，能源板块则涨1.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Take-Two Interactive Software Inc.跌8%——该公司《GTA 6》游戏延期引发投资者恐慌，微芯科技、德康医疗、Arm控股、吉利德科学、特斯拉、迈威尔科技至少跌超3%，Axon涨2.7%，星巴克涨3.8%，Doordash反弹4.2%，MNST涨5.1%。 可口可乐涨2.1%，雪佛龙涨1.5%，领跑道指成分股，苹果则跌0.5%，霍尼韦尔、波音、卡特彼勒、耐克、IBM跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3001395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "阿曼塔耶夫澄清与赵鸿刚并无恩怨",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%9B%BC%E5%A1%94%E8%80%B6%E5%A4%AB%E6%BE%84%E6%B8%85%E4%B8%8E%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%B9%B6%E6%97%A0%E6%81%A9%E6%80%A8",
           "source": "百度热搜",
@@ -183,8 +209,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 05时38分]"
         }
       ]
     }
