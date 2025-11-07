@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T03:17:27.164943+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-11-08T03:40:44.206015+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
-        },
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
@@ -38,8 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -49,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
@@ -74,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -83,11 +84,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -97,8 +99,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -110,8 +112,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 03时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 03时40分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -121,11 +123,12 @@
             29,
             28,
             15,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 03时40分]"
         },
         {
           "title": "太平洋投资管理公司（PIMCO，品浩）呼吁，趁着“时机正好合适”，阿根廷总统米莱应该容忍本币比索汇率浮动。",
@@ -133,11 +136,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 03时40分]"
         },
         {
           "title": "据日经新闻：联合国COP30大会将公布由日本主导的拟议回收信息披露规则。苹果公司和丰田汽车等企业披露其使用再生材料相关数据的框架，拟在联合国气候大会上提出。",
@@ -149,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "雷军身家368亿美元超越马云",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D26%26flag%3D1%26stream_entry_id%3D31%26realpos%3D26%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BA%25AB%25E5%25AE%25B6368%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%25B6%2585%25E8%25B6%258A%25E9%25A9%25AC%25E4%25BA%2591%2523%26pos%3D25%26dgr%3D0%26display_time%3D1762544043%26pre_seqid%3D176254404353602462100102&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
         },
         {
           "title": "阿曼塔耶夫澄清与赵鸿刚并无恩怨",
