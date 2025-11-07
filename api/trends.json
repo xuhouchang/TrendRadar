@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T23:22:16.733301+08:00",
-  "total_titles_processed": 2321,
+  "generated_at": "2025-11-07T23:43:16.207899+08:00",
+  "total_titles_processed": 2343,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[09时27分 ~ 23时22分]"
+          "appearance_count": 35,
+          "time_info": "[09时27分 ~ 23时43分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[15时40分 ~ 23时22分]"
+          "appearance_count": 23,
+          "time_info": "[15时40分 ~ 23时43分]"
         },
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -179,6 +179,21 @@
           "time_info": "[07时18分 ~ 15时40分]"
         },
         {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[20时41分 ~ 23时43分]"
+        },
+        {
           "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
           "url": "https://www.cls.cn/detail/2193907",
           "source": "财联社热门",
@@ -203,8 +218,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[18时23分 ~ 23时22分]"
+          "appearance_count": 15,
+          "time_info": "[18时23分 ~ 23时43分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -224,8 +239,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 52,
-          "time_info": "[00时27分 ~ 23时22分]"
+          "appearance_count": 54,
+          "time_info": "[00时27分 ~ 23时43分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -246,8 +261,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[09时27分 ~ 23时22分]"
+          "appearance_count": 35,
+          "time_info": "[09时27分 ~ 23时43分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -288,19 +303,19 @@
           "time_info": "[00时27分 ~ 14时54分]"
         },
         {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
+          "title": "《黑神话：悟空》发售后，每一款国产单机大作都会被用户们倾向去和黑神话对标，这对游戏行业来说有什么影响？",
+          "url": "https://www.zhihu.com/question/1966538200798463055",
+          "source": "知乎",
           "ranks": [
-            13,
             10,
+            9,
             8,
-            6,
-            5
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时41分 ~ 23时22分]"
+          "appearance_count": 9,
+          "time_info": "[21时30分 ~ 23时43分]"
         },
         {
           "title": "马斯克预计FSD明年在华全面获批",
@@ -392,18 +407,17 @@
           "time_info": "[04时23分 ~ 09时28分]"
         },
         {
-          "title": "《黑神话：悟空》发售后，每一款国产单机大作都会被用户们倾向去和黑神话对标，这对游戏行业来说有什么影响？",
-          "url": "https://www.zhihu.com/question/1966538200798463055",
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
           "source": "知乎",
           "ranks": [
-            10,
-            9,
-            8,
-            12
+            17,
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时30分 ~ 23时22分]"
+          "appearance_count": 9,
+          "time_info": "[21时30分 ~ 23时43分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -437,6 +451,31 @@
           "time_info": "[18时23分 ~ 21时47分]"
         },
         {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时43分 ~ 23时43分]"
+        },
+        {
+          "title": "马斯克薪酬为何能这么高",
+          "url": "https://www.toutiao.com/trending/7569935804399619634/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[22时20分 ~ 23时43分]"
+        },
+        {
           "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
           "url": "https://www.zhihu.com/question/1970038336501547391",
           "source": "知乎",
@@ -462,18 +501,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时40分 ~ 05时39分]"
-        },
-        {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时30分 ~ 23时22分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
@@ -536,18 +563,6 @@
           "time_info": "[09时27分 ~ 12时24分]"
         },
         {
-          "title": "马斯克薪酬为何能这么高",
-          "url": "https://www.toutiao.com/trending/7569935804399619634/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时20分 ~ 23时22分]"
-        },
-        {
           "title": "马斯克预计FSD有望明年初在华全面获批",
           "url": "https://wallstreetcn.com/livenews/3000967",
           "source": "华尔街见闻-快讯",
@@ -587,18 +602,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 02时54分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时43分 ~ 23时22分]"
         },
         {
           "title": "特斯拉股东批准马斯克8780亿美元的薪酬计划",
@@ -1516,6 +1519,18 @@
           "time_info": "[15时19分 ~ 15时40分]"
         },
         {
+          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251107225146133800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时43分]"
+        },
+        {
           "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
           "source": "澎湃新闻",
@@ -1791,17 +1806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
-          "url": "https://flash.jin10.com/detail/20251107225146133800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "本田汽车：预计全年经营利润5,500亿日元，此前预计7,000亿日元。",
