@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T18:45:38.703157+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2025-11-07T19:18:07.131405+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时27分 ~ 18时45分]"
+          "appearance_count": 24,
+          "time_info": "[09时27分 ~ 19时18分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -124,8 +124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时40分 ~ 18时45分]"
+          "appearance_count": 12,
+          "time_info": "[15时40分 ~ 19时18分]"
         },
         {
           "title": "特斯拉人形机器人亮相进博会",
@@ -189,8 +189,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时27分 ~ 18时45分]"
+          "appearance_count": 24,
+          "time_info": "[09时27分 ~ 19时18分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -209,8 +209,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时27分 ~ 18时45分]"
+          "appearance_count": 43,
+          "time_info": "[00时27分 ~ 19时18分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -312,6 +312,19 @@
           "time_info": "[00时27分 ~ 09时28分]"
         },
         {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 19时18分]"
+        },
+        {
           "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
           "url": "https://www.cls.cn/detail/2193758",
           "source": "财联社热门",
@@ -355,19 +368,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 03时17分]"
-        },
-        {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 18时45分]"
         },
         {
           "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
@@ -586,6 +586,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时40分]"
+        },
+        {
+          "title": "世界首富还不够 马斯克又要了1万亿",
+          "url": "https://www.toutiao.com/trending/7569901105614687780/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 19时18分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 19时18分]"
         },
         {
           "title": "马斯克和机器人跳出六亲不认的步伐",
@@ -1233,17 +1257,6 @@
           "time_info": "[07时40分 ~ 09时28分]"
         },
         {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时45分]"
-        },
-        {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3000764",
           "source": "华尔街见闻-快讯",
@@ -1392,17 +1405,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 12时46分]"
-        },
-        {
-          "title": "世界首富还不够 马斯克又要了1万亿",
-          "url": "https://www.toutiao.com/trending/7569901105614687780/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时45分]"
         },
         {
           "title": "马斯克薪酬计划获批为何股价暴跌",
