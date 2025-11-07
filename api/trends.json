@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T06:20:28.665319+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-11-08T06:41:31.274046+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
@@ -74,11 +74,12 @@
           "ranks": [
             15,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -93,11 +94,12 @@
             17,
             8,
             26,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -109,11 +111,12 @@
             26,
             25,
             19,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 06时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 06时41分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -129,8 +132,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -140,8 +143,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 06时41分]"
         },
         {
           "title": "雷军身家368亿美元超越马云",
@@ -150,11 +153,12 @@
           "ranks": [
             26,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时40分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[03时40分 ~ 06时41分]"
         },
         {
           "title": "太平洋投资管理公司（PIMCO，品浩）呼吁，趁着“时机正好合适”，阿根廷总统米莱应该容忍本币比索汇率浮动。",
@@ -176,11 +180,12 @@
           "url": "https://wallstreetcn.com/livenews/3001419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时41分]"
         },
         {
           "title": "据日经新闻：联合国COP30大会将公布由日本主导的拟议回收信息披露规则。苹果公司和丰田汽车等企业披露其使用再生材料相关数据的框架，拟在联合国气候大会上提出。",
@@ -216,6 +221,18 @@
           "time_info": "05时38分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3001397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时41分]"
+        },
+        {
           "title": "阿曼塔耶夫澄清与赵鸿刚并无恩怨",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%9B%BC%E5%A1%94%E8%80%B6%E5%A4%AB%E6%BE%84%E6%B8%85%E4%B8%8E%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%B9%B6%E6%97%A0%E6%81%A9%E6%80%A8",
           "source": "百度热搜",
@@ -225,17 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 05时38分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3001397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
         }
       ]
     }
