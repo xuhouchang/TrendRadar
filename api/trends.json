@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:51:11.349555+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2025-11-07T17:21:06.613406+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 114,
+      "match_count": 121,
       "titles": [
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 16时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 17时21分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -118,6 +118,23 @@
           "time_info": "[12时24分 ~ 16时51分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9,
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时57分 ~ 17时21分]"
+        },
+        {
           "title": "马斯克万亿薪酬方案获批准",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
           "source": "bilibili 热搜",
@@ -127,11 +144,12 @@
             7,
             10,
             9,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 16时51分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 17时21分]"
         },
         {
           "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
@@ -148,20 +166,16 @@
           "time_info": "[07时18分 ~ 15时40分]"
         },
         {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
+          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
+          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            8,
-            9,
-            10,
             6,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时57分 ~ 16时51分]"
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 17时21分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -175,11 +189,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时27分 ~ 16时51分]"
+          "appearance_count": 37,
+          "time_info": "[00时27分 ~ 17时21分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -232,18 +247,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时43分 ~ 16时27分]"
-        },
-        {
-          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
-          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 16时51分]"
         },
         {
           "title": "万亿美元薪酬计划获压倒性票数通过！马斯克发声",
@@ -308,6 +311,17 @@
           "time_info": "[04时23分 ~ 09时28分]"
         },
         {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 17时21分]"
+        },
+        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -350,17 +364,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时40分 ~ 05时39分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 16时51分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
@@ -518,6 +521,19 @@
           "time_info": "[13时43分 ~ 15时19分]"
         },
         {
+          "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
+          "url": "https://www.cls.cn/detail/2193758",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 17时21分]"
+        },
+        {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/3000778",
           "source": "华尔街见闻-快讯",
@@ -563,17 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "宁德时代现5.06亿元平价大宗交易",
-          "url": "https://wallstreetcn.com/livenews/3001104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
@@ -648,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
+          "url": "https://wallstreetcn.com/livenews/3001134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -849,6 +865,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "英特尔(INTC.O)美股盘前上涨2.4%，此前马斯克表示值得与该公司进行讨论。",
+          "url": "https://flash.jin10.com/detail/20251107170531468800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "马斯克：特斯拉可能会打造自己的芯片工厂。",
           "url": "https://wallstreetcn.com/livenews/3000784",
           "source": "华尔街见闻-快讯",
@@ -872,6 +899,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时54分]"
+        },
+        {
+          "title": "宁德时代现5.06亿元平价大宗交易",
+          "url": "https://wallstreetcn.com/livenews/3001104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时21分]"
         },
         {
           "title": "乌克兰与债权人集团没能围绕修订GDP担保问题达成共识。 乌克兰政府决定中止受到控制的讨论。",
@@ -1093,18 +1132,6 @@
           "time_info": "[09时27分 ~ 10时57分]"
         },
         {
-          "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
-          "url": "https://www.cls.cn/detail/2193758",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 16时51分]"
-        },
-        {
           "title": "小鹏机器人走猫步太像人了",
           "url": "https://www.douyin.com/hot/2295769",
           "source": "抖音",
@@ -1115,6 +1142,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时40分 ~ 09时28分]"
+        },
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
@@ -1255,6 +1293,28 @@
           "time_info": "[12时24分 ~ 12时46分]"
         },
         {
+          "title": "王曼昱加入国家队12年",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8A%A0%E5%85%A5%E5%9B%BD%E5%AE%B6%E9%98%9F12%E5%B9%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E5%258A%25A0%25E5%2585%25A5%25E5%259B%25BD%25E5%25AE%25B6%25E9%2598%259F12%25E5%25B9%25B4%26dgr%3D0%26lcate%3D5001%26pos%3D25%26band_rank%3D25%26display_time%3D1762507162%26pre_seqid%3D176250716289803356317158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "小鹏点燃中国人形机器人反击战",
+          "url": "https://www.toutiao.com/trending/7569886099976539674/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "马斯克薪酬计划获批为何股价暴跌",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%96%AA%E9%85%AC%E8%AE%A1%E5%88%92%E8%8E%B7%E6%89%B9%E4%B8%BA%E4%BD%95%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E8%2596%25AA%25E9%2585%25AC%25E8%25AE%25A1%25E5%2588%2592%25E8%258E%25B7%25E6%2589%25B9%25E4%25B8%25BA%25E4%25BD%2595%25E8%2582%25A1%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%2523%26cate%3D5001%26pos%3D26%26realpos%3D26%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1762478844%26pre_seqid%3D176247884399703410430149&launchid=10000360-page_H5",
           "source": "微博",
@@ -1288,13 +1348,24 @@
           "time_info": "14时54分"
         },
         {
+          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107170234164800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "美国国家公路交通安全管理局（NHTSA）：本田将因车轮脱落问题召回超过 40.6 万辆美国汽车。",
           "url": "https://wallstreetcn.com/livenews/3001090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1352,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "中核集团第八届进博会签订8项进口采购合同，涉及核燃料组件零部件、天然铀等",
