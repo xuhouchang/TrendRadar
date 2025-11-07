@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:30:31.871015+08:00",
-  "total_titles_processed": 2091,
+  "generated_at": "2025-11-07T21:47:27.167473+08:00",
+  "total_titles_processed": 2153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 140,
+      "match_count": 142,
       "titles": [
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时27分 ~ 21时30分]"
+          "appearance_count": 28,
+          "time_info": "[09时27分 ~ 21时47分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -89,6 +90,21 @@
           "time_info": "[00时27分 ~ 07时40分]"
         },
         {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[15时40分 ~ 21时47分]"
+        },
+        {
           "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
           "url": "https://www.toutiao.com/trending/7569600745033747978/",
           "source": "今日头条",
@@ -101,20 +117,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时27分 ~ 09时28分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时40分 ~ 21时30分]"
         },
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -192,8 +194,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时27分 ~ 21时30分]"
+          "appearance_count": 28,
+          "time_info": "[09时27分 ~ 21时47分]"
         },
         {
           "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
@@ -205,8 +207,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时20分 ~ 21时30分]"
+          "appearance_count": 12,
+          "time_info": "[17时20分 ~ 21时47分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -226,8 +228,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时27分 ~ 21时30分]"
+          "appearance_count": 47,
+          "time_info": "[00时27分 ~ 21时47分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -329,6 +331,19 @@
           "time_info": "[00时27分 ~ 09时28分]"
         },
         {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 21时47分]"
+        },
+        {
           "title": "IRON“猫步”惊艳市场 何小鹏“两度自证”击碎质疑 国产机器人涌现时刻到了？",
           "url": "https://www.cls.cn/detail/2193758",
           "source": "财联社热门",
@@ -357,19 +372,6 @@
           "time_info": "[04时23分 ~ 09时28分]"
         },
         {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 21时30分]"
-        },
-        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -387,18 +389,6 @@
           "time_info": "[00时27分 ~ 03时17分]"
         },
         {
-          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
-          "url": "https://www.zhihu.com/question/1970038336501547391",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 15时19分]"
-        },
-        {
           "title": "世界首富还不够 马斯克又要了1万亿",
           "url": "https://www.toutiao.com/trending/7569901105614687780/",
           "source": "今日头条",
@@ -409,8 +399,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 21时30分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 21时47分]"
+        },
+        {
+          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
+          "url": "https://www.zhihu.com/question/1970038336501547391",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 15时19分]"
         },
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -761,6 +763,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "《黑神话：悟空》发售后，每一款国产单机大作都会被用户们倾向去和黑神话对标，这对游戏行业来说有什么影响？",
+          "url": "https://www.zhihu.com/question/1966538200798463055",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时47分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
           "url": "https://flash.jin10.com/detail/20251107032640209800",
           "source": "金十数据",
@@ -889,17 +902,6 @@
           "time_info": "06时43分"
         },
         {
-          "title": "龙湖集团10月合约销售额50.0亿元人民币，1-10月累计合约销售额557.5亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3001248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
           "title": "特斯拉CEO马斯克：将于明年4月开始生产CYBERCAB。",
           "url": "https://flash.jin10.com/detail/20251107061537682800",
           "source": "金十数据",
@@ -920,6 +922,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时47分]"
         },
         {
           "title": "提醒：特斯拉股东大会在美国得州开始。",
@@ -1045,6 +1059,17 @@
           "time_info": "[00时27分 ~ 00时54分]"
         },
         {
+          "title": "特斯拉8.5万亿美元市值目标如何达成",
+          "url": "https://www.toutiao.com/trending/7569640395622301750/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "本田汽车：预计芯片短缺将使本财年营业利润减少1500亿日元。",
           "url": "https://flash.jin10.com/detail/20251107144218282800",
           "source": "金十数据",
@@ -1054,17 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
-        },
-        {
-          "title": "《黑神话：悟空》发售后，每一款国产单机大作都会被用户们倾向去和黑神话对标，这对游戏行业来说有什么影响？",
-          "url": "https://www.zhihu.com/question/1966538200798463055",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时30分"
         },
         {
           "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
@@ -1226,6 +1240,18 @@
           "time_info": "[07时19分 ~ 07时40分]"
         },
         {
+          "title": "龙湖集团10月合约销售额50.0亿元人民币，1-10月累计合约销售额557.5亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3001248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时47分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
           "url": "https://flash.jin10.com/detail/20251107055625885800",
           "source": "金十数据",
@@ -1262,18 +1288,6 @@
           "time_info": "[20时41分 ~ 21时30分]"
         },
         {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时30分]"
-        },
-        {
           "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
           "url": "https://flash.jin10.com/detail/20251107070640571800",
           "source": "金十数据",
@@ -1296,6 +1310,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 10时57分]"
+        },
+        {
+          "title": "明道张韶涵天国的嫁衣售后",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%8E%E9%81%93%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%AB%81%E8%A1%A3%E5%94%AE%E5%90%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D17%26band_rank%3D17%26lcate%3D5001%26pos%3D18%26cate%3D5001%26c_type%3D31%26q%3D%2523%25E6%2598%258E%25E9%2581%2593%25E5%25BC%25A0%25E9%259F%25B6%25E6%25B6%25B5%25E5%25A4%25A9%25E5%259B%25BD%25E7%259A%2584%25E5%25AB%2581%25E8%25A1%25A3%25E5%2594%25AE%25E5%2590%258E%2523%26display_time%3D1762519070%26pre_seqid%3D176251907009901615141136&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时47分]"
         },
         {
           "title": "小鹏机器人走猫步太像人了",
@@ -1357,16 +1384,16 @@
           "time_info": "[17时21分 ~ 17时42分]"
         },
         {
-          "title": "明道张韶涵天国的嫁衣售后",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%8E%E9%81%93%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%AB%81%E8%A1%A3%E5%94%AE%E5%90%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D17%26band_rank%3D17%26lcate%3D5001%26pos%3D18%26cate%3D5001%26c_type%3D31%26q%3D%2523%25E6%2598%258E%25E9%2581%2593%25E5%25BC%25A0%25E9%259F%25B6%25E6%25B6%25B5%25E5%25A4%25A9%25E5%259B%25BD%25E7%259A%2584%25E5%25AB%2581%25E8%25A1%25A3%25E5%2594%25AE%25E5%2590%258E%2523%26display_time%3D1762519070%26pre_seqid%3D176251907009901615141136&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
           "ranks": [
             17,
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时30分]"
+          "time_info": "[21时30分 ~ 21时47分]"
         },
         {
           "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
@@ -1659,15 +1686,15 @@
           "time_info": "10时57分"
         },
         {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
+          "title": "李娜李小鹏世纪同框",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D20%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26filter_type%3Drealtimehot%26pos%3D21%26c_type%3D31%26display_time%3D1762523195%26pre_seqid%3D176252319506403333002148&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            17
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "21时47分"
         },
         {
           "title": "本田汽车：预计全年经营利润5,500亿日元，此前预计7,000亿日元。",
