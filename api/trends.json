@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T15:19:43.237522+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-07T15:40:20.893396+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 109,
+      "match_count": 111,
       "titles": [
         {
           "title": "【早报】马斯克“万亿美元薪酬”计划获批准；中国将对部分稀土元素发放一般性出口许可证？商务部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时40分 ~ 15时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时40分 ~ 15时40分]"
         },
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 15时40分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时27分 ~ 15时19分]"
+          "appearance_count": 32,
+          "time_info": "[00时27分 ~ 15时40分]"
         },
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -130,8 +130,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 15时40分]"
         },
         {
           "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
@@ -144,8 +144,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时18分 ~ 15时19分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 15时40分]"
+        },
+        {
+          "title": "特斯拉人形机器人亮相进博会",
+          "url": "https://www.toutiao.com/trending/7569466884635233843/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 15时40分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -158,22 +173,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时57分 ~ 15时19分]"
-        },
-        {
-          "title": "特斯拉人形机器人亮相进博会",
-          "url": "https://www.toutiao.com/trending/7569466884635233843/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 15时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时57分 ~ 15时40分]"
         },
         {
           "title": "小鹏机器人无衣状态测试画面",
@@ -276,6 +277,19 @@
           "time_info": "[04时23分 ~ 09时28分]"
         },
         {
+          "title": "马斯克预计FSD明年在华全面获批",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 15时40分]"
+        },
+        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -293,19 +307,6 @@
           "time_info": "[00时27分 ~ 03时17分]"
         },
         {
-          "title": "马斯克预计FSD明年在华全面获批",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%AE%A1FSD%E6%98%8E%E5%B9%B4%E5%9C%A8%E5%8D%8E%E5%85%A8%E9%9D%A2%E8%8E%B7%E6%89%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 15时19分]"
-        },
-        {
           "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
           "url": "https://www.zhihu.com/question/1970038336501547391",
           "source": "知乎",
@@ -316,6 +317,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时24分 ~ 15时19分]"
+        },
+        {
+          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
+          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 15时40分]"
         },
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -344,18 +357,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 02时30分]"
-        },
-        {
-          "title": "马斯克万亿薪酬到手？背后是一场豪赌",
-          "url": "https://news.ifeng.com/c/8o5MXnFe1TH",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时19分]"
         },
         {
           "title": "马斯克万亿美元薪酬包被批准",
@@ -461,6 +462,20 @@
           "time_info": "13时21分"
         },
         {
+          "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
+          "url": "https://wallstreetcn.com/livenews/3001002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 15时40分]"
+        },
+        {
           "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
           "url": "https://wallstreetcn.com/livenews/3000987",
           "source": "华尔街见闻-快讯",
@@ -522,19 +537,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
-          "url": "https://wallstreetcn.com/livenews/3001002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 15时19分]"
-        },
-        {
           "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
           "url": "https://wallstreetcn.com/livenews/3000948",
           "source": "华尔街见闻-快讯",
@@ -570,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "蚂蚁集团：升级组织架构 重投大健康赛道",
+          "url": "https://wallstreetcn.com/livenews/3001051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至2%，快手跌超5%，蔚来跌近5%。",
@@ -845,6 +858,17 @@
           "time_info": "[00时27分 ~ 00时54分]"
         },
         {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "本田汽车：预计芯片短缺将使本财年营业利润减少1500亿日元。",
           "url": "https://flash.jin10.com/detail/20251107144218282800",
           "source": "金十数据",
@@ -867,6 +891,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时43分]"
+        },
+        {
+          "title": "本田汽车第二财季经营利润1,939.7亿日元，预估2,198.5亿日元。 第二财季净利润1,151.6亿日元，预估1,437.4亿日元。 第二财季销售净额5.29万亿日元，预估5.31万亿日元。 本田汽车预计全年经营利润5,500.0亿日元，此前预计7,000.0亿日元，市场预估8,687.7亿日元。 本田汽车预计全年销售净额20.70万亿日元，此前预计21.10万亿日元，市场预估21.42万亿日元。 本田汽车预计全年净利润本田汽车预计全年3,000.0亿日元，此前预计4,200.0亿日元，市场预估5,883.1亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3001010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时40分]"
         },
         {
           "title": "特斯拉(TSLA.O)股东投票反对取消衍生品诉讼中3%持股比例规定的提案。",
@@ -942,6 +979,17 @@
           "time_info": "[07时19分 ~ 07时40分]"
         },
         {
+          "title": "明道张韶涵20年后的售后",
+          "url": "https://www.douyin.com/hot/2297819",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 15时40分]"
+        },
+        {
           "title": "曼城4:1多特蒙德",
           "url": "https://www.douyin.com/hot/2296218",
           "source": "抖音",
@@ -976,18 +1024,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时40分]"
-        },
-        {
-          "title": "本田汽车第二财季经营利润1,939.7亿日元，预估2,198.5亿日元。 第二财季净利润1,151.6亿日元，预估1,437.4亿日元。 第二财季销售净额5.29万亿日元，预估5.31万亿日元。 本田汽车预计全年经营利润5,500.0亿日元，此前预计7,000.0亿日元，市场预估8,687.7亿日元。 本田汽车预计全年销售净额20.70万亿日元，此前预计21.10万亿日元，市场预估21.42万亿日元。 本田汽车预计全年净利润本田汽车预计全年3,000.0亿日元，此前预计4,200.0亿日元，市场预估5,883.1亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3001010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时19分]"
         },
         {
           "title": "特斯拉(TSLA.O)股东投票赞成选举伊拉·埃伦普莱斯、乔·盖比亚和凯瑟琳·威尔逊-汤普森为董事的提案。",
@@ -1036,17 +1072,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 10时57分]"
-        },
-        {
-          "title": "明道张韶涵20年后的售后",
-          "url": "https://www.douyin.com/hot/2297819",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时19分]"
         },
         {
           "title": "小鹏机器人走猫步太像人了",
@@ -1106,6 +1131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时40分]"
+        },
+        {
+          "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
+          "url": "https://flash.jin10.com/detail/20251107150145179800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时40分]"
         },
         {
           "title": "印度汽车经销商协会联盟（FADA）：未来三个月，节日效应带来的预订将维持零售势头。",
@@ -1297,17 +1334,6 @@
           "time_info": "10时57分"
         },
         {
-          "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
-          "url": "https://flash.jin10.com/detail/20251107150145179800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "本田汽车：预计全年经营利润5,500亿日元，此前预计7,000亿日元。",
           "url": "https://flash.jin10.com/detail/20251107143054623800",
           "source": "金十数据",
@@ -1369,7 +1395,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
