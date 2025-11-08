@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T01:40:55.756096+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2025-11-09T02:26:19.795079+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3001597",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "曼联2:2热刺",
           "url": "https://www.douyin.com/hot/2299428",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时26分]"
         },
         {
           "title": "2526 赛季英超联赛第 11 轮，热刺 2:2 曼联，如何评价这场比赛？",
@@ -39,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时26分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -51,8 +53,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时26分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -62,8 +64,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时26分]"
         },
         {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
@@ -73,30 +75,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "蚂蚁集团骆骥：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
           "url": "https://wallstreetcn.com/livenews/3001569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时26分]"
         },
         {
           "title": "长春车展：新能源汽车加速北上“破冰”高寒市场",
           "url": "https://wallstreetcn.com/livenews/3001566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时26分]"
+        },
+        {
+          "title": "赛力斯前三季度净利润同比增长 31.56%，问界 M9 累计交付破 25 万台，赛力斯发展前景如何？",
+          "url": "https://www.zhihu.com/question/1967352946338562602",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 02时26分]"
         },
         {
           "title": "谢寒冰：美军在西太平洋军力下滑",
@@ -108,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 00时44分]"
-        },
-        {
-          "title": "赛力斯前三季度净利润同比增长 31.56%，问界 M9 累计交付破 25 万台，赛力斯发展前景如何？",
-          "url": "https://www.zhihu.com/question/1967352946338562602",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时40分]"
         }
       ]
     }
