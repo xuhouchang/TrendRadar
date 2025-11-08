@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T19:16:24.627095+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-11-08T19:38:36.441231+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -103,11 +103,28 @@
             5,
             14,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时47分 ~ 19时16分]"
+          "appearance_count": 24,
+          "time_info": "[10时47分 ~ 19时38分]"
+        },
+        {
+          "title": "如何看待郭帆称《流浪地球 3》还会找徐工集团合作？",
+          "url": "https://www.zhihu.com/question/586806223",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            13,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[12时22分 ~ 19时38分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -129,21 +146,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时23分 ~ 07时40分]"
-        },
-        {
-          "title": "如何看待郭帆称《流浪地球 3》还会找徐工集团合作？",
-          "url": "https://www.zhihu.com/question/586806223",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时22分 ~ 19时16分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -196,8 +198,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时23分 ~ 19时16分]"
+          "appearance_count": 45,
+          "time_info": "[00时23分 ~ 19时38分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超3800亿元",
@@ -323,6 +325,20 @@
           "time_info": "[09时24分 ~ 12时43分]"
         },
         {
+          "title": "陈文清在贵州调研时表示，深入学习贯彻党的二十届四中全会精神，奋力建设更高水平平安中国法治中国",
+          "url": "https://wallstreetcn.com/livenews/3001538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时38分]"
+        },
+        {
           "title": "何小鹏回应马斯克点赞小鹏机器人",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -345,20 +361,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时37分 ~ 16时45分]"
-        },
-        {
-          "title": "陈文清在贵州调研时表示，深入学习贯彻党的二十届四中全会精神，奋力建设更高水平平安中国法治中国",
-          "url": "https://wallstreetcn.com/livenews/3001538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时16分]"
         },
         {
           "title": "特斯拉Model Y长续航后驱版上市",
