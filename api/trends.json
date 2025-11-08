@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T04:20:06.084900+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-09T04:39:49.038076+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -17,32 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 04时20分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时39分]"
         },
         {
           "title": "赛力斯前三季度净利润同比增长 31.56%，问界 M9 累计交付破 25 万台，赛力斯发展前景如何？",
@@ -56,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 04时39分]"
         },
         {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
@@ -67,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时39分]"
         },
         {
           "title": "蚂蚁集团骆骥：蚂蚁已部署万卡规模国产算力群，全面应用于安全及风控",
@@ -80,8 +56,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时39分]"
         },
         {
           "title": "长春车展：新能源汽车加速北上“破冰”高寒市场",
@@ -93,8 +69,32 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时39分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 04时39分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 04时39分]"
         },
         {
           "title": "曼联2:2热刺",
@@ -104,11 +104,12 @@
             1,
             16,
             27,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 04时39分]"
         },
         {
           "title": "2526 赛季英超联赛第 11 轮，热刺 2:2 曼联，如何评价这场比赛？",
