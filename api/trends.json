@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T15:18:53.429112+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2025-11-08T15:37:48.634712+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时23分 ~ 15时18分]"
+          "appearance_count": 35,
+          "time_info": "[00时23分 ~ 15时37分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时23分 ~ 15时18分]"
+          "appearance_count": 35,
+          "time_info": "[00时23分 ~ 15时37分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -99,11 +99,12 @@
           "ranks": [
             6,
             10,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时47分 ~ 15时18分]"
+          "appearance_count": 14,
+          "time_info": "[10时47分 ~ 15时37分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -145,6 +146,19 @@
           "time_info": "[00时48分 ~ 07时18分]"
         },
         {
+          "title": "如何看待郭帆称《流浪地球 3》还会找徐工集团合作？",
+          "url": "https://www.zhihu.com/question/586806223",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 15时37分]"
+        },
+        {
           "title": "马斯克万亿薪酬方案获批准",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
           "source": "bilibili 热搜",
@@ -174,8 +188,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时23分 ~ 15时18分]"
+          "appearance_count": 35,
+          "time_info": "[00时23分 ~ 15时37分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超3800亿元",
@@ -206,19 +220,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时40分 ~ 07时40分]"
-        },
-        {
-          "title": "如何看待郭帆称《流浪地球 3》还会找徐工集团合作？",
-          "url": "https://www.zhihu.com/question/586806223",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 15时18分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -317,11 +318,12 @@
             4,
             11,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时37分]"
         },
         {
           "title": "联合国秘书长：美国在加勒比和东太平洋空袭违反国际人道法",
@@ -371,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "小鹏机器人火了 前景乐观吗",
+          "url": "https://www.toutiao.com/trending/7570178447754923570/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "本周，标普累跌约1.8%，道指累跌约1.3%，纳指累跌约3.2%，纳指科技指数累跌约4.1%，半导体指数累跌约4.5%，银行指数涨0.4%，小盘股指跌2.2%。 周五当天，标普500指数初步收涨约0.1%，电信板块跌0.9%，科技板块跌0.6%，能源板块则涨1.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Take-Two Interactive Software Inc.跌8%——该公司《GTA 6》游戏延期引发投资者恐慌，微芯科技、德康医疗、Arm控股、吉利德科学、特斯拉、迈威尔科技至少跌超3%，Axon涨2.7%，星巴克涨3.8%，Doordash反弹4.2%，MNST涨5.1%。 可口可乐涨2.1%，雪佛龙涨1.5%，领跑道指成分股，苹果则跌0.5%，霍尼韦尔、波音、卡特彼勒、耐克、IBM跌超1%。",
@@ -498,7 +511,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
