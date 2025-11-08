@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T18:41:16.183718+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2025-11-08T19:16:24.627095+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -102,11 +102,12 @@
             17,
             5,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时47分 ~ 18时41分]"
+          "appearance_count": 23,
+          "time_info": "[10时47分 ~ 19时16分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -141,8 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时22分 ~ 18时41分]"
+          "appearance_count": 19,
+          "time_info": "[12时22分 ~ 19时16分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -191,11 +192,12 @@
             20,
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时23分 ~ 18时41分]"
+          "appearance_count": 44,
+          "time_info": "[00时23分 ~ 19时16分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超3800亿元",
@@ -345,6 +347,20 @@
           "time_info": "[15时37分 ~ 16时45分]"
         },
         {
+          "title": "陈文清在贵州调研时表示，深入学习贯彻党的二十届四中全会精神，奋力建设更高水平平安中国法治中国",
+          "url": "https://wallstreetcn.com/livenews/3001538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时16分]"
+        },
+        {
           "title": "特斯拉Model Y长续航后驱版上市",
           "url": "https://www.toutiao.com/trending/7569479537906716202/",
           "source": "今日头条",
@@ -405,19 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        },
-        {
-          "title": "陈文清在贵州调研时表示，深入学习贯彻党的二十届四中全会精神，奋力建设更高水平平安中国法治中国",
-          "url": "https://wallstreetcn.com/livenews/3001538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时41分]"
         },
         {
           "title": "本周，标普累跌约1.8%，道指累跌约1.3%，纳指累跌约3.2%，纳指科技指数累跌约4.1%，半导体指数累跌约4.5%，银行指数涨0.4%，小盘股指跌2.2%。 周五当天，标普500指数初步收涨约0.1%，电信板块跌0.9%，科技板块跌0.6%，能源板块则涨1.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Take-Two Interactive Software Inc.跌8%——该公司《GTA 6》游戏延期引发投资者恐慌，微芯科技、德康医疗、Arm控股、吉利德科学、特斯拉、迈威尔科技至少跌超3%，Axon涨2.7%，星巴克涨3.8%，Doordash反弹4.2%，MNST涨5.1%。 可口可乐涨2.1%，雪佛龙涨1.5%，领跑道指成分股，苹果则跌0.5%，霍尼韦尔、波音、卡特彼勒、耐克、IBM跌超1%。",
