@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T16:24:02.186183+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-11-08T16:45:18.287215+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 38,
+          "time_info": "[00时23分 ~ 16时45分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 38,
+          "time_info": "[00时23分 ~ 16时45分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -103,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 16时24分]"
+          "appearance_count": 17,
+          "time_info": "[10时47分 ~ 16时45分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -155,8 +155,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时22分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时22分 ~ 16时45分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -188,8 +188,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 38,
+          "time_info": "[00时23分 ~ 16时45分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超3800亿元",
@@ -301,17 +301,6 @@
           "time_info": "[13时41分 ~ 16时24分]"
         },
         {
-          "title": "小鹏机器人火了 前景乐观吗",
-          "url": "https://www.toutiao.com/trending/7570178447754923570/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时24分]"
-        },
-        {
           "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
           "url": "https://flash.jin10.com/detail/20251108085940743800",
           "source": "金十数据",
@@ -336,6 +325,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时47分 ~ 12时43分]"
+        },
+        {
+          "title": "小鹏机器人火了 前景乐观吗",
+          "url": "https://www.toutiao.com/trending/7570178447754923570/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 16时45分]"
         },
         {
           "title": "联合国秘书长：美国在加勒比和东太平洋空袭违反国际人道法",
