@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T00:21:59.758953+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-10T00:43:47.864974+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
         },
         {
           "title": "通用汽车中国公司总裁：与上汽的合资企业是在华竞争力的核心",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
+        },
+        {
+          "title": "曼城vs利物浦",
+          "url": "https://www.douyin.com/hot/2300565",
+          "source": "抖音",
+          "ranks": [
+            28,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
         },
         {
           "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
@@ -37,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
@@ -48,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
@@ -59,19 +71,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "曼城vs利物浦",
-          "url": "https://www.douyin.com/hot/2300565",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时43分]"
         }
       ]
     }
