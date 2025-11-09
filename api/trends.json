@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T17:20:21.573305+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-11-09T17:38:33.191019+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时22分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[12时22分 ~ 17时38分]"
         },
         {
           "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
@@ -196,6 +197,17 @@
           "time_info": "[16时24分 ~ 17时20分]"
         },
         {
+          "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
+          "url": "https://news.ifeng.com/c/8o8uhMtfEBS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 17时38分]"
+        },
+        {
           "title": "谢寒冰：美军在西太平洋军力下滑",
           "url": "https://www.toutiao.com/trending/7570178727712751654/",
           "source": "今日头条",
@@ -205,17 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 00时44分]"
-        },
-        {
-          "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
-          "url": "https://news.ifeng.com/c/8o8uhMtfEBS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         }
       ]
     }
