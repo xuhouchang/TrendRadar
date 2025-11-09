@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T22:16:56.905499+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2025-11-09T22:38:40.220407+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             5,
             3,
             2,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时22分 ~ 22时16分]"
+          "appearance_count": 25,
+          "time_info": "[12时22分 ~ 22时38分]"
         },
         {
           "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
@@ -89,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时19分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[17时19分 ~ 22时38分]"
         },
         {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
@@ -180,11 +181,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 22时38分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
@@ -193,11 +195,12 @@
           "ranks": [
             3,
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 22时38分]"
         },
         {
           "title": "马斯克：薪酬计划的目标确实有点难，但是能实现的",
