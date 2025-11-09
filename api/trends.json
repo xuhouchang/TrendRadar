@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T12:22:52.262317+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-11-09T12:44:31.278038+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时16分 ~ 12时22分]"
+          "appearance_count": 22,
+          "time_info": "[01时16分 ~ 12时44分]"
         },
         {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
@@ -149,11 +149,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 12时44分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -176,8 +177,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 12时44分]"
         },
         {
           "title": "谢寒冰：美军在西太平洋军力下滑",
