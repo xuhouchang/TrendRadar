@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T05:38:29.800520+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2025-11-10T06:18:57.539325+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -30,11 +30,12 @@
             3,
             12,
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 05时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "通用汽车中国公司总裁：与上汽的合资企业是在华竞争力的核心",
@@ -45,11 +46,12 @@
             4,
             13,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 05时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 05时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
@@ -85,11 +87,12 @@
             24,
             22,
             23,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 05时38分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 06时18分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
@@ -121,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 06时18分]"
         }
       ]
     }
