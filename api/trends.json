@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T18:19:30.345910+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-11-09T18:41:00.134037+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时22分 ~ 18时19分]"
+          "appearance_count": 18,
+          "time_info": "[12时22分 ~ 18时40分]"
         },
         {
           "title": "阿根廷拒绝太平洋投资管理公司（PIMCO，品浩）提出的“浮动汇率”建议，打算维持（现行）汇率区间方案。 据知情人士透露，阿根廷经济部长Luis Caputo在纽约告诉投资者们，阿根廷政府计划回购主权债券。 在本币比索区间震荡期间，将启动累积外汇储备。 11月7日，摩根大通主持了阿根廷政府与大约40家投资者的会议。（彭博）",
@@ -162,6 +162,17 @@
           "time_info": "[00时21分 ~ 03时16分]"
         },
         {
+          "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
+          "url": "https://news.ifeng.com/c/8o8uhMtfEBS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 18时40分]"
+        },
+        {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
           "url": "https://wallstreetcn.com/articles/3758964",
           "source": "华尔街见闻",
@@ -171,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
-          "url": "https://news.ifeng.com/c/8o8uhMtfEBS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 18时19分]"
         },
         {
           "title": "路遇汽车自燃 外卖小哥挺身救火",
