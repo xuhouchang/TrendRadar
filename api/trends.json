@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T13:19:13.662164+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2025-11-09T13:41:17.559782+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             18,
             15,
             14,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时16分 ~ 13时19分]"
+          "appearance_count": 25,
+          "time_info": "[01时16分 ~ 13时41分]"
         },
         {
           "title": "埃及石油部：已通过向壳牌租用的船舶向希腊出口了一批新的液化天然气，数量为15万立方米。",
@@ -135,11 +136,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 13时41分]"
         },
         {
           "title": "2526 赛季英超联赛第 11 轮，热刺 2:2 曼联，如何评价这场比赛？",
