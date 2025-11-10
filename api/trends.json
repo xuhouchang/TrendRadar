@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T12:48:24.746762+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-10T13:21:16.275878+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "曼城vs利物浦",
@@ -52,6 +52,32 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 06时18分]"
+        },
+        {
+          "title": "曼城3:0利物浦",
+          "url": "https://www.douyin.com/hot/2300565",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 13时21分]"
+        },
+        {
+          "title": "曼城3比0利物浦",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3%E6%AF%940%E5%88%A9%E7%89%A9%E6%B5%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时21分]"
         },
         {
           "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
@@ -109,31 +135,6 @@
           "time_info": "[00时21分 ~ 04时40分]"
         },
         {
-          "title": "曼城3:0利物浦",
-          "url": "https://www.douyin.com/hot/2300565",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 12时48分]"
-        },
-        {
-          "title": "曼城3比0利物浦",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3%E6%AF%940%E5%88%A9%E7%89%A9%E6%B5%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时48分]"
-        },
-        {
           "title": "4个关键词解读十五运会点火创意",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%234%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E8%AF%BB%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E7%82%B9%E7%81%AB%E5%88%9B%E6%84%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D3%26filter_type%3Drealtimehot%26pos%3D2%26c_type%3D31%26cate%3D5001%26flag%3D1%26q%3D%25234%25E4%25B8%25AA%25E5%2585%25B3%25E9%2594%25AE%25E8%25AF%258D%25E8%25A7%25A3%25E8%25AF%25BB%25E5%258D%2581%25E4%25BA%2594%25E8%25BF%2590%25E4%25BC%259A%25E7%2582%25B9%25E7%2581%25AB%25E5%2588%259B%25E6%2584%258F%2523%26realpos%3D3%26stream_entry_id%3D31%26lcate%3D5001%26dgr%3D0%26display_time%3D1762744869%26pre_seqid%3D176274486991802651087138&launchid=10000360-page_H5",
           "source": "微博",
@@ -141,19 +142,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 13时21分]"
         },
         {
           "title": "利物浦溃败曼城,多库无解破门封神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346927&amp;topic_name=%E5%88%A9%E7%89%A9%E6%B5%A6%E6%BA%83%E8%B4%A5%E6%9B%BC%E5%9F%8E%2C%E5%A4%9A%E5%BA%93%E6%97%A0%E8%A7%A3%E7%A0%B4%E9%97%A8%E5%B0%81%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 13时21分]"
+        },
+        {
+          "title": "岚图汽车第30万辆整车下线，为岚图泰山",
+          "url": "https://wallstreetcn.com/livenews/3001943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
+          "url": "https://flash.jin10.com/detail/20251110130452203800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "美国参议院多数党领袖John Thune：计划（美东时间）周日针对一份结束政府关门的开支协议进行常识性投票，（驴象两党）“正接近就此达成共识”。",
@@ -166,6 +190,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时38分 ~ 04时40分]"
+        },
+        {
+          "title": "年轻人捡漏烂尾车 售后风险不容忽视",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8D%A1%E6%BC%8F%E7%83%82%E5%B0%BE%E8%BD%A6+%E5%94%AE%E5%90%8E%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A7%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            22,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 13时21分]"
         },
         {
           "title": "2526 赛季英超联赛第 11 轮，曼城 3:0 利物浦，如何评价这场比赛？",
@@ -185,11 +223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时21分]"
         },
         {
           "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
@@ -216,19 +255,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 06时18分]"
-        },
-        {
-          "title": "年轻人捡漏烂尾车 售后风险不容忽视",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8D%A1%E6%BC%8F%E7%83%82%E5%B0%BE%E8%BD%A6+%E5%94%AE%E5%90%8E%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A7%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时48分]"
         },
         {
           "title": "李斌在蔚来电池科技公司职位发生变更，由董事长变更为董事",
