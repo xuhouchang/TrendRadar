@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T12:03:00.011336+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2025-11-10T12:48:24.746762+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 12时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 12时48分]"
         },
         {
           "title": "曼城3比0利物浦",
@@ -130,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时48分]"
         },
         {
           "title": "4个关键词解读十五运会点火创意",
@@ -141,19 +141,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时48分]"
         },
         {
-          "title": "【政府“停摆”40天 美国会参议院通过临时拨款法案】当地时间11月9日，美国国会参议院通过一项旨在结束政府“停摆”的临时拨款法案。该法案将为政府提供资金直至2026年1月30日。美东时间11月9日是本次美国政府自10月1日“停摆”以来的第40天。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3001911",
-          "source": "华尔街见闻-快讯",
+          "title": "利物浦溃败曼城,多库无解破门封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346927&amp;topic_name=%E5%88%A9%E7%89%A9%E6%B5%A6%E6%BA%83%E8%B4%A5%E6%9B%BC%E5%9F%8E%2C%E5%A4%9A%E5%BA%93%E6%97%A0%E8%A7%A3%E7%A0%B4%E9%97%A8%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
           "ranks": [
-            3
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：计划（美东时间）周日针对一份结束政府关门的开支协议进行常识性投票，（驴象两党）“正接近就此达成共识”。",
@@ -172,22 +172,24 @@
           "url": "https://www.zhihu.com/question/1971013332426293857",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时48分]"
+        },
+        {
+          "title": "【政府“停摆”40天 美国会参议院通过临时拨款法案】当地时间11月9日，美国国会参议院通过一项旨在结束政府“停摆”的临时拨款法案。该法案将为政府提供资金直至2026年1月30日。美东时间11月9日是本次美国政府自10月1日“停摆”以来的第40天。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3001911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时02分]"
-        },
-        {
-          "title": "利物浦溃败曼城,多库无解破门封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346927&amp;topic_name=%E5%88%A9%E7%89%A9%E6%B5%A6%E6%BA%83%E8%B4%A5%E6%9B%BC%E5%9F%8E%2C%E5%A4%9A%E5%BA%93%E6%97%A0%E8%A7%A3%E7%A0%B4%E9%97%A8%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
@@ -195,11 +197,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时48分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：计划（美东时间）周日针对一份结束政府关门的开支协议进行尝试性投票，（驴象两党）“正接近就此达成共识”。",
@@ -213,6 +216,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 06时18分]"
+        },
+        {
+          "title": "年轻人捡漏烂尾车 售后风险不容忽视",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8D%A1%E6%BC%8F%E7%83%82%E5%B0%BE%E8%BD%A6+%E5%94%AE%E5%90%8E%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A7%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 12时48分]"
         },
         {
           "title": "李斌在蔚来电池科技公司职位发生变更，由董事长变更为董事",
@@ -239,16 +255,16 @@
           "time_info": "[11时21分 ~ 12时02分]"
         },
         {
-          "title": "年轻人捡漏烂尾车 售后风险不容忽视",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8D%A1%E6%BC%8F%E7%83%82%E5%B0%BE%E8%BD%A6+%E5%94%AE%E5%90%8E%E9%A3%8E%E9%99%A9%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A7%86",
-          "source": "百度热搜",
+          "title": "岚图汽车第30万辆整车下线",
+          "url": "https://www.toutiao.com/trending/7570909023378292763/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            22
+            29,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时02分]"
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "谭松韵刘昊然最好的我们售后",
@@ -290,18 +306,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "岚图汽车第30万辆整车下线",
-          "url": "https://www.toutiao.com/trending/7570909023378292763/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
