@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T18:24:04.644780+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2025-11-10T18:48:06.277396+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[14时32分 ~ 18时48分]"
         },
         {
           "title": "4个关键词解读十五运会点火创意",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[14时32分 ~ 18时48分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时20分 ~ 18时48分]"
         },
         {
           "title": "曼城vs利物浦",
@@ -99,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时02分 ~ 18时24分]"
+          "appearance_count": 19,
+          "time_info": "[12时02分 ~ 18时48分]"
         },
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -148,11 +148,12 @@
             14,
             22,
             25,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时40分 ~ 18时24分]"
+          "appearance_count": 20,
+          "time_info": "[09时40分 ~ 18时48分]"
         },
         {
           "title": "诈骗集团在岛内连买11户豪宅，郭正亮：根本没把台当局放在眼里",
@@ -164,6 +165,21 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时21分 ~ 07时38分]"
+        },
+        {
+          "title": "日产汽车 45 亿元人民币出售总部大楼，买方为汽车零部件制造商敏实集团支持的财团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1970437871342162730",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 18时48分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
@@ -178,21 +194,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 05时18分]"
-        },
-        {
-          "title": "日产汽车 45 亿元人民币出售总部大楼，买方为汽车零部件制造商敏实集团支持的财团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1970437871342162730",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时43分 ~ 17时24分]"
         },
         {
           "title": "深度解读特斯拉股东大会",
@@ -245,8 +246,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 18时48分]"
         },
         {
           "title": "中国乘联分会：比亚迪10月汽车出口量为80,108辆。",
@@ -294,6 +295,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 15时20分]"
+        },
+        {
+          "title": "剑来吴磊陈平安我先笑纳了",
+          "url": "https://www.douyin.com/hot/2301217",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 18时48分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：计划（美东时间）周日针对一份结束政府关门的开支协议进行常识性投票，（驴象两党）“正接近就此达成共识”。",
@@ -409,16 +423,15 @@
           "time_info": "[11时21分 ~ 12时48分]"
         },
         {
-          "title": "剑来吴磊陈平安我先笑纳了",
-          "url": "https://www.douyin.com/hot/2301217",
-          "source": "抖音",
+          "title": "中国汽车在俄罗斯市场“遇冷”",
+          "url": "https://www.toutiao.com/trending/7571022622176054826/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时24分]"
+          "time_info": "[18时23分 ~ 18时48分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：计划（美东时间）周日针对一份结束政府关门的开支协议进行尝试性投票，（驴象两党）“正接近就此达成共识”。",
@@ -468,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时48分]"
-        },
-        {
-          "title": "中国汽车在俄罗斯市场“遇冷”",
-          "url": "https://www.toutiao.com/trending/7571022622176054826/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "乌克兰议员：已向议会提交一份关于解除司法部长（兼实际能源部长）赫尔曼·哈卢申科职务的声明。",
