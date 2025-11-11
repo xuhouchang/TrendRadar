@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T14:54:57.003241+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2025-11-11T15:21:18.870983+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
@@ -29,11 +29,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时27分 ~ 14时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "小米汽车10月零售销量48654辆",
@@ -62,11 +63,12 @@
             20,
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时27分 ~ 14时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "利物浦溃败曼城,多库无解破门封神",
@@ -79,11 +81,12 @@
             24,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时27分 ~ 14时54分]"
+          "appearance_count": 35,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "泫雅发文致歉并报平安",
@@ -139,6 +142,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时58分 ~ 14时32分]"
+        },
+        {
+          "title": "王曼昱4比3范思琦",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%943%E8%8C%83%E6%80%9D%E7%90%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26pos%3D4%26lcate%3D5001%26c_type%3D31%26band_rank%3D4%26realpos%3D4%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B14%25E6%25AF%25943%25E8%258C%2583%25E6%2580%259D%25E7%2590%25A6%2523%26dgr%3D0%26display_time%3D1762842637%26pre_seqid%3D17628426377390283905661&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时21分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：（临时拨款立法草案的投票程序）仍然处于停滞状态。 并不清楚今天（美东时间周一）能否投票。",
@@ -228,18 +244,6 @@
           "time_info": "[03时17分 ~ 04时45分]"
         },
         {
-          "title": "王曼昱4比3范思琦",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%943%E8%8C%83%E6%80%9D%E7%90%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26pos%3D4%26lcate%3D5001%26c_type%3D31%26band_rank%3D4%26realpos%3D4%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B14%25E6%25AF%25943%25E8%258C%2583%25E6%2580%259D%25E7%2590%25A6%2523%26dgr%3D0%26display_time%3D1762842637%26pre_seqid%3D17628426377390283905661&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时54分]"
-        },
-        {
           "title": "王曼昱VS范思琦",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1VS%E8%8C%83%E6%80%9D%E7%90%A6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1VS%25E8%258C%2583%25E6%2580%259D%25E7%2590%25A6%26realpos%3D10%26c_type%3D31%26band_rank%3D10%26cate%3D5001%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26flag%3D1%26dgr%3D0%26display_time%3D1762838497%26pre_seqid%3D17628384973800114644599&launchid=10000360-page_H5",
           "source": "微博",
@@ -263,18 +267,6 @@
           "time_info": "[03时17分 ~ 04时45分]"
         },
         {
-          "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3002555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时54分]"
-        },
-        {
           "title": "澳大利亚11月西太平洋/墨尔本消费者信心指数 103.8，前值92.1。",
           "url": "https://flash.jin10.com/detail/20251111073016970800",
           "source": "金十数据",
@@ -292,7 +284,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -333,6 +325,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "王曼昱4-3险胜范思琦",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-3%E9%99%A9%E8%83%9C%E8%8C%83%E6%80%9D%E7%90%A6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时21分]"
+        },
+        {
           "title": "立讯精密在互动平台表示，公司并未直接或间接持有奇瑞汽车股份有限公司相关股份。",
           "url": "https://wallstreetcn.com/livenews/3002515",
           "source": "华尔街见闻-快讯",
@@ -348,24 +351,26 @@
           "time_info": "[12时47分 ~ 14时54分]"
         },
         {
+          "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3002555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
           "title": "软银集团：已于10月以58.3亿美元的价格出售所持英伟达股份。",
           "url": "https://flash.jin10.com/detail/20251111144340905800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
-          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国KKR投资集团联席首席执行官裴容范",
-          "url": "https://wallstreetcn.com/livenews/3002567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -392,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "中汽协：10月中国汽车产销同比分别增长12.1%和8.8%",
+          "url": "https://wallstreetcn.com/livenews/3002591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
@@ -439,7 +455,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -455,24 +471,13 @@
           "time_info": "05时19分"
         },
         {
-          "title": "王曼昱4-3险胜范思琦",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-3%E9%99%A9%E8%83%9C%E8%8C%83%E6%80%9D%E7%90%A6",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
-        },
-        {
           "title": "软银集团：上半年净利润2.92万亿日元，销售净额3.74万亿日元。",
           "url": "https://flash.jin10.com/detail/20251111143344305800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -506,7 +511,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -523,6 +528,19 @@
           "time_info": "[12时29分 ~ 13时23分]"
         },
         {
+          "title": "10月我国新能源汽车销量首次超总销量的50%",
+          "url": "https://wallstreetcn.com/livenews/3002545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时21分]"
+        },
+        {
           "title": "印度首都汽车爆炸已致超10死 莫迪发文",
           "url": "https://flash.jin10.com/detail/20251111004519318800",
           "source": "金十数据",
@@ -535,6 +553,18 @@
           "time_info": "[00时52分 ~ 01时18分]"
         },
         {
+          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国KKR投资集团联席首席执行官裴容范",
+          "url": "https://wallstreetcn.com/livenews/3002567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时21分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨2.25%，报8238.36点。 热门中概股里，小鹏初步收涨15.6%，阿特斯太阳能涨13.8%，华住涨8.8%，大全新能源涨7.1%，唯品会、名创优品、百度涨超5%，携程、晶科能源涨超4.8%，亚朵、贝壳、老虎证券、微博涨超3%。 ETF中，中概互联网指数ETF（KWEB）收涨2.21%，中国科技指数ETF（CQQQ）收涨1.51%。 追踪富时25中国股指数ETF-iShares（FXI）收涨2.05%，中国ETF-iShares MSCI（MCHI）收涨1.71%，德银嘉实沪深300指数ETF（ASHR）收涨0.60%，XtrackersHarvest中证50（ASHS）收涨0.35%。",
           "url": "https://wallstreetcn.com/livenews/3002326",
           "source": "华尔街见闻-快讯",
@@ -544,18 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "10月我国新能源汽车销量首次超总销量的50%",
-          "url": "https://wallstreetcn.com/livenews/3002545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时54分]"
         },
         {
           "title": "索尼集团公司提高全年营业利润预期",
@@ -594,6 +612,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时18分]"
+        },
+        {
+          "title": "王曼昱首秀苦战七局晋级",
+          "url": "https://www.toutiao.com/trending/7571326505117466667/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时21分]"
         },
         {
           "title": "英国伦敦证交所（LSE）集团裁员3000名工程师。（FN）",
@@ -699,6 +729,17 @@
           "time_info": "11时58分"
         },
         {
+          "title": "王曼昱4:3逆转范思琦",
+          "url": "https://www.douyin.com/hot/2302429",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "印度内政部长：爆炸发生在新德里的一辆汽车上。印度内政部长：正在调查此事件，探索所有可能性。即将抵达新德里爆炸现场，随后还将前往医院。",
           "url": "https://flash.jin10.com/detail/20251110235723211800",
           "source": "金十数据",
@@ -763,17 +804,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "王曼昱首秀苦战七局晋级",
-          "url": "https://www.toutiao.com/trending/7571326505117466667/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         }
       ]
     }
