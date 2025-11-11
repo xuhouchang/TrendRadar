@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-11T07:40:15.205209+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-11-11T09:28:56.509992+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 07时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 09时28分]"
         },
         {
           "title": "小米汽车10月零售销量48654辆",
@@ -39,22 +40,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 07时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 09时28分]"
         },
         {
           "title": "利物浦溃败曼城,多库无解破门封神",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346927&amp;topic_name=%E5%88%A9%E7%89%A9%E6%B5%A6%E6%BA%83%E8%B4%A5%E6%9B%BC%E5%9F%8E%2C%E5%A4%9A%E5%BA%93%E6%97%A0%E8%A7%A3%E7%A0%B4%E9%97%A8%E5%B0%81%E7%A5%9E",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 07时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 09时28分]"
         },
         {
           "title": "泫雅发文致歉并报平安",
@@ -94,6 +97,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时54分 ~ 04时45分]"
+        },
+        {
+          "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
+          "url": "https://news.ifeng.com/c/8oBRjeqnCaD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 09时28分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：（临时拨款立法草案的投票程序）仍然处于停滞状态。 并不清楚今天（美东时间周一）能否投票。",
@@ -171,20 +185,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
         {
-          "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
-          "url": "https://news.ifeng.com/c/8oBRjeqnCaD",
-          "source": "凤凰网",
+          "title": "恒指高开0.37%，恒生科技指数涨0.79%。小鹏汽车涨超9%，百度集团涨超3%，腾讯涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3002420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "富国银行：特斯拉10月销量各地均大幅下滑",
@@ -207,7 +221,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -223,6 +237,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 01时40分]"
+        },
+        {
+          "title": "商务部国际贸易谈判代表兼副部长李成钢会见科恩集团高级顾问艾伦及因美纳公司首席执行官泰森",
+          "url": "https://wallstreetcn.com/livenews/3002416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
@@ -271,6 +296,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时18分]"
+        },
+        {
+          "title": "中国汽车对俄出口骤降58%",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%AF%B9%E4%BF%84%E5%87%BA%E5%8F%A3%E9%AA%A4%E9%99%8D58%25%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26pos%3D7%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%25B1%25BD%25E8%25BD%25A6%25E5%25AF%25B9%25E4%25BF%2584%25E5%2587%25BA%25E5%258F%25A3%25E9%25AA%25A4%25E9%2599%258D58%2525%2523%26lcate%3D5001%26flag%3D1%26band_rank%3D8%26realpos%3D8%26display_time%3D1762824397%26pre_seqid%3D17628243974190285346146&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "印度首都汽车爆炸已致超10死 莫迪发文",
@@ -367,6 +403,39 @@
           "time_info": "01时40分"
         },
         {
+          "title": "软银集团股价延续涨势，最新上涨5.2%。",
+          "url": "https://flash.jin10.com/detail/20251111084516030800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "印度首都汽车爆炸已致超10死",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B4%E8%B6%8510%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "中国机会｜“世界上最美的汽车”亮相进博会，李心尹：“经典车”在中国是片蓝海市场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930405",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "印度内政部长：爆炸发生在新德里的一辆汽车上。印度内政部长：正在调查此事件，探索所有可能性。即将抵达新德里爆炸现场，随后还将前往医院。",
           "url": "https://flash.jin10.com/detail/20251110235723211800",
           "source": "金十数据",
@@ -378,6 +447,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "印度汽车爆炸已造成至少8人死亡",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%918%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26pos%3D24%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E6%25B1%25BD%25E8%25BD%25A6%25E7%2588%2586%25E7%2582%25B8%25E5%25B7%25B2%25E9%2580%25A0%25E6%2588%2590%25E8%2587%25B3%25E5%25B0%25918%25E4%25BA%25BA%25E6%25AD%25BB%25E4%25BA%25A1%2523%26lcate%3D5001%26flag%3D0%26band_rank%3D25%26realpos%3D25%26display_time%3D1762824397%26pre_seqid%3D17628243974190285346146&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "以色列Remilk获阿联酋基金2000万美元融资 寻求海湾地区大规模生产",
           "url": "https://flash.jin10.com/detail/20251110234605558800",
           "source": "金十数据",
@@ -387,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "剑来吴磊陈平安我先笑纳了",
+          "url": "https://www.douyin.com/hot/2301217",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
