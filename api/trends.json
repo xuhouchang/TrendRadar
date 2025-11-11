@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:50:49.024918+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2025-11-12T01:19:35.424656+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -38,8 +38,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "印度首都汽车爆炸已致12死",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "据消息人士透露，美国众议院规则委员会将于今日美东时间18:00-18:30（北京时间明日07:00-07:30）左右开会，推进政府拨款计划（的程序性投票），以便明天（众议院全体）投票。（Politico）",
@@ -64,44 +98,11 @@
           "time_info": "[00时26分 ~ 00时50分]"
         },
         {
-          "title": "印度首都汽车爆炸已致12死",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
           "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002877",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
