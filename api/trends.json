@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T09:28:56.509992+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2025-11-11T11:04:25.563333+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 09时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 11时04分]"
         },
         {
           "title": "小米汽车10月零售销量48654辆",
@@ -41,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 09时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 11时04分]"
         },
         {
           "title": "利物浦溃败曼城,多库无解破门封神",
@@ -53,11 +55,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 09时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 11时04分]"
         },
         {
           "title": "泫雅发文致歉并报平安",
@@ -86,6 +89,17 @@
           "time_info": "[01时40分 ~ 07时40分]"
         },
         {
+          "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
+          "url": "https://news.ifeng.com/c/8oBRjeqnCaD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 11时04分]"
+        },
+        {
           "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
           "url": "https://flash.jin10.com/detail/20251111023658524800",
           "source": "金十数据",
@@ -97,17 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时54分 ~ 04时45分]"
-        },
-        {
-          "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
-          "url": "https://news.ifeng.com/c/8oBRjeqnCaD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 09时28分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：（临时拨款立法草案的投票程序）仍然处于停滞状态。 并不清楚今天（美东时间周一）能否投票。",
@@ -196,7 +199,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -226,6 +229,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "智元机器人、蚂蚁集团等成立未来科技公司",
+          "url": "https://wallstreetcn.com/livenews/3002474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
           "url": "https://wallstreetcn.com/livenews/3002239",
           "source": "华尔街见闻-快讯",
@@ -245,7 +259,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -304,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -356,6 +370,18 @@
           "time_info": "[00时52分 ~ 01时18分]"
         },
         {
+          "title": "印度首都汽车爆炸已致超10死",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B4%E8%B6%8510%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时04分]"
+        },
+        {
           "title": "英国伦敦证交所（LSE）集团裁员3000名工程师。（FN）",
           "url": "https://wallstreetcn.com/livenews/3002252",
           "source": "华尔街见闻-快讯",
@@ -367,6 +393,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 02时30分]"
+        },
+        {
+          "title": "中国机会｜“世界上最美的汽车”亮相进博会，李心尹：“经典车”在中国是片蓝海市场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930405",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时04分]"
         },
         {
           "title": "中概指数收涨超2.2%，KWEB涨2.2%，小鹏涨超16.1%，阿特斯涨13.8%",
@@ -409,31 +446,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
         {
-          "title": "印度首都汽车爆炸已致超10死",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B4%E8%B6%8510%E6%AD%BB",
-          "source": "百度热搜",
+          "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3002456",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "中国机会｜“世界上最美的汽车”亮相进博会，李心尹：“经典车”在中国是片蓝海市场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930405",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "11时04分"
         },
         {
           "title": "印度内政部长：爆炸发生在新德里的一辆汽车上。印度内政部长：正在调查此事件，探索所有可能性。即将抵达新德里爆炸现场，随后还将前往医院。",
@@ -453,7 +479,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -469,13 +495,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "港股小鹏汽车盘初一度涨超13%，目前涨幅11.6%。",
+          "url": "https://wallstreetcn.com/livenews/3002434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "剑来吴磊陈平安我先笑纳了",
           "url": "https://www.douyin.com/hot/2301217",
           "source": "抖音",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
