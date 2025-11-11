@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:26:23.821448+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-12T00:50:49.024918+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,19 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "据消息人士透露，美国众议院规则委员会将于今日美东时间18:00-18:30（北京时间明日07:00-07:30）左右开会，推进政府拨款计划（的程序性投票），以便明天（众议院全体）投票。（Politico）",
@@ -48,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "小米汽车交付周期最快提至22周",
@@ -59,8 +60,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -70,8 +71,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
@@ -81,8 +82,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -92,8 +93,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -103,8 +104,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 00时50分]"
         }
       ]
     }
