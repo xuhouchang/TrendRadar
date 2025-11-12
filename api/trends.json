@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:46:46.936351+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-11-12T13:21:26.874014+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时26分 ~ 12时46分]"
+          "appearance_count": 30,
+          "time_info": "[00时26分 ~ 13时21分]"
         },
         {
           "title": "如何评价孙继海在曼城的成就和历史地位？",
@@ -90,8 +90,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时26分 ~ 12时46分]"
+          "appearance_count": 30,
+          "time_info": "[00时26分 ~ 13时21分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -131,6 +131,20 @@
           "time_info": "[07时39分 ~ 07时40分]"
         },
         {
+          "title": "宜春枧下窝矿评估报告公示，宁德时代或需补缴款项1.77亿",
+          "url": "https://wallstreetcn.com/livenews/3003148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时21分]"
+        },
+        {
           "title": "恒指高开0.22%，报26754.93点；恒生科技指数涨0.26%。小鹏汽车涨超2%，京东健康、携程、网易等涨超1%；蔚来跌超4%，阿里巴巴跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3003075",
           "source": "华尔街见闻-快讯",
@@ -142,6 +156,19 @@
           "time_info": "09时28分"
         },
         {
+          "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
+          "url": "https://www.zhihu.com/question/1970159842028136176",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 13时21分]"
+        },
+        {
           "title": "比亚迪“不务正业”布局汽车消费生态",
           "url": "https://www.toutiao.com/trending/7570540651465621554/",
           "source": "今日头条",
@@ -151,19 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 01时43分]"
-        },
-        {
-          "title": "宜春枧下窝矿评估报告公示，宁德时代或需补缴款项1.77亿",
-          "url": "https://wallstreetcn.com/livenews/3003148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时46分]"
         },
         {
           "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
@@ -178,6 +192,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 05时19分]"
+        },
+        {
+          "title": "国产汽车真的超越了合资车吗？",
+          "url": "https://www.zhihu.com/question/666875463",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，KWEB跌0.5%，CQQQ跌0.9%。",
@@ -200,18 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
-          "url": "https://www.zhihu.com/question/1970159842028136176",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 12时46分]"
         },
         {
           "title": "雷军回应小米双11战绩",
@@ -240,27 +254,30 @@
           "time_info": "[06时19分 ~ 07时40分]"
         },
         {
-          "title": "国产汽车真的超越了合资车吗？",
-          "url": "https://www.zhihu.com/question/666875463",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
           "title": "宁德时代董事长曾毓群：与京东合作的换电电池是高安全电池",
           "url": "https://wallstreetcn.com/livenews/3003155",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
+        },
+        {
+          "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
+          "url": "https://wallstreetcn.com/livenews/3003150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 13时21分]"
         },
         {
           "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
@@ -274,18 +291,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时50分 ~ 12时46分]"
-        },
-        {
-          "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
-          "url": "https://wallstreetcn.com/livenews/3003150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 12时46分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
