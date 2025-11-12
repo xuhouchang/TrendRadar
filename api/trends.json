@@ -1,964 +1,121 @@
 {
-  "generated_at": "2025-11-12T23:46:57.834336+08:00",
-  "total_titles_processed": 2273,
+  "generated_at": "2025-11-13T00:28:16.591286+08:00",
+  "total_titles_processed": 318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 76,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "公安部将限制汽车百公里加速小于5秒",
+          "url": "https://www.toutiao.com/trending/7571318160410968118/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
         {
           "title": "如何评价中国船舶发文邀请 26 年前捐 140 元造航母的「小朋友」参观中国船舶集团？",
           "url": "https://www.zhihu.com/question/1971473961444446770",
           "source": "知乎",
           "ranks": [
-            5,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[14时32分 ~ 23时46分]"
-        },
-        {
-          "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
-          "url": "https://v.ifeng.com/c/8oCJypfQOqh",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 07时40分]"
-        },
-        {
-          "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
-          "url": "https://news.ifeng.com/c/8oCGaiGtA9j",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 07时40分]"
-        },
-        {
-          "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
-          "url": "https://wallstreetcn.com/articles/3759187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时41分 ~ 23时46分]"
-        },
-        {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时26分 ~ 14时33分]"
-        },
-        {
-          "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
-          "url": "https://www.zhihu.com/question/1970159842028136176",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            14,
-            5,
-            7,
-            8,
-            3,
-            4,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[11时49分 ~ 23时46分]"
-        },
-        {
-          "title": "莫迪就印度汽车爆炸事件发出严厉警告",
-          "url": "https://www.toutiao.com/trending/7571422348454068267/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7,
-            9,
-            17,
-            25,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时28分 ~ 14时33分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            16,
-            17,
-            18,
-            15,
-            8,
-            9,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时28分 ~ 23时46分]"
-        },
-        {
-          "title": "如何评价孙继海在曼城的成就和历史地位？",
-          "url": "https://www.zhihu.com/question/20005046",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时28分 ~ 05时39分]"
-        },
-        {
-          "title": "国产汽车真的超越了合资车吗？",
-          "url": "https://www.zhihu.com/question/666875463",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 15时41分]"
-        },
-        {
-          "title": "印度首都汽车爆炸已致12死",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            16,
-            13,
-            14,
-            19,
-            15,
-            25,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 07时40分]"
-        },
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24,
-            26,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时26分 ~ 14时54分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 09时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
           "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
           "source": "澎湃新闻",
           "ranks": [
-            7,
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时21分 ~ 23时46分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "俄罗斯大幅加税致中国汽车出口骤降 58%，这会给中国车企带来哪些挑战？",
-          "url": "https://www.zhihu.com/question/1971217274594660630",
-          "source": "知乎",
+          "title": "缅甸亚太新城犯罪集团主犯引渡回国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BC%85%E7%94%B8%E4%BA%9A%E5%A4%AA%E6%96%B0%E5%9F%8E%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E5%BC%95%E6%B8%A1%E5%9B%9E%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
-          "url": "https://wallstreetcn.com/livenews/3003263",
-          "source": "华尔街见闻-快讯",
+          "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
+          "url": "https://wallstreetcn.com/articles/3759187",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            8,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 16时53分]"
-        },
-        {
-          "title": "宜春枧下窝矿评估报告公示，宁德时代或需补缴款项1.77亿",
-          "url": "https://wallstreetcn.com/livenews/3003148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 13时21分]"
-        },
-        {
-          "title": "恒指高开0.22%，报26754.93点；恒生科技指数涨0.26%。小鹏汽车涨超2%，京东健康、携程、网易等涨超1%；蔚来跌超4%，阿里巴巴跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3003075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "雪佛龙：液化天然气（LNG）现货价格因供应偏高而“承受（下行）压力”。",
-          "url": "https://wallstreetcn.com/livenews/3003524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 17时44分]"
-        },
-        {
-          "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
-          "url": "https://wallstreetcn.com/livenews/3003523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "比亚迪“不务正业”布局汽车消费生态",
-          "url": "https://www.toutiao.com/trending/7570540651465621554/",
-          "source": "今日头条",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 05时19分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，KWEB跌0.5%，CQQQ跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3002973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "道达尔能源公司：道达尔能源将向谷歌的数据中心供应可再生能源电力，为期15年。",
-          "url": "https://flash.jin10.com/detail/20251112153139780800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "特斯拉上海超级工厂第500万个电池包下线。（特斯拉官微）",
-          "url": "https://wallstreetcn.com/livenews/3003305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时23分]"
-        },
-        {
-          "title": "宁德时代董事长曾毓群：与京东合作的换电电池是高安全电池",
-          "url": "https://wallstreetcn.com/livenews/3003155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 13时44分]"
-        },
-        {
-          "title": "规模化制造 首个飞行汽车工厂落地广州",
-          "url": "https://wallstreetcn.com/livenews/3003286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 17时44分]"
-        },
-        {
-          "title": "天健集团：“新凯来借壳”传闻不属实",
-          "url": "https://wallstreetcn.com/livenews/3003067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "段永平不买特斯拉是因看不惯马斯克吗",
-          "url": "https://www.toutiao.com/trending/7571742472888389162/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            5,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 19时18分]"
-        },
-        {
-          "title": "雷军回应小米双11战绩",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E6%88%98%E7%BB%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D8%26stream_entry_id%3D31%26band_rank%3D7%26realpos%3D7%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26cate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E5%259B%259E%25E5%25BA%2594%25E5%25B0%258F%25E7%25B1%25B3%25E5%258F%258C11%25E6%2588%2598%25E7%25BB%25A9%2523%26display_time%3D1762916405%26pre_seqid%3D1762916405595025849141&launchid=10000360-page_H5",
+          "title": "缅甸亚太新城犯罪集团主犯引渡回国",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BC%85%E7%94%B8%E4%BA%9A%E5%A4%AA%E6%96%B0%E5%9F%8E%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E5%BC%95%E6%B8%A1%E5%9B%9E%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D8%26flag%3D0%26band_rank%3D8%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25BC%2585%25E7%2594%25B8%25E4%25BA%259A%25E5%25A4%25AA%25E6%2596%25B0%25E5%259F%258E%25E7%258A%25AF%25E7%25BD%25AA%25E9%259B%2586%25E5%259B%25A2%25E4%25B8%25BB%25E7%258A%25AF%25E5%25BC%2595%25E6%25B8%25A1%25E5%259B%259E%25E5%259B%25BD%2523%26c_type%3D31%26lcate%3D5001%26pos%3D8%26cate%3D5001%26dgr%3D0%26display_time%3D1762964757%26pre_seqid%3D176296475719101135204116&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 11时50分]"
-        },
-        {
-          "title": "罗马尼亚总统：炼油厂不存在被俄罗斯利益集团接管的风险。",
-          "url": "https://flash.jin10.com/detail/20251112192640381800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "纳斯达克生物科技指数收涨超2.9%，成分股Theravance Biopharma收涨22.55%，Edgewise Therapeutics涨17.51%，uniQure NV涨17.48%，Autolus Therapeutics涨14.39%表现第四。 Pyxis Oncology则收跌4.19%表现倒数第三，Humacyte跌5.19%，Olema跌5.86%。",
-          "url": "https://wallstreetcn.com/livenews/3002990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时40分]"
-        },
-        {
-          "title": "宁德时代曾毓群再谈全固态电池",
-          "url": "https://wallstreetcn.com/livenews/3003275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时53分]"
-        },
-        {
-          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "中概指数盘初跌超1%，百度与、蔚来、小鹏至少跌2%",
-          "url": "https://wallstreetcn.com/livenews/3003499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时47分 ~ 23时46分]"
-        },
-        {
-          "title": "公安部将限制汽车百公里加速小于5秒",
-          "url": "https://www.toutiao.com/trending/7571318160410968118/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时46分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
-          "url": "https://wallstreetcn.com/livenews/3003150",
-          "source": "华尔街见闻-快讯",
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
           "ranks": [
-            7,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 13时21分]"
-        },
-        {
-          "title": "宁德时代曾毓群：第五代磷酸铁锂电池产品已经开始量产",
-          "url": "https://wallstreetcn.com/livenews/3003186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时54分]"
-        },
-        {
-          "title": "贝莱德集团高管Rey：公司认为，意大利医疗保健行业存在直接贷款机会。",
-          "url": "https://wallstreetcn.com/livenews/3003490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时47分 ~ 23时46分]"
-        },
-        {
-          "title": "越跌越买 南向资金对小米集团持股比升至6月来高位",
-          "url": "https://wallstreetcn.com/livenews/3003135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时46分]"
-        },
-        {
-          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
-          "url": "https://flash.jin10.com/detail/20251112221633642800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时47分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
           "url": "https://www.cls.cn/detail/2197827",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时46分 ~ 23时46分]"
-        },
-        {
-          "title": "俄罗斯一高楼塌方 超百辆汽车受损",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E9%AB%98%E6%A5%BC%E5%A1%8C%E6%96%B9+%E8%B6%85%E7%99%BE%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%8F%97%E6%8D%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时21分]"
-        },
-        {
-          "title": "美国众议院多数派领导人Scalise：众议院将于周三美东时间晚上7点（北京时间第二天上午8点）左右就结束政府停摆的法案进行投票。",
-          "url": "https://wallstreetcn.com/livenews/3003474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时47分]"
-        },
-        {
-          "title": "黑石集团高管Seppala：自2008年（美国次贷危机）以来，意大利就是欧盟最佳的房地产市场。",
-          "url": "https://wallstreetcn.com/livenews/3003487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时23分]"
-        },
-        {
-          "title": "缅甸亚太新城犯罪集团主犯引渡回国",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BC%85%E7%94%B8%E4%BA%9A%E5%A4%AA%E6%96%B0%E5%9F%8E%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E5%BC%95%E6%B8%A1%E5%9B%9E%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26pos%3D29%26realpos%3D28%26q%3D%2523%25E7%25BC%2585%25E7%2594%25B8%25E4%25BA%259A%25E5%25A4%25AA%25E6%2596%25B0%25E5%259F%258E%25E7%258A%25AF%25E7%25BD%25AA%25E9%259B%2586%25E5%259B%25A2%25E4%25B8%25BB%25E7%258A%25AF%25E5%25BC%2595%25E6%25B8%25A1%25E5%259B%259E%25E5%259B%25BD%2523%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D28%26c_type%3D31%26display_time%3D1762960933%26pre_seqid%3D17629609338030112807214&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时46分]"
-        },
-        {
-          "title": "海博思创：与宁德时代签订战略合作协议 2026年至2028年公司采购电量累计不低于200GWh",
-          "url": "https://wallstreetcn.com/livenews/3003312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.06%，报8233.31点。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，中国科技指数ETF（CQQQ）收跌0.98%，中概互联网指数ETF（KWEB）收跌0.60%。 德银嘉实沪深300指数ETF（ASHR）收跌0.96%，XtrackersHarvest中证50（ASHS）收跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3002973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 06时42分]"
-        },
-        {
-          "title": "万科再获大股东16.66亿元借款，年内深铁集团已累计提供借款307.96亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31943616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时34分]"
-        },
-        {
-          "title": "人形机器人让小鹏走上了神坛",
-          "url": "https://www.toutiao.com/trending/7571798294121156102/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 23时23分]"
-        },
-        {
-          "title": "曼达尼当选纽约市长后，特朗普助手审查纽约市拨款",
-          "url": "https://flash.jin10.com/detail/20251112065212275800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时40分]"
-        },
-        {
-          "title": "外交部回应印度汽车爆炸事件",
-          "url": "https://www.douyin.com/hot/2302626",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时00分]"
-        },
-        {
-          "title": "特斯拉：FSD监督版将很快落地韩国。",
-          "url": "https://flash.jin10.com/detail/20251112140451451800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时54分]"
-        },
-        {
-          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
-          "url": "https://flash.jin10.com/detail/20251112140043328800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时54分]"
-        },
-        {
-          "title": "据消息人士透露，美国众议院规则委员会将于今日美东时间18:00-18:30（北京时间明日07:00-07:30）左右开会，推进政府拨款计划（的程序性投票），以便明天（众议院全体）投票。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3002879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "小米汽车交付周期最快提至22周",
-          "url": "https://www.toutiao.com/trending/7570992913396957227/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "中国汽车正式进入“电车过半”时代",
-          "url": "https://www.toutiao.com/trending/7571797670088412714/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时23分 ~ 23时46分]"
-        },
-        {
-          "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "段永平称不喜欢马斯克的品行",
-          "url": "https://www.toutiao.com/trending/7571466603944935465/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时53分]"
-        },
-        {
-          "title": "小鹏X9时速150km暴雨爆胎不失控",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8FX9%E6%97%B6%E9%80%9F150km%E6%9A%B4%E9%9B%A8%E7%88%86%E8%83%8E%E4%B8%8D%E5%A4%B1%E6%8E%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258FX9%25E6%2597%25B6%25E9%2580%259F150km%25E6%259A%25B4%25E9%259B%25A8%25E7%2588%2586%25E8%2583%258E%25E4%25B8%258D%25E5%25A4%25B1%25E6%258E%25A7%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26pos%3D30%26realpos%3D29%26cate%3D5001%26c_type%3D31%26band_rank%3D29%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762919345%26pre_seqid%3D1762919345592034723103&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "鸿海董事长：电动汽车行业正逼近外包的临界点。",
-          "url": "https://flash.jin10.com/detail/20251112152443515800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "俄罗斯总统普京批准花旗集团出售其俄罗斯银行业务。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3003447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "特斯拉筹备扩建机器人超级工厂 相关零部件环节有望持续受益",
-          "url": "https://www.cls.cn/detail/2197764",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "摩根士丹利上调小鹏港股目标价至131港元 称机器人等带来重估机会",
-          "url": "https://wallstreetcn.com/livenews/3003058",
+          "title": "雪佛龙：液化天然气（LNG）现货价格因供应偏高而“承受（下行）压力”。",
+          "url": "https://wallstreetcn.com/livenews/3003524",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "00时28分"
         },
         {
-          "title": "宏胜集团将于下周举办经销商大会",
-          "url": "https://wallstreetcn.com/livenews/3003446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "李云泽会见安达集团董事长兼首席执行官埃文·格林伯格",
-          "url": "https://wallstreetcn.com/livenews/3003445",
+          "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
+          "url": "https://wallstreetcn.com/livenews/3003523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "澳洲联储副主席豪泽：我们可能从西太平洋银行消费者信心调查中得到了一个不稳定的读数，之后会看看这种不稳定是否会持续下去。",
-          "url": "https://flash.jin10.com/detail/20251112110750012800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：计划到2030年将石油和天然气产量每年增长2%至3%。",
-          "url": "https://flash.jin10.com/detail/20251112183443601800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：预计在布伦特原油价格为70美元的情况下，每股收益年增长率将超过10%。",
-          "url": "https://flash.jin10.com/detail/20251112183101264800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251112110549677800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "软银集团日股跌幅一度扩大至10%。日经225指数逆转涨势，下跌0.25%。",
-          "url": "https://flash.jin10.com/detail/20251112080957888800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "软银集团在公布第二季度财报后下跌6%。",
-          "url": "https://flash.jin10.com/detail/20251112080801936800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "缅甸妙瓦底“亚太新城”犯罪集团主犯佘智江被成功从泰国引渡回国。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3003462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
-          "title": "雪佛龙宣布在西得克萨斯建设大型天然气发电数据中心",
-          "url": "https://flash.jin10.com/detail/20251112201036038800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "南非总统就美国决定不派政府官员出席在约翰内斯堡举行的二十国集团峰会发表评论称，他们的缺席是他们的损失。",
-          "url": "https://flash.jin10.com/detail/20251112205851458800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "00时28分"
         }
       ]
     }
