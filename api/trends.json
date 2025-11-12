@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:48:28.854433+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-11-12T19:18:31.243225+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 18时48分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 19时18分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时26分 ~ 07时40分]"
+        },
+        {
+          "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
+          "url": "https://wallstreetcn.com/articles/3759187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时41分 ~ 19时18分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -76,18 +88,6 @@
           "time_info": "[09时28分 ~ 14时33分]"
         },
         {
-          "title": "低估了储能需求，摩根大通承认误判：上调天齐与赣锋锂业评级，宁德时代矿山复产也不足以弥补缺口",
-          "url": "https://wallstreetcn.com/articles/3759187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 18时48分]"
-        },
-        {
           "title": "比亚迪李云飞称「比亚迪将坚持磷酸铁锂电池路线」，这是一种技术自信还是战略保守？",
           "url": "https://www.zhihu.com/question/1970159842028136176",
           "source": "知乎",
@@ -98,11 +98,12 @@
             16,
             14,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时49分 ~ 18时48分]"
+          "appearance_count": 21,
+          "time_info": "[11时49分 ~ 19时18分]"
         },
         {
           "title": "如何评价孙继海在曼城的成就和历史地位？",
@@ -191,8 +192,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "俄罗斯大幅加税致中国汽车出口骤降 58%，这会给中国车企带来哪些挑战？",
@@ -359,6 +360,20 @@
           "time_info": "09时28分"
         },
         {
+          "title": "段永平不买特斯拉是因看不惯马斯克吗",
+          "url": "https://www.toutiao.com/trending/7571742472888389162/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            5,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时18分]"
+        },
+        {
           "title": "雷军回应小米双11战绩",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E6%88%98%E7%BB%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D8%26stream_entry_id%3D31%26band_rank%3D7%26realpos%3D7%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26cate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E5%259B%259E%25E5%25BA%2594%25E5%25B0%258F%25E7%25B1%25B3%25E5%258F%258C11%25E6%2588%2598%25E7%25BB%25A9%2523%26display_time%3D1762916405%26pre_seqid%3D1762916405595025849141&launchid=10000360-page_H5",
           "source": "微博",
@@ -396,19 +411,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时41分 ~ 16时53分]"
-        },
-        {
-          "title": "段永平不买特斯拉是因看不惯马斯克吗",
-          "url": "https://www.toutiao.com/trending/7571742472888389162/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时48分]"
         },
         {
           "title": "中海达：已获得小鹏具身机器人的IMU姿态传感器定点 小规模样品交付中",
@@ -620,6 +622,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：计划到2030年将石油和天然气产量每年增长2%至3%。",
+          "url": "https://flash.jin10.com/detail/20251112183443601800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：预计在布伦特原油价格为70美元的情况下，每股收益年增长率将超过10%。",
+          "url": "https://flash.jin10.com/detail/20251112183101264800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）全球汽车制造商市值变化",
