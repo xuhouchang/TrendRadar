@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:54:59.084468+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2025-11-12T15:20:43.761286+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -82,11 +82,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 14时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 15时20分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -118,8 +119,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时49分 ~ 14时54分]"
+          "appearance_count": 12,
+          "time_info": "[11时49分 ~ 15时20分]"
         },
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -153,11 +154,12 @@
           "url": "https://www.zhihu.com/question/1971473961444446770",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 15时20分]"
         },
         {
           "title": "俄罗斯大幅加税致中国汽车出口骤降 58%，这会给中国车企带来哪些挑战？",
@@ -194,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
+          "url": "https://wallstreetcn.com/livenews/3003263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "比亚迪“不务正业”布局汽车消费生态",
