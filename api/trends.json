@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:40:39.025549+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-11-13T20:43:28.082174+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 85,
+      "match_count": 92,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -239,8 +239,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 20时43分]"
         },
         {
           "title": "陈梦4比2逆转蒯曼 晋级四强",
@@ -252,8 +252,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时20分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 20时43分]"
+        },
+        {
+          "title": "全运会乒乓比赛为何难打？听听王曼昱的解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31952719",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时20分 ~ 20时43分]"
         },
         {
           "title": "陈梦逆转蒯曼晋级四强",
@@ -269,17 +281,6 @@
           "time_info": "[14时31分 ~ 16时27分]"
         },
         {
-          "title": "全运会乒乓比赛为何难打？听听王曼昱的解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31952719",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时20分 ~ 18时23分]"
-        },
-        {
           "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
           "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
           "source": "澎湃新闻",
@@ -288,8 +289,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时50分 ~ 20时43分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -298,11 +299,12 @@
           "ranks": [
             18,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时50分 ~ 20时43分]"
         },
         {
           "title": "印度政府谴责新德里汽车爆炸是“恐怖事件”",
@@ -419,6 +421,17 @@
           "time_info": "17时44分"
         },
         {
+          "title": "恒大汽车：法院已受理债权人对公司相关附属公司的破产及清算呈请",
+          "url": "https://wallstreetcn.com/livenews/3004196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "【京东：2025年三季度营销开支同比增加110.5%】京东集团财报显示，2025年三季度，营销开支由2024年第三季度的人民币100亿元增加110.5%至2025年第三季度的人民币211亿元（30亿美元）。营销开支占收入的百分比，2025年第三季度为7.0%，2024年第三季度为3.8%。该增加主要是由于用于新业务推广活动的支出增加。",
           "url": "https://wallstreetcn.com/livenews/3004078",
           "source": "华尔街见闻-快讯",
@@ -430,15 +443,15 @@
           "time_info": "17时44分"
         },
         {
-          "title": "东百集团：近期有投资者关注公司是否涉及免税业务，公司主要从事商业零售、仓储物流业务，无免税品经营资质，不涉及免税商品经营。",
-          "url": "https://wallstreetcn.com/livenews/3004160",
+          "title": "何小鹏感谢吴敬琏鼓励机器人创新",
+          "url": "https://wallstreetcn.com/livenews/3004195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "20时43分"
         },
         {
           "title": "印度政府谴责新德里汽车爆炸是“恐怖事件”",
@@ -461,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时23分 ~ 18时47分]"
-        },
-        {
-          "title": "华蓝集团：实际控制人雷翔先生、赵成先生、吴广意先生、钟毅先生、莫海量先生、邓勇杰先生以及李嘉女士正在筹划公司控制权变更相关事宜，该事项可能导致公司控制权和实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3004157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "消息人士称，英国石油公司正就嘉实多的出售事宜与Stonepeak公司进行积极谈判。",
@@ -561,6 +563,28 @@
           "time_info": "15时41分"
         },
         {
+          "title": "宁德时代成为全国首家动力和储能锂电池道路运输有条件豁免试点企业",
+          "url": "https://wallstreetcn.com/livenews/3004189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "王曼昱vs王艺迪",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%8E%8B%E8%89%BA%E8%BF%AA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D8%26dgr%3D0%26cate%3D5001%26band_rank%3D8%26flag%3D1%26stream_entry_id%3D31%26pos%3D7%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1vs%25E7%258E%258B%25E8%2589%25BA%25E8%25BF%25AA%26c_type%3D31%26display_time%3D1763037622%26pre_seqid%3D17630376225320054815&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.46%，报8112.98点。 热门中概股里，大全新能源初步收跌10%，腾讯音乐跌8.4%，世纪互联跌7.7%，万国数据和阿特斯太阳能跌4%，小鹏跌3.2%，蔚来跌2.6%，阿里巴巴和理想跌1.8%，中通快递、贝壳则涨超1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.78%，中概互联网指数ETF（KWEB）收跌0.68%。 XtrackersHarvest中证50（ASHS）收跌0.60%，德银嘉实沪深300指数ETF（ASHR）收跌0.12%。",
           "url": "https://wallstreetcn.com/livenews/3003626",
           "source": "华尔街见闻-快讯",
@@ -570,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "中国平安：已开展分红型重疾险的产品研究与开发",
+          "url": "https://wallstreetcn.com/livenews/3004188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "工信部：编制“十五五”智能网联新能源汽车、新型电池产业发展规划",
@@ -648,6 +683,18 @@
           "time_info": "[15时41分 ~ 16时27分]"
         },
         {
+          "title": "东百集团：近期有投资者关注公司是否涉及免税业务，公司主要从事商业零售、仓储物流业务，无免税品经营资质，不涉及免税商品经营。",
+          "url": "https://wallstreetcn.com/livenews/3004160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时43分]"
+        },
+        {
           "title": "报道：英国石油公司正与Stonepeak积极谈判出售嘉实多",
           "url": "https://wallstreetcn.com/livenews/3003618",
           "source": "华尔街见闻-快讯",
@@ -672,6 +719,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 06时40分]"
+        },
+        {
+          "title": "华蓝集团：实际控制人雷翔先生、赵成先生、吴广意先生、钟毅先生、莫海量先生、邓勇杰先生以及李嘉女士正在筹划公司控制权变更相关事宜，该事项可能导致公司控制权和实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3004157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时43分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）富时中国A50指数成分股今日收盘行情一览：汽车整车、电池板块持续活跃，宁德时代收涨超7%",
@@ -796,23 +855,24 @@
           "time_info": "[00时27分 ~ 00时53分]"
         },
         {
+          "title": "为什么有些学物理的人极度痴爱费曼，而不是爱因斯坦？",
+          "url": "https://www.zhihu.com/question/41784454",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时43分]"
+        },
+        {
           "title": "比亚迪：比亚迪电子业务已开始大规模应用AMR智能物流机器人",
           "url": "https://wallstreetcn.com/livenews/3004132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时40分]"
-        },
-        {
-          "title": "为什么有些学物理的人极度痴爱费曼，而不是爱因斯坦？",
-          "url": "https://www.zhihu.com/question/41784454",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -945,6 +1005,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/1970943405648507051",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "汽车零百加速或将不得少于5秒",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E9%9B%B6%E7%99%BE%E5%8A%A0%E9%80%9F%E6%88%96%E5%B0%86%E4%B8%8D%E5%BE%97%E5%B0%91%E4%BA%8E5%E7%A7%92",
           "source": "bilibili 热搜",
@@ -1055,13 +1126,24 @@
           "time_info": "13时44分"
         },
         {
+          "title": "王曼昱晋级全运会四强",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%99%8B%E7%BA%A7%E5%85%A8%E8%BF%90%E4%BC%9A%E5%9B%9B%E5%BC%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D30%26dgr%3D0%26cate%3D5001%26band_rank%3D30%26flag%3D1%26stream_entry_id%3D31%26pos%3D29%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E6%2599%258B%25E7%25BA%25A7%25E5%2585%25A8%25E8%25BF%2590%25E4%25BC%259A%25E5%259B%259B%25E5%25BC%25BA%2523%26c_type%3D31%26display_time%3D1763037622%26pre_seqid%3D17630376225320054815&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "汽车百公里加速或将不得少于5秒",
           "url": "https://www.douyin.com/hot/2304118",
           "source": "抖音",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
