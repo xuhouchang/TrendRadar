@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:18:21.009969+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-11-14T03:38:46.392289+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "多个账号恶意诋毁汽车企业被处置",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -60,11 +60,12 @@
           "ranks": [
             16,
             21,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "何小鹏：曾建议阿里造车 他们没听",
@@ -77,8 +78,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 03时38分]"
+        },
+        {
+          "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251114025925256800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时38分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
-          "url": "https://flash.jin10.com/detail/20251114025925256800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
