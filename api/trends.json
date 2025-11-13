@@ -1,55 +1,55 @@
 {
-  "generated_at": "2025-11-14T00:25:45.882862+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T00:50:30.970773+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
-          "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
-          "url": "https://wallstreetcn.com/livenews/3004281",
+          "title": "印度确认首都汽车爆炸案嫌疑人身份",
+          "url": "https://flash.jin10.com/detail/20251114004625102800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.7%，报359.88点。 在十个板块中，北欧工业板块跌幅最大。 维斯塔斯风力技术集团跌5.2%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3004292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时50分"
         },
         {
-          "title": "标普500指数跌超1%，道指跌300点跌幅0.6%，纳指跌1.69%。 半导体指数跌2.89%，罗素2000指数跌1.17%。 特斯拉跌5.79%。",
-          "url": "https://wallstreetcn.com/livenews/3004276",
+          "title": "波兰铜业集团公司（KGHM）三季度净利润4.33亿波兰兹罗提，同比增长80%。 三季度调整后EBITDA为11.3亿兹罗提，分析师预期22.2亿兹罗提。 1-9月净利润10.1亿兹罗提，调整后EBITDA为72亿兹罗提。",
+          "url": "https://wallstreetcn.com/livenews/3004291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时50分"
         },
         {
-          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
-          "url": "https://wallstreetcn.com/livenews/3004275",
+          "title": "巴西汽车制造商协会：巴西10月汽车产量达到247,770辆，出口降至40,600辆。 10月新车销售达到260,717辆。",
+          "url": "https://wallstreetcn.com/livenews/3004289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
-          "url": "https://wallstreetcn.com/livenews/3004273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时50分"
         },
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -59,8 +59,78 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时50分"
+        },
+        {
+          "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
+          "url": "https://wallstreetcn.com/livenews/3004281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3004284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "标普500指数跌超1%，道指跌300点跌幅0.6%，纳指跌1.69%。 半导体指数跌2.89%，罗素2000指数跌1.17%。 特斯拉跌5.79%。",
+          "url": "https://wallstreetcn.com/livenews/3004276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
+          "url": "https://wallstreetcn.com/livenews/3004275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
+          "url": "https://wallstreetcn.com/livenews/3004273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "多个账号恶意诋毁汽车企业被处置",
@@ -70,19 +140,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "特斯拉股价跌幅扩大至5%，最新数据显示，（持股最多的）“木头姐”Cathie Wood连续四个交易日减持。",
           "url": "https://wallstreetcn.com/livenews/3004269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "王曼昱半决赛对阵陈梦",
@@ -92,8 +163,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -103,30 +174,76 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
           "url": "https://www.douyin.com/hot/2303506",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
         },
         {
           "title": "何小鹏：曾建议阿里造车 他们没听",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%EF%BC%9A%E6%9B%BE%E5%BB%BA%E8%AE%AE%E9%98%BF%E9%87%8C%E9%80%A0%E8%BD%A6+%E4%BB%96%E4%BB%AC%E6%B2%A1%E5%90%AC",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时50分]"
+        },
+        {
+          "title": "巴西汽车制造商协会：巴西10月份汽车产量较9月份增长1.8%。",
+          "url": "https://flash.jin10.com/detail/20251114003102734800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时50分"
+        },
+        {
+          "title": "奇瑞汽车爬“天梯”挑战了谁的极限",
+          "url": "https://www.toutiao.com/trending/7572195555028241939/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "巴西汽车制造商协会：巴西10月份汽车销量较9月份增长7.2%。",
+          "url": "https://flash.jin10.com/detail/20251114003031694800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "市场消息：马斯克称“人工智能公司xAI融资”的说法不实。",
+          "url": "https://flash.jin10.com/detail/20251114002600690800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "黑石集团：投资12亿美元，用于修建发电设施。",
@@ -151,6 +268,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
+          "url": "https://flash.jin10.com/detail/20251114002238966800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
           "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3004252",
           "source": "华尔街见闻-快讯",
@@ -160,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "特斯拉应用户长期要求，开发对苹果CarPlay的支持。",
+          "url": "https://flash.jin10.com/detail/20251114002216855800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "美国财政部和墨西哥政府联合打击涉嫌跨国犯罪集团，制裁27名个人和实体，指控其通过赌场洗钱锡那罗亚贩毒集团的资金。",
