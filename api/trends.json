@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T04:23:41.615362+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-11-14T04:44:35.123673+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "多个账号恶意诋毁汽车企业被处置",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -66,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "何小鹏：曾建议阿里造车 他们没听",
@@ -81,8 +82,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 04时44分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份",
@@ -105,6 +106,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251114025925256800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 04时44分]"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
@@ -133,18 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 02时30分]"
-        },
-        {
-          "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
-          "url": "https://flash.jin10.com/detail/20251114025925256800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时23分]"
         },
         {
           "title": "巴西汽车制造商协会：巴西10月汽车产量达到247,770辆，出口降至40,600辆。 10月新车销售达到260,717辆。",
@@ -257,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时30分]"
+        },
+        {
+          "title": "王曼昱4比1战胜王艺迪",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%941%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时44分]"
         },
         {
           "title": "巴西汽车制造商协会：巴西10月份汽车产量较9月份增长1.8%。",
@@ -389,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "王曼昱4比1战胜王艺迪",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%941%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
         },
         {
           "title": "美国财政部和墨西哥政府联合打击涉嫌跨国犯罪集团，制裁27名个人和实体，指控其通过赌场洗钱锡那罗亚贩毒集团的资金。",
