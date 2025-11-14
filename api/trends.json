@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:27:09.661295+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-11-14T12:46:23.046524+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 12时27分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 12时46分]"
         },
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -101,11 +101,12 @@
             19,
             18,
             20,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 12时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 12时46分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -116,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时03分 ~ 12时46分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
@@ -128,8 +129,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 12时46分]"
+        },
+        {
+          "title": "电子咖啡手环亮相进博会，可以通过生理电刺激神经让人保持清醒，这真的有效果吗？会不会危害人体健康？",
+          "url": "https://www.zhihu.com/question/1971243218449426351",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 12时46分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -141,18 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "电子咖啡手环亮相进博会，可以通过生理电刺激神经让人保持清醒，这真的有效果吗？会不会危害人体健康？",
-          "url": "https://www.zhihu.com/question/1971243218449426351",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 12时27分]"
         },
         {
           "title": "王曼昱4比1战胜王艺迪",
@@ -358,6 +359,18 @@
           "time_info": "[00时50分 ~ 01时43分]"
         },
         {
+          "title": "贝索斯终于追上马斯克一小步",
+          "url": "https://www.douyin.com/hot/2305384",
+          "source": "抖音",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 12时46分]"
+        },
+        {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3004284",
           "source": "华尔街见闻-快讯",
@@ -383,15 +396,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
-          "title": "贝索斯终于追上马斯克一小步",
-          "url": "https://www.douyin.com/hot/2305384",
-          "source": "抖音",
+          "title": "中央决定：徐建军任国铁集团总经理。",
+          "url": "https://wallstreetcn.com/livenews/3004562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14,
+            19,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时57分 ~ 12时27分]"
+          "time_info": "[11时57分 ~ 12时46分]"
         },
         {
           "title": "王曼昱谈半决赛对阵陈梦",
@@ -428,18 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时43分]"
-        },
-        {
-          "title": "中央决定：徐建军任国铁集团总经理。",
-          "url": "https://wallstreetcn.com/livenews/3004562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时27分]"
         },
         {
           "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
