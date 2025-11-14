@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T17:43:46.858594+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-11-14T18:22:58.665119+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "王曼昱半决赛对阵陈梦",
@@ -35,6 +35,19 @@
           "is_new": false,
           "appearance_count": 28,
           "time_info": "[00时25分 ~ 13时43分]"
+        },
+        {
+          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
+          "url": "https://www.cls.cn/detail/2200848",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "特斯拉 model y 长续航版 821 公里 78.4 度电池，百公里仅耗电 9.5 度，如何看待这一成绩？",
@@ -136,18 +149,6 @@
           "time_info": "[07时39分 ~ 12时46分]"
         },
         {
-          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
-          "url": "https://www.cls.cn/detail/2200848",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 17时43分]"
-        },
-        {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
           "url": "https://flash.jin10.com/detail/20251114113324835800",
           "source": "金十数据",
@@ -158,18 +159,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 12时46分]"
-        },
-        {
-          "title": "【商务部等四部门：严控新车以二手车名义出口】自2026年1月1日起，对申请出口距注册登记日期不满180天（含180天）的车辆，各地商务主管部门应指导本地企业补充提交该车辆生产企业出具的《售后维修服务确认书》，内容包括出口国别、车辆信息、提供售后服务的网点信息等并加盖生产企业公章，对无法提供上述材料的车辆，不予发放出口许可证。对于通知实施日前已办理转让登记待出口手续的车辆，要指导企业做好合同履约并有序出口。",
-          "url": "https://wallstreetcn.com/livenews/3004769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时43分]"
         },
         {
           "title": "朝鲜谴责七国集团涉朝“无核化”声明",
@@ -207,6 +196,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
+          "title": "【商务部等四部门：严控新车以二手车名义出口】自2026年1月1日起，对申请出口距注册登记日期不满180天（含180天）的车辆，各地商务主管部门应指导本地企业补充提交该车辆生产企业出具的《售后维修服务确认书》，内容包括出口国别、车辆信息、提供售后服务的网点信息等并加盖生产企业公章，对无法提供上述材料的车辆，不予发放出口许可证。对于通知实施日前已办理转让登记待出口手续的车辆，要指导企业做好合同履约并有序出口。",
+          "url": "https://wallstreetcn.com/livenews/3004769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "王曼昱4比1战胜王艺迪",
@@ -330,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
+          "url": "https://wallstreetcn.com/livenews/3004803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
@@ -508,6 +521,17 @@
           "time_info": "[11时57分 ~ 12时46分]"
         },
         {
+          "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31887572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
           "title": "港股收盘，恒生指数收跌1.85%，恒生科技指数收跌2.82%。百度集团跌超7%，京东集团跌超6%，阿里巴巴跌超4%；天齐锂业跌近5%，赣锋锂业跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3004712",
           "source": "华尔街见闻-快讯",
@@ -556,17 +580,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 12时46分]"
-        },
-        {
-          "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31887572",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 17时43分]"
         },
         {
           "title": "徐建军任国铁集团总经理",
