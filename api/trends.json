@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:46:13.370147+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-11-14T19:17:46.492498+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             12,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时26分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 19时17分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -174,6 +175,17 @@
           "time_info": "[17时22分 ~ 18时46分]"
         },
         {
+          "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31887572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 19时17分]"
+        },
+        {
           "title": "朝鲜谴责七国集团涉朝“无核化”声明",
           "url": "https://flash.jin10.com/detail/20251114131434054800",
           "source": "金十数据",
@@ -211,17 +223,6 @@
           "time_info": "[09时28分 ~ 09时29分]"
         },
         {
-          "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31887572",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 18时46分]"
-        },
-        {
           "title": "王曼昱4比1战胜王艺迪",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%941%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA",
           "source": "百度热搜",
@@ -255,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
-          "url": "https://wallstreetcn.com/livenews/3004803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时46分]"
         },
         {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
@@ -343,6 +333,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
+          "url": "https://wallstreetcn.com/livenews/3004803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时17分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）全球汽车制造商市值变化",
