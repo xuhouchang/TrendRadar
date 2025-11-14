@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T16:50:29.136697+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-14T17:22:16.521749+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "王曼昱半决赛对阵陈梦",
@@ -136,6 +136,18 @@
           "time_info": "[07时39分 ~ 12时46分]"
         },
         {
+          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
+          "url": "https://www.cls.cn/detail/2200848",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
           "url": "https://flash.jin10.com/detail/20251114113324835800",
           "source": "金十数据",
@@ -174,6 +186,17 @@
           "time_info": "[13时20分 ~ 14时54分]"
         },
         {
+          "title": "【商务部等四部门：严控新车以二手车名义出口】自2026年1月1日起，对申请出口距注册登记日期不满180天（含180天）的车辆，各地商务主管部门应指导本地企业补充提交该车辆生产企业出具的《售后维修服务确认书》，内容包括出口国别、车辆信息、提供售后服务的网点信息等并加盖生产企业公章，对无法提供上述材料的车辆，不予发放出口许可证。对于通知实施日前已办理转让登记待出口手续的车辆，要指导企业做好合同履约并有序出口。",
+          "url": "https://wallstreetcn.com/livenews/3004769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美股全线下挫 特斯拉跌超6%",
           "url": "https://www.toutiao.com/trending/7571618548569735174/",
           "source": "今日头条",
@@ -207,29 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "东方电气集团与华东理工大学签署战略合作框架协议",
-          "url": "https://wallstreetcn.com/livenews/3004735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
-          "url": "https://www.cls.cn/detail/2200848",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 16时50分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）三季度净利润4.33亿波兰兹罗提，同比增长80%。 三季度调整后EBITDA为11.3亿兹罗提，分析师预期22.2亿兹罗提。 1-9月净利润10.1亿兹罗提，调整后EBITDA为72亿兹罗提。",
@@ -345,6 +345,18 @@
           "time_info": "[16时27分 ~ 16时50分]"
         },
         {
+          "title": "东方电气集团与华东理工大学签署战略合作框架协议",
+          "url": "https://wallstreetcn.com/livenews/3004735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时22分]"
+        },
+        {
           "title": "巴西汽车制造商协会：巴西10月汽车产量达到247,770辆，出口降至40,600辆。 10月新车销售达到260,717辆。",
           "url": "https://wallstreetcn.com/livenews/3004289",
           "source": "华尔街见闻-快讯",
@@ -392,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)盘前跌超1.5%，前一交易日跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251114170302403800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
@@ -592,6 +615,17 @@
           "time_info": "[01时43分 ~ 02时30分]"
         },
         {
+          "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31887572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "王曼昱说陈梦再返赛场优势非常强",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E9%99%88%E6%A2%A6%E5%86%8D%E8%BF%94%E8%B5%9B%E5%9C%BA%E4%BC%98%E5%8A%BF%E9%9D%9E%E5%B8%B8%E5%BC%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E8%25AF%25B4%25E9%2599%2588%25E6%25A2%25A6%25E5%2586%258D%25E8%25BF%2594%25E8%25B5%259B%25E5%259C%25BA%25E4%25BC%2598%25E5%258A%25BF%25E9%259D%259E%25E5%25B8%25B8%25E5%25BC%25BA%2523%26dgr%3D0%26stream_entry_id%3D31%26pos%3D19%26band_rank%3D20%26display_time%3D1763089375%26pre_seqid%3D17630893752300113528582&launchid=10000360-page_H5",
           "source": "微博",
@@ -624,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "理想汽车针对2起批量质量事故进行内部问责，处理18人",
+          "url": "https://wallstreetcn.com/livenews/3004743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "巴西汽车制造商协会：巴西10月份汽车产量较9月份增长1.8%。",
