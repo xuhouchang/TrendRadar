@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T03:14:54.022753+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2025-11-16T03:38:24.103589+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "陈梦落败止步,孙颖莎王曼昱争冠",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "王曼昱4-0胜陈梦 晋级女单决赛",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "王曼昱4:0陈梦",
@@ -51,8 +51,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "孙颖莎王曼昱会师决赛",
+          "url": "https://www.douyin.com/hot/2307145",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "孙颖莎4-1胜朱雨玲 将与王曼昱争冠",
@@ -62,20 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "孙颖莎王曼昱会师决赛",
-          "url": "https://www.douyin.com/hot/2307145",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "王曼昱4-0完胜陈梦进决赛",
@@ -86,11 +87,12 @@
             2,
             8,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "填补行业空白《汽车数据出境安全评估方法》团体标准发布",
@@ -100,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "一组关键词看高市早苗搞了什么事",
@@ -113,8 +115,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "乘联分会崔东树：10月全国汽车市场总体走势较强 商用车市场现结构性增长",
@@ -124,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -135,8 +137,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "一组关键词看高市早苗搞了什么事",
@@ -145,11 +147,67 @@
           "ranks": [
             23,
             20,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "东风与华为合作的汽车品牌将于11月20日发布",
+          "url": "https://wallstreetcn.com/livenews/3005173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "马斯克称擎天柱机器人将为所有人提供最优质的医疗服务",
+          "url": "https://wallstreetcn.com/livenews/3005168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
+          "url": "https://wallstreetcn.com/livenews/3005167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时38分]"
         },
         {
           "title": "王曼昱4比0陈梦",
@@ -165,59 +223,30 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
+          "title": "孙颖莎将与王曼昱争金",
+          "url": "https://www.toutiao.com/trending/7572761056192368182/",
+          "source": "今日头条",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "东风与华为合作的汽车品牌将于11月20日发布",
-          "url": "https://wallstreetcn.com/livenews/3005173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "马斯克称擎天柱机器人将为所有人提供最优质的医疗服务",
-          "url": "https://wallstreetcn.com/livenews/3005168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
-          "url": "https://wallstreetcn.com/livenews/3005167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            24,
+            15,
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时38分]"
+        },
+        {
+          "title": "王曼昱连续两届全运会晋级决赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 03时38分]"
         },
         {
           "title": "王曼昱觉得自己发挥还不错",
@@ -229,31 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "孙颖莎将与王曼昱争金",
-          "url": "https://www.toutiao.com/trending/7572761056192368182/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "王曼昱连续两届全运会晋级决赛",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 03时14分]"
         }
       ]
     }
