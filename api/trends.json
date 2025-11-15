@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T22:17:13.908053+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2025-11-15T22:39:48.408051+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
@@ -137,8 +137,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时23分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[16时23分 ~ 22时39分]"
         },
         {
           "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
@@ -159,8 +159,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时23分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[16时23分 ~ 22时39分]"
         },
         {
           "title": "东风与华为合作的汽车品牌将于11月20日发布",
@@ -179,8 +179,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时18分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[17时18分 ~ 22时39分]"
         },
         {
           "title": "林高远 / 刘诗雯 4:2 战胜陈垣宇 / 蒯曼，获得 2025 年全运会乒乓球混双冠军，如何评价这场比赛？",
@@ -198,6 +198,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时18分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            4,
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 22时39分]"
         },
         {
           "title": "零跑汽车明年销量目标定为100万辆",
@@ -242,6 +258,19 @@
           "time_info": "[16时23分 ~ 21时41分]"
         },
         {
+          "title": "一组关键词看高市早苗搞了什么事",
+          "url": "https://www.toutiao.com/trending/7572923341972082185/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时24分 ~ 22时39分]"
+        },
+        {
           "title": "四部门重拳出击！“零公里二手车”出口被叫停、曾遭长城汽车董事长“痛批”",
           "url": "https://www.cls.cn/detail/2201355",
           "source": "财联社热门",
@@ -267,35 +296,6 @@
           "time_info": "[00时26分 ~ 07时40分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            4,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时17分]"
-        },
-        {
-          "title": "一组关键词看高市早苗搞了什么事",
-          "url": "https://www.toutiao.com/trending/7572923341972082185/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时24分 ~ 22时17分]"
-        },
-        {
           "title": "中国工商银行与中国长安汽车进一步深化全面战略合作",
           "url": "https://wallstreetcn.com/livenews/3005133",
           "source": "华尔街见闻-快讯",
@@ -311,6 +311,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时40分 ~ 15时37分]"
+        },
+        {
+          "title": "乘联分会崔东树：10月全国汽车市场总体走势较强 商用车市场现结构性增长",
+          "url": "https://wallstreetcn.com/livenews/3005186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 22时39分]"
         },
         {
           "title": "比亚迪电池外供暴涨",
@@ -342,18 +356,49 @@
           "time_info": "[04时42分 ~ 07时40分]"
         },
         {
-          "title": "乘联分会崔东树：10月全国汽车市场总体走势较强 商用车市场现结构性增长",
-          "url": "https://wallstreetcn.com/livenews/3005186",
-          "source": "华尔街见闻-快讯",
+          "title": "王曼昱4比0陈梦",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E9%99%88%E6%A2%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D5%26dgr%3D0%26stream_entry_id%3D31%26pos%3D5%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D5%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B14%25E6%25AF%25940%25E9%2599%2588%25E6%25A2%25A6%2523%26display_time%3D1763213708%26pre_seqid%3D176321370860903305563133&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            2,
-            4,
             5,
-            8
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时17分]"
+          "time_info": "[21时41分 ~ 22时39分]"
+        },
+        {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            16,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 22时39分]"
+        },
+        {
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            18,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 22时39分]"
         },
         {
           "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
@@ -385,16 +430,38 @@
           "time_info": "[00时26分 ~ 01时42分]"
         },
         {
-          "title": "王曼昱4比0陈梦",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E9%99%88%E6%A2%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26realpos%3D5%26dgr%3D0%26stream_entry_id%3D31%26pos%3D5%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D5%26q%3D%2523%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B14%25E6%25AF%25940%25E9%2599%2588%25E6%25A2%25A6%2523%26display_time%3D1763213708%26pre_seqid%3D176321370860903305563133&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "王曼昱4-0完胜陈梦进决赛",
+          "url": "https://www.toutiao.com/trending/7572055334735462463/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时17分]"
+          "time_info": "[22时16分 ~ 22时39分]"
+        },
+        {
+          "title": "王曼昱4-0胜陈梦 晋级女单决赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-0%E8%83%9C%E9%99%88%E6%A2%A6+%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时39分]"
+        },
+        {
+          "title": "填补行业空白《汽车数据出境安全评估方法》团体标准发布",
+          "url": "https://wallstreetcn.com/livenews/3005191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时39分]"
         },
         {
           "title": "欧股“十一罗汉”收盘播报｜周五Sap收跌3.2%，本周诺和诺德、赛诺菲、罗氏、LVMH集团、阿斯利康至少涨约5%",
@@ -412,46 +479,29 @@
           "time_info": "[02时29分 ~ 04时42分]"
         },
         {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时17分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时17分]"
-        },
-        {
           "title": "陈梦vs王曼昱",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26band_rank%3D2%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E9%2599%2588%25E6%25A2%25A6vs%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%2523%26dgr%3D0%26pos%3D1%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26display_time%3D1763212802%26pre_seqid%3D17632128024730329555256&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时24分 ~ 22时17分]"
+          "appearance_count": 6,
+          "time_info": "[21时24分 ~ 22时39分]"
+        },
+        {
+          "title": "王曼昱4:0陈梦",
+          "url": "https://www.douyin.com/hot/2307142",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时39分]"
         },
         {
           "title": "佘诗曼分享TVB演员的传承",
@@ -465,6 +515,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时45分 ~ 21时25分]"
+        },
+        {
+          "title": "孙颖莎王曼昱会师决赛",
+          "url": "https://www.douyin.com/hot/2307145",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时39分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -492,40 +554,6 @@
           "time_info": "[06时42分 ~ 07时40分]"
         },
         {
-          "title": "王曼昱4-0完胜陈梦进决赛",
-          "url": "https://www.toutiao.com/trending/7572055334735462463/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "王曼昱4-0胜陈梦 晋级女单决赛",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-0%E8%83%9C%E9%99%88%E6%A2%A6+%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
-          "title": "填补行业空白《汽车数据出境安全评估方法》团体标准发布",
-          "url": "https://wallstreetcn.com/livenews/3005191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时17分]"
-        },
-        {
           "title": "13F报告显示：日本软银集团三季度新进英特尔、Klarna、Ambiq Micro等。 清仓甲骨文和比特币挖矿数据中心Cipher Mining。 增持英伟达和满帮。 减持T-Mobile、Nubank、减肥药生产商Metsera。 重仓T-Mobile、英伟达、英特尔等。",
           "url": "https://wallstreetcn.com/livenews/3005074",
           "source": "华尔街见闻-快讯",
@@ -536,6 +564,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时40分]"
+        },
+        {
+          "title": "孙颖莎4-1胜朱雨玲 将与王曼昱争冠",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-1%E8%83%9C%E6%9C%B1%E9%9B%A8%E7%8E%B2+%E5%B0%86%E4%B8%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%89%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时39分]"
         },
         {
           "title": "极星汽车在中国前10月仅卖163辆",
@@ -549,17 +589,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时18分 ~ 09时26分]"
-        },
-        {
-          "title": "孙颖莎王曼昱会师决赛",
-          "url": "https://www.douyin.com/hot/2307145",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "神舟二十号航天员乘组平安抵京。（央视）",
@@ -587,17 +616,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "孙颖莎4-1胜朱雨玲 将与王曼昱争冠",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-1%E8%83%9C%E6%9C%B1%E9%9B%A8%E7%8E%B2+%E5%B0%86%E4%B8%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%89%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
-        },
-        {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
           "url": "https://wallstreetcn.com/livenews/3005068",
           "source": "华尔街见闻-快讯",
@@ -619,17 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
-        },
-        {
-          "title": "王曼昱4:0陈梦",
-          "url": "https://www.douyin.com/hot/2307142",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "13F报告显示：知名投资者卡尔·伊坎旗下Icahn Enterprise建仓EchoStar和Monro。 清仓Bausch Health。 增持Icahn Enterprise等。 减持Southwest Gas。",
@@ -698,6 +705,17 @@
           "time_info": "[04时22分 ~ 05时39分]"
         },
         {
+          "title": "陈梦落败止步,孙颖莎王曼昱争冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347162&amp;topic_name=%E9%99%88%E6%A2%A6%E8%90%BD%E8%B4%A5%E6%AD%A2%E6%AD%A5%2C%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%89%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国白宫：关于汽车，瑞士打算与美国合作，以促进对联邦机动车辆安全标准的认可。",
           "url": "https://flash.jin10.com/detail/20251115012946485800",
           "source": "金十数据",
@@ -709,6 +727,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "全运会乒乓球女单半决赛，王曼昱 4-0 陈梦，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1973113719954302861",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 22时39分]"
+        },
+        {
           "title": "美股三大股指集体低开 特斯拉跌超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
           "source": "百度热搜",
@@ -718,17 +747,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 05时39分]"
-        },
-        {
-          "title": "全运会乒乓球女单半决赛，王曼昱 4-0 陈梦，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1973113719954302861",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "宁德时代：股东黄世霖拟询价转让1%股份",
@@ -755,6 +773,29 @@
           "time_info": "[00时26分 ~ 00时50分]"
         },
         {
+          "title": "一组关键词看高市早苗搞了什么事",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%90%9E%E4%BA%86%E4%BB%80%E4%B9%88%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时39分]"
+        },
+        {
+          "title": "孙颖莎将与王曼昱争金",
+          "url": "https://www.toutiao.com/trending/7572761056192368182/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "据知情人士透露，美国纽约州州长霍楚尔正在考虑提高企业税，以弥补潜在的预算赤字，并寻求为纽约市市长曼达尼的部分议程提供资金。",
           "url": "https://flash.jin10.com/detail/20251115012707119800",
           "source": "金十数据",
@@ -775,17 +816,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "一组关键词看高市早苗搞了什么事",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BB%84%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%90%9E%E4%BA%86%E4%BB%80%E4%B9%88%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         }
       ]
     }
