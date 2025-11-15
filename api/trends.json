@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T15:17:50.072172+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-11-15T15:37:28.394382+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[00时26分 ~ 09时26分]"
         },
         {
+          "title": "佘智江被引渡回国：其在妙瓦底集结29个电诈园区248个电诈集团",
+          "url": "https://news.ifeng.com/c/8oITcojqsNX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 15时37分]"
+        },
+        {
           "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
           "url": "https://www.zhihu.com/question/1972723249331864758",
           "source": "知乎",
@@ -39,15 +50,17 @@
           "time_info": "[00时26分 ~ 11时40分]"
         },
         {
-          "title": "佘智江被引渡回国：其在妙瓦底集结29个电诈园区248个电诈集团",
-          "url": "https://news.ifeng.com/c/8oITcojqsNX",
-          "source": "凤凰网",
+          "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1971701581499045819",
+          "source": "知乎",
           "ranks": [
-            9
+            7,
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时40分 ~ 15时17分]"
+          "time_info": "[12时22分 ~ 15时37分]"
         },
         {
           "title": "荷经济大臣卡雷曼斯就安世半导体问题表态，商务部：极度失望和强烈不满",
@@ -63,21 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时41分 ~ 15时17分]"
-        },
-        {
-          "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1971701581499045819",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 15时17分]"
+          "appearance_count": 29,
+          "time_info": "[01时41分 ~ 15时37分]"
         },
         {
           "title": "林高远 / 刘诗雯 4:2 战胜陈垣宇 / 蒯曼，获得 2025 年全运会乒乓球混双冠军，如何评价这场比赛？",
@@ -105,11 +105,12 @@
             3,
             4,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 15时37分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -133,8 +134,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时19分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[06时19分 ~ 15时37分]"
+        },
+        {
+          "title": "中国工商银行与中国长安汽车进一步深化全面战略合作",
+          "url": "https://wallstreetcn.com/livenews/3005133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            14,
+            15,
+            19,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 15时37分]"
         },
         {
           "title": "比亚迪电池外供暴涨",
@@ -164,22 +182,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时42分 ~ 07时40分]"
-        },
-        {
-          "title": "中国工商银行与中国长安汽车进一步深化全面战略合作",
-          "url": "https://wallstreetcn.com/livenews/3005133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            14,
-            15,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 15时17分]"
         },
         {
           "title": "直播丨神二十乘组“换乘”神二十一回家，3名航天员平安到家",
