@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T12:01:21.185269+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-11-16T12:34:58.259611+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时01分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时34分]"
         },
         {
           "title": "王曼昱4-0完胜陈梦进决赛",
@@ -288,11 +288,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时34分]"
         },
         {
           "title": "招商局集团有限公司原副总经理李百安接受审查调查",
@@ -300,11 +301,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时34分]"
         },
         {
           "title": "王曼昱觉得自己发挥还不错",
