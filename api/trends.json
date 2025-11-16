@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T13:42:23.102309+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-11-16T14:29:15.285309+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -82,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 13时42分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 14时29分]"
         },
         {
           "title": "王曼昱4-0完胜陈梦进决赛",
@@ -270,6 +270,51 @@
           "time_info": "[00时22分 ~ 03时38分]"
         },
         {
+          "title": "雷军连发多条微博辟谣",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%BE%9F%E8%B0%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D9%26band_rank%3D8%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BF%259E%25E5%258F%2591%25E5%25A4%259A%25E6%259D%25A1%25E5%25BE%25AE%25E5%258D%259A%25E8%25BE%259F%25E8%25B0%25A3%2523%26display_time%3D1763270289%26pre_seqid%3D176327028995803303732156&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 14时29分]"
+        },
+        {
+          "title": "南非学者：美国缺席二十国集团峰会体现其在多边合作领域的退缩",
+          "url": "https://wallstreetcn.com/livenews/3005239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            13,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 14时29分]"
+        },
+        {
+          "title": "招商局集团有限公司原副总经理李百安接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3005237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            14,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 14时29分]"
+        },
+        {
           "title": "孙颖莎将与王曼昱争金",
           "url": "https://www.toutiao.com/trending/7572761056192368182/",
           "source": "今日头条",
@@ -281,48 +326,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时16分]"
-        },
-        {
-          "title": "南非学者：美国缺席二十国集团峰会体现其在多边合作领域的退缩",
-          "url": "https://wallstreetcn.com/livenews/3005239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            13,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时42分]"
-        },
-        {
-          "title": "招商局集团有限公司原副总经理李百安接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3005237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            14,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 13时42分]"
-        },
-        {
-          "title": "雷军连发多条微博辟谣",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%BE%9F%E8%B0%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D9%26band_rank%3D8%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BF%259E%25E5%258F%2591%25E5%25A4%259A%25E6%259D%25A1%25E5%25BE%25AE%25E5%258D%259A%25E8%25BE%259F%25E8%25B0%25A3%2523%26display_time%3D1763270289%26pre_seqid%3D176327028995803303732156&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时42分]"
         },
         {
           "title": "王曼昱觉得自己发挥还不错",
