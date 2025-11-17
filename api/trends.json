@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T16:29:42.606400+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-11-17T16:54:17.564063+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "王曼昱4-2击败孙颖莎 卫冕女单冠军",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时41分 ~ 16时29分]"
+          "appearance_count": 18,
+          "time_info": "[06时41分 ~ 16时54分]"
         },
         {
           "title": "雷军连发多文辟谣",
@@ -126,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 16时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 16时54分]"
         },
         {
           "title": "孙颖莎vs王曼昱",
@@ -159,8 +159,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时22分 ~ 16时29分]"
+          "appearance_count": 36,
+          "time_info": "[00时22分 ~ 16时54分]"
         },
         {
           "title": "孙颖莎16比14王曼昱",
@@ -188,8 +188,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时22分 ~ 16时29分]"
+          "appearance_count": 36,
+          "time_info": "[00时22分 ~ 16时54分]"
         },
         {
           "title": "王曼昱全运卫冕复制张怡宁成就",
@@ -217,8 +217,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时00分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[12时00分 ~ 16时54分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
@@ -233,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时39分 ~ 16时29分]"
+          "appearance_count": 16,
+          "time_info": "[07时39分 ~ 16时54分]"
         },
         {
           "title": "余承东官宣华为Mate80发布会",
@@ -456,17 +456,6 @@
           "time_info": "[09时28分 ~ 11时06分]"
         },
         {
-          "title": "报道：宏胜饮料集团将于明日召开2025年销售会议",
-          "url": "https://wallstreetcn.com/livenews/3005732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "孙颖莎称赞王曼昱逆转能力",
           "url": "https://www.douyin.com/hot/2308680",
           "source": "抖音",
@@ -515,6 +504,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时32分]"
+        },
+        {
+          "title": "报道：宏胜饮料集团将于明日召开2025年销售会议",
+          "url": "https://wallstreetcn.com/livenews/3005732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时54分]"
         },
         {
           "title": "王曼昱比肩邓亚萍张怡宁",
@@ -684,6 +685,18 @@
           "time_info": "[15时20分 ~ 15时41分]"
         },
         {
+          "title": "博主：特斯拉正在“一分为二”",
+          "url": "https://www.toutiao.com/trending/7573566632954433065/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时54分]"
+        },
+        {
           "title": "广西一汽车撞护栏侧翻致3死1伤",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%B1%BD%E8%BD%A6%E6%92%9E%E6%8A%A4%E6%A0%8F%E4%BE%A7%E7%BF%BB%E8%87%B43%E6%AD%BB1%E4%BC%A4",
           "source": "百度热搜",
@@ -751,15 +764,15 @@
           "time_info": "12时00分"
         },
         {
-          "title": "博主：特斯拉正在“一分为二”",
-          "url": "https://www.toutiao.com/trending/7573566632954433065/",
-          "source": "今日头条",
+          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
+          "url": "https://www.zhihu.com/question/630375759",
+          "source": "知乎",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "16时54分"
         },
         {
           "title": "宁德时代在上海投资成立新能源公司",
@@ -779,7 +792,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
