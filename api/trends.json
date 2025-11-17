@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:25:54.302721+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-11-17T17:46:30.145936+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "王曼昱4-2击败孙颖莎 卫冕女单冠军",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时41分 ~ 17时25分]"
+          "appearance_count": 20,
+          "time_info": "[06时41分 ~ 17时46分]"
         },
         {
           "title": "雷军连发多文辟谣",
@@ -126,8 +126,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 17时25分]"
+          "appearance_count": 17,
+          "time_info": "[09时28分 ~ 17时46分]"
         },
         {
           "title": "孙颖莎vs王曼昱",
@@ -172,8 +172,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时22分 ~ 17时25分]"
+          "appearance_count": 38,
+          "time_info": "[00时22分 ~ 17时46分]"
         },
         {
           "title": "雷军怒了!连发多文硬刚谣言",
@@ -190,8 +190,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时22分 ~ 17时25分]"
+          "appearance_count": 38,
+          "time_info": "[00时22分 ~ 17时46分]"
         },
         {
           "title": "王曼昱全运卫冕复制张怡宁成就",
@@ -204,6 +204,23 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时22分 ~ 07时39分]"
+        },
+        {
+          "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979072",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            13,
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时39分 ~ 17时46分]"
         },
         {
           "title": "宁德时代市值蒸发超千亿",
@@ -221,22 +238,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时00分 ~ 16时54分]"
-        },
-        {
-          "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31979072",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            13,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时39分 ~ 17时25分]"
         },
         {
           "title": "余承东官宣华为Mate80发布会",
@@ -458,37 +459,27 @@
           "time_info": "[09时28分 ~ 11时06分]"
         },
         {
-          "title": "小鹏汽车(09868.HK)：预计四季度汽车交付量在12.5万-13.2万辆之间，同比增36.6-44.3%",
-          "url": "https://flash.jin10.com/detail/20251117170440647800",
-          "source": "金十数据",
+          "title": "小鹏汽车盘前跌超3%，此前公布三季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3005766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
         },
         {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)：第四季度营收展望为人民币215亿至230亿元。",
-          "url": "https://flash.jin10.com/detail/20251117170213875800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
         },
         {
           "title": "孙颖莎称赞王曼昱逆转能力",
@@ -504,26 +495,16 @@
           "time_info": "[11时06分 ~ 13时21分]"
         },
         {
-          "title": "小鹏汽车盘前跌超3%，此前公布三季度业绩。",
-          "url": "https://wallstreetcn.com/livenews/3005766",
-          "source": "华尔街见闻-快讯",
+          "title": "王曼昱战胜孙颖莎夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
-          "url": "https://www.cls.cn/detail/2202481",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时46分]"
         },
         {
           "title": "以军无人机空袭黎巴嫩南部一汽车",
@@ -551,15 +532,15 @@
           "time_info": "[11时06分 ~ 12时00分]"
         },
         {
-          "title": "小鹏汽车(09868.HK)2025年Q3营收203.8亿元，去年同期101亿元。",
-          "url": "https://flash.jin10.com/detail/20251117170047033800",
+          "title": "小鹏汽车(XPEV.N)盘前跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20251117171032363800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "17时46分"
         },
         {
           "title": "A股冰雪经济概念午后走强，雪人集团直线涨停，晶雪节能涨超7%，长白山、天府文旅、大连圣亚、冰山冷热等涨幅居前。",
@@ -610,15 +591,40 @@
           "time_info": "[14时32分 ~ 15时20分]"
         },
         {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
+          "title": "小鹏汽车(09868.HK)：预计四季度汽车交付量在12.5万-13.2万辆之间，同比增36.6-44.3%",
+          "url": "https://flash.jin10.com/detail/20251117170440647800",
+          "source": "金十数据",
           "ranks": [
-            10
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)：第四季度营收展望为人民币215亿至230亿元。",
+          "url": "https://flash.jin10.com/detail/20251117170213875800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
         },
         {
           "title": "香港恒生指数午后跌幅扩大至1%，恒生科技指数跌1.25%。地平线机器人跌超6%，携程集团跌近5%。",
@@ -670,18 +676,6 @@
           "time_info": "[04时20分 ~ 04时41分]"
         },
         {
-          "title": "王曼昱战胜孙颖莎夺冠",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时25分]"
-        },
-        {
           "title": "吉利汽车10月底全年销量目标完成率达82.6%",
           "url": "https://wallstreetcn.com/livenews/3005575",
           "source": "华尔街见闻-快讯",
@@ -692,6 +686,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "小鹏汽车(09868.HK)2025年Q3营收203.8亿元，去年同期101亿元。",
+          "url": "https://flash.jin10.com/detail/20251117170047033800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时46分]"
+        },
+        {
+          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
+          "url": "https://www.zhihu.com/question/630375759",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时46分]"
         },
         {
           "title": "博主：特斯拉正在“一分为二”",
@@ -778,16 +809,16 @@
           "time_info": "[15时20分 ~ 15时41分]"
         },
         {
-          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
-          "url": "https://www.zhihu.com/question/630375759",
-          "source": "知乎",
+          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时25分]"
+          "time_info": "[17时25分 ~ 17时46分]"
         },
         {
           "title": "广西一汽车撞护栏侧翻致3死1伤",
@@ -855,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
-        },
-        {
-          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "宁德时代在上海投资成立新能源公司",
