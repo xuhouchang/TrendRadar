@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-18T03:38:52.655760+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2025-11-18T04:24:00.311496+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 20,
       "titles": [
-        {
-          "title": "奥特曼扮演者发文质问高市早苗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8F%91%E6%96%87%E8%B4%A8%E9%97%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%25A5%25A5%25E7%2589%25B9%25E6%259B%25BC%25E6%2589%25AE%25E6%25BC%2594%25E8%2580%2585%25E5%258F%2591%25E6%2596%2587%25E8%25B4%25A8%25E9%2597%25AE%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D0%26dgr%3D0%26band_rank%3D1%26flag%3D1%26display_time%3D1763396771%26pre_seqid%3D17633967717630281458783&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
-        },
         {
           "title": "“奥特曼”质问高市：与中国起争执有什么好处",
           "url": "https://news.ifeng.com/c/8oMWRdh4ars",
@@ -28,8 +15,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
+        },
+        {
+          "title": "奥特曼扮演者发文质问高市早苗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8F%91%E6%96%87%E8%B4%A8%E9%97%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%25A5%25A5%25E7%2589%25B9%25E6%259B%25BC%25E6%2589%25AE%25E6%25BC%2594%25E8%2580%2585%25E5%258F%2591%25E6%2596%2587%25E8%25B4%25A8%25E9%2597%25AE%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D0%26dgr%3D0%26band_rank%3D1%26flag%3D1%26display_time%3D1763396771%26pre_seqid%3D17633967717630281458783&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
@@ -39,11 +40,12 @@
             11,
             12,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "特斯拉“去中国化”背后隐藏什么",
@@ -55,8 +57,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "“奥特曼看不下去了”",
@@ -80,8 +82,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "雷军怒了!连发多文硬刚谣言",
@@ -91,8 +93,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
