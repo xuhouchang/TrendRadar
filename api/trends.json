@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T02:29:30.231318+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-11-18T02:52:16.688456+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "“奥特曼”质问高市：与中国起争执有什么好处",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "特斯拉“去中国化”背后隐藏什么",
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "“奥特曼看不下去了”",
@@ -63,11 +63,12 @@
           "ranks": [
             19,
             18,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
@@ -77,8 +78,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "雷军怒了!连发多文硬刚谣言",
@@ -88,8 +89,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 02时52分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
@@ -103,15 +104,32 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
-          "url": "https://flash.jin10.com/detail/20251118013926611800",
+          "title": "知情人士：雪佛龙加入收购被美国政府制裁的俄罗斯石油公司Lukoil海外资产的行列。",
+          "url": "https://flash.jin10.com/detail/20251118005242362800",
           "source": "金十数据",
           "ranks": [
-            6
+            4,
+            12,
+            19,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时52分]"
+        },
+        {
+          "title": "报道：雪佛龙考虑收购卢克石油海外资产",
+          "url": "https://wallstreetcn.com/livenews/3005985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时52分]"
         },
         {
           "title": "高盛集团：美联储12月降息的可能性被低估了。",
@@ -128,54 +146,18 @@
           "time_info": "[00时28分 ~ 01时43分]"
         },
         {
-          "title": "知情人士：雪佛龙加入收购被美国政府制裁的俄罗斯石油公司Lukoil海外资产的行列。",
-          "url": "https://flash.jin10.com/detail/20251118005242362800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时29分]"
-        },
-        {
-          "title": "报道：雪佛龙考虑收购卢克石油海外资产",
-          "url": "https://wallstreetcn.com/livenews/3005985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时29分]"
-        },
-        {
-          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
-          "url": "https://wallstreetcn.com/livenews/3006001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
           "title": "高盛集团：预计2026年布伦特/WTI原油均价将分别下降至56/52美元/桶，之前预计分别为63/60美元/桶。 预计2026年（不含俄罗斯的）全球原油供应过剩突出——200万桶/日，那将使得油价到2026年年中承压。 预计原油价格将在2027年回暖，低价将不利于OPEC（石油输出国组织）之外的那些产油国。 预计油价到2028年后期将达到长期所处水平，届时布伦特/WTI料将分别为80/76美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3005984",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
             16,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 02时52分]"
         },
         {
           "title": "据英国金融时报：美国检察官正在对一家电信公司集团进行调查，此前贝莱德旗下的私人信贷部门HPS Investment Partners表示，它向这些公司提供了数亿美元的贷款，而这些贷款的应收账款似乎是伪造的。",
@@ -183,11 +165,36 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 02时52分]"
+        },
+        {
+          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
+          "url": "https://flash.jin10.com/detail/20251118013926611800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时29分]"
+          "time_info": "[02时29分 ~ 02时52分]"
+        },
+        {
+          "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
+          "url": "https://wallstreetcn.com/livenews/3006001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 02时52分]"
         },
         {
           "title": "五位消息人士称，雪佛龙(CVX.N)正在探讨收购俄罗斯卢克石油公司海外资产的选项。",
