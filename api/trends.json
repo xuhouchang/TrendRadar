@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T20:41:52.712551+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2025-11-17T21:33:37.063208+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 87,
+      "match_count": 92,
       "titles": [
         {
           "title": "王曼昱4-2击败孙颖莎 卫冕女单冠军",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[06时41分 ~ 20时41分]"
+          "appearance_count": 28,
+          "time_info": "[06时41分 ~ 21时33分]"
         },
         {
           "title": "雷军连发多文辟谣",
@@ -141,11 +141,12 @@
             5,
             8,
             4,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时28分 ~ 20时41分]"
+          "appearance_count": 25,
+          "time_info": "[09时28分 ~ 21时33分]"
         },
         {
           "title": "孙颖莎16比14王曼昱",
@@ -158,26 +159,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[02时46分 ~ 07时39分]"
-        },
-        {
-          "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347178&amp;topic_name=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%A8%E8%BF%90%E5%8D%AB%E5%86%95%2C%E6%A2%A6%E8%8E%8E%E9%B1%BC%E6%96%A9%E8%8E%B7%E5%89%8D%E4%B8%89",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            4,
-            8,
-            9,
-            10,
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时22分 ~ 20时41分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
@@ -194,8 +175,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[07时39分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[07时39分 ~ 21时33分]"
+        },
+        {
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时25分 ~ 21时33分]"
         },
         {
           "title": "王曼昱全运卫冕复制张怡宁成就",
@@ -208,6 +203,27 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时22分 ~ 07时39分]"
+        },
+        {
+          "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347178&amp;topic_name=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%A8%E8%BF%90%E5%8D%AB%E5%86%95%2C%E6%A2%A6%E8%8E%8E%E9%B1%BC%E6%96%A9%E8%8E%B7%E5%89%8D%E4%B8%89",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            4,
+            8,
+            9,
+            10,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 46,
+          "time_info": "[00时22分 ~ 21时33分]"
         },
         {
           "title": "宁德时代市值蒸发超千亿",
@@ -240,11 +256,12 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时22分 ~ 20时41分]"
+          "appearance_count": 46,
+          "time_info": "[00时22分 ~ 21时33分]"
         },
         {
           "title": "余承东官宣华为Mate80发布会",
@@ -263,6 +280,20 @@
           "time_info": "[09时28分 ~ 13时44分]"
         },
         {
+          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
+          "url": "https://www.zhihu.com/question/630375759",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时54分 ~ 21时33分]"
+        },
+        {
           "title": "王曼昱孙颖莎陈梦登上领奖台合影",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A6%E7%99%BB%E4%B8%8A%E9%A2%86%E5%A5%96%E5%8F%B0%E5%90%88%E5%BD%B1",
           "source": "百度热搜",
@@ -275,20 +306,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时22分 ~ 09时29分]"
-        },
-        {
-          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
-          "url": "https://www.cls.cn/detail/2202481",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 20时41分]"
         },
         {
           "title": "孙颖莎王曼昱收视率打法",
@@ -361,19 +378,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 04时41分]"
-        },
-        {
-          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
-          "url": "https://www.zhihu.com/question/630375759",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时54分 ~ 20时41分]"
         },
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
@@ -608,6 +612,17 @@
           "time_info": "[18时24分 ~ 19时40分]"
         },
         {
+          "title": "比亚迪欧洲区域高管达维诺：欧洲汽车市场没有增长，传统汽车制造商和新品牌之间的竞争加剧。",
+          "url": "https://flash.jin10.com/detail/20251117210852401800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "以军无人机空袭黎巴嫩南部一汽车",
           "url": "https://flash.jin10.com/detail/20251117062144173800",
           "source": "金十数据",
@@ -642,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "比亚迪欧洲区域高管达维诺：到2025年底，比亚迪在欧洲将拥有1000个销售网点，目标是在2026年将其数量翻一番。",
+          "url": "https://flash.jin10.com/detail/20251117210821059800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "A股冰雪经济概念午后走强，雪人集团直线涨停，晶雪节能涨超7%，长白山、天府文旅、大连圣亚、冰山冷热等涨幅居前。",
@@ -935,6 +961,18 @@
           "time_info": "[15时20分 ~ 15时41分]"
         },
         {
+          "title": "小米汽车湿滑路面超车时突然侧滑",
+          "url": "https://www.toutiao.com/trending/7572860166506151978/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
+        },
+        {
           "title": "吉利汽车第三季度净利润38.2亿元人民币，同比增长59%",
           "url": "https://wallstreetcn.com/livenews/3005562",
           "source": "华尔街见闻-快讯",
@@ -957,6 +995,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 15时41分]"
+        },
+        {
+          "title": "特斯拉“去中国化”的背后隐藏什么",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
         },
         {
           "title": "广西一汽车撞护栏侧翻致3死1伤",
@@ -1015,17 +1064,6 @@
           "time_info": "14时32分"
         },
         {
-          "title": "小米汽车湿滑路面超车时突然侧滑",
-          "url": "https://www.toutiao.com/trending/7572860166506151978/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "恒生科技指数日内跌超1%。携程跌近5%，联想跌近4%，小鹏汽车、百度跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3005537",
           "source": "华尔街见闻-快讯",
@@ -1037,15 +1075,26 @@
           "time_info": "12时00分"
         },
         {
-          "title": "特斯拉“去中国化”的背后隐藏什么",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "珠免集团：拟向投捷控股转让其持有的格力房产100%股权，交易价格55.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3005898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "21时33分"
+        },
+        {
+          "title": "“奥特曼看不下去了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "宁德时代：本次询价转让价格为376.12元/股",
@@ -1054,7 +1103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1092,13 +1141,24 @@
           "time_info": "11时06分"
         },
         {
+          "title": "三环集团：拟发行境外股票（H股）并申请在香港联合交易所有限公司主板挂牌上市。",
+          "url": "https://wallstreetcn.com/livenews/3005886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "瑞银集团主席与美国财长贝森特就将这家瑞士银行迁至美国一事进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251117201551105800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
