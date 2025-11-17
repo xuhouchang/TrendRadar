@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T12:00:42.111757+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-11-17T12:35:37.977015+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "王曼昱4-2击败孙颖莎 卫冕女单冠军",
@@ -46,6 +46,19 @@
           "time_info": "[00时22分 ~ 12时00分]"
         },
         {
+          "title": "雷军，怒了！刚刚连发多条微博",
+          "url": "https://wallstreetcn.com/articles/3759479",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时35分]"
+        },
+        {
           "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347178&amp;topic_name=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%A8%E8%BF%90%E5%8D%AB%E5%86%95%2C%E6%A2%A6%E8%8E%8E%E9%B1%BC%E6%96%A9%E8%8E%B7%E5%89%8D%E4%B8%89",
           "source": "贴吧",
@@ -56,20 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时00分]"
-        },
-        {
-          "title": "雷军，怒了！刚刚连发多条微博",
-          "url": "https://wallstreetcn.com/articles/3759479",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时35分]"
         },
         {
           "title": "雷军连发多文辟谣",
@@ -107,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时00分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时35分]"
         },
         {
           "title": "王曼昱战胜孙颖莎夺金",
@@ -165,6 +166,19 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
+          "title": "观察｜“好看第一位”和“安全是基础”冲突吗？雷军连发三博能否回答外界质疑？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979862",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时41分 ~ 12时35分]"
+        },
+        {
           "title": "王曼昱孙颖莎陈梦登上领奖台合影",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A6%E7%99%BB%E4%B8%8A%E9%A2%86%E5%A5%96%E5%8F%B0%E5%90%88%E5%BD%B1",
           "source": "百度热搜",
@@ -193,18 +207,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
-          "title": "观察｜“好看第一位”和“安全是基础”冲突吗？雷军连发三博能否回答外界质疑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31979862",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时41分 ~ 12时00分]"
         },
         {
           "title": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
@@ -303,16 +305,18 @@
           "time_info": "[07时18分 ~ 09时29分]"
         },
         {
-          "title": "王曼昱成功卫冕",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D29%26flag%3D0%26dgr%3D0%26band_rank%3D29%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E6%2588%2590%25E5%258A%259F%25E5%258D%25AB%25E5%2586%2595%26cate%3D5001%26pos%3D30%26display_time%3D1763323891%26pre_seqid%3D17633238919390329728939&launchid=10000360-page_H5",
+          "title": "余承东官宣华为Mate80发布会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BAMate80%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D15%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D14%26realpos%3D14%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25BD%2599%25E6%2589%25BF%25E4%25B8%259C%25E5%25AE%2598%25E5%25AE%25A3%25E5%258D%258E%25E4%25B8%25BAMate80%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26c_type%3D31%26display_time%3D1763342878%26pre_seqid%3D176334287855603298720129&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            29,
-            24
+            14,
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时20分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时35分]"
         },
         {
           "title": "特斯拉“去中国化”背后隐藏什么",
@@ -324,21 +328,46 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时35分]"
         },
         {
-          "title": "余承东官宣华为Mate80发布会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BAMate80%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D15%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D14%26realpos%3D14%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25BD%2599%25E6%2589%25BF%25E4%25B8%259C%25E5%25AE%2598%25E5%25AE%25A3%25E5%258D%258E%25E4%25B8%25BAMate80%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26c_type%3D31%26display_time%3D1763342878%26pre_seqid%3D176334287855603298720129&launchid=10000360-page_H5",
+          "title": "雷军辟谣",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D9%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D8%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%259B%25B7%25E5%2586%259B%25E8%25BE%259F%25E8%25B0%25A3%26c_type%3D31%26display_time%3D1763342878%26pre_seqid%3D176334287855603298720129&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            14,
-            5,
-            6
+            8,
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 12时35分]"
+        },
+        {
+          "title": "孙颖莎：王曼昱是当今女乒最优秀的",
+          "url": "https://www.toutiao.com/trending/7573206508960432182/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 12时35分]"
+        },
+        {
+          "title": "王曼昱成功卫冕",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D29%26flag%3D0%26dgr%3D0%26band_rank%3D29%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%25E6%2588%2590%25E5%258A%259F%25E5%258D%25AB%25E5%2586%2595%26cate%3D5001%26pos%3D30%26display_time%3D1763323891%26pre_seqid%3D17633238919390329728939&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时20分 ~ 05时38分]"
         },
         {
           "title": "王曼昱孙颖莎陈梦共站领奖台合影",
@@ -366,42 +395,40 @@
           "time_info": "[09时28分 ~ 11时06分]"
         },
         {
-          "title": "雷军辟谣",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26pos%3D9%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D8%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%259B%25B7%25E5%2586%259B%25E8%25BE%259F%25E8%25B0%25A3%26c_type%3D31%26display_time%3D1763342878%26pre_seqid%3D176334287855603298720129&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            8,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时00分]"
-        },
-        {
-          "title": "孙颖莎：王曼昱是当今女乒最优秀的",
-          "url": "https://www.toutiao.com/trending/7573206508960432182/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时00分]"
-        },
-        {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979072",
           "source": "澎湃新闻",
           "ranks": [
             17,
             16,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 12时00分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 12时35分]"
+        },
+        {
+          "title": "造芯，马斯克是“来真的”，2026年将小规模量产",
+          "url": "https://wallstreetcn.com/articles/3759471",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "吉利汽车10月底全年销量目标完成率达82.6%",
+          "url": "https://wallstreetcn.com/livenews/3005575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "以军无人机空袭黎巴嫩南部一汽车",
@@ -466,15 +493,50 @@
           "time_info": "[04时20分 ~ 04时41分]"
         },
         {
+          "title": "宁德时代市值蒸发超千亿",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时35分]"
+        },
+        {
           "title": "孙颖莎称赞王曼昱逆转能力",
           "url": "https://www.douyin.com/hot/2308680",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 12时35分]"
+        },
+        {
+          "title": "钠电池赛道迎重磅合作：容百科技锁单宁德时代60%钠电正极材料采购量｜速读公告",
+          "url": "https://www.cls.cn/detail/2201820",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时00分]"
+          "time_info": "[12时00分 ~ 12时35分]"
+        },
+        {
+          "title": "王曼昱：我和莎莎都比四年前更好了",
+          "url": "https://www.toutiao.com/trending/7573316360601485339/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时35分]"
         },
         {
           "title": "广西一汽车撞护栏侧翻致3死1伤",
@@ -511,26 +573,15 @@
           "time_info": "[00时22分 ~ 00时45分]"
         },
         {
-          "title": "宁德时代市值蒸发超千亿",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "吉利汽车第三季度净利润38.2亿元人民币，同比增长59%",
+          "url": "https://wallstreetcn.com/livenews/3005562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时00分"
-        },
-        {
-          "title": "钠电池赛道迎重磅合作：容百科技锁单宁德时代60%钠电正极材料采购量｜速读公告",
-          "url": "https://www.cls.cn/detail/2201820",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时00分"
+          "time_info": "12时35分"
         },
         {
           "title": "恒生科技指数日内跌超1%。携程跌近5%，联想跌近4%，小鹏汽车、百度跌近3%。",
@@ -539,18 +590,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时00分"
-        },
-        {
-          "title": "王曼昱：我和莎莎都比四年前更好了",
-          "url": "https://www.toutiao.com/trending/7573316360601485339/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
