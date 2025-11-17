@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:41:11.445962+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-11-17T16:29:42.606400+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "王曼昱4-2击败孙颖莎 卫冕女单冠军",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时41分]"
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 16时29分]"
         },
         {
           "title": "造芯，马斯克是“来真的”，2026年",
@@ -72,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时41分 ~ 15时41分]"
+          "appearance_count": 17,
+          "time_info": "[06时41分 ~ 16时29分]"
         },
         {
           "title": "雷军连发多文辟谣",
@@ -122,27 +122,12 @@
             2,
             7,
             17,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 15时41分]"
-        },
-        {
-          "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347178&amp;topic_name=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%A8%E8%BF%90%E5%8D%AB%E5%86%95%2C%E6%A2%A6%E8%8E%8E%E9%B1%BC%E6%96%A9%E8%8E%B7%E5%89%8D%E4%B8%89",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            4,
-            8,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 16时29分]"
         },
         {
           "title": "孙颖莎vs王曼昱",
@@ -159,6 +144,23 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时22分 ~ 11时06分]"
+        },
+        {
+          "title": "王曼昱全运卫冕,梦莎鱼斩获前三",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347178&amp;topic_name=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%85%A8%E8%BF%90%E5%8D%AB%E5%86%95%2C%E6%A2%A6%E8%8E%8E%E9%B1%BC%E6%96%A9%E8%8E%B7%E5%89%8D%E4%B8%89",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            4,
+            8,
+            9,
+            10,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 16时29分]"
         },
         {
           "title": "孙颖莎16比14王曼昱",
@@ -182,27 +184,12 @@
             6,
             10,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时41分]"
-        },
-        {
-          "title": "宁德时代市值蒸发超千亿",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            9,
-            8,
-            10,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时00分 ~ 15时41分]"
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 16时29分]"
         },
         {
           "title": "王曼昱全运卫冕复制张怡宁成就",
@@ -217,6 +204,23 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
+          "title": "宁德时代市值蒸发超千亿",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            9,
+            8,
+            10,
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时00分 ~ 16时29分]"
+        },
+        {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979072",
           "source": "澎湃新闻",
@@ -229,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时39分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时39分 ~ 16时29分]"
         },
         {
           "title": "余承东官宣华为Mate80发布会",
@@ -450,6 +454,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时28分 ~ 11时06分]"
+        },
+        {
+          "title": "报道：宏胜饮料集团将于明日召开2025年销售会议",
+          "url": "https://wallstreetcn.com/livenews/3005732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "孙颖莎称赞王曼昱逆转能力",
@@ -736,6 +751,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "博主：特斯拉正在“一分为二”",
+          "url": "https://www.toutiao.com/trending/7573566632954433065/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "宁德时代在上海投资成立新能源公司",
           "url": "https://wallstreetcn.com/livenews/3005489",
           "source": "华尔街见闻-快讯",
@@ -745,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "乘联分会崔东树：2025年汽车投资增速达17.5%",
+          "url": "https://wallstreetcn.com/livenews/3005695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "A股福建本地股反复活跃，九牧王4连板，平潭发展、龙洲股份3连板，中富通、航天发展、日上集团、中国武夷等多股涨停。",
