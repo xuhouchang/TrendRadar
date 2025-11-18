@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T11:48:17.947965+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-18T12:24:44.312415+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -106,8 +106,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时27分 ~ 11时48分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 12时24分]"
         },
         {
           "title": "马斯克核心团队为何“集体叛逃”",
@@ -129,11 +129,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 11时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时24分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
@@ -145,6 +146,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时24分]"
         },
         {
           "title": "Tiger Woods和马斯克预计将出席美国总统特朗普的MBS宴会。（PunchBowl）",
@@ -332,18 +346,6 @@
           "time_info": "[06时20分 ~ 07时40分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 11时48分]"
-        },
-        {
           "title": "据Punchbowl：马斯克预计将出席美国总统特朗普与沙特王储穆罕默德·本·萨勒曼的晚宴。",
           "url": "https://flash.jin10.com/detail/20251118063214752800",
           "source": "金十数据",
@@ -362,11 +364,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时24分]"
+        },
+        {
+          "title": "“奥特曼看不下去了”",
+          "url": "https://www.douyin.com/hot/2309574",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时24分]"
         },
         {
           "title": "消息人士：预计11月19日在华盛顿举行的美沙投资论坛将有包括雪佛龙(CVX.N)、高通(QCOM.O)、思科(CSCO.O)、通用电力以及辉瑞(PFE.N)的首席执行官出席。",
@@ -406,16 +421,16 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "“奥特曼看不下去了”",
-          "url": "https://www.douyin.com/hot/2309574",
-          "source": "抖音",
+          "title": "马斯克突袭发布Grok 4.1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            17
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时58分 ~ 11时48分]"
+          "time_info": "[11时47分 ~ 12时24分]"
         },
         {
           "title": "英国央行委员曼恩：在压低物价压力方面还远不能松懈",
@@ -440,17 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时20分]"
-        },
-        {
-          "title": "马斯克突袭发布Grok 4.1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "印度阿达尼集团：新孟买机场将于12月25日开始运营。",
