@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:44:00.096550+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-11-18T14:30:45.004433+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "“奥特曼”质问高市：与中国起争执有什么好处",
@@ -49,6 +49,20 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时27分 ~ 07时40分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 14时30分]"
         },
         {
           "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
@@ -106,8 +120,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时27分 ~ 13时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时27分 ~ 14时30分]"
         },
         {
           "title": "马斯克核心团队为何“集体叛逃”",
@@ -124,18 +138,18 @@
           "time_info": "[00时53分 ~ 07时40分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
+          "title": "马斯克突袭发布Grok 4.1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            9,
-            7,
+            17,
+            30,
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时58分 ~ 13时43分]"
+          "time_info": "[11时47分 ~ 14时30分]"
         },
         {
           "title": "王曼昱为何能两次全运会击败孙颖莎",
@@ -153,19 +167,6 @@
           "time_info": "[10时58分 ~ 13时43分]"
         },
         {
-          "title": "马斯克突袭发布Grok 4.1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E8%A2%AD%E5%8F%91%E5%B8%83Grok%204.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            30,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 13时43分]"
-        },
-        {
           "title": "“奥特曼看不下去了”",
           "url": "https://www.douyin.com/hot/2309574",
           "source": "抖音",
@@ -176,8 +177,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 13时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 14时30分]"
         },
         {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
@@ -216,15 +217,15 @@
           "time_info": "[01时43分 ~ 03时38分]"
         },
         {
-          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
-          "url": "https://wallstreetcn.com/livenews/3006268",
-          "source": "华尔街见闻-快讯",
+          "title": "杰富瑞：将福特汽车(F.N)目标股价从12美元上调至15美元；将通用汽车(GM.N)目标股价从55美元上调至75美元。",
+          "url": "https://flash.jin10.com/detail/20251118134856118800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "14时30分"
         },
         {
           "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
@@ -262,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "国产汽车芯片认证审查技术体系实现突破",
+          "url": "https://wallstreetcn.com/livenews/3006284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "知情人士：雪佛龙加入收购被美国政府制裁的俄罗斯石油公司Lukoil海外资产的行列。",
@@ -413,6 +425,18 @@
           "time_info": "[06时43分 ~ 07时40分]"
         },
         {
+          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3006268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时30分]"
+        },
+        {
           "title": "消息人士：预计11月19日在华盛顿举行的美沙投资论坛将有包括雪佛龙(CVX.N)、高通(QCOM.O)、思科(CSCO.O)、通用电力以及辉瑞(PFE.N)的首席执行官出席。",
           "url": "https://flash.jin10.com/detail/20251118064918342800",
           "source": "金十数据",
@@ -519,13 +543,46 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
+          "url": "https://wallstreetcn.com/livenews/3006275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "你对于中年人保持身体健康有什么极简建议？",
+          "url": "https://www.zhihu.com/question/1972569048832251491",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "许绍雄出殡 佘诗曼高海宁现身",
+          "url": "https://www.toutiao.com/trending/7573277928705019434/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "4名女生为王曼昱全程加油获回应",
           "url": "https://www.toutiao.com/trending/7573213311563939883/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
