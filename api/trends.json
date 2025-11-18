@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T18:23:58.559834+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2025-11-18T18:48:01.911357+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -174,6 +174,19 @@
           "time_info": "[00时53分 ~ 07时40分]"
         },
         {
+          "title": "冷美人退赛后发视频报平安",
+          "url": "https://www.toutiao.com/trending/7573365559551885350/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 18时48分]"
+        },
+        {
           "title": "王曼昱为何能两次全运会击败孙颖莎",
           "url": "https://www.toutiao.com/trending/7573872956950990342/",
           "source": "今日头条",
@@ -187,19 +200,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时58分 ~ 13时43分]"
-        },
-        {
-          "title": "冷美人退赛后发视频报平安",
-          "url": "https://www.toutiao.com/trending/7573365559551885350/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时23分]"
         },
         {
           "title": "俄罗斯国家技术集团首席执行官：原本计划通过与其他国家合作研发的超级喷气客机，现在已实现完全采用俄罗斯国产零部件进行制造。",
@@ -224,6 +224,17 @@
           "time_info": "[14时30分 ~ 14时53分]"
         },
         {
+          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
+          "url": "https://wallstreetcn.com/livenews/3006444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
           "title": "王曼昱战胜孙颖莎，成为卫冕全运会乒乓球女单冠军第四人",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979072",
           "source": "澎湃新闻",
@@ -233,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3006398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时48分]"
         },
         {
           "title": "Tiger Woods和马斯克预计将出席美国总统特朗普的MBS宴会。（PunchBowl）",
@@ -286,17 +309,6 @@
           "time_info": "[14时30分 ~ 16时28分]"
         },
         {
-          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
-          "url": "https://wallstreetcn.com/livenews/3006444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
           "url": "https://wallstreetcn.com/livenews/3006206",
           "source": "华尔街见闻-快讯",
@@ -308,6 +320,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时58分 ~ 12时45分]"
+        },
+        {
+          "title": "阿联酋与赛峰集团签署谅解备忘录，将在迪拜建立一家制造和座椅装配设施。",
+          "url": "https://flash.jin10.com/detail/20251118180133169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
         },
         {
           "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
@@ -334,16 +357,15 @@
           "time_info": "05时19分"
         },
         {
-          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3006398",
+          "title": "娃哈哈集团：2025年实现5个亿收入增长",
+          "url": "https://wallstreetcn.com/livenews/3006436",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            28
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时23分]"
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
         },
         {
           "title": "知情人士：雪佛龙加入收购被美国政府制裁的俄罗斯石油公司Lukoil海外资产的行列。",
@@ -508,17 +530,6 @@
           "time_info": "[13时43分 ~ 14时53分]"
         },
         {
-          "title": "阿联酋与赛峰集团签署谅解备忘录，将在迪拜建立一家制造和座椅装配设施。",
-          "url": "https://flash.jin10.com/detail/20251118180133169800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "国产汽车芯片认证审查技术体系实现突破",
           "url": "https://wallstreetcn.com/livenews/3006284",
           "source": "华尔街见闻-快讯",
@@ -530,17 +541,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时30分 ~ 15时20分]"
-        },
-        {
-          "title": "娃哈哈集团：2025年实现5个亿收入增长",
-          "url": "https://wallstreetcn.com/livenews/3006436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "许绍雄出殡 佘诗曼高海宁现身",
@@ -605,6 +605,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "特斯拉核心团队“出走潮”",
+          "url": "https://www.toutiao.com/trending/7573718606148616218/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
           "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
           "url": "https://wallstreetcn.com/livenews/3006275",
           "source": "华尔街见闻-快讯",
@@ -652,6 +664,17 @@
           "time_info": "[16时28分 ~ 16时51分]"
         },
         {
+          "title": "小米集团：第三季度汽车交付总量108796辆",
+          "url": "https://wallstreetcn.com/livenews/3006423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
           "title": "印度阿达尼集团：新孟买机场将于12月25日开始运营。",
           "url": "https://flash.jin10.com/detail/20251117233406358800",
           "source": "金十数据",
@@ -662,6 +685,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时53分]"
+        },
+        {
+          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
+          "url": "https://wallstreetcn.com/livenews/3006422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "俄罗斯国家技术集团公司首席执行官：我们并不排斥未来在阿联酋或其他国家实现MS-21飞机本地化生产的设想。",
+          "url": "https://flash.jin10.com/detail/20251118174235066800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
+          "url": "https://wallstreetcn.com/livenews/3006421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
+          "url": "https://wallstreetcn.com/livenews/3006413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
+        },
+        {
+          "title": "盛新锂能：拟与华友控股集团签署锂盐产品合作框架协议 2026-2030年供应22.14万吨锂盐。",
+          "url": "https://wallstreetcn.com/livenews/3006410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时48分]"
         },
         {
           "title": "美股收盘：三大股指齐跌 小鹏跌超10%",
@@ -695,105 +795,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "特斯拉核心团队“出走潮”",
-          "url": "https://www.toutiao.com/trending/7573718606148616218/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团：第三季度汽车交付总量108796辆",
-          "url": "https://wallstreetcn.com/livenews/3006423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
-          "url": "https://wallstreetcn.com/livenews/3006422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "俄罗斯国家技术集团公司首席执行官：我们并不排斥未来在阿联酋或其他国家实现MS-21飞机本地化生产的设想。",
-          "url": "https://flash.jin10.com/detail/20251118174235066800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
-          "url": "https://wallstreetcn.com/livenews/3006421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
-          "url": "https://wallstreetcn.com/livenews/3006420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
-          "url": "https://wallstreetcn.com/livenews/3006418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
-          "url": "https://wallstreetcn.com/livenews/3006413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "盛新锂能：拟与华友控股集团签署锂盐产品合作框架协议 2026-2030年供应22.14万吨锂盐。",
-          "url": "https://wallstreetcn.com/livenews/3006410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "4名女生为王曼昱全程加油获回应",
