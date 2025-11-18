@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T01:43:19.396213+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-11-19T02:30:47.212955+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "王曼昱退出十五运后续比赛",
-          "url": "https://www.douyin.com/hot/2310677",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 01时43分]"
-        },
-        {
           "title": "冷美人退赛后发视频报平安",
           "url": "https://www.toutiao.com/trending/7573365559551885350/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -37,8 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "王曼昱退出十五运后续比赛",
+          "url": "https://www.douyin.com/hot/2310677",
+          "source": "抖音",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -50,8 +52,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 01时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 02时30分]"
+        },
+        {
+          "title": "王曼昱因伤退出全运会后续比赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BA%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E7%BB%AD%E6%AF%94%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 02时30分]"
         },
         {
           "title": "阿克曼警告财政部：房利美与房地美IPO时机未到",
@@ -89,19 +104,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "王曼昱因伤退出全运会后续比赛",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BA%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E7%BB%AD%E6%AF%94%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 01时43分]"
         },
         {
           "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
@@ -146,7 +148,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -157,7 +159,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
