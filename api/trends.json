@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T16:51:46.753655+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2025-11-18T17:22:46.423892+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "“奥特曼”质问高市：与中国起争执有什么好处",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时58分 ~ 16时51分]"
+          "appearance_count": 15,
+          "time_info": "[10时58分 ~ 17时22分]"
         },
         {
           "title": "奥特曼扮演者发文质问高市早苗",
@@ -109,11 +109,12 @@
             19,
             24,
             30,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时58分 ~ 16时51分]"
+          "appearance_count": 14,
+          "time_info": "[10时58分 ~ 17时22分]"
         },
         {
           "title": "“奥特曼看不下去了”",
@@ -220,17 +221,6 @@
           "time_info": "06时43分"
         },
         {
-          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3006370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时51分]"
-        },
-        {
           "title": "据英国金融时报：美国检察官正在对一家电信公司集团进行调查，此前贝莱德旗下的私人信贷部门HPS Investment Partners表示，它向这些公司提供了数亿美元的贷款，而这些贷款的应收账款似乎是伪造的。",
           "url": "https://flash.jin10.com/detail/20251118012045589800",
           "source": "金十数据",
@@ -259,6 +249,17 @@
           "time_info": "[14时30分 ~ 16时28分]"
         },
         {
+          "title": "俄罗斯国家技术集团首席执行官：原本计划通过与其他国家合作研发的超级喷气客机，现在已实现完全采用俄罗斯国产零部件进行制造。",
+          "url": "https://flash.jin10.com/detail/20251118171642459800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "雷军在微博称，11月21日上午9点广州车展上将发布小米端到端辅助驾驶新版本——HAD 增强版。 这个版本进步很大。",
           "url": "https://wallstreetcn.com/livenews/3006206",
           "source": "华尔街见闻-快讯",
@@ -285,6 +286,19 @@
           "time_info": "[02时29分 ~ 03时38分]"
         },
         {
+          "title": "冷美人退赛后发视频报平安",
+          "url": "https://www.toutiao.com/trending/7573365559551885350/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时22分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，KWEB跌0.6%，CQQQ跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3006054",
           "source": "华尔街见闻-快讯",
@@ -294,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "百度集团第三季度营收311.7亿元人民币，同比下降7.1%，预估308.7亿元人民币。 第三季度百度核心收入247亿元人民币，同比下降6.9%，预估242.9亿元人民币。 第三季度爱奇艺收入67亿元人民币，预估67.2亿元人民币。 第三季度调整后EBITDA 44.3亿元人民币，同比下降49%，预估41.6亿元人民币。 第三季度调整后营业利润22.1亿元人民币，同比下降69%，预估21.2亿元人民币。 百度盘前涨超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3006398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "知情人士：雪佛龙加入收购被美国政府制裁的俄罗斯石油公司Lukoil海外资产的行列。",
@@ -374,6 +399,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 02时52分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3006370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时22分]"
         },
         {
           "title": "高盛集团：美联储12月降息的可能性被低估了。",
@@ -494,18 +531,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时53分 ~ 15时41分]"
-        },
-        {
-          "title": "冷美人退赛后发视频报平安",
-          "url": "https://www.toutiao.com/trending/7573365559551885350/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时51分]"
         },
         {
           "title": "消息人士：预计11月19日在华盛顿举行的美沙投资论坛将有包括雪佛龙(CVX.N)、高通(QCOM.O)、思科(CSCO.O)、通用电力以及辉瑞(PFE.N)的首席执行官出席。",
