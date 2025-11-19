@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-11-20T01:20:34.060025+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-20T01:40:04.525353+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "马斯克C罗现身白宫参加晚宴",
+          "url": "https://www.douyin.com/hot/2311155",
+          "source": "抖音",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 01时40分]"
+        },
+        {
+          "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3007359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
         {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
           "url": "https://flash.jin10.com/detail/20251120001716224800",
@@ -19,27 +43,39 @@
           "time_info": "[00时27分 ~ 00时52分]"
         },
         {
-          "title": "马斯克C罗现身白宫参加晚宴",
-          "url": "https://www.douyin.com/hot/2311155",
-          "source": "抖音",
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
           "ranks": [
-            12,
-            8
+            15,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 01时40分]"
         },
         {
-          "title": "市场消息：沙特航空集团选择通用航空的GEnx-1B引擎，为其新的787梦想飞机提供动力。",
-          "url": "https://flash.jin10.com/detail/20251120011202054800",
-          "source": "金十数据",
+          "title": "赖家益妻子平安产下龙凤胎",
+          "url": "https://www.douyin.com/hot/2311554",
+          "source": "抖音",
           "ranks": [
-            4
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 01时40分]"
+        },
+        {
+          "title": "加拿大央行：如果生产力与2000年以来七国集团（G7）匹配，GDP增速可能会达到9%。",
+          "url": "https://wallstreetcn.com/livenews/3007357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "01时40分"
         },
         {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
@@ -65,6 +101,18 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时40分]"
+        },
+        {
           "title": "提醒：特斯拉CEO马斯克与英伟达CEO黄仁勋共同参与美国华盛顿特区的一场活动。",
           "url": "https://wallstreetcn.com/livenews/3007314",
           "source": "华尔街见闻-快讯",
@@ -77,51 +125,28 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
+          "title": "市场消息：沙特航空集团选择通用航空的GEnx-1B引擎，为其新的787梦想飞机提供动力。",
+          "url": "https://flash.jin10.com/detail/20251120011202054800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            18,
-            19
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "赖家益妻子平安产下龙凤胎",
-          "url": "https://www.douyin.com/hot/2311554",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 00时52分]"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时40分]"
         },
         {
           "title": "道达尔能源和雪佛龙领跑，Galp纳米比亚油田股权将被拍卖",
           "url": "https://wallstreetcn.com/livenews/3007338",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时40分]"
         },
         {
           "title": "道达尔与雪佛龙争夺纳米比亚超级油田 或蕴藏100亿桶资源",
@@ -130,7 +155,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
