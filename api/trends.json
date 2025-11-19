@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T00:27:49.909742+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T00:52:03.682871+08:00",
+  "total_titles_processed": 326,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "提醒：特斯拉CEO马斯克与英伟达CEO黄仁勋共同参与美国华盛顿特区的一场活动。",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -59,30 +59,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
           "url": "https://www.zhihu.com/question/1972270226642044065",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
           "url": "https://www.toutiao.com/trending/7573762239518228521/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "赖家益妻子平安产下龙凤胎",
@@ -92,8 +94,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
         }
       ]
     }
