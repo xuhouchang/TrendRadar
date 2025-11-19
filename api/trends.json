@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T16:27:59.583575+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-19T16:51:13.901112+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时28分 ~ 16时27分]"
+          "appearance_count": 34,
+          "time_info": "[00时28分 ~ 16时51分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时20分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[06时20分 ~ 16时51分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时27分 ~ 16时27分]"
+          "appearance_count": 17,
+          "time_info": "[09时27分 ~ 16时51分]"
         },
         {
           "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
@@ -61,11 +61,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 16时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时24分 ~ 16时51分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
@@ -77,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时58分 ~ 16时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时58分 ~ 16时51分]"
         },
         {
           "title": "马斯克现身白宫参加晚宴(图)",
@@ -105,8 +106,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 16时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时47分 ~ 16时51分]"
         },
         {
           "title": "冷美人退赛后发视频报平安",
@@ -152,8 +153,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时24分 ~ 16时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时24分 ~ 16时51分]"
         },
         {
           "title": "高管离职潮是因为马斯克不务正业吗",
@@ -200,8 +201,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时46分 ~ 16时27分]"
+          "appearance_count": 12,
+          "time_info": "[12时46分 ~ 16时51分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
@@ -251,6 +252,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时51分]"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时51分]"
         },
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -353,17 +378,6 @@
           "time_info": "[00时28分 ~ 01时19分]"
         },
         {
-          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "汇丰银行：将小鹏汽车(XPEV.N)目标价从29.60美元下调至28.60美元。",
           "url": "https://flash.jin10.com/detail/20251119113110752800",
           "source": "金十数据",
@@ -391,15 +405,17 @@
           "time_info": "[13时44分 ~ 14时53分]"
         },
         {
-          "title": "开云集团股价下跌2%，此前公司CEO称必须裁员、降低对古驰的依赖并寻求协同效应。",
-          "url": "https://flash.jin10.com/detail/20251119161223866800",
-          "source": "金十数据",
+          "title": "雷军：小米SU7 Ultra与YU7车载ETC免费激活",
+          "url": "https://wallstreetcn.com/livenews/3007030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3,
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时51分]"
         },
         {
           "title": "马斯克基金会2024年捐赠额创新高 大笔资金流入其控制实体",
@@ -412,18 +428,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时24分]"
-        },
-        {
-          "title": "雷军：小米SU7 Ultra与YU7车载ETC免费激活",
-          "url": "https://wallstreetcn.com/livenews/3007030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时27分]"
         },
         {
           "title": "汇丰银行：将小米集团(01810.HK)目标价从65.4港元下调至62.8港元。",
@@ -486,16 +490,16 @@
           "time_info": "[06时20分 ~ 06时43分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "开云集团股价下跌2%，此前公司CEO称必须裁员、降低对古驰的依赖并寻求协同效应。",
+          "url": "https://flash.jin10.com/detail/20251119161223866800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            9
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时27分]"
+          "time_info": "[16时27分 ~ 16时51分]"
         },
         {
           "title": "埃隆·马斯克以及英伟达首席执行官黄仁勋周三将在华盛顿举行的美国-沙特投资论坛上参加关于AI/技术的讨论。（路透）",
@@ -532,6 +536,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时19分]"
+        },
+        {
+          "title": "一年斩获米其林的澳门黑马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%B9%B4%E6%96%A9%E8%8E%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E7%9A%84%E6%BE%B3%E9%97%A8%E9%BB%91%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 16时51分]"
         },
         {
           "title": "报道：蔚来智驾芯片首次技术外供",
@@ -692,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "一年斩获米其林的澳门黑马",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%B9%B4%E6%96%A9%E8%8E%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E7%9A%84%E6%BE%B3%E9%97%A8%E9%BB%91%E9%A9%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         }
       ]
     }
