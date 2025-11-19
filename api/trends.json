@@ -1,880 +1,99 @@
 {
-  "generated_at": "2025-11-19T23:41:37.827931+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-11-20T00:27:49.909742+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 8,
       "titles": [
         {
-          "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
-          "url": "https://wallstreetcn.com/articles/3759635",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时28分 ~ 18时22分]"
-        },
-        {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[06时20分 ~ 18时22分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时27分 ~ 16时51分]"
-        },
-        {
-          "title": "小米集团股价跌破40港元，较6月最高点已跌超30%",
-          "url": "https://www.cls.cn/detail/2204599",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时24分 ~ 17时44分]"
-        },
-        {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[10时58分 ~ 23时41分]"
-        },
-        {
-          "title": "马斯克现身白宫参加晚宴(图)",
-          "url": "https://news.ifeng.com/c/8oPCQzNPXrX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 14时53分]"
-        },
-        {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时40分 ~ 20时42分]"
-        },
-        {
-          "title": "冷美人退赛后发视频报平安",
-          "url": "https://www.toutiao.com/trending/7573365559551885350/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            15,
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时28分 ~ 14时53分]"
-        },
-        {
-          "title": "王曼昱退出十五运后续比赛",
-          "url": "https://www.douyin.com/hot/2310677",
-          "source": "抖音",
-          "ranks": [
-            2,
-            15,
-            18,
-            20,
-            6,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 13时21分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            13,
-            8,
-            7,
-            14,
-            23,
-            22,
-            28,
-            30,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[11时47分 ~ 23时41分]"
-        },
-        {
-          "title": "高管离职潮是因为马斯克不务正业吗",
-          "url": "https://www.toutiao.com/trending/7573718606148616218/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            17,
-            9,
-            14,
-            20,
-            26,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 15时40分]"
-        },
-        {
-          "title": "如何看待马斯克预测「20 年内人类意识有望上传至机器人实现永生」？你认为能实现么？",
-          "url": "https://www.zhihu.com/question/1973721840783417550",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时24分 ~ 17时44分]"
-        },
-        {
-          "title": "王曼昱因伤退出全运会后续比赛",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BA%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E7%BB%AD%E6%AF%94%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            24,
-            23,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时37分]"
-        },
-        {
-          "title": "小米集团股价跌破40港元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B440%E6%B8%AF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时46分 ~ 18时22分]"
-        },
-        {
-          "title": "赖家益妻子平安产下龙凤胎",
-          "url": "https://www.douyin.com/hot/2311554",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[19时18分 ~ 23时41分]"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3006926",
+          "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3007319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9,
-            14,
-            20,
-            22
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 13时44分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "市场消息：Stellantis(STLA.N)通过整合特斯拉(TSLA.O)超级充电网络，扩大电动车充电覆盖范围。",
-          "url": "https://flash.jin10.com/detail/20251119065952255800",
+          "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
+          "url": "https://flash.jin10.com/detail/20251120001716224800",
           "source": "金十数据",
           "ranks": [
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时37分]"
-        },
-        {
-          "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
-          "url": "https://wallstreetcn.com/livenews/3006716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "00时27分"
         },
         {
-          "title": "澳大利亚10月西太平洋领先指标环比 0.11%，前值 -0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3006789",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克：xAI和沙特正在与英伟达(NVDA.O)合作进行一个500兆瓦的项目。",
+          "url": "https://flash.jin10.com/detail/20251120000958341800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时44分]"
-        },
-        {
-          "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3006836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "晶科能源与GoSolar集团签署分销市场1GW飞虎3组件供应协议",
-          "url": "https://wallstreetcn.com/livenews/3007021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时40分]"
-        },
-        {
-          "title": "斯泰兰蒂斯Stellantis与特斯拉加强电动汽车充电设施的接入。 Stellantis为旗下特定车型提供特斯拉NACS标准。",
-          "url": "https://wallstreetcn.com/livenews/3006780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "纳斯达克金龙中国指数盘初下跌1.4%。 热门中概股奇富科技盘初跌15.08%，金山云跌6.27%，世纪互联跌4.67%，理想跌3.13%。，大全新能源跌3%，小鹏跌2.96%，晶科能源、百度、华住、网易、至少跌2.25%，蔚来跌1.1%，文远知行跌0.98%，小马智行跌0.89%，再鼎医药跌0.66%。 阿里巴巴则涨0.05%，贝壳、百胜中国、携程至多涨0.8%，逸仙电商涨4.3%。 ETF中，KWEB跌1.45%，CQQQ跌1.33%，ASHR涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3007279",
+          "title": "提醒：特斯拉CEO马斯克与英伟达CEO黄仁勋共同参与美国华盛顿特区的一场活动。",
+          "url": "https://wallstreetcn.com/livenews/3007314",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 23时41分]"
-        },
-        {
-          "title": "阿克曼警告财政部：房利美与房地美IPO时机未到",
-          "url": "https://flash.jin10.com/detail/20251119001904359800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "马斯克：Grok 4.1版本是一次重要更新。",
-          "url": "https://wallstreetcn.com/livenews/3006648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时43分]"
-        },
-        {
-          "title": "金十图示：2025年11月19日（周三）富时中国A50指数成分股午盘收盘行情一览：银行、保险、通信设备等多个板块走高，半导体、汽车整车板块走软",
-          "url": "https://flash.jin10.com/detail/20251119113453411800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时21分]"
-        },
-        {
-          "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时37分]"
-        },
-        {
-          "title": "马斯克：Grok 4.1版本是一次重要更新。",
-          "url": "https://flash.jin10.com/detail/20251119001154423800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "汇丰银行：将小鹏汽车(XPEV.N)目标价从29.60美元下调至28.60美元。",
-          "url": "https://flash.jin10.com/detail/20251119113110752800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时21分]"
-        },
-        {
-          "title": "西太平洋银行：新西兰下周有望降息，并释放进一步宽松信号",
-          "url": "https://flash.jin10.com/detail/20251119133720358800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时53分]"
-        },
-        {
-          "title": "雷军：小米SU7 Ultra与YU7车载ETC免费激活",
-          "url": "https://wallstreetcn.com/livenews/3007030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时51分]"
-        },
-        {
-          "title": "马斯克基金会2024年捐赠额创新高 大笔资金流入其控制实体",
-          "url": "https://flash.jin10.com/detail/20251119033129293800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时24分]"
-        },
-        {
-          "title": "美国警告南非：勿要在轮值主办二十国集团（G20）峰会时发布联合声明。",
-          "url": "https://wallstreetcn.com/livenews/3007268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时46分]"
-        },
-        {
-          "title": "汇丰银行：将小米集团(01810.HK)目标价从65.4港元下调至62.8港元。",
-          "url": "https://flash.jin10.com/detail/20251119142253567800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "00时27分"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
           "url": "https://www.douyin.com/hot/2311155",
           "source": "抖音",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "印度政府：印度总理莫迪将于2025年11月21日至23日访问南非约翰内斯堡，出席二十国集团领导人峰会。",
-          "url": "https://flash.jin10.com/detail/20251119221257155800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时46分]"
-        },
-        {
-          "title": "浙商银行与阿里巴巴集团战略合作签约。未来，双方将深化科技创新合作，共同推动金融服务智能化升级，构建开放共赢的金融科技生态。",
-          "url": "https://wallstreetcn.com/livenews/3007189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 20时42分]"
-        },
-        {
-          "title": "金十图示：2025年11月19日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251119110534562800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "现代汽车：仍继续推进电动化并扩大在美布局",
-          "url": "https://flash.jin10.com/detail/20251119104217283800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时47分]"
-        },
-        {
-          "title": "市场消息：美国“警告”南非不要在峰会上发表二十国集团声明。",
-          "url": "https://flash.jin10.com/detail/20251119221049434800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时46分]"
-        },
-        {
-          "title": "诺基亚宣布新战略、运营模式的演进、新的长期财务目标、战略关键绩效指标以及集团领导团队的变动。",
-          "url": "https://flash.jin10.com/detail/20251119190052781800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时39分]"
-        },
-        {
-          "title": "消息人士：道达尔能源和雪佛龙在纳米比亚加尔普莫帕内油田股权拍卖中处于领先地位。",
-          "url": "https://flash.jin10.com/detail/20251119185908092800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时39分]"
-        },
-        {
-          "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3006653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时43分]"
-        },
-        {
-          "title": "特斯拉获得亚利桑那州运输网络公司运营许可",
-          "url": "https://wallstreetcn.com/livenews/3006751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时43分]"
-        },
-        {
-          "title": "开云集团股价下跌2%，此前公司CEO称必须裁员、降低对古驰的依赖并寻求协同效应。",
-          "url": "https://flash.jin10.com/detail/20251119161223866800",
-          "source": "金十数据",
-          "ranks": [
-            9,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时51分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "埃隆·马斯克以及英伟达首席执行官黄仁勋周三将在华盛顿举行的美国-沙特投资论坛上参加关于AI/技术的讨论。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3006884",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
           "ranks": [
-            10,
-            26
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时47分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "雷诺集团将与吉利合作在巴西生产新车，投资38亿雷亚尔",
-          "url": "https://wallstreetcn.com/livenews/3006636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "对冲基金潘兴广场的比尔·阿克曼：现在还不是抛售美国两房（房利美+房地美）的好时机。",
-          "url": "https://wallstreetcn.com/livenews/3006635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "一年斩获米其林的澳门黑马",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%B9%B4%E6%96%A9%E8%8E%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E7%9A%84%E6%BE%B3%E9%97%A8%E9%BB%91%E9%A9%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 16时51分]"
-        },
-        {
-          "title": "二十国集团呼吁关注非洲债务可持续性问题",
-          "url": "https://wallstreetcn.com/livenews/3007256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时46分]"
-        },
-        {
-          "title": "报道：蔚来智驾芯片首次技术外供",
-          "url": "https://wallstreetcn.com/livenews/3006966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时53分]"
-        },
-        {
-          "title": "三季度如期实现盈利 小米卢伟冰：汽车业务2026年非常有挑战、毛利率或不及今年",
-          "url": "https://www.cls.cn/detail/2204172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时43分]"
-        },
-        {
-          "title": "国家能源局：截至10月底我国电动汽车充电基础设施（枪）总数达到1864.5万个",
-          "url": "https://wallstreetcn.com/livenews/3006879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时47分]"
-        },
-        {
-          "title": "董昕任中国联通集团公司董事长、党组书记",
-          "url": "https://wallstreetcn.com/livenews/3007118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时47分]"
-        },
-        {
-          "title": "赣粤高速：经江西省政府同意，省交通运输厅将其持有的省交通投资集团90%股权，由无偿划转至江西国控调整为无偿划转至江西省国有资产监督管理委员会。该重大事项完成后，省国资委将直接持有省交通投资集团90%股权，省交通投资集团对公司持股比例不变。公司控股股东仍为省交通投资集团，公司实际控制人由省交通运输厅变更为省国资委。",
-          "url": "https://wallstreetcn.com/livenews/3007156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时39分]"
-        },
-        {
-          "title": "大和证券：将小米集团(01810.HK)目标价从68港元下调至55港元。",
-          "url": "https://flash.jin10.com/detail/20251119134420812800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时53分]"
-        },
-        {
-          "title": "大和证券：将小鹏汽车评级从“持有”上调至“买入”。",
-          "url": "https://flash.jin10.com/detail/20251119133755940800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时53分]"
-        },
-        {
-          "title": "小鹏汽车：未来两年将年产数千辆自动驾驶出租车消息不实",
-          "url": "https://wallstreetcn.com/livenews/3007148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时39分]"
-        },
-        {
-          "title": "周二（11月18日），彭博电动汽车价格回报指数跌2.97%，报3421.15点。 北京时间07:00微幅高开、涨至3538.13点刷新日高，之后显著下跌，10:00以来跌势放缓，12:00以来持续低位震荡，23:04刷新日低至3402.71点。",
-          "url": "https://wallstreetcn.com/livenews/3006735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时43分]"
-        },
-        {
-          "title": "王曼昱因伤退赛",
-          "url": "https://www.toutiao.com/trending/7573522251597807658/",
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
           "source": "今日头条",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时38分]"
-        },
-        {
-          "title": "巴西央行：综合企业集团资产占全国金融体系总资产的0.57%。",
-          "url": "https://flash.jin10.com/detail/20251119012358570800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "文件显示，特斯拉CEO马斯克、英伟达CEO黄仁勋将参加美国-沙特投资论坛关于科技的小组讨论。",
-          "url": "https://flash.jin10.com/detail/20251119101538730800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "视频画面显示，马斯克及多位嘉宾一同出席了特朗普与沙特王储的晚宴。",
-          "url": "https://flash.jin10.com/detail/20251119084229152800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多、英伟达CEO黄仁勋出席特朗普与沙特王储的晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3006816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "卢克石油国际资产出售加速 雪佛龙等巨头瞄准特定业务",
-          "url": "https://flash.jin10.com/detail/20251119012022806800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "中信博签署沙特PIF6福里斯1.2GW光伏项目跟踪支架合作协议",
-          "url": "https://wallstreetcn.com/livenews/3006854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.42%，报7793.00点。 热门中概股里，大全新能源初步收跌6.7%，阿特斯太阳能跌6.7%，晶科能源跌6.1%，亚朵跌2.9%，再鼎医药跌2.2%，蔚来跌1.5%，百胜中国、新东方涨超2.6%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.06%。 中国ETF-iShares MSCI（MCHI）收跌0.57%，中概互联网指数ETF（KWEB）收跌0.24%，中国科技指数ETF（CQQQ）收跌0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3006727",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时27分"
+        },
+        {
+          "title": "赖家益妻子平安产下龙凤胎",
+          "url": "https://www.douyin.com/hot/2311554",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     }
