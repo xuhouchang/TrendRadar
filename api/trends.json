@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T00:27:32.918944+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T00:52:16.978226+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,45 @@
           "url": "https://www.cls.cn/detail/2206597",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
+        },
+        {
+          "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
+          "url": "https://www.zhihu.com/question/1973698606189008394",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
+        },
+        {
+          "title": "新晋央企中国雅江集团出手买地",
+          "url": "https://www.toutiao.com/trending/7574719541805973545/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时52分]"
+        },
+        {
+          "title": "特斯拉上涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3008054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时52分]"
         },
         {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
@@ -30,44 +64,11 @@
           "time_info": "00时27分"
         },
         {
-          "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
-          "url": "https://www.zhihu.com/question/1973698606189008394",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
           "title": "南非总统拉马福萨：南非认为美国关于二十国集团的通知是“积极的信号”。",
           "url": "https://flash.jin10.com/detail/20251120235342005800",
           "source": "金十数据",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "特斯拉上涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3008054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "新晋央企中国雅江集团出手买地",
-          "url": "https://www.toutiao.com/trending/7574719541805973545/",
-          "source": "今日头条",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
