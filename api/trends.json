@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T06:19:42.663592+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2025-11-21T06:40:46.359135+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 06时40分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 06时40分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -47,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时23分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[04时23分 ~ 06时40分]"
         },
         {
           "title": "特斯拉回应起诉无忧传媒",
@@ -62,8 +62,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 06时40分]"
         },
         {
           "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
@@ -257,7 +257,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
