@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:20:28.116326+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-11-21T07:40:09.973408+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 07时40分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时23分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[04时23分 ~ 07时40分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -45,11 +45,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 07时40分]"
         },
         {
           "title": "特斯拉回应起诉无忧传媒",
@@ -60,11 +61,36 @@
             20,
             17,
             15,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时16分 ~ 07时40分]"
+        },
+        {
+          "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
+          "url": "https://www.zhihu.com/question/1974853096925524498",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 07时40分]"
+        },
+        {
+          "title": "马斯克说金钱将无意义 黄仁勋惊了",
+          "url": "https://www.toutiao.com/trending/7574943921302982170/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 07时40分]"
         },
         {
           "title": "欧盟：我们接触马斯克旗下社交媒体平台X公司（原名推特），因为该公司有义务针对大模型Grok的相关风险采取行动。 Grok生成的内容与欧洲的基本权利和价值存在冲突。",
@@ -138,17 +164,6 @@
           "time_info": "[03时16分 ~ 04时42分]"
         },
         {
-          "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
-          "url": "https://www.zhihu.com/question/1974853096925524498",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "美联储：将于12月3日美东时间09:15（北京时间22:15）发布工业产出。",
           "url": "https://wallstreetcn.com/livenews/3008142",
           "source": "华尔街见闻-快讯",
@@ -177,22 +192,12 @@
           "url": "https://flash.jin10.com/detail/20251121070128399800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "马斯克说金钱将无意义 黄仁勋惊了",
-          "url": "https://www.toutiao.com/trending/7574943921302982170/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时40分]"
         },
         {
           "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
@@ -216,6 +221,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 00时52分]"
+        },
+        {
+          "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
+          "url": "https://flash.jin10.com/detail/20251121063623513800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时40分]"
         },
         {
           "title": "马斯克：实时视频的理解与生成是未来的趋势。",
@@ -272,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
-          "url": "https://flash.jin10.com/detail/20251121063623513800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "南非总统拉马福萨：南非认为美国关于二十国集团的通知是“积极的信号”。",
