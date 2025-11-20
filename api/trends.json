@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:46:32.629057+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2025-11-20T19:18:51.986598+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时44分 ~ 18时46分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 19时18分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时55分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[10时55分 ~ 19时18分]"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -162,6 +162,28 @@
           "time_info": "[16时29分 ~ 17时42分]"
         },
         {
+          "title": "小米集团(01810.HK)于11月20日斥资5.078亿港元回购1350万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20251120191253746800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "马斯克、黄仁勋同台对话：AI和人形机器人会消除贫困",
+          "url": "https://wallstreetcn.com/livenews/3007912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
           "url": "https://flash.jin10.com/detail/20251120001716224800",
           "source": "金十数据",
@@ -219,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "德国汽车行业就业人数降至2011年以来新低",
+          "url": "https://flash.jin10.com/detail/20251120190532693800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "受关税影响，韩国10月对美汽车出口额下降29%",
@@ -304,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "德国汽车行业就业人数降至2011年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3007903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
@@ -420,6 +464,18 @@
           "time_info": "[10时56分 ~ 11时44分]"
         },
         {
+          "title": "小米汽车第50万辆整车正式下产线 雷军最新回应",
+          "url": "https://www.cls.cn/detail/2205893",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "道达尔能源和雪佛龙领跑，Galp纳米比亚油田股权将被拍卖",
           "url": "https://wallstreetcn.com/livenews/3007338",
           "source": "华尔街见闻-快讯",
@@ -441,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时42分]"
-        },
-        {
-          "title": "小米汽车第50万辆整车正式下产线 雷军最新回应",
-          "url": "https://www.cls.cn/detail/2205893",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时46分]"
         },
         {
           "title": "马斯克发帖感谢特朗普",
@@ -503,6 +547,18 @@
           "time_info": "[16时29分 ~ 16时52分]"
         },
         {
+          "title": "小鹏X9超级增程续航突破1600公里",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E7%BB%AD%E8%88%AA%E7%AA%81%E7%A0%B41600%E5%85%AC%E9%87%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时18分]"
+        },
+        {
           "title": "亿纬锂能：与思摩尔国际签订《采购框架协议》",
           "url": "https://wallstreetcn.com/livenews/3007839",
           "source": "华尔街见闻-快讯",
@@ -548,15 +604,15 @@
           "time_info": "18时22分"
         },
         {
-          "title": "小鹏X9超级增程续航突破1600公里",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FX9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E7%BB%AD%E8%88%AA%E7%AA%81%E7%A0%B41600%E5%85%AC%E9%87%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "生益电子：东莞科创投资集团拟减持不超过1%。",
+          "url": "https://wallstreetcn.com/livenews/3007881",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时18分"
         },
         {
           "title": "软银集团股价一度上涨9.1%，创10月9日以来最大涨幅。",
