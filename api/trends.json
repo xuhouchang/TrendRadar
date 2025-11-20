@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T01:41:47.962493+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-11-21T02:30:12.841771+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -25,22 +25,24 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 01时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 02时30分]"
         },
         {
           "title": "特斯拉回应起诉无忧传媒",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 02时30分]"
         },
         {
           "title": "新晋央企中国雅江集团出手买地",
