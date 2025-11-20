@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T17:22:00.569448+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2025-11-20T17:42:58.925325+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时44分 ~ 17时22分]"
+          "appearance_count": 14,
+          "time_info": "[12时44分 ~ 17时42分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -36,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时55分 ~ 17时22分]"
+          "appearance_count": 18,
+          "time_info": "[10时55分 ~ 17时42分]"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -148,6 +149,30 @@
           "time_info": "[02时30分 ~ 04时39分]"
         },
         {
+          "title": "港股收盘，恒生指数收涨0.02%，恒生科技指数收跌0.58%，李宁涨4%，小鹏汽车跌超4%，华虹半导体跌超3%，携程集团跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 17时42分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时42分]"
+        },
+        {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
           "url": "https://flash.jin10.com/detail/20251120001716224800",
           "source": "金十数据",
@@ -185,19 +210,6 @@
           "time_info": "15时40分"
         },
         {
-          "title": "港股收盘，恒生指数收涨0.02%，恒生科技指数收跌0.58%，李宁涨4%，小鹏汽车跌超4%，华虹半导体跌超3%，携程集团跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时22分]"
-        },
-        {
           "title": "瑞银集团：将2026年年中黄金目标价从每盎司4200美元上调至4500美元。",
           "url": "https://flash.jin10.com/detail/20251120152410198800",
           "source": "金十数据",
@@ -218,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3007835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "受关税影响，韩国10月对美汽车出口额下降29%",
@@ -301,6 +302,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
+          "url": "https://www.cls.cn/detail/2205685",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 17时42分]"
         },
         {
           "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
@@ -393,18 +406,6 @@
           "time_info": "[12时23分 ~ 13时43分]"
         },
         {
-          "title": "马斯克：未来AI和机器人将令金钱“失去意义” 工作成“可选项”！",
-          "url": "https://www.cls.cn/detail/2205685",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 17时22分]"
-        },
-        {
           "title": "恒生科技指数日内跌超1%，金山软件跌超10%，小鹏汽车跌近5%。",
           "url": "https://wallstreetcn.com/livenews/3007600",
           "source": "华尔街见闻-快讯",
@@ -427,6 +428,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 01时40分]"
+        },
+        {
+          "title": "联想集团董事长杨元庆：我们并不认为存在人工智能泡沫",
+          "url": "https://wallstreetcn.com/livenews/3007826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时42分]"
         },
         {
           "title": "马斯克发帖感谢特朗普",
@@ -486,17 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "联想集团董事长杨元庆：我们并不认为存在人工智能泡沫",
-          "url": "https://wallstreetcn.com/livenews/3007826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "财政部、工信部发布关于征求《新能源汽车政府采购需求标准（征求意见稿）》意见的函",
