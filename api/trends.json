@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T04:23:41.780720+08:00",
+  "generated_at": "2025-11-21T04:42:53.825313+08:00",
   "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时42分]"
         },
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 04时42分]"
         },
         {
           "title": "特斯拉回应起诉无忧传媒",
@@ -58,8 +58,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 04时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 04时42分]"
         },
         {
           "title": "李强抵达约翰内斯堡出席二十国集团领导人第二十次峰会",
@@ -68,9 +68,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时42分]"
         },
         {
           "title": "李强抵达约翰内斯堡出席二十国集团领导人第二十次峰会",
@@ -79,9 +79,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时42分]"
         },
         {
           "title": "美国白宫：美国将不会参加二十国集团会议。",
@@ -92,8 +92,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时42分]"
         },
         {
           "title": "美国内政部披露海上石油天然气租赁计划的草案。 离岸开采计划包括多达34份租赁销售协议，分布在墨西哥湾、阿拉斯加周边海域、以及（美国西海岸的）太平洋周边海域。",
@@ -102,9 +102,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时42分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -113,9 +113,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时42分]"
         },
         {
           "title": "美联储：将于12月3日美东时间09:15（北京时间22:15）发布工业产出。",
@@ -126,8 +126,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 04时42分]"
         },
         {
           "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
@@ -138,8 +138,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时42分]"
         },
         {
           "title": "新晋央企中国雅江集团出手买地",
@@ -176,6 +176,17 @@
           "time_info": "[00时27分 ~ 00时52分]"
         },
         {
+          "title": "6名巴新岛民在太平洋漂了8天获救",
+          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E5%B7%B4%E6%96%B0%E5%B2%9B%E6%B0%91%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BC%82%E4%BA%868%E5%A4%A9%E8%8E%B7%E6%95%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 04时42分]"
+        },
+        {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
           "url": "https://flash.jin10.com/detail/20251121000730343800",
           "source": "金十数据",
@@ -196,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "6名巴新岛民在太平洋漂了8天获救",
-          "url": "https://www.baidu.com/s?wd=6%E5%90%8D%E5%B7%B4%E6%96%B0%E5%B2%9B%E6%B0%91%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BC%82%E4%BA%868%E5%A4%A9%E8%8E%B7%E6%95%91",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
         }
       ]
     }
