@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T22:43:58.625046+08:00",
-  "total_titles_processed": 2333,
+  "generated_at": "2025-11-21T23:19:24.651038+08:00",
+  "total_titles_processed": 2398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "华夏幸福预重整引发股东矛盾 平安系董事公开“掀桌”",
@@ -86,16 +86,30 @@
           "time_info": "[01时16分 ~ 07时40分]"
         },
         {
+          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时38分 ~ 23时19分]"
+        },
+        {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
           "url": "https://www.zhihu.com/question/1975115860181022671",
           "source": "知乎",
           "ranks": [
             3,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时28分 ~ 22时43分]"
+          "appearance_count": 6,
+          "time_info": "[21时28分 ~ 23时19分]"
         },
         {
           "title": "比亚迪廉玉波当选中国工程院院士",
@@ -124,19 +138,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时20分 ~ 09时27分]"
-        },
-        {
-          "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32013425",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 22时43分]"
         },
         {
           "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
@@ -281,6 +282,17 @@
           "time_info": "[14时31分 ~ 15时41分]"
         },
         {
+          "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
+          "url": "https://wallstreetcn.com/livenews/3008792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "联想集团刘军：中国区客户直营占比达到80%",
           "url": "https://wallstreetcn.com/livenews/3008456",
           "source": "华尔街见闻-快讯",
@@ -304,6 +316,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时56分 ~ 12时46分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX新款星舰（StarShip）的火箭助推器在地面测试时候爆炸。",
+          "url": "https://wallstreetcn.com/livenews/3008791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "独家|华夏幸福董事回应平安系王葳质疑：预重整符合监管规定 系“极难得机会”",
+          "url": "https://www.cls.cn/detail/2207704",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时19分]"
         },
         {
           "title": "美联储：将于12月3日美东时间09:15（北京时间22:15）发布工业产出。",
@@ -513,18 +549,6 @@
           "time_info": "[19时17分 ~ 19时38分]"
         },
         {
-          "title": "独家|华夏幸福董事回应平安系王葳质疑：预重整符合监管规定 系“极难得机会”",
-          "url": "https://www.cls.cn/detail/2207704",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时43分]"
-        },
-        {
           "title": "蔚来李斌回应车市竞争：真正的稳态可能需要10年才能显现，关键是坚持、活下去",
           "url": "https://wallstreetcn.com/livenews/3008441",
           "source": "华尔街见闻-快讯",
@@ -572,6 +596,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 13时44分]"
+        },
+        {
+          "title": "东风-27能横跨太平洋突袭航母吗",
+          "url": "https://www.toutiao.com/trending/7575153254980390446/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时19分]"
         },
         {
           "title": "小鹏第100万台新车X9超级增程下线",
@@ -692,17 +728,6 @@
           "time_info": "[16时29分 ~ 16时51分]"
         },
         {
-          "title": "东风-27能横跨太平洋突袭航母吗",
-          "url": "https://www.toutiao.com/trending/7575153254980390446/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时43分]"
-        },
-        {
           "title": "蓝色起源公司推出更大的 \"新格伦 \"火箭变体计划，与马斯克的SpaceX一较高下",
           "url": "https://wallstreetcn.com/livenews/3008079",
           "source": "华尔街见闻-快讯",
@@ -779,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基敦促乌克兰人保持团结。",
+          "url": "https://flash.jin10.com/detail/20251121224406712800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：与鸿海的协议旨在加强供应链，以满足当前和未来的需求。",
@@ -886,7 +922,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
