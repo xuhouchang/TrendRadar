@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:40:59.560838+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-11-22T19:15:39.587851+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时49分 ~ 18时40分]"
+          "appearance_count": 20,
+          "time_info": "[10时49分 ~ 19时15分]"
         },
         {
           "title": "比亚迪法务部发文称「王悟空说车」侵权被判公开道歉并赔偿 31.38 万元，怎么看车企用法律手段维权行为？",
@@ -96,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时37分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[15时37分 ~ 19时15分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -152,11 +152,23 @@
             6,
             8,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 19时15分]"
+        },
+        {
+          "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/1974778440168273303",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "福特汽车涨幅扩大至3.9%，此前该公司表示诺韦利斯奥斯威戈工厂的部分运营已恢复并重新启动。",
@@ -172,17 +184,6 @@
           "time_info": "[02时48分 ~ 04时43分]"
         },
         {
-          "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/1974778440168273303",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 18时40分]"
-        },
-        {
           "title": "据知情人士透露，二十国集团（G20）首脑公报草案提及“气候变化”。（路透）",
           "url": "https://wallstreetcn.com/livenews/3008844",
           "source": "华尔街见闻-快讯",
@@ -195,6 +196,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时27分 ~ 04时43分]"
+        },
+        {
+          "title": "中国旅游集团牵头，组建新央企",
+          "url": "https://www.cls.cn/detail/2207993",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "DownDetector：一名用户报告称，马斯克旗下社交媒体平台X公司（原名推特）出现诸多故障。",
@@ -233,6 +247,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时19分 ~ 18时40分]"
+        },
+        {
+          "title": "《每日邮报》所有者将以5亿英镑估值收购《电讯报》集团。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3008985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时15分]"
         },
         {
           "title": "二十国集团峰会：南非总统拉马福萨感谢所有以诚意合作、为本次会议达成一份有价值的成果文件的代表团。",
@@ -330,16 +356,15 @@
           "time_info": "[17时19分 ~ 18时40分]"
         },
         {
-          "title": "中国旅游集团牵头，组建新央企",
-          "url": "https://www.cls.cn/detail/2207993",
-          "source": "财联社热门",
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
           "ranks": [
-            13,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 18时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "二十国集团峰会：南非总统拉马福萨表示，我们必须增加对发展中国家的气候融资投入。",
@@ -379,17 +404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
-        },
-        {
-          "title": "《每日邮报》所有者将以5亿英镑估值收购《电讯报》集团。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3008985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "消息人士：二十国集团领导人宣言草案中包含“气候变化”的措辞，此举无视了美国的反对。",
@@ -488,11 +502,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "二十国集团峰会宣言：我们认识到气候变化的紧迫性和严重性。",
@@ -500,11 +515,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "二十国集团峰会宣言：我们强调加强多边合作的重要性，以应对全球经济面临的现有和新兴风险。",
@@ -512,11 +528,64 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：关键矿物应成为促进价值增值和广泛发展的催化剂，而不仅仅是作为原材料出口。",
+          "url": "https://flash.jin10.com/detail/20251122175333715800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：我们致力于以可预测、及时、有序和协调的方式，加强落实二十国集团债务处理共同框架。",
+          "url": "https://flash.jin10.com/detail/20251122175100054800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：我们认识到，高水平的债务是许多发展中经济体实现包容性增长的障碍之一。",
+          "url": "https://flash.jin10.com/detail/20251122175050896800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：日益频繁的大规模灾害以加剧贫困和不平等，对处境脆弱的人群造成了严重的影响。",
+          "url": "https://flash.jin10.com/detail/20251122175027012800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "特朗普点名 马斯克马上发感谢帖",
@@ -531,54 +600,6 @@
           "time_info": "[07时38分 ~ 11时39分]"
         },
         {
-          "title": "二十国集团峰会宣言：关键矿物应成为促进价值增值和广泛发展的催化剂，而不仅仅是作为原材料出口。",
-          "url": "https://flash.jin10.com/detail/20251122175333715800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
-          "title": "二十国集团峰会宣言：我们致力于以可预测、及时、有序和协调的方式，加强落实二十国集团债务处理共同框架。",
-          "url": "https://flash.jin10.com/detail/20251122175100054800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
-          "title": "二十国集团峰会宣言：我们认识到，高水平的债务是许多发展中经济体实现包容性增长的障碍之一。",
-          "url": "https://flash.jin10.com/detail/20251122175050896800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
-          "title": "二十国集团峰会宣言：日益频繁的大规模灾害以加剧贫困和不平等，对处境脆弱的人群造成了严重的影响。",
-          "url": "https://flash.jin10.com/detail/20251122175027012800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
           "title": "特斯拉因致命车祸在美被起诉 车门把手故障被指阻碍救援",
           "url": "https://flash.jin10.com/detail/20251122015616159800",
           "source": "金十数据",
@@ -589,6 +610,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 03时17分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：我们将致力于在苏丹、刚果民主共和国、被占领的巴勒斯坦领土和乌克兰实现公正、全面和持久的和平。",
+          "url": "https://flash.jin10.com/detail/20251122174652805800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会宣言：我们强调对多边合作的信念。",
+          "url": "https://flash.jin10.com/detail/20251122174537475800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
+        },
+        {
+          "title": "二十国集团峰会：南非总统拉马福萨发言人表示，二十国集团峰会宣言已获通过。",
+          "url": "https://flash.jin10.com/detail/20251122173458856800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "机构：数以千计的美国用户无法使用马斯克的X系统",
@@ -639,18 +699,6 @@
           "time_info": "[01时41分 ~ 04时43分]"
         },
         {
-          "title": "二十国集团峰会宣言：我们将致力于在苏丹、刚果民主共和国、被占领的巴勒斯坦领土和乌克兰实现公正、全面和持久的和平。",
-          "url": "https://flash.jin10.com/detail/20251122174652805800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨1.3%，本周累跌约4.2%。 热门中概股里，网易有道涨6.7%，阿特斯太阳能涨5.3%，亚朵涨4.9%，蔚来涨3.4%，腾讯音乐涨2.6%，理想涨2.1%，小马智行则跌1.3%。 ETF中，KWEB涨约0.7%，CQQQ跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/3008897",
           "source": "华尔街见闻-快讯",
@@ -660,30 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时39分]"
-        },
-        {
-          "title": "二十国集团峰会宣言：我们强调对多边合作的信念。",
-          "url": "https://flash.jin10.com/detail/20251122174537475800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
-        },
-        {
-          "title": "二十国集团峰会：南非总统拉马福萨发言人表示，二十国集团峰会宣言已获通过。",
-          "url": "https://flash.jin10.com/detail/20251122173458856800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.23%，报7514.31点。 热门中概股里，网易有道初步收涨6.7%，阿特斯太阳能涨5.3%，亚朵涨4.9%，蔚来涨3.4%，腾讯音乐涨2.6%，理想涨2.1%，小马智行则跌1.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.63%，中国科技指数ETF（CQQQ）收跌0.22%，XtrackersHarvest中证50（ASHS）收跌2.08%，德银嘉实沪深300指数ETF（ASHR）收跌1.18%。 本周，CQQQ累跌5.24%（此前三周先后跌0.78%、1.84%、3.41%），ASHS累跌5.21%，KWEB累跌4.65%连跌四周（之前三周先后跌1.53%、2.45%、1.87%），ASHR累跌3.37%。",
