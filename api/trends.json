@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:49:14.526533+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-11-22T15:18:25.188426+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[05时18分 ~ 13时41分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 15时18分]"
         },
         {
           "title": "不允许售后同时接单小米或格力？美的回应：不强制售后服务商排他性合作的行为",
@@ -55,16 +67,21 @@
           "time_info": "[00时25分 ~ 11时39分]"
         },
         {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
+          "title": "央企专业化整合项目集中签约：中国旅游集团牵头组建央企邮轮运营平台公司",
+          "url": "https://wallstreetcn.com/livenews/3008949",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            4,
+            7,
             10,
-            9
+            12,
+            13,
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 14时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时49分 ~ 15时18分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -76,22 +93,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时25分 ~ 06时42分]"
-        },
-        {
-          "title": "央企专业化整合项目集中签约：中国旅游集团牵头组建央企邮轮运营平台公司",
-          "url": "https://wallstreetcn.com/livenews/3008949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 14时49分]"
         },
         {
           "title": "报道：比尔·阿克曼希望对冲基金潘兴广场在2026年初上市",
