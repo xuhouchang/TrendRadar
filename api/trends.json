@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T04:21:24.235680+08:00",
+  "generated_at": "2025-11-23T04:41:22.422961+08:00",
   "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
@@ -8,17 +8,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "智驾不避险?问界M7酿夺命惨案",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 04时21分]"
-        },
-        {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
           "url": "https://wallstreetcn.com/livenews/3009015",
           "source": "华尔街见闻-快讯",
@@ -26,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时41分]"
+        },
+        {
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 04时41分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 04时41分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 04时41分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -61,8 +61,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 04时41分]"
         }
       ]
     }
