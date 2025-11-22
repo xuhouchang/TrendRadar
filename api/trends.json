@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T02:48:18.067628+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2025-11-23T03:15:38.357605+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 02时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -26,30 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 02时48分]"
-        },
-        {
-          "title": "中国旅游集团牵头，组建新央企",
-          "url": "https://www.cls.cn/detail/2207993",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 02时48分]"
-        },
-        {
-          "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
-          "url": "https://www.zhihu.com/question/1974947583832056467",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 02时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时15分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -59,8 +37,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 02时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 03时15分]"
+        },
+        {
+          "title": "中国旅游集团牵头，组建新央企",
+          "url": "https://www.cls.cn/detail/2207993",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 03时15分]"
+        },
+        {
+          "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
+          "url": "https://www.zhihu.com/question/1974947583832056467",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 03时15分]"
         }
       ]
     }
