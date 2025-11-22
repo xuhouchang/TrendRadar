@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T01:39:08.682081+08:00",
-  "total_titles_processed": 342,
+  "generated_at": "2025-11-23T02:27:13.510172+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -26,19 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时39分]"
-        },
-        {
-          "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
-          "url": "https://wallstreetcn.com/livenews/3009011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -48,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -59,8 +48,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 02时27分]"
+        },
+        {
+          "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
+          "url": "https://wallstreetcn.com/livenews/3009011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时27分]"
         }
       ]
     }
