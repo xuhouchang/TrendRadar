@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:39:58.249875+08:00",
-  "total_titles_processed": 346,
+  "generated_at": "2025-11-24T02:27:47.583588+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -50,11 +50,12 @@
             10,
             9,
             19,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "智驾不避险?问界M7酿夺命惨案",
@@ -66,8 +67,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 01时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 02时27分]"
+        },
+        {
+          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
+          "url": "https://wallstreetcn.com/livenews/3009140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -81,18 +95,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 01时39分]"
-        },
-        {
-          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
-          "url": "https://wallstreetcn.com/livenews/3009140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时39分]"
         },
         {
           "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
