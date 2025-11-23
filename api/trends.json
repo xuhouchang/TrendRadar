@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T22:17:25.617428+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-11-23T22:40:00.780725+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时47分 ~ 22时17分]"
+          "appearance_count": 32,
+          "time_info": "[09时47分 ~ 22时40分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -42,11 +43,12 @@
             7,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[13时42分 ~ 22时17分]"
+          "appearance_count": 26,
+          "time_info": "[13时42分 ~ 22时40分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -187,23 +189,6 @@
           "time_info": "[14时29分 ~ 17时40分]"
         },
         {
-          "title": "智驾不避险?问界M7酿夺命惨案",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            16,
-            17,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 51,
-          "time_info": "[00时22分 ~ 22时17分]"
-        },
-        {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
           "url": "https://wallstreetcn.com/livenews/3009011",
           "source": "华尔街见闻-快讯",
@@ -221,6 +206,24 @@
           "time_info": "[00时22分 ~ 17时40分]"
         },
         {
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            16,
+            17,
+            19,
+            20,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 53,
+          "time_info": "[00时22分 ~ 22时40分]"
+        },
+        {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
           "url": "https://www.zhihu.com/question/1974947583832056467",
           "source": "知乎",
@@ -232,6 +235,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 04时41分]"
+        },
+        {
+          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
+          "url": "https://wallstreetcn.com/articles/3759949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时23分 ~ 22时40分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -248,6 +263,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时25分 ~ 19时38分]"
+        },
+        {
+          "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.toutiao.com/trending/7575508362550509594/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时23分 ~ 22时40分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -297,6 +326,21 @@
           "time_info": "[18时42分 ~ 21时40分]"
         },
         {
+          "title": "二十国集团峰会：巴西总统卢拉表示，他对美国在加勒比地区的军事部署深感担忧，并打算与美国总统特朗普就此进行交谈。",
+          "url": "https://flash.jin10.com/detail/20251123201340417800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            7,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时40分]"
+        },
+        {
           "title": "李强出席二十国集团领导人第二十次峰会第二及第三阶段会议",
           "url": "https://wallstreetcn.com/livenews/3009081",
           "source": "华尔街见闻-快讯",
@@ -328,32 +372,6 @@
           "time_info": "[17时40分 ~ 19时38分]"
         },
         {
-          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
-          "url": "https://wallstreetcn.com/articles/3759949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时23分 ~ 22时17分]"
-        },
-        {
-          "title": "二十国集团峰会：巴西总统卢拉表示，他对美国在加勒比地区的军事部署深感担忧，并打算与美国总统特朗普就此进行交谈。",
-          "url": "https://flash.jin10.com/detail/20251123201340417800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
           "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
           "url": "https://wallstreetcn.com/livenews/3009069",
           "source": "华尔街见闻-快讯",
@@ -370,19 +388,6 @@
           "time_info": "[18时42分 ~ 21时40分]"
         },
         {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.toutiao.com/trending/7575508362550509594/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时23分 ~ 22时17分]"
-        },
-        {
           "title": "二十国集团峰会：土耳其总统埃尔多安表示，土耳其将评估安全部队如何部署到加沙的维稳部队中，相关决定将在之后作出。",
           "url": "https://flash.jin10.com/detail/20251123200802557800",
           "source": "金十数据",
@@ -390,23 +395,12 @@
             4,
             8,
             10,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
-          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
-          "url": "https://wallstreetcn.com/livenews/3009111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时40分]"
         },
         {
           "title": "G20南非峰会领导人宣言：重申对二十国集团作为国际经济合作主要论坛的承诺。 感谢南非今年发挥的领导作用，我们将在2026年美国担任主席国期间继续携手合作，并于2027年在英国、2028年在韩国再次会晤。欢迎沙特提前轮任二十国集团主席国的愿望。（新华社）",
@@ -415,11 +409,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 22时40分]"
         },
         {
           "title": "据知情人士透露，必和必拓集团试图收购英美公司。（彭博）",
@@ -433,16 +428,18 @@
           "time_info": "19时38分"
         },
         {
-          "title": "英国政府将追加13亿英镑电动汽车补贴",
-          "url": "https://wallstreetcn.com/livenews/3009110",
+          "title": "二十国集团南非峰会领导人宣言：动员资金以实现能源转型",
+          "url": "https://wallstreetcn.com/livenews/3009105",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            10
+            5,
+            7,
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[21时24分 ~ 22时40分]"
         },
         {
           "title": "土耳其总统府：土耳其总统埃尔多安在二十国集团峰会的间隙告诉法国总统马克龙，必须尽一切外交努力，以公正、持久的和平结束俄乌冲突。",
@@ -469,6 +466,19 @@
           "time_info": "18时19分"
         },
         {
+          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
+          "url": "https://wallstreetcn.com/livenews/3009111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时40分]"
+        },
+        {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
           "url": "https://flash.jin10.com/detail/20251123085030917800",
           "source": "金十数据",
@@ -484,17 +494,74 @@
           "time_info": "[09时48分 ~ 13时19分]"
         },
         {
-          "title": "二十国集团南非峰会领导人宣言：动员资金以实现能源转型",
-          "url": "https://wallstreetcn.com/livenews/3009105",
+          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
+          "url": "https://wallstreetcn.com/livenews/3009120",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时40分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安在二十国集团（G20）峰会表示：下周一将与俄罗斯总统普京通电话。 土方将竭尽全力创造乌克兰和平之路。",
+          "url": "https://wallstreetcn.com/livenews/3009095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            14,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时40分]"
+        },
+        {
+          "title": "巴西总统卢拉在二十国集团（G20）峰会称：如果某人自以为能削弱多边主义，G20和COP30将证明他们是非常活跃的。",
+          "url": "https://wallstreetcn.com/livenews/3009094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7,
-            15
+            12,
+            15,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时40分]"
+        },
+        {
+          "title": "英国政府将追加13亿英镑电动汽车补贴",
+          "url": "https://wallstreetcn.com/livenews/3009110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时17分]"
+          "time_info": "[21时40分 ~ 22时40分]"
+        },
+        {
+          "title": "报道：必和必拓向英美资源集团提出收购要约",
+          "url": "https://wallstreetcn.com/livenews/3009090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时40分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -563,31 +630,6 @@
           "time_info": "[19时38分 ~ 21时40分]"
         },
         {
-          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
-          "url": "https://wallstreetcn.com/livenews/3009120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "土耳其总统埃尔多安在二十国集团（G20）峰会表示：下周一将与俄罗斯总统普京通电话。 土方将竭尽全力创造乌克兰和平之路。",
-          "url": "https://wallstreetcn.com/livenews/3009095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
           "title": "二十国集团峰会：巴西总统卢拉表示，如果有人认为他们能够削弱多边主义，那么二十国集团和COP30的举办表明，多边主义依然充满活力。",
           "url": "https://flash.jin10.com/detail/20251123200014625800",
           "source": "金十数据",
@@ -596,34 +638,6 @@
             11,
             13,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
-          "title": "巴西总统卢拉在二十国集团（G20）峰会称：如果某人自以为能削弱多边主义，G20和COP30将证明他们是非常活跃的。",
-          "url": "https://wallstreetcn.com/livenews/3009094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
-          "title": "报道：必和必拓向英美资源集团提出收购要约",
-          "url": "https://wallstreetcn.com/livenews/3009090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            18,
-            26
           ],
           "is_new": false,
           "appearance_count": 4,
