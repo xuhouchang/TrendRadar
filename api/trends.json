@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T16:45:42.676001+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2025-11-23T17:19:38.799850+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时47分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 17时19分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -37,11 +37,12 @@
             3,
             4,
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 16时45分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 17时19分]"
         },
         {
           "title": "小米汽车被判返还双倍定金",
@@ -73,34 +74,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时47分 ~ 16时45分]"
-        },
-        {
-          "title": "智驾不避险?问界M7酿夺命惨案",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时22分 ~ 16时45分]"
-        },
-        {
-          "title": "中国旅游集团牵头，组建新央企",
-          "url": "https://www.cls.cn/detail/2207993",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时22分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[09时47分 ~ 17时19分]"
         },
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -113,8 +88,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 16时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时42分 ~ 17时19分]"
+        },
+        {
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 37,
+          "time_info": "[00时22分 ~ 17时19分]"
+        },
+        {
+          "title": "中国旅游集团牵头，组建新央企",
+          "url": "https://www.cls.cn/detail/2207993",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 37,
+          "time_info": "[00时22分 ~ 17时19分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -126,11 +128,12 @@
             18,
             19,
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 16时45分]"
+          "appearance_count": 29,
+          "time_info": "[00时22分 ~ 17时19分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -153,11 +156,12 @@
             25,
             18,
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 16时45分]"
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 17时19分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -165,11 +169,29 @@
           "source": "今日头条",
           "ranks": [
             7,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时19分]"
+        },
+        {
+          "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
+          "url": "https://flash.jin10.com/detail/20251123134828421800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            14,
+            15,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 17时19分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -189,43 +211,29 @@
           "time_info": "[11时28分 ~ 14时51分]"
         },
         {
-          "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
-          "url": "https://flash.jin10.com/detail/20251123134828421800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            14,
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 16时45分]"
-        },
-        {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时19分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
           "url": "https://wallstreetcn.com/livenews/3009047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时19分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -237,8 +245,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 16时45分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 17时19分]"
         },
         {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
