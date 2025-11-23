@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T12:10:44.763697+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-11-23T12:52:21.482490+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时52分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时52分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -54,8 +54,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 12时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 12时52分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -78,19 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时10分]"
-        },
-        {
-          "title": "小米汽车开始赚钱了 但雷军还有点烦",
-          "url": "https://www.toutiao.com/trending/7575711115057827382/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 12时52分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -100,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 12时52分]"
         },
         {
           "title": "纽卡胜曼城",
@@ -110,11 +99,12 @@
           "ranks": [
             5,
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 12时52分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -122,11 +112,24 @@
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 12时52分]"
+        },
+        {
+          "title": "小米汽车开始赚钱了 但雷军还有点烦",
+          "url": "https://www.toutiao.com/trending/7575711115057827382/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 12时52分]"
         },
         {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
@@ -135,11 +138,12 @@
           "ranks": [
             5,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时52分]"
         },
         {
           "title": "纽卡2-1击败曼城",
@@ -148,7 +152,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
