@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T06:19:25.020465+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-24T06:42:18.241029+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -56,11 +57,12 @@
             27,
             21,
             24,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -75,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "智驾不避险?问界M7酿夺命惨案",
@@ -88,8 +90,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 06时42分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -98,11 +100,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 06时42分]"
         },
         {
           "title": "印度外部事务部：总理莫迪与加拿大总理卡尼在二十国集团（G20）峰会的间隙会面，双方同意启动贸易协议的磋商。 两国希望到2030年将贸易规模翻倍至500亿美元。 莫迪邀请卡尼访问印度。",
@@ -111,11 +114,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时22分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[04时22分 ~ 06时42分]"
         },
         {
           "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
@@ -137,33 +141,36 @@
           "url": "https://flash.jin10.com/detail/20251124054147124800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时42分]"
         },
         {
           "title": "英美资源集团据称拒绝竞争对手必和必拓新收购提议",
           "url": "https://flash.jin10.com/detail/20251124053049710800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时42分]"
         },
         {
           "title": "市场消息：英美资源集团表示拒绝必和必拓(BHP.N)提出的最新收购要约。",
           "url": "https://flash.jin10.com/detail/20251124052628096800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时42分]"
         },
         {
           "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
