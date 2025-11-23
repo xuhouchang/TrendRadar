@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:29:22.212687+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-11-23T14:51:20.906843+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 14时51分]"
+        },
+        {
+          "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
+          "url": "https://wallstreetcn.com/livenews/3009033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 14时51分]"
         },
         {
           "title": "智驾不避险?问界M7酿夺命惨案",
@@ -39,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 14时51分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -52,8 +64,24 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 30,
+          "time_info": "[00时22分 ~ 14时51分]"
+        },
+        {
+          "title": "纽卡胜曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E8%83%9C%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            15,
+            14,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 14时51分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -66,35 +94,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 14时29分]"
-        },
-        {
-          "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
-          "url": "https://wallstreetcn.com/livenews/3009033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 14时29分]"
-        },
-        {
-          "title": "纽卡胜曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E8%83%9C%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10,
-            15,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 14时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 14时51分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -119,11 +120,12 @@
             13,
             15,
             16,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 14时51分]"
         },
         {
           "title": "小米汽车被判返还双倍定金",
@@ -134,8 +136,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时51分]"
+        },
+        {
+          "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
+          "url": "https://flash.jin10.com/detail/20251123134828421800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时29分]"
+          "time_info": "[14时29分 ~ 14时51分]"
         },
         {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
@@ -166,37 +180,27 @@
           "time_info": "[11时28分 ~ 13时19分]"
         },
         {
-          "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
-          "url": "https://flash.jin10.com/detail/20251123134828421800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "段永平买入特斯拉",
           "url": "https://www.toutiao.com/trending/7574752742992805915/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时51分]"
         },
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
           "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时51分]"
         },
         {
           "title": "短剧被真打演员报平安",
@@ -205,9 +209,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时51分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -216,9 +220,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时51分]"
         },
         {
           "title": "纽卡2-1击败曼城",
