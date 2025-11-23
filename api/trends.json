@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T19:16:14.261568+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-11-23T19:38:03.455481+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时47分 ~ 19时16分]"
+          "appearance_count": 25,
+          "time_info": "[09时47分 ~ 19时38分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -39,11 +39,28 @@
             4,
             6,
             8,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时38分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[15时38分 ~ 19时38分]"
+        },
+        {
+          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[13时42分 ~ 19时38分]"
         },
         {
           "title": "小米汽车被判返还双倍定金",
@@ -59,21 +76,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时42分 ~ 16时45分]"
-        },
-        {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时42分 ~ 19时16分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -109,8 +111,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时47分 ~ 19时16分]"
+          "appearance_count": 25,
+          "time_info": "[09时47分 ~ 19时38分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -125,6 +127,24 @@
           "is_new": false,
           "appearance_count": 37,
           "time_info": "[00时22分 ~ 17时19分]"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
+          "url": "https://flash.jin10.com/detail/20251123155316784800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            3,
+            5,
+            10,
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 19时38分]"
         },
         {
           "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
@@ -147,21 +167,6 @@
           "time_info": "[14时29分 ~ 18时42分]"
         },
         {
-          "title": "智驾不避险?问界M7酿夺命惨案",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11,
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时22分 ~ 19时16分]"
-        },
-        {
           "title": "短剧被真打演员报平安",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E8%A2%AB%E7%9C%9F%E6%89%93%E6%BC%94%E5%91%98%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -176,6 +181,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[14时29分 ~ 17时40分]"
+        },
+        {
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11,
+            16,
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 46,
+          "time_info": "[00时22分 ~ 19时38分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -195,23 +216,6 @@
           "time_info": "[00时22分 ~ 17时40分]"
         },
         {
-          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
-          "url": "https://flash.jin10.com/detail/20251123155316784800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            3,
-            5,
-            10,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 19时16分]"
-        },
-        {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
           "url": "https://www.zhihu.com/question/1974947583832056467",
           "source": "知乎",
@@ -223,6 +227,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 04时41分]"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            12,
+            17,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 19时38分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -237,21 +257,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时29分 ~ 17时40分]"
-        },
-        {
-          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
-          "url": "https://wallstreetcn.com/livenews/3009047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            12,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -278,11 +283,24 @@
             1,
             6,
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 19时38分]"
+        },
+        {
+          "title": "李强出席二十国集团领导人第二十次峰会第二及第三阶段会议",
+          "url": "https://wallstreetcn.com/livenews/3009081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时38分]"
         },
         {
           "title": "广汽集团总经理閤先庆：昊铂销量确不及预期，L3车型即将上市",
@@ -290,45 +308,46 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时16分]"
-        },
-        {
-          "title": "李强出席二十国集团领导人第二十次峰会第二及第三阶段会议",
-          "url": "https://wallstreetcn.com/livenews/3009081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
-          "url": "https://wallstreetcn.com/livenews/3009069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "土耳其总统府：土耳其总统埃尔多安在二十国集团峰会的间隙告诉法国总统马克龙，必须尽一切外交努力，以公正、持久的和平结束俄乌冲突。",
           "url": "https://flash.jin10.com/detail/20251123185631521800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时38分]"
+        },
+        {
+          "title": "市场消息：必和必拓据称向英美资源集团（Anglo American）提出收购要约。",
+          "url": "https://flash.jin10.com/detail/20251123192727258800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "19时38分"
+        },
+        {
+          "title": "据知情人士透露，必和必拓集团试图收购英美公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "新型汽车扎堆亮相车展",
@@ -357,6 +376,30 @@
           "time_info": "[09时48分 ~ 13时19分]"
         },
         {
+          "title": "南非总统：二十国集团必须采取大胆行动，支持可持续发展。",
+          "url": "https://flash.jin10.com/detail/20251123192539081800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
+          "url": "https://wallstreetcn.com/livenews/3009069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
+        },
+        {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
           "url": "https://www.toutiao.com/trending/7575711115057827382/",
           "source": "今日头条",
@@ -368,6 +411,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时28分 ~ 13时19分]"
+        },
+        {
+          "title": "南非总统：二十国集团峰会承认需要从所有渠道加大气候融资力度。",
+          "url": "https://flash.jin10.com/detail/20251123192402666800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "段永平买入特斯拉",
