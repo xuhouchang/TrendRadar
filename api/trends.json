@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T22:40:00.780725+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-11-23T23:18:39.193324+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[09时47分 ~ 22时40分]"
+          "appearance_count": 33,
+          "time_info": "[09时47分 ~ 23时18分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -47,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[13时42分 ~ 22时40分]"
+          "appearance_count": 27,
+          "time_info": "[13时42分 ~ 23时18分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -220,8 +221,34 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 53,
-          "time_info": "[00时22分 ~ 22时40分]"
+          "appearance_count": 54,
+          "time_info": "[00时22分 ~ 23时18分]"
+        },
+        {
+          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
+          "url": "https://wallstreetcn.com/articles/3759949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时23分 ~ 23时18分]"
+        },
+        {
+          "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.toutiao.com/trending/7575508362550509594/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时23分 ~ 23时18分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -235,18 +262,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 04时41分]"
-        },
-        {
-          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
-          "url": "https://wallstreetcn.com/articles/3759949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时23分 ~ 22时40分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -263,20 +278,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时25分 ~ 19时38分]"
-        },
-        {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.toutiao.com/trending/7575508362550509594/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时23分 ~ 22时40分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -410,11 +411,26 @@
             2,
             4,
             12,
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时24分 ~ 23时18分]"
+        },
+        {
+          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
+          "url": "https://wallstreetcn.com/livenews/3009111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            12,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时24分 ~ 22时40分]"
+          "time_info": "[21时40分 ~ 23时18分]"
         },
         {
           "title": "据知情人士透露，必和必拓集团试图收购英美公司。（彭博）",
@@ -426,6 +442,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "英国政府将追加13亿英镑电动汽车补贴",
+          "url": "https://wallstreetcn.com/livenews/3009110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时18分]"
         },
         {
           "title": "二十国集团南非峰会领导人宣言：动员资金以实现能源转型",
@@ -466,19 +496,6 @@
           "time_info": "18时19分"
         },
         {
-          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
-          "url": "https://wallstreetcn.com/livenews/3009111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时40分]"
-        },
-        {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
           "url": "https://flash.jin10.com/detail/20251123085030917800",
           "source": "金十数据",
@@ -492,18 +509,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时48分 ~ 13时19分]"
-        },
-        {
-          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
-          "url": "https://wallstreetcn.com/livenews/3009120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时40分]"
         },
         {
           "title": "土耳其总统埃尔多安在二十国集团（G20）峰会表示：下周一将与俄罗斯总统普京通电话。 土方将竭尽全力创造乌克兰和平之路。",
@@ -536,19 +541,6 @@
           "time_info": "[20时35分 ~ 22时40分]"
         },
         {
-          "title": "英国政府将追加13亿英镑电动汽车补贴",
-          "url": "https://wallstreetcn.com/livenews/3009110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时40分]"
-        },
-        {
           "title": "报道：必和必拓向英美资源集团提出收购要约",
           "url": "https://wallstreetcn.com/livenews/3009090",
           "source": "华尔街见闻-快讯",
@@ -575,6 +567,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时28分 ~ 13时19分]"
+        },
+        {
+          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
+          "url": "https://wallstreetcn.com/livenews/3009120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "段永平买入特斯拉",
@@ -642,6 +647,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时35分 ~ 22时17分]"
+        },
+        {
+          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
+          "url": "https://wallstreetcn.com/livenews/3009140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "二十国集团峰会：土耳其总统埃尔多安表示，他将于周一与俄罗斯总统普京通电话。",
