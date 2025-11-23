@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T23:18:39.193324+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-11-23T23:38:54.402863+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             4,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[09时47分 ~ 23时18分]"
+          "appearance_count": 34,
+          "time_info": "[09时47分 ~ 23时38分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -48,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[13时42分 ~ 23时18分]"
+          "appearance_count": 28,
+          "time_info": "[13时42分 ~ 23时38分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -120,6 +121,33 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[09时47分 ~ 19时38分]"
+        },
+        {
+          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
+          "url": "https://wallstreetcn.com/articles/3759949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[21时23分 ~ 23时38分]"
+        },
+        {
+          "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.toutiao.com/trending/7575508362550509594/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[21时23分 ~ 23时38分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -221,34 +249,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 54,
-          "time_info": "[00时22分 ~ 23时18分]"
-        },
-        {
-          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
-          "url": "https://wallstreetcn.com/articles/3759949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时23分 ~ 23时18分]"
-        },
-        {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.toutiao.com/trending/7575508362550509594/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时23分 ~ 23时18分]"
+          "appearance_count": 55,
+          "time_info": "[00时22分 ~ 23时38分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -426,11 +428,27 @@
             1,
             9,
             12,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时40分 ~ 23时18分]"
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时38分]"
+        },
+        {
+          "title": "英国政府将追加13亿英镑电动汽车补贴",
+          "url": "https://wallstreetcn.com/livenews/3009110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            13,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时38分]"
         },
         {
           "title": "据知情人士透露，必和必拓集团试图收购英美公司。（彭博）",
@@ -442,20 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
-        },
-        {
-          "title": "英国政府将追加13亿英镑电动汽车补贴",
-          "url": "https://wallstreetcn.com/livenews/3009110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时40分 ~ 23时18分]"
         },
         {
           "title": "二十国集团南非峰会领导人宣言：动员资金以实现能源转型",
@@ -494,6 +498,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
+          "url": "https://wallstreetcn.com/livenews/3009120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时17分 ~ 23时38分]"
         },
         {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
@@ -569,17 +587,16 @@
           "time_info": "[11时28分 ~ 13时19分]"
         },
         {
-          "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
-          "url": "https://wallstreetcn.com/livenews/3009120",
+          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
+          "url": "https://wallstreetcn.com/livenews/3009140",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            9,
-            23
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时38分]"
         },
         {
           "title": "段永平买入特斯拉",
@@ -647,17 +664,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时35分 ~ 22时17分]"
-        },
-        {
-          "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
-          "url": "https://wallstreetcn.com/livenews/3009140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
         },
         {
           "title": "二十国集团峰会：土耳其总统埃尔多安表示，他将于周一与俄罗斯总统普京通电话。",
