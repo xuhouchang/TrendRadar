@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T15:39:02.165107+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-11-23T16:25:22.893224+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 16时25分]"
         },
         {
           "title": "二十国集团领导人第二十次峰会宣言获压倒性通过",
@@ -36,11 +36,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 16时25分]"
         },
         {
           "title": "纽卡胜曼城",
@@ -53,11 +54,27 @@
             14,
             8,
             21,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 16时25分]"
+        },
+        {
+          "title": "小米汽车被判返还双倍定金",
+          "url": "https://www.toutiao.com/trending/7575759081214840329/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            5,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 16时25分]"
         },
         {
           "title": "智驾不避险?问界M7酿夺命惨案",
@@ -69,8 +86,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时39分]"
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 16时25分]"
         },
         {
           "title": "中国旅游集团牵头，组建新央企",
@@ -82,22 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时22分 ~ 15时39分]"
-        },
-        {
-          "title": "小米汽车被判返还双倍定金",
-          "url": "https://www.toutiao.com/trending/7575759081214840329/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 15时39分]"
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 16时25分]"
         },
         {
           "title": "李强出席二十国集团领导人第二十次峰会第一阶段会议并发表讲话",
@@ -108,11 +111,12 @@
             14,
             18,
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时22分 ~ 15时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 16时25分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -137,8 +141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 16时25分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -164,11 +168,24 @@
           "ranks": [
             25,
             18,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
+          "title": "小米汽车每辆赚6.65万",
+          "url": "https://www.toutiao.com/trending/7574824643694477339/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时25分]"
         },
         {
           "title": "北汽集团张建勇：交付周期已稳定控制在30天以内，备件满足率升至95%",
@@ -178,22 +195,23 @@
             4,
             10,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
-          "title": "小米汽车每辆赚6.65万",
-          "url": "https://www.toutiao.com/trending/7574824643694477339/",
-          "source": "今日头条",
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
+          "url": "https://flash.jin10.com/detail/20251123155316784800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "欧洲地中海地震中心：当地时间11月22日12时41分，哥斯达黎加中西部沿太平洋近海海域发生5.1级地震，震源深度8公里。目前暂无海啸预警报告。",
@@ -224,6 +242,17 @@
           "time_info": "[11时28分 ~ 13时19分]"
         },
         {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "段永平买入特斯拉",
           "url": "https://www.toutiao.com/trending/7574752742992805915/",
           "source": "今日头条",
@@ -240,11 +269,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "纽卡2-1击败曼城",
