@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T03:14:48.438292+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-11-25T03:39:37.641394+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1976227203042797070",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 03时39分]"
         },
         {
           "title": "雷军增持小米260万股",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时39分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
@@ -38,11 +40,26 @@
             12,
             18,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 03时39分]"
+        },
+        {
+          "title": "中国固态电动汽车电池下线",
+          "url": "https://www.toutiao.com/trending/7576281115334282793/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 03时39分]"
         },
         {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
@@ -54,19 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "中国固态电动汽车电池下线",
-          "url": "https://www.toutiao.com/trending/7576281115334282793/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 03时14分]"
         },
         {
           "title": "美国将所谓委内瑞拉“太阳集团”列为“外国恐怖组织”，委内瑞拉回应：该“组织”子虚乌有",
