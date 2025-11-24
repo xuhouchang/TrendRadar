@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T15:20:58.362322+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-11-24T15:41:15.559972+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -56,11 +56,12 @@
             4,
             5,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 15时41分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -148,6 +149,19 @@
           "time_info": "[04时22分 ~ 07时39分]"
         },
         {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 15时41分]"
+        },
+        {
           "title": "据商务部网站：中方发布《绿色矿产国际经贸合作倡议》和“落实《二十国集团支持非洲和最不发达国家工业化倡议》中国行动”。",
           "url": "https://wallstreetcn.com/livenews/3009140",
           "source": "华尔街见闻-快讯",
@@ -163,6 +177,20 @@
           "time_info": "[00时23分 ~ 03时38分]"
         },
         {
+          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
+          "url": "https://www.cls.cn/detail/2208647",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 15时41分]"
+        },
+        {
           "title": "必和必拓涨1.3%，该公司放弃与英美资源集团的合并计划。",
           "url": "https://wallstreetcn.com/livenews/3009207",
           "source": "华尔街见闻-快讯",
@@ -173,19 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时39分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时20分]"
         },
         {
           "title": "必和必拓(BHP.N)：集团已不再考虑与英美资源集团合并。",
@@ -215,17 +230,6 @@
           "time_info": "[13时21分 ~ 14时32分]"
         },
         {
-          "title": "高盛：首次覆盖梅赛德斯-奔驰集团并给予买入评级。",
-          "url": "https://flash.jin10.com/detail/20251124150958241800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
           "title": "瑞士宝盛集团：截至10月底，资产管理规模达创纪录的5200亿瑞士法郎。",
           "url": "https://flash.jin10.com/detail/20251124140234399800",
           "source": "金十数据",
@@ -235,6 +239,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "自由港印尼首席执行官：正与安曼方面商谈，拟为自由港冶炼厂采购铜精矿。",
+          "url": "https://flash.jin10.com/detail/20251124152947837800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "正泰集团义乌工厂发生火灾",
+          "url": "https://www.toutiao.com/trending/7576161006397685806/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "二十国集团领导人峰会闭幕",
@@ -248,19 +274,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 12时09分]"
-        },
-        {
-          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
-          "url": "https://www.cls.cn/detail/2208647",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "英美资源集团据称拒绝竞争对手必和必拓新收购提议",
@@ -326,6 +339,18 @@
           "time_info": "[11时24分 ~ 12时54分]"
         },
         {
+          "title": "高盛：首次覆盖梅赛德斯-奔驰集团并给予买入评级。",
+          "url": "https://flash.jin10.com/detail/20251124150958241800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时41分]"
+        },
+        {
           "title": "市场消息：英美资源集团表示拒绝必和必拓(BHP.N)提出的最新收购要约。",
           "url": "https://flash.jin10.com/detail/20251124052628096800",
           "source": "金十数据",
@@ -373,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时39分]"
+        },
+        {
+          "title": "空客公司：阿曼国家卫星运营商授予空客防务与航天公司合同。空客制造的OneSat卫星被选为阿曼首颗卫星。",
+          "url": "https://flash.jin10.com/detail/20251124151423136800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     }
