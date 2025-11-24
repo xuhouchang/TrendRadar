@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T03:04:49.500301+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-11-25T03:14:48.438292+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 03时14分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -26,8 +26,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时14分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
@@ -37,11 +37,12 @@
             8,
             12,
             18,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 03时14分]"
         },
         {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
@@ -55,6 +56,19 @@
           "time_info": "00时23分"
         },
         {
+          "title": "中国固态电动汽车电池下线",
+          "url": "https://www.toutiao.com/trending/7576281115334282793/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 03时14分]"
+        },
+        {
           "title": "美国将所谓委内瑞拉“太阳集团”列为“外国恐怖组织”，委内瑞拉回应：该“组织”子虚乌有",
           "url": "https://wallstreetcn.com/livenews/3009673",
           "source": "华尔街见闻-快讯",
@@ -66,18 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "中国固态电动汽车电池下线",
-          "url": "https://www.toutiao.com/trending/7576281115334282793/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时04分]"
         },
         {
           "title": "专家：马斯克撕破西方的假仁假义",
