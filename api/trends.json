@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T13:21:51.554081+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-24T13:45:28.595010+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -45,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时22分 ~ 13时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 13时45分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -67,6 +67,20 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时22分 ~ 07时39分]"
+        },
+        {
+          "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 13时45分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -98,22 +112,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时22分 ~ 13时21分]"
-        },
-        {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 13时21分]"
+          "appearance_count": 29,
+          "time_info": "[00时22分 ~ 13时45分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -175,6 +175,29 @@
           "time_info": "[07时18分 ~ 07时39分]"
         },
         {
+          "title": "必和必拓：不再考虑与英美资源集团合并。对有机增长战略充满信心。",
+          "url": "https://flash.jin10.com/detail/20251124130625232800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时45分]"
+        },
+        {
+          "title": "瑞士宝盛集团：Victoria Mclean将担任瑞士宝盛集团首席合规官，并加入执行委员会。",
+          "url": "https://flash.jin10.com/detail/20251124133056593800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "必和必拓(BHP.N)：集团已不再考虑与英美资源集团合并。",
           "url": "https://flash.jin10.com/detail/20251124054147124800",
           "source": "金十数据",
@@ -187,17 +210,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时19分 ~ 07时39分]"
-        },
-        {
-          "title": "必和必拓：不再考虑与英美资源集团合并。对有机增长战略充满信心。",
-          "url": "https://flash.jin10.com/detail/20251124130625232800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "二十国集团领导人峰会闭幕",
@@ -282,11 +294,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时45分]"
         },
         {
           "title": "印度阿达尼绿色能源股价下跌1.2%，此前有报道称道达尔能源计划减持该公司6%的股份。",
@@ -294,11 +307,24 @@
           "source": "金十数据",
           "ranks": [
             12,
-            19
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时45分]"
+        },
+        {
+          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
+          "url": "https://www.cls.cn/detail/2208647",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 13时45分]"
         },
         {
           "title": "二十国集团领导人峰会闭幕，强调多边合作与共同发展",
@@ -310,17 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时39分]"
-        },
-        {
-          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
-          "url": "https://www.cls.cn/detail/2208647",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     }
