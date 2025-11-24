@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T06:20:06.562637+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-25T06:42:51.315396+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国固态电动汽车电池下线",
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时30分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[02时30分 ~ 06时42分]"
         },
         {
           "title": "网传长城汽车控股的毫末智行已停工解散，具体情况如何？这对智驾行业会产生哪些影响？",
@@ -34,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时43分 ~ 06时20分]"
+          "appearance_count": 14,
+          "time_info": "[01时43分 ~ 06时42分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -46,8 +46,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 06时42分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
@@ -99,6 +99,32 @@
           "time_info": "05时40分"
         },
         {
+          "title": "周一（11月24日），彭博电动汽车价格回报指数涨0.24%，报3258.67点，亚太时段呈现出V形反转——北京时间13:01跌至3221.40点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3009768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 06时42分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 06时42分]"
+        },
+        {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
           "url": "https://wallstreetcn.com/articles/3759972",
           "source": "华尔街见闻",
@@ -110,40 +136,17 @@
           "time_info": "00时23分"
         },
         {
-          "title": "周一（11月24日），彭博电动汽车价格回报指数涨0.24%，报3258.67点，亚太时段呈现出V形反转——北京时间13:01跌至3221.40点刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3009768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时20分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时20分]"
-        },
-        {
           "title": "美将委内瑞拉太阳集团列为恐怖组织",
           "url": "https://flash.jin10.com/detail/20251125045206004800",
           "source": "金十数据",
           "ranks": [
             11,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 06时42分]"
         },
         {
           "title": "美国将所谓委内瑞拉“太阳集团”列为“外国恐怖组织”，委内瑞拉回应：该“组织”子虚乌有",
@@ -169,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时30分]"
+        },
+        {
+          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
+          "url": "https://flash.jin10.com/detail/20251125055653747800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     }
