@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T03:18:33.479947+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2025-11-26T03:39:32.950837+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 03时39分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -26,11 +26,12 @@
             10,
             16,
             6,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 03时39分]"
         },
         {
           "title": "据知情人士透露，加拿大总理卡尼与石油重镇Alberta省长Danielle Smith准备宣布一项协议，有望推动铺设一条新的、通往加拿大西海岸（毗邻北太平洋的东侧）的石油输送管道。（彭博）",
@@ -51,11 +52,12 @@
           "url": "https://www.douyin.com/hot/2317701",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时39分]"
         }
       ]
     }
