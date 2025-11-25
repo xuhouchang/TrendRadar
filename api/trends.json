@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T06:43:28.559375+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-11-26T07:19:27.955132+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "雷军回应小米再捐5500万",
@@ -88,6 +88,19 @@
           "time_info": "[00时29分 ~ 01时44分]"
         },
         {
+          "title": "通用汽车高级副总裁Baris Cetinok将离职。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3010415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.35%，报7753.25点。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.26%。 中国科技指数ETF（CQQQ）收涨1.18%，中概互联网指数ETF（KWEB）收涨0.59%。",
           "url": "https://wallstreetcn.com/livenews/3010397",
           "source": "华尔街见闻-快讯",
@@ -99,18 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 06时43分]"
-        },
-        {
-          "title": "通用汽车高级副总裁Baris Cetinok将离职。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3010415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 06时43分]"
         },
         {
           "title": "曼联0-1十人埃弗顿",
