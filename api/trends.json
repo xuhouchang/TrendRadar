@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T15:20:59.725608+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2025-11-25T15:41:17.826415+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 15时20分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 15时41分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -32,8 +32,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时41分]"
+        },
+        {
+          "title": "曼联0-1十人埃弗顿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-1%E5%8D%81%E4%BA%BA%E5%9F%83%E5%BC%97%E9%A1%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            11,
+            5,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时41分]"
         },
         {
           "title": "中国固态电动汽车电池下线",
@@ -66,22 +82,6 @@
           "time_info": "[01时43分 ~ 09时28分]"
         },
         {
-          "title": "曼联0-1十人埃弗顿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-1%E5%8D%81%E4%BA%BA%E5%9F%83%E5%BC%97%E9%A1%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            11,
-            5,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 15时20分]"
-        },
-        {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
           "url": "https://www.cls.cn/detail/2209531",
           "source": "财联社热门",
@@ -92,8 +92,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时41分]"
+        },
+        {
+          "title": "【数读IPO】今日1只新股上市，公司为轮胎行业细分龙头",
+          "url": "https://www.cls.cn/detail/2209605",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时41分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -106,19 +119,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时23分 ~ 06时42分]"
-        },
-        {
-          "title": "【数读IPO】今日1只新股上市，公司为轮胎行业细分龙头",
-          "url": "https://www.cls.cn/detail/2209605",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 15时20分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
