@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T04:23:25.986092+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-11-26T04:45:15.985535+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 04时45分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -30,8 +30,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 04时45分]"
+        },
+        {
+          "title": "雷军回应小米再捐5500万",
+          "url": "https://www.douyin.com/hot/2317701",
+          "source": "抖音",
+          "ranks": [
+            22,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 04时45分]"
         },
         {
           "title": "据知情人士透露，加拿大总理卡尼与石油重镇Alberta省长Danielle Smith准备宣布一项协议，有望推动铺设一条新的、通往加拿大西海岸（毗邻北太平洋的东侧）的石油输送管道。（彭博）",
@@ -48,26 +61,13 @@
           "time_info": "[00时29分 ~ 01时44分]"
         },
         {
-          "title": "雷军回应小米再捐5500万",
-          "url": "https://www.douyin.com/hot/2317701",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时23分]"
-        },
-        {
           "title": "曼联0-1十人埃弗顿",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%940-1%E5%8D%81%E4%BA%BA%E5%9F%83%E5%BC%97%E9%A1%BF",
           "source": "bilibili 热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
