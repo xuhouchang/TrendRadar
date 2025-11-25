@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T13:44:55.755769+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-11-25T14:32:36.986388+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 13时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时19分 ~ 14时32分]"
         },
         {
           "title": "中国固态电动汽车电池下线",
@@ -61,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 13时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "曼联0-1十人埃弗顿",
@@ -72,11 +72,12 @@
             3,
             7,
             11,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 13时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "雷军增持小米260万股",
@@ -97,11 +98,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 13时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "【数读IPO】今日1只新股上市，公司为轮胎行业细分龙头",
@@ -113,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 13时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
@@ -133,16 +135,19 @@
           "time_info": "[01时19分 ~ 03时39分]"
         },
         {
-          "title": "欧洲汽车制造商协会：欧洲10月份汽车销量增长4.9%，至109万辆",
-          "url": "https://wallstreetcn.com/livenews/3009982",
-          "source": "华尔街见闻-快讯",
+          "title": "雷军斥资1亿港元增持小米",
+          "url": "https://www.douyin.com/hot/2316726",
+          "source": "抖音",
           "ranks": [
-            3,
-            6
+            15,
+            12,
+            13,
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时32分]"
         },
         {
           "title": "曼联0:1埃弗顿",
@@ -158,6 +163,19 @@
           "time_info": "[11时04分 ~ 13时44分]"
         },
         {
+          "title": "欧洲汽车制造商协会：欧洲10月份汽车销量增长4.9%，至109万辆",
+          "url": "https://wallstreetcn.com/livenews/3009982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3009764",
           "source": "华尔街见闻-快讯",
@@ -167,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "印尼能源部副部长：燃油零售商壳牌已同意从印尼国家石油公司购买10万桶汽油。",
-          "url": "https://flash.jin10.com/detail/20251125132513013800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨约2.9%。 热门中概股里，文远知行初步收涨约14.6%，小马智行涨12.3%，阿特斯太阳能涨10%，大全新能源涨8.8%，万国数据涨8.1%，百度涨7.4%，阿里巴巴涨5.4%，网易涨4.2%，蔚来涨3.2%，小鹏涨2.8%，腾讯涨2.1%，百胜中国则跌0.9%，新东方跌1.6%。 ETF中，KWEB涨3%，CQQQ涨2.8%。",
@@ -191,18 +198,29 @@
           "time_info": "05时20分"
         },
         {
-          "title": "雷军斥资1亿港元增持小米",
-          "url": "https://www.douyin.com/hot/2316726",
-          "source": "抖音",
+          "title": "印度将与法国赛峰集团合作在印制造空对地武器",
+          "url": "https://flash.jin10.com/detail/20251125142109692800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            12,
-            13,
-            16
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "软银集团股价持续走低，日内跌幅达10%。",
+          "url": "https://wallstreetcn.com/livenews/3009966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 14时32分]"
         },
         {
           "title": "泰国汽车工业联合会：泰国10月汽车出口同比下滑1.51%（9月为增长7.23%）。",
@@ -253,19 +271,6 @@
           "time_info": "[05时40分 ~ 06时42分]"
         },
         {
-          "title": "软银集团股价持续走低，日内跌幅达10%。",
-          "url": "https://wallstreetcn.com/livenews/3009966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时44分]"
-        },
-        {
           "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
           "url": "https://wallstreetcn.com/articles/3759972",
           "source": "华尔街见闻",
@@ -275,6 +280,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "印尼能源部副部长：燃油零售商壳牌已同意从印尼国家石油公司购买10万桶汽油。",
+          "url": "https://flash.jin10.com/detail/20251125132513013800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时32分]"
         },
         {
           "title": "泰国汽车工业联合会：泰国10月国内汽车销量同比增长24.78%（9月为增长23.82%）。",
@@ -534,9 +551,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "小米集团涨4.5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E6%B6%A84.5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }
