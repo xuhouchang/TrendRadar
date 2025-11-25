@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T18:24:57.504003+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2025-11-25T18:49:54.717214+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时28分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[09时28分 ~ 18时49分]"
         },
         {
           "title": "中国固态电动汽车电池下线",
@@ -84,8 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时28分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[09时28分 ~ 18时49分]"
         },
         {
           "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
@@ -127,6 +127,19 @@
           "time_info": "[00时23分 ~ 06时42分]"
         },
         {
+          "title": "是否有研发飞行汽车？比亚迪回应：适时推出符合需求的产品",
+          "url": "https://wallstreetcn.com/livenews/3010110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 18时49分]"
+        },
+        {
           "title": "港交所文件显示：11月20日，摩根大通公司持有的宁德时代H股多头头寸从6.18%增至6.71%。",
           "url": "https://flash.jin10.com/detail/20251125171831184800",
           "source": "金十数据",
@@ -138,17 +151,29 @@
           "time_info": "[17时24分 ~ 17时46分]"
         },
         {
-          "title": "是否有研发飞行汽车？比亚迪回应：适时推出符合需求的产品",
-          "url": "https://wallstreetcn.com/livenews/3010110",
+          "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
+          "url": "https://wallstreetcn.com/livenews/3010161",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
+          "title": "余承东称MateX7对得起那四个字",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0MateX7%E5%AF%B9%E5%BE%97%E8%B5%B7%E9%82%A3%E5%9B%9B%E4%B8%AA%E5%AD%97%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
             10,
-            21
+            14,
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时54分 ~ 18时24分]"
+          "time_info": "[17时24分 ~ 18时49分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：美国国债未平仓合约达到3500万合约，创历史新高。",
@@ -165,6 +190,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 03时39分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：2025年第三季度净亏损为34.805亿元人民币（约合4.889亿美元），同比降31.2%，环比下降30.3%。",
+          "url": "https://flash.jin10.com/detail/20251125181350635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
+          "title": "蔚来三季度营收217.9亿元，四季度营收指引同比增长66%至73%，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3010155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：2025年第三季度运营亏损为人民币35.215亿元（合4.947亿美元），同比下降32.8%，环比下降28.3%。",
+          "url": "https://flash.jin10.com/detail/20251125181320182800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)盘前涨近7%，公司三季度营收创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251125181212962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
         },
         {
           "title": "雷军斥资1亿港元增持小米",
@@ -208,17 +277,6 @@
           "time_info": "[13时21分 ~ 14时32分]"
         },
         {
-          "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
-          "url": "https://wallstreetcn.com/livenews/3010161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3009764",
           "source": "华尔街见闻-快讯",
@@ -228,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：展望第四季度总营收将在327.58亿元至340.39亿元之间。",
+          "url": "https://flash.jin10.com/detail/20251125181022170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
         },
         {
           "title": "恒生指数收盘涨0.69%，恒生科技指数涨1.2%。万国数据涨约6%，哔哩哔哩涨约5%，小米集团涨约4%。",
@@ -243,30 +312,6 @@
           "time_info": "[16时29分 ~ 17时46分]"
         },
         {
-          "title": "余承东称MateX7对得起那四个字",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0MateX7%E5%AF%B9%E5%BE%97%E8%B5%B7%E9%82%A3%E5%9B%9B%E4%B8%AA%E5%AD%97%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时24分]"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：2025年第三季度净亏损为34.805亿元人民币（约合4.889亿美元），同比降31.2%，环比下降30.3%。",
-          "url": "https://flash.jin10.com/detail/20251125181350635800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨约2.9%。 热门中概股里，文远知行初步收涨约14.6%，小马智行涨12.3%，阿特斯太阳能涨10%，大全新能源涨8.8%，万国数据涨8.1%，百度涨7.4%，阿里巴巴涨5.4%，网易涨4.2%，蔚来涨3.2%，小鹏涨2.8%，腾讯涨2.1%，百胜中国则跌0.9%，新东方跌1.6%。 ETF中，KWEB涨3%，CQQQ涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3009762",
           "source": "华尔街见闻-快讯",
@@ -278,15 +323,15 @@
           "time_info": "05时20分"
         },
         {
-          "title": "蔚来三季度营收217.9亿元，四季度营收指引同比增长66%至73%，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3010155",
-          "source": "华尔街见闻-快讯",
+          "title": "蔚来汽车(NIO.N)：2025年第三季度共交付了87,071辆汽车，较2024年第三季度增长40.8%，较2025年第二季度增长20.8%。",
+          "url": "https://flash.jin10.com/detail/20251125180955079800",
+          "source": "金十数据",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
         },
         {
           "title": "集度汽车：启动预重整程序",
@@ -302,15 +347,15 @@
           "time_info": "[16时29分 ~ 17时46分]"
         },
         {
-          "title": "蔚来汽车(NIO.N)：2025年第三季度运营亏损为人民币35.215亿元（合4.947亿美元），同比下降32.8%，环比下降28.3%。",
-          "url": "https://flash.jin10.com/detail/20251125181320182800",
+          "title": "蔚来汽车(NIO.N)：预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
+          "url": "https://flash.jin10.com/detail/20251125180939166800",
           "source": "金十数据",
           "ranks": [
-            5
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
         },
         {
           "title": "零跑汽车11月25日宣布，零跑C11累计销量突破30万。",
@@ -324,17 +369,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 17时46分]"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前涨近7%，公司三季度营收创历史新高。",
-          "url": "https://flash.jin10.com/detail/20251125181212962800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "软银集团股价持续走低，日内跌幅达10%。",
@@ -351,17 +385,6 @@
           "time_info": "[12时34分 ~ 14时32分]"
         },
         {
-          "title": "蔚来汽车(NIO.N)：展望第四季度总营收将在327.58亿元至340.39亿元之间。",
-          "url": "https://flash.jin10.com/detail/20251125181022170800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "泰国汽车工业联合会：泰国10月汽车出口同比下滑1.51%（9月为增长7.23%）。",
           "url": "https://flash.jin10.com/detail/20251125115647307800",
           "source": "金十数据",
@@ -371,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：2025年第三季度共交付了87,071辆汽车，较2024年第三季度增长40.8%，较2025年第二季度增长20.8%。",
-          "url": "https://flash.jin10.com/detail/20251125180955079800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.82%，报7726.23点。 热门中概股里，文远知行初步收涨约14.6%，小马智行涨12.3%，阿特斯太阳能涨10%，大全新能源涨8.8%，万国数据涨8.1%，百度涨7.4%，阿里巴巴涨5.4%，网易涨4.2%，蔚来涨3.2%，小鹏涨2.8%，腾讯涨2.1%，百胜中国则跌0.9%，新东方跌1.6%。 ETF中，中概互联网指数ETF（KWEB）收涨2.91%，中国科技指数ETF（CQQQ）收涨2.82%。 中国ETF-iShares MSCI（MCHI）收涨1.71%，XtrackersHarvest中证50（ASHS）收涨0.90%，德银嘉实沪深300指数ETF（ASHR）收涨0.19%。",
@@ -430,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
-          "url": "https://flash.jin10.com/detail/20251125180939166800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "印尼能源部副部长：燃油零售商壳牌已同意从印尼国家石油公司购买10万桶汽油。",
@@ -626,6 +627,17 @@
           "time_info": "[13时21分 ~ 13时44分]"
         },
         {
+          "title": "蔚来汽车(NIO.N)2025年Q3营收218亿元，较2024年第三季度增长16.7%，较2025年第二季度增长14.7%，上年同期为186.7亿元。",
+          "url": "https://flash.jin10.com/detail/20251125180859626800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
           "title": "欧洲汽车制造商协会：欧盟1月至10月新车注册量增长1.4%，达到8,974,026辆。",
           "url": "https://flash.jin10.com/detail/20251125130117787800",
           "source": "金十数据",
@@ -674,6 +686,17 @@
           "time_info": "[13时21分 ~ 13时44分]"
         },
         {
+          "title": "三星电子：董事长李在镕在首尔与信实工业集团负责人穆克什·安巴尼讨论扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251125180200914800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时49分]"
+        },
+        {
           "title": "专家：马斯克撕破西方的假仁假义",
           "url": "https://www.toutiao.com/trending/7576240890289606163/",
           "source": "今日头条",
@@ -695,17 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)2025年Q3营收218亿元，较2024年第三季度增长16.7%，较2025年第二季度增长14.7%，上年同期为186.7亿元。",
-          "url": "https://flash.jin10.com/detail/20251125180859626800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "首席执行官辞职后，达美乐披萨集团欧股下跌1.8%。",
@@ -741,17 +753,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "三星电子：董事长李在镕在首尔与信实工业集团负责人穆克什·安巴尼讨论扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20251125180200914800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "零跑汽车为什么这么便宜呢？",
           "url": "https://www.zhihu.com/question/3499692132",
           "source": "知乎",
@@ -780,7 +781,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
