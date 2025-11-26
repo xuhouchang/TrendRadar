@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T01:19:40.466022+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-27T01:43:16.250151+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -27,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
