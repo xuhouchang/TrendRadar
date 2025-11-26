@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-11-26T11:05:16.026972+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2025-11-26T11:59:48.020067+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "马斯克下战书!AI对决LOL冠军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 11时05分]"
-        },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
@@ -40,6 +26,21 @@
           "time_info": "[00时28分 ~ 09时28分]"
         },
         {
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 11时59分]"
+        },
+        {
           "title": "雷军回应小米再捐5500万",
           "url": "https://www.douyin.com/hot/2317701",
           "source": "抖音",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时18分 ~ 11时05分]"
+          "appearance_count": 12,
+          "time_info": "[03时18分 ~ 11时59分]"
         },
         {
           "title": "恒指高开0.59%，报26046.74点；恒生科技指数涨0.67%。美团涨超4%，ASMPT涨超3%，京东健康、比亚迪股份、小鹏汽车涨超2%。",
@@ -80,6 +81,17 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
+          "title": "软银集团股价延续涨势，现涨6.2%。",
+          "url": "https://flash.jin10.com/detail/20251126113629949800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3010397",
           "source": "华尔街见闻-快讯",
@@ -89,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "陶琳：无论是美国、中国还是欧洲，特斯拉供应商的原产国或地理来源不构成排除性标准",
+          "url": "https://wallstreetcn.com/livenews/3010600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "软银集团股价延续涨势，最新上涨5.9%。",
@@ -141,6 +164,18 @@
           "time_info": "[00时29分 ~ 01时44分]"
         },
         {
+          "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1975493689821390813",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 11时59分]"
+        },
+        {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
           "url": "https://flash.jin10.com/detail/20251126090722248800",
           "source": "金十数据",
@@ -165,15 +200,37 @@
           "time_info": "[05时40分 ~ 06时43分]"
         },
         {
-          "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1975493689821390813",
+          "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
+          "url": "https://www.zhihu.com/question/1976705955216516456",
           "source": "知乎",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251126110718205800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "如何看待樊振东王曼昱登乒乓世界 12 月刊封面?",
+          "url": "https://www.zhihu.com/question/1976789408578548033",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "曼联0-1十人埃弗顿",
@@ -193,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
