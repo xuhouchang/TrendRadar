@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T07:40:33.871945+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2025-11-26T09:28:43.990802+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 07时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -30,11 +31,12 @@
             9,
             5,
             2,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 07时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "雷军回应小米再捐5500万",
@@ -45,11 +47,23 @@
             19,
             21,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时18分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[03时18分 ~ 09时28分]"
+        },
+        {
+          "title": "恒指高开0.59%，报26046.74点；恒生科技指数涨0.67%。美团涨超4%，ASMPT涨超3%，京东健康、比亚迪股份、小鹏汽车涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3010493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "标普500指数初步收涨0.9%，保健板块涨2.1%，可选消费板块涨2%，电信板块涨1.7%，科技板块持平，能源板块跌0.6%。 纳斯达克100指数初步收涨0.6%，成分股中，ADI涨5.2%，应用材料涨5.2%，露露柠檬涨4.6%，Doordash涨4%，Meta涨3.8%，高通则跌1%，英伟达跌2.6%，Strategy跌4%，AMD跌4.1%。 Merck初步收涨5.3%，领跑道指成分股，家得宝、Salesforce、沃尔玛、耐克、联合健康等至少涨超2%，雪佛龙则跌0.8%表现倒数第二，英伟达跌幅最大。",
@@ -73,6 +87,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "软银集团股价延续涨势，最新上涨5.9%。",
+          "url": "https://flash.jin10.com/detail/20251126091314589800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "软银集团股价扩大涨幅，现涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3010487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "通用汽车高级副总裁Baris Cetinok将离职。（CNBC）",
@@ -103,6 +139,17 @@
           "time_info": "[00时29分 ~ 01时44分]"
         },
         {
+          "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
+          "url": "https://flash.jin10.com/detail/20251126090722248800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.35%，报7753.25点。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.26%。 中国科技指数ETF（CQQQ）收涨1.18%，中概互联网指数ETF（KWEB）收涨0.59%。",
           "url": "https://wallstreetcn.com/livenews/3010397",
           "source": "华尔街见闻-快讯",
@@ -127,13 +174,24 @@
           "time_info": "04时23分"
         },
         {
+          "title": "韩国产业部长要求美国迅速实施汽车关税削减。 韩国称，将设立专门基金，来管理对美国投资的融资事宜。",
+          "url": "https://wallstreetcn.com/livenews/3010463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "勒沃库森飞赴曼彻斯特遇多次意外延误",
           "url": "https://www.toutiao.com/trending/7576126173504176147/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
