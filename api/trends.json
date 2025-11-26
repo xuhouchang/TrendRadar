@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:19:11.089826+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2025-11-26T19:39:59.048842+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时19分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[15时19分 ~ 19时39分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -50,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时04分 ~ 19时19分]"
+          "appearance_count": 24,
+          "time_info": "[11时04分 ~ 19时39分]"
         },
         {
           "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
@@ -65,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时59分 ~ 19时19分]"
+          "appearance_count": 22,
+          "time_info": "[11时59分 ~ 19时39分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -87,8 +88,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 43,
+          "time_info": "[00时28分 ~ 19时39分]"
         },
         {
           "title": "雷军回应小米再捐5500万",
@@ -561,11 +562,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时39分]"
         },
         {
           "title": "据港交所公告，11月21日，高盛对小鹏汽车(09868.HK)的多头持仓由4.57%增至5.15%。",
