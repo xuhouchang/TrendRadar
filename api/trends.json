@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T02:48:44.528721+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-11-27T03:16:59.585090+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 02时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 03时16分]"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
@@ -38,11 +38,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 03时16分]"
+        },
+        {
+          "title": "宁德时代高管：我们在欧洲拥有超1000家供应商。",
+          "url": "https://flash.jin10.com/detail/20251127015417181800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 03时16分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
@@ -58,18 +71,6 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
-          "title": "宁德时代高管：我们在欧洲拥有超1000家供应商。",
-          "url": "https://flash.jin10.com/detail/20251127015417181800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 02时48分]"
-        },
-        {
           "title": "宁德时代高管：我们的目标是让尖端电池生产技术惠及每一个人。",
           "url": "https://flash.jin10.com/detail/20251127012842880800",
           "source": "金十数据",
@@ -78,8 +79,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 03时16分]"
         }
       ]
     }
