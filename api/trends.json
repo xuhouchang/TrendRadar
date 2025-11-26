@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T06:19:56.059054+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2025-11-27T06:42:27.818030+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -30,8 +30,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
@@ -65,11 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 06时42分]"
         },
         {
           "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
@@ -77,11 +78,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 06时42分]"
         },
         {
           "title": "宁德时代高管：我们在欧洲拥有超1000家供应商。",
