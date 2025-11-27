@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:47:17.457852+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-11-27T19:19:09.556906+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时24分 ~ 18时47分]"
+          "appearance_count": 19,
+          "time_info": "[12时24分 ~ 19时19分]"
         },
         {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
@@ -74,6 +74,30 @@
           "time_info": "[00时27分 ~ 17时23分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时19分]"
+        },
+        {
+          "title": "90后许思敏接替宗馥莉，任娃哈哈集团法定代表人、董事长、总经理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32054168",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 19时19分]"
+        },
+        {
           "title": "宗馥莉卸任娃哈哈集团公司董事长",
           "url": "https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%8D%B8%E4%BB%BB%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
           "source": "百度热搜",
@@ -100,29 +124,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时26分 ~ 04时40分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时47分]"
-        },
-        {
-          "title": "90后许思敏接替宗馥莉，任娃哈哈集团法定代表人、董事长、总经理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32054168",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 18时47分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -168,6 +169,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 13时44分]"
+        },
+        {
+          "title": "港交所文件显示：渣打集团(02888.HK)于11月26日在其他交易所回购了共计474,085股，耗资780万英镑。",
+          "url": "https://flash.jin10.com/detail/20251127181035642800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时19分]"
         },
         {
           "title": "香港恒生指数收盘上涨0.07%，恒生科技指数跌0.36%。小米集团收涨2.49%。万科企业跌超7%，世茂集团跌超6%，龙湖集团跌超3%。泡泡玛特涨近7%。",
@@ -277,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "港交所文件显示：渣打集团(02888.HK)于11月26日在其他交易所回购了共计474,085股，耗资780万英镑。",
-          "url": "https://flash.jin10.com/detail/20251127181035642800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "日产汽车：10月全球销量同比下降4.8%，至258,517辆。10月全球产量同比下降3.9%，至276,323辆。",
@@ -575,7 +577,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
