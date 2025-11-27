@@ -1,12 +1,39 @@
 {
-  "generated_at": "2025-11-27T20:42:35.925855+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2025-11-27T21:33:03.444276+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "90后许思敏接替宗馥莉，任娃哈哈集团法定代表人、董事长、总经理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32054168",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时23分 ~ 21时33分]"
+        },
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时44分 ~ 21时33分]"
+        },
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
           "url": "https://www.zhihu.com/question/1977081679454630577",
@@ -40,31 +67,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[12时24分 ~ 19时40分]"
-        },
-        {
-          "title": "90后许思敏接替宗馥莉，任娃哈哈集团法定代表人、董事长、总经理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32054168",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 20时42分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 20时42分]"
         },
         {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
@@ -209,17 +211,6 @@
           "time_info": "14时32分"
         },
         {
-          "title": "德国汽车制造商协会VDA：零部件的供应情况仍不确定。",
-          "url": "https://flash.jin10.com/detail/20251127202242660800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
           "url": "https://wallstreetcn.com/livenews/3011035",
           "source": "华尔街见闻-快讯",
@@ -315,15 +306,16 @@
           "time_info": "14时32分"
         },
         {
-          "title": "最高溢价率18.92%，滨江集团包揽杭州2宗宅地，中海12.48亿元竞得北京1宅地",
-          "url": "https://wallstreetcn.com/livenews/3011545",
-          "source": "华尔街见闻-快讯",
+          "title": "日本朝日集团道歉：大批客户信息泄露",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%9D%E6%97%A5%E9%9B%86%E5%9B%A2%E9%81%93%E6%AD%89%EF%BC%9A%E5%A4%A7%E6%89%B9%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2",
+          "source": "百度热搜",
           "ranks": [
+            23,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "马斯克在社交媒体称，更新你的X应用程序，然后查看您的“关注者”动态页面。您关注的人的帖子现在会由Grok 进行排序。如果你愿意，仍然可以访问未经过滤的原始时间线内容。",
@@ -346,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "一汽解放：拟与宁德时代、特来电同步增资解放时代",
-          "url": "https://wallstreetcn.com/livenews/3011538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "万科集团相关人士：对展期事件未予置评，仅表示“以银行公告为准”",
@@ -383,6 +364,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 13时44分]"
+        },
+        {
+          "title": "蔚来李斌：汽车竞争格局或在10年内落定，蔚来持续聚焦汽车业务",
+          "url": "https://wallstreetcn.com/livenews/3011532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时33分]"
+        },
+        {
+          "title": "德国汽车制造商协会VDA：零部件的供应情况仍不确定。",
+          "url": "https://flash.jin10.com/detail/20251127202242660800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "丰田汽车(TM.N)：10月集团全球销量同比增长3.0%，达到100万辆。",
@@ -435,18 +441,6 @@
           "time_info": "[13时44分 ~ 14时32分]"
         },
         {
-          "title": "蔚来李斌：汽车竞争格局或在10年内落定，蔚来持续聚焦汽车业务",
-          "url": "https://wallstreetcn.com/livenews/3011532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时42分]"
-        },
-        {
           "title": "丰田汽车(TM.N)：10月份仅面向日本市场的汽车产量同比增长6.8%，达到326,832辆。10月份仅面向海外市场的汽车产量同比增长2.2%，达到600,155辆。10月份全球仅面向经销商的销量同比增长2.1%，达到922,087辆。10月份全球仅面向经销商的汽车产量同比增长3.8%，达到926,987辆。",
           "url": "https://flash.jin10.com/detail/20251127123112027800",
           "source": "金十数据",
@@ -485,6 +479,18 @@
           "time_info": "[17时23分 ~ 17时44分]"
         },
         {
+          "title": "最高溢价率18.92%，滨江集团包揽杭州2宗宅地，中海12.48亿元竞得北京1宅地",
+          "url": "https://wallstreetcn.com/livenews/3011545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时33分]"
+        },
+        {
           "title": "宗馥莉卸任娃哈哈集团公司董事长",
           "url": "https://wallstreetcn.com/livenews/3011287",
           "source": "华尔街见闻-快讯",
@@ -507,6 +513,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时44分]"
+        },
+        {
+          "title": "一汽解放：拟与宁德时代、特来电同步增资解放时代",
+          "url": "https://wallstreetcn.com/livenews/3011538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "金十图示：2025年11月27日（周四）全球汽车制造商市值变化",
@@ -639,17 +657,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "日本朝日集团道歉：大批客户信息泄露",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%9D%E6%97%A5%E9%9B%86%E5%9B%A2%E9%81%93%E6%AD%89%EF%BC%9A%E5%A4%A7%E6%89%B9%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "伯恩斯坦：将理想汽车(02015.HK)目标价由98.00港元下调至78.00港元。",
           "url": "https://flash.jin10.com/detail/20251127154056918800",
           "source": "金十数据",
@@ -670,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "德国汽车制造商协会VDA：我们看到供应链风险正在增加，尤其是在明年第一季度。",
+          "url": "https://flash.jin10.com/detail/20251127202309557800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
