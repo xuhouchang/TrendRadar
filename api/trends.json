@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T07:19:24.684613+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-11-28T07:39:33.361514+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 07时39分]"
         },
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 07时39分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 07时39分]"
         },
         {
           "title": "日本朝日集团道歉：大批客户信息泄露",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 07时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 07时39分]"
         },
         {
           "title": "宗馥莉一直在与娃哈哈集团切割",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时40分 ~ 07时19分]"
+          "appearance_count": 8,
+          "time_info": "[04时40分 ~ 07时39分]"
         },
         {
           "title": "加拿大Alberta省长Smith：Alberta计划与大哥伦比亚省洽谈推进新建输油管道（至加拿大西海岸/太平洋东岸）。",
@@ -130,9 +130,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时39分]"
         },
         {
           "title": "西非国家经济共同体区域集团领导人：敦促几内亚比绍武装部队重返军营。",
@@ -141,9 +141,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时39分]"
         },
         {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
@@ -178,9 +178,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时39分]"
         }
       ]
     }
