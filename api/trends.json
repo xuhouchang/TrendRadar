@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T13:44:52.481812+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-11-27T14:32:52.033749+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -25,6 +25,35 @@
           "time_info": "[00时27分 ~ 13时44分]"
         },
         {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 14时32分]"
+        },
+        {
+          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2212351",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 14时32分]"
+        },
+        {
           "title": "马斯克下战书!AI对决LOL冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
           "source": "贴吧",
@@ -35,35 +64,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时27分 ~ 13时44分]"
-        },
-        {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 13时44分]"
-        },
-        {
-          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2212351",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 13时44分]"
+          "appearance_count": 28,
+          "time_info": "[00时27分 ~ 14时32分]"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
@@ -125,16 +127,15 @@
           "time_info": "[11时48分 ~ 13时44分]"
         },
         {
-          "title": "宁德时代西班牙合资电池工厂奠基",
-          "url": "https://wallstreetcn.com/livenews/3011277",
-          "source": "华尔街见闻-快讯",
+          "title": "日产汽车：10月销量受日本和美国拖累。",
+          "url": "https://flash.jin10.com/detail/20251127141251812800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。 宣布停止对南非的补贴，将停止向南非支付所有款项和补贴；这一决定立即生效",
@@ -186,26 +187,61 @@
           "time_info": "[12时47分 ~ 13时44分]"
         },
         {
-          "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3011294",
+          "title": "宁德时代西班牙合资电池工厂奠基",
+          "url": "https://wallstreetcn.com/livenews/3011277",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
+          "title": "日产汽车：10月从日本出口至北美地区的汽车数量同比下降44.5%，至12,114辆。",
+          "url": "https://flash.jin10.com/detail/20251127141130049800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时32分"
         },
         {
-          "title": "宗馥莉卸任娃哈哈集团公司董事长",
-          "url": "https://wallstreetcn.com/livenews/3011287",
+          "title": "日产汽车：10月全球销量同比下降4.8%，至258,517辆。10月全球产量同比下降3.9%，至276,323辆。",
+          "url": "https://flash.jin10.com/detail/20251127141116463800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "马斯克在社交媒体称，更新你的X应用程序，然后查看您的“关注者”动态页面。您关注的人的帖子现在会由Grok 进行排序。如果你愿意，仍然可以访问未经过滤的原始时间线内容。",
+          "url": "https://wallstreetcn.com/livenews/3011307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "宗馥莉卸任娃哈哈集团公司董事长",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%8D%B8%E4%BB%BB%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "丰田汽车(TM.N)：10月集团全球产量同比增长3.1%，达到105万辆。",
@@ -247,6 +283,18 @@
           "time_info": "[10时58分 ~ 12时25分]"
         },
         {
+          "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3011294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时32分]"
+        },
+        {
           "title": "丰田汽车(TM.N)：10月份仅面向日本市场的汽车产量同比增长6.8%，达到326,832辆。10月份仅面向海外市场的汽车产量同比增长2.2%，达到600,155辆。10月份全球仅面向经销商的销量同比增长2.1%，达到922,087辆。10月份全球仅面向经销商的汽车产量同比增长3.8%，达到926,987辆。",
           "url": "https://flash.jin10.com/detail/20251127123112027800",
           "source": "金十数据",
@@ -271,6 +319,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 13时44分]"
+        },
+        {
+          "title": "宗馥莉卸任娃哈哈集团公司董事长",
+          "url": "https://wallstreetcn.com/livenews/3011287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时32分]"
         },
         {
           "title": "市场消息：越南VinFast(VFS.O)与五家合作伙伴携手，加强在印度尼西亚的电动汽车售后服务。",
@@ -367,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "宗馥莉卸任娃哈哈集团公司董事长",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%8D%B8%E4%BB%BB%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "软银集团股价涨幅扩大至5%。",
