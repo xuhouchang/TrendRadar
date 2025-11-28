@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T11:46:02.183932+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-11-28T12:25:01.274915+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 11时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时25分 ~ 12时25分]"
         },
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -87,6 +87,31 @@
           "time_info": "[04时40分 ~ 07时39分]"
         },
         {
+          "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1975954280067379778",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 12时25分]"
+        },
+        {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 12时25分]"
+        },
+        {
           "title": "加拿大Alberta省长Smith：Alberta计划与大哥伦比亚省洽谈推进新建输油管道（至加拿大西海岸/太平洋东岸）。",
           "url": "https://wallstreetcn.com/livenews/3011625",
           "source": "华尔街见闻-快讯",
@@ -102,19 +127,6 @@
           "time_info": "[02时28分 ~ 05时38分]"
         },
         {
-          "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1975954280067379778",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 11时46分]"
-        },
-        {
           "title": "财富科技公司Allfunds Group Plc.（ALLFG.NA）涨幅扩大至20%，一度逼近7.80欧元。 德意志交易所集团确认正洽谈收购该公司的事宜，提议按每股8.80欧元收购对方。",
           "url": "https://wallstreetcn.com/livenews/3011600",
           "source": "华尔街见闻-快讯",
@@ -127,17 +139,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 02时28分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "据俄罗斯通讯社：俄罗斯航天集团Roscosmos称，拜科努尔发射场在“联盟”飞船发射后受损，但很快将得到修复。",
@@ -174,17 +175,6 @@
           "time_info": "[07时19分 ~ 07时39分]"
         },
         {
-          "title": "金十图示：2025年11月28日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251128110534501800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3011587",
           "source": "华尔街见闻-快讯",
@@ -209,6 +199,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 01时40分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251128110534501800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时25分]"
         },
         {
           "title": "西非国家经济共同体区域集团领导人：谴责几内亚比绍政变，要求政变领导人允许选举委员会公布总统选举结果。",
