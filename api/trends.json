@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T09:26:57.285718+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2025-11-28T10:56:41.614959+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 09时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 10时56分]"
         },
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -44,11 +44,12 @@
             11,
             10,
             8,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 09时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 10时56分]"
         },
         {
           "title": "日本朝日集团道歉：大批客户信息泄露",
@@ -114,6 +115,18 @@
           "time_info": "[00时26分 ~ 02时28分]"
         },
         {
+          "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1975954280067379778",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 10时56分]"
+        },
+        {
           "title": "据俄罗斯通讯社：俄罗斯航天集团Roscosmos称，拜科努尔发射场在“联盟”飞船发射后受损，但很快将得到修复。",
           "url": "https://flash.jin10.com/detail/20251128041916942800",
           "source": "金十数据",
@@ -146,17 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时39分]"
-        },
-        {
-          "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1975954280067379778",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
@@ -202,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -213,7 +215,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -224,7 +226,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
