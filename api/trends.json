@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T16:28:40.917616+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-11-28T16:52:58.894390+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 16时28分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 16时52分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -113,6 +113,18 @@
           "time_info": "[04时40分 ~ 07时39分]"
         },
         {
+          "title": "普京亲自带货：中国电动汽车不香吗",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 16时52分]"
+        },
+        {
           "title": "加拿大Alberta省长Smith：Alberta计划与大哥伦比亚省洽谈推进新建输油管道（至加拿大西海岸/太平洋东岸）。",
           "url": "https://wallstreetcn.com/livenews/3011625",
           "source": "华尔街见闻-快讯",
@@ -126,18 +138,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时28分 ~ 05时38分]"
-        },
-        {
-          "title": "普京亲自带货：中国电动汽车不香吗",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
           "title": "财富科技公司Allfunds Group Plc.（ALLFG.NA）涨幅扩大至20%，一度逼近7.80欧元。 德意志交易所集团确认正洽谈收购该公司的事宜，提议按每股8.80欧元收购对方。",
@@ -164,17 +164,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 06时41分]"
-        },
-        {
-          "title": "恒生指数收盘跌0.34%，恒生科技指数涨0.02%，天齐锂业涨3.57%，蜜雪集团涨2.91%，泡泡玛特2.84%。",
-          "url": "https://wallstreetcn.com/livenews/3012049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "多个省份发布“十五五”规划建议，因地制宜发展新质生产力成关键词",
@@ -221,6 +210,17 @@
           "time_info": "[07时19分 ~ 07时39分]"
         },
         {
+          "title": "特斯拉印度：印度首家一站式特斯拉中心现已在哈里亚纳邦古尔冈开业。",
+          "url": "https://flash.jin10.com/detail/20251128161132218800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时52分]"
+        },
+        {
           "title": "印度贸易部长：印度正与14个贸易集团就贸易协定进行磋商。",
           "url": "https://flash.jin10.com/detail/20251128134113586800",
           "source": "金十数据",
@@ -232,15 +232,16 @@
           "time_info": "14时32分"
         },
         {
-          "title": "特斯拉印度：印度首家一站式特斯拉中心现已在哈里亚纳邦古尔冈开业。",
-          "url": "https://flash.jin10.com/detail/20251128161132218800",
-          "source": "金十数据",
+          "title": "恒生指数收盘跌0.34%，恒生科技指数涨0.02%，天齐锂业涨3.57%，蜜雪集团涨2.91%，泡泡玛特2.84%。",
+          "url": "https://wallstreetcn.com/livenews/3012049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时52分]"
         },
         {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
