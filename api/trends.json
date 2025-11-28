@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T01:17:58.094442+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-29T01:41:00.154045+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时17分]"
-        },
-        {
-          "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
-          "url": "https://flash.jin10.com/detail/20251129002744050800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 01时41分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -39,8 +27,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 01时41分]"
+        },
+        {
+          "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
+          "url": "https://flash.jin10.com/detail/20251129002744050800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时41分]"
         },
         {
           "title": "小鹏报警",
