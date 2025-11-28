@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T21:31:30.237673+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2025-11-28T21:49:22.145666+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
@@ -180,6 +180,17 @@
           "time_info": "17时42分"
         },
         {
+          "title": "东方精工：拟现金方式出售Fosber集团等三家公司100%股权，预计构成重大资产重组。",
+          "url": "https://wallstreetcn.com/livenews/3012265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时49分]"
+        },
+        {
           "title": "数据显示：阿曼原油1月的官方销售价格（OSP）计算为64.44美元/桶，比12月的65.06美元/桶下跌了0.62美元。",
           "url": "https://flash.jin10.com/detail/20251128171613913800",
           "source": "金十数据",
@@ -288,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        },
-        {
-          "title": "东方精工：拟现金方式出售Fosber集团等三家公司100%股权，预计构成重大资产重组。",
-          "url": "https://wallstreetcn.com/livenews/3012265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "恒生指数收盘跌0.34%，恒生科技指数涨0.02%，天齐锂业涨3.57%，蜜雪集团涨2.91%，泡泡玛特2.84%。",
@@ -438,6 +438,18 @@
           "time_info": "[14时32分 ~ 15时21分]"
         },
         {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://www.douyin.com/hot/2320102",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时49分]"
+        },
+        {
           "title": "西非国家经济共同体区域集团领导人：谴责几内亚比绍政变，要求政变领导人允许选举委员会公布总统选举结果。",
           "url": "https://flash.jin10.com/detail/20251128064727599800",
           "source": "金十数据",
@@ -459,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时18分]"
+        },
+        {
+          "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
+          "url": "https://www.cls.cn/detail/2214429",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时49分]"
         },
         {
           "title": "西太平洋银行：澳大利亚审慎监管局出台新规或为澳洲联储提供更大的降息空间",
@@ -483,18 +506,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 14时32分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://www.douyin.com/hot/2320102",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时31分]"
         },
         {
           "title": "芝商所（CME）：交易平台BrokerTec欧盟市场已开放并正在交易。由于CyrusOne数据中心出现冷却问题，所有其他芝加哥商品交易所集团市场仍处于暂停状态。",
@@ -528,17 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
-        },
-        {
-          "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
-          "url": "https://www.cls.cn/detail/2214429",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
