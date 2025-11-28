@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T23:21:35.970763+08:00",
-  "total_titles_processed": 2144,
+  "generated_at": "2025-11-28T23:41:42.434392+08:00",
+  "total_titles_processed": 2181,
   "failed_sources": [],
   "trends": [
     {
@@ -157,6 +157,19 @@
           "time_info": "[00时26分 ~ 02时28分]"
         },
         {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://www.douyin.com/hot/2320102",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时41分 ~ 23时41分]"
+        },
+        {
           "title": "据俄罗斯通讯社：俄罗斯航天集团Roscosmos称，拜科努尔发射场在“联盟”飞船发射后受损，但很快将得到修复。",
           "url": "https://flash.jin10.com/detail/20251128041916942800",
           "source": "金十数据",
@@ -167,19 +180,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 06时41分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://www.douyin.com/hot/2320102",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时41分 ~ 22时44分]"
         },
         {
           "title": "港交所文件显示：11月24日，瑞银集团在东风汽车H股的多头头寸从6.78%降至3.72%。",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "雷军发布小米购置税补贴重要提示",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时41分]"
         },
         {
           "title": "西非国家经济共同体区域集团领导人：敦促几内亚比绍武装部队重返军营。",
@@ -365,17 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时45分 ~ 19时39分]"
-        },
-        {
-          "title": "雷军发布小米购置税补贴重要提示",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
         },
         {
           "title": "芝商所（CME）：BrokerTec欧盟市场（BrokerTec EU）和BrokerTec美国活跃券市场（BrokerTec US Actives）现已开放。由于CyrusOne数据中心的冷却系统发生故障，芝商所集团的其他所有市场目前仍处于暂停交易状态。",
