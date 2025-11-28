@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T22:20:39.174220+08:00",
-  "total_titles_processed": 2034,
+  "generated_at": "2025-11-28T22:44:13.891387+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
@@ -157,6 +157,17 @@
           "time_info": "[00时26分 ~ 02时28分]"
         },
         {
+          "title": "小鹏报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 22时44分]"
+        },
+        {
           "title": "据俄罗斯通讯社：俄罗斯航天集团Roscosmos称，拜科努尔发射场在“联盟”飞船发射后受损，但很快将得到修复。",
           "url": "https://flash.jin10.com/detail/20251128041916942800",
           "source": "金十数据",
@@ -167,6 +178,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 06时41分]"
+        },
+        {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://www.douyin.com/hot/2320102",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 22时44分]"
         },
         {
           "title": "港交所文件显示：11月24日，瑞银集团在东风汽车H股的多头头寸从6.78%降至3.72%。",
@@ -189,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        },
-        {
-          "title": "芝商所（CME）：芝商所集团旗下所有市场均已开放并交易。",
-          "url": "https://wallstreetcn.com/livenews/3012280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "多个省份发布“十五五”规划建议，因地制宜发展新质生产力成关键词",
@@ -268,6 +281,19 @@
           "time_info": "[16时28分 ~ 16时52分]"
         },
         {
+          "title": "东方精工：拟现金方式出售Fosber集团等三家公司100%股权，预计构成重大资产重组。",
+          "url": "https://wallstreetcn.com/livenews/3012265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 22时44分]"
+        },
+        {
           "title": "印度贸易部长：印度正与14个贸易集团就贸易协定进行磋商。",
           "url": "https://flash.jin10.com/detail/20251128134113586800",
           "source": "金十数据",
@@ -277,18 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "东方精工：拟现金方式出售Fosber集团等三家公司100%股权，预计构成重大资产重组。",
-          "url": "https://wallstreetcn.com/livenews/3012265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时20分]"
         },
         {
           "title": "港交所文件显示：11月24日，贝莱德在东风汽车H股的多头头寸从2.22%增至5.58%。",
@@ -339,15 +353,16 @@
           "time_info": "[18时45分 ~ 19时39分]"
         },
         {
-          "title": "小鹏报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "芝商所（CME）：芝商所集团旗下所有市场均已开放并交易。",
+          "url": "https://wallstreetcn.com/livenews/3012280",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时44分]"
         },
         {
           "title": "芝商所（CME）：BrokerTec欧盟市场（BrokerTec EU）和BrokerTec美国活跃券市场（BrokerTec US Actives）现已开放。由于CyrusOne数据中心的冷却系统发生故障，芝商所集团的其他所有市场目前仍处于暂停交易状态。",
@@ -411,18 +426,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 01时40分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://www.douyin.com/hot/2320102",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）全球汽车制造商市值变化",
