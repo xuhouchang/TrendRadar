@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T17:42:48.006628+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2025-11-28T18:22:35.481434+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时26分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[09时26分 ~ 18时22分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -61,6 +61,19 @@
           "time_info": "[00时25分 ~ 07时39分]"
         },
         {
+          "title": "普京亲自带货：中国电动汽车不香吗",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 18时22分]"
+        },
+        {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
           "source": "bilibili 热搜",
@@ -77,19 +90,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时25分 ~ 10时56分]"
-        },
-        {
-          "title": "普京亲自带货：中国电动汽车不香吗",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 17时42分]"
         },
         {
           "title": "日本朝日集团道歉：大批客户信息泄露",
@@ -173,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -184,7 +184,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -261,7 +261,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
