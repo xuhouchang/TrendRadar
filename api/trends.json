@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T12:24:16.134917+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-11-29T12:45:46.440848+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时28分 ~ 06时41分]"
+          "appearance_count": 14,
+          "time_info": "[02时28分 ~ 12时45分]"
+        },
+        {
+          "title": "比亚迪召回约 9 万辆秦 PLUS DM-i，因动力电池包一致性存在问题，可能有哪些安全隐患？",
+          "url": "https://www.zhihu.com/question/1977807580899275657",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
@@ -80,15 +91,18 @@
           "time_info": "[05时17分 ~ 09时26分]"
         },
         {
-          "title": "比亚迪召回约 9 万辆秦 PLUS DM-i，因动力电池包一致性存在问题，可能有哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/1977807580899275657",
+          "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
+          "url": "https://www.zhihu.com/question/1975566051413598483",
           "source": "知乎",
           "ranks": [
-            3
+            9,
+            8,
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -106,29 +120,17 @@
           "time_info": "[02时50分 ~ 05时38分]"
         },
         {
-          "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
-          "url": "https://www.zhihu.com/question/1975566051413598483",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时24分]"
-        },
-        {
           "title": "中国汽车如何直线超车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -142,6 +144,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 12时45分]"
+        },
+        {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
           "url": "https://flash.jin10.com/detail/20251129002744050800",
           "source": "金十数据",
@@ -153,17 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时41分]"
-        },
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 12时24分]"
         },
         {
           "title": "小鹏报警",
