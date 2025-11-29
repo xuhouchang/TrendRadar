@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-29T14:29:45.031665+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-11-29T14:52:22.753173+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 16,
       "titles": [
+        {
+          "title": "比亚迪召回约 9 万辆秦 PLUS DM-i，因动力电池包一致性存在问题，可能有哪些安全隐患？",
+          "url": "https://www.zhihu.com/question/1977807580899275657",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 14时52分]"
+        },
         {
           "title": "雷军发布小米购置税补贴重要提示",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=5&Refer=top",
@@ -20,18 +32,6 @@
           "time_info": "[00时25分 ~ 07时39分]"
         },
         {
-          "title": "比亚迪召回约 9 万辆秦 PLUS DM-i，因动力电池包一致性存在问题，可能有哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/1977807580899275657",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 14时29分]"
-        },
-        {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
           "url": "https://www.cls.cn/detail/2214429",
           "source": "财联社热门",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时28分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[02时28分 ~ 14时52分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -78,6 +78,17 @@
           "time_info": "[00时25分 ~ 07时39分]"
         },
         {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 14时52分]"
+        },
+        {
           "title": "中国汽车如何直线超车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
           "source": "bilibili 热搜",
@@ -87,22 +98,12 @@
             8,
             12,
             25,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 14时29分]"
-        },
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 14时52分]"
         },
         {
           "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
