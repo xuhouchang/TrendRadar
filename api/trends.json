@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T17:20:31.916948+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-11-29T17:40:33.859145+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             4,
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时55分 ~ 17时20分]"
+          "appearance_count": 18,
+          "time_info": "[10时55分 ~ 17时40分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -52,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时45分 ~ 17时20分]"
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 17时40分]"
         },
         {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
@@ -111,8 +112,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时55分 ~ 17时20分]"
+          "appearance_count": 18,
+          "time_info": "[10时55分 ~ 17时40分]"
         },
         {
           "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
@@ -165,11 +166,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 17时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
