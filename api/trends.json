@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T18:42:56.827300+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2025-11-29T19:16:56.943678+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             13,
             14,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时55分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[10时55分 ~ 19时16分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -55,8 +56,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时45分 ~ 18时42分]"
+          "appearance_count": 19,
+          "time_info": "[11时45分 ~ 19时16分]"
         },
         {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
@@ -128,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 19时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
@@ -181,11 +182,24 @@
           "url": "https://flash.jin10.com/detail/20251129181429847800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时16分]"
+        },
+        {
+          "title": "乌克兰武装部队：阿菲普斯基炼油厂、飞机修理厂和其他俄罗斯设施遭到打击。",
+          "url": "https://flash.jin10.com/detail/20251129181227851800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时16分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -197,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "乌克兰武装部队：阿菲普斯基炼油厂、飞机修理厂和其他俄罗斯设施遭到打击。",
-          "url": "https://flash.jin10.com/detail/20251129181227851800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
