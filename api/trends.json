@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:20:08.522128+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2025-11-29T13:42:53.481001+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/1977807580899275657",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 13时42分]"
         },
         {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时28分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[02时28分 ~ 13时42分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -92,6 +93,21 @@
           "time_info": "[05时17分 ~ 09时26分]"
         },
         {
+          "title": "中国汽车如何直线超车",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 13时42分]"
+        },
+        {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
           "url": "https://www.zhihu.com/question/1975566051413598483",
           "source": "知乎",
@@ -107,18 +123,15 @@
           "time_info": "[10时55分 ~ 13时19分]"
         },
         {
-          "title": "中国汽车如何直线超车",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
-          "source": "bilibili 热搜",
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            5,
-            8,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 13时42分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -134,17 +147,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时50分 ~ 05时38分]"
-        },
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 13时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
