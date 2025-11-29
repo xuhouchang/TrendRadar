@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:26:08.825692+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-11-29T16:47:58.636479+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             4,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时55分 ~ 16时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时55分 ~ 16时47分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -45,11 +46,12 @@
             21,
             23,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时45分 ~ 16时26分]"
+          "appearance_count": 14,
+          "time_info": "[11时45分 ~ 16时47分]"
         },
         {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
@@ -62,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[02时28分 ~ 16时26分]"
+          "appearance_count": 25,
+          "time_info": "[02时28分 ~ 16时47分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -107,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时55分 ~ 16时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时55分 ~ 16时47分]"
         },
         {
           "title": "英伟达CEO黄仁勋将于12月3日（下周三）美东时间14:00会见美国参议院银行委员会的共和党成员们。（PunchBowl）",
@@ -167,6 +169,18 @@
           "time_info": "02时28分"
         },
         {
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 16时47分]"
+        },
+        {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
           "url": "https://flash.jin10.com/detail/20251129002744050800",
           "source": "金十数据",
@@ -178,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时41分]"
-        },
-        {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时26分]"
         },
         {
           "title": "曝特斯拉曾拆解多款中国电动汽车",
