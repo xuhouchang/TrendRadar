@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T00:24:12.259215+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-30T00:46:09.435374+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 00时46分]"
         },
         {
           "title": "中国汽车如何直线超车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 00时46分]"
         }
       ]
     }
