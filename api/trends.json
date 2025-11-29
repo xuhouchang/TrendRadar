@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T21:43:32.961388+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2025-11-29T22:18:09.390482+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时38分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[15时38分 ~ 22时18分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -72,8 +72,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时45分 ~ 20时38分]"
+          "appearance_count": 25,
+          "time_info": "[11时45分 ~ 22时18分]"
         },
         {
           "title": "原泰禾集团一副总裁获刑14年 其政商“旋转门”受贿黑幕被揭开",
@@ -150,6 +150,22 @@
           "time_info": "[05时17分 ~ 09时26分]"
         },
         {
+          "title": "乌克兰武装部队：位于俄罗斯联邦罗斯托夫州塔甘罗格市的“TANTK修理厂”的产能受到影响，该厂负责图-95战略轰炸机和A-50预警机的现代化改造。",
+          "url": "https://flash.jin10.com/detail/20251129181429847800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            17,
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时42分 ~ 22时18分]"
+        },
+        {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
           "url": "https://www.zhihu.com/question/1975566051413598483",
           "source": "知乎",
@@ -163,21 +179,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时55分 ~ 13时19分]"
-        },
-        {
-          "title": "乌克兰武装部队：位于俄罗斯联邦罗斯托夫州塔甘罗格市的“TANTK修理厂”的产能受到影响，该厂负责图-95战略轰炸机和A-50预警机的现代化改造。",
-          "url": "https://flash.jin10.com/detail/20251129181429847800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时42分 ~ 21时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
