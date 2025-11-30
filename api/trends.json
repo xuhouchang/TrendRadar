@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:40:01.397244+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-11-30T09:47:11.575819+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时23分 ~ 07时40分]"
+          "appearance_count": 30,
+          "time_info": "[00时23分 ~ 09时47分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -36,8 +37,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时23分 ~ 07时40分]"
+          "appearance_count": 30,
+          "time_info": "[00时23分 ~ 09时47分]"
         }
       ]
     }
