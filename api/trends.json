@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T03:16:23.029117+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-12-01T03:38:10.769397+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             8,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "欧佩克+同意明年全集团保持产量稳定 八个主要产油国重申明年Q1暂停增产",
@@ -29,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
+        },
+        {
+          "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
+          "url": "https://flash.jin10.com/detail/20251130231244484800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -41,19 +53,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
-          "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
-          "url": "https://flash.jin10.com/detail/20251130231244484800",
-          "source": "金十数据",
+          "title": "哈就里海管道集团公司设施遭袭抗议",
+          "url": "https://wallstreetcn.com/livenews/3012544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "曼联2:1水晶宫",
@@ -64,22 +76,12 @@
             23,
             22,
             10,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时16分]"
-        },
-        {
-          "title": "哈就里海管道集团公司设施遭袭抗议",
-          "url": "https://wallstreetcn.com/livenews/3012544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
@@ -90,8 +92,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -101,8 +103,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         },
         {
           "title": "哈就里海管道集团公司设施遭袭抗议",
@@ -112,8 +114,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 03时38分]"
         }
       ]
     }
