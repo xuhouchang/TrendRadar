@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:37:48.967920+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2025-11-30T16:24:40.550438+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 16时24分]"
         },
         {
           "title": "曼城3比2利兹联",
@@ -43,11 +44,12 @@
             19,
             23,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 15时37分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 16时24分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -78,8 +80,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 16时24分]"
         },
         {
           "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
@@ -92,8 +94,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 16时24分]"
         },
         {
           "title": "孙颖莎王楚钦蒯曼林诗栋赢了",
@@ -123,11 +125,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8C%AA%E8%BD%A6%E7%9B%AE%E5%87%BB%E8%A2%AB%E4%BA%BA%E8%BD%AE%E8%83%8E%E4%B8%8B%E6%94%BE%E9%93%81%E9%92%89",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时24分]"
         },
         {
           "title": "湖南一烟花店燃爆有汽车被炸飞",
