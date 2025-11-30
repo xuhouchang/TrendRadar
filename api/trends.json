@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T02:50:02.861418+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-01T03:16:23.029117+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "欧佩克+同意明年全集团保持产量稳定 八个主要产油国重申明年Q1暂停增产",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -41,22 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 02时50分]"
-        },
-        {
-          "title": "曼联2:1水晶宫",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%942%3A1%E6%B0%B4%E6%99%B6%E5%AE%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            23,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -66,8 +52,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "曼联2:1水晶宫",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%942%3A1%E6%B0%B4%E6%99%B6%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            23,
+            22,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "哈就里海管道集团公司设施遭袭抗议",
@@ -77,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
@@ -89,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -100,8 +101,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "哈就里海管道集团公司设施遭袭抗议",
@@ -111,8 +112,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 03时16分]"
         }
       ]
     }
