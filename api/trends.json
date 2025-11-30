@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T12:53:35.745334+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2025-11-30T13:20:18.934028+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时23分 ~ 12时53分]"
+          "appearance_count": 34,
+          "time_info": "[00时23分 ~ 13时20分]"
         },
         {
           "title": "中国汽车如何直线超车",
@@ -48,9 +48,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时20分]"
         },
         {
           "title": "曼城3比2利兹联",
@@ -59,11 +59,23 @@
           "ranks": [
             5,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时20分]"
+        },
+        {
+          "title": "孙颖莎王楚钦蒯曼林诗栋赢了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%92%AF%E6%9B%BC%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%A2%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "女子挪车目击汽修店员轮胎下放铁钉",
@@ -74,8 +86,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时20分]"
         },
         {
           "title": "湖南郴州烟花店燃爆 有汽车被炸飞",
@@ -84,9 +96,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时20分]"
         },
         {
           "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
@@ -95,9 +107,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时20分]"
         }
       ]
     }
