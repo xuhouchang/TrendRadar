@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T23:19:30.184164+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-11-30T23:39:36.245812+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时53分 ~ 23时19分]"
+          "appearance_count": 28,
+          "time_info": "[12时53分 ~ 23时39分]"
         },
         {
           "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
@@ -49,8 +49,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时42分 ~ 23时19分]"
+          "appearance_count": 10,
+          "time_info": "[18时42分 ~ 23时39分]"
+        },
+        {
+          "title": "哈就里海管道集团公司设施遭袭抗议",
+          "url": "https://wallstreetcn.com/livenews/3012544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时38分 ~ 23时39分]"
         },
         {
           "title": "湖南郴州烟花店燃爆 有汽车被炸飞",
@@ -110,17 +124,17 @@
         },
         {
           "title": "哈就里海管道集团公司设施遭袭抗议",
-          "url": "https://wallstreetcn.com/livenews/3012544",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20251130194852237800",
+          "source": "金十数据",
           "ranks": [
             2,
-            4,
-            5,
-            9
+            7,
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时38分 ~ 23时19分]"
+          "appearance_count": 7,
+          "time_info": "[20时38分 ~ 23时39分]"
         },
         {
           "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
@@ -134,22 +148,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时53分 ~ 23时19分]"
-        },
-        {
-          "title": "哈就里海管道集团公司设施遭袭抗议",
-          "url": "https://flash.jin10.com/detail/20251130194852237800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时38分 ~ 23时19分]"
+          "appearance_count": 28,
+          "time_info": "[12时53分 ~ 23时39分]"
         },
         {
           "title": "曼联2:1水晶宫",
@@ -160,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时17分 ~ 23时19分]"
+          "appearance_count": 5,
+          "time_info": "[22时17分 ~ 23时39分]"
         },
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -170,20 +170,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "曼联2:1水晶宫",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%942%3A1%E6%B0%B4%E6%99%B6%E5%AE%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时39分]"
         },
         {
           "title": "孙颖莎王楚钦蒯曼林诗栋赢了",
@@ -195,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "曼联2:1水晶宫",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%942%3A1%E6%B0%B4%E6%99%B6%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时39分]"
         },
         {
           "title": "女子挪车目击汽修店员轮胎下放铁钉",
