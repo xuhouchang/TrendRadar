@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T13:43:46.848804+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2025-11-30T14:31:00.988887+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 14时31分]"
         },
         {
           "title": "曼城3比2利兹联",
@@ -61,11 +61,35 @@
             5,
             15,
             13,
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 14时31分]"
+        },
+        {
+          "title": "湖南郴州烟花店燃爆 有汽车被炸飞",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%83%B4%E5%B7%9E%E7%83%9F%E8%8A%B1%E5%BA%97%E7%87%83%E7%88%86+%E6%9C%89%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%82%B8%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时27分 ~ 13时43分]"
+          "time_info": "[12时53分 ~ 14时31分]"
+        },
+        {
+          "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32069544",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 14时31分]"
         },
         {
           "title": "孙颖莎王楚钦蒯曼林诗栋赢了",
@@ -89,29 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时27分 ~ 13时20分]"
-        },
-        {
-          "title": "湖南郴州烟花店燃爆 有汽车被炸飞",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E9%83%B4%E5%B7%9E%E7%83%9F%E8%8A%B1%E5%BA%97%E7%87%83%E7%88%86+%E6%9C%89%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%82%B8%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时43分]"
-        },
-        {
-          "title": "体坛联播｜中国女足0比8不敌英格兰，曼城拜仁补时绝杀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32069544",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 13时43分]"
         }
       ]
     }
