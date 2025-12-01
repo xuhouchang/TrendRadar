@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T22:49:04.541505+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-12-01T23:23:10.109792+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "曼联2:1水晶宫",
@@ -83,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[15时23分 ~ 22时49分]"
+          "appearance_count": 20,
+          "time_info": "[15时23分 ~ 23时23分]"
         },
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -151,6 +151,17 @@
           "time_info": "[11时51分 ~ 17时51分]"
         },
         {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时35分 ~ 23时23分]"
+        },
+        {
           "title": "弃帅保车?小米启动去雷军化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
           "source": "贴吧",
@@ -205,15 +216,17 @@
           "time_info": "[18时25分 ~ 21时36分]"
         },
         {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
+          "title": "宁德时代发布涨薪通知，部分员工基本工资上调 150 元，涨薪背后有哪些考量？如何看待此事？",
+          "url": "https://www.zhihu.com/question/1978869711925109609",
+          "source": "知乎",
           "ranks": [
-            9
+            16,
+            12,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时35分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[21时35分 ~ 23时23分]"
         },
         {
           "title": "人保集团副总裁于泽疑似失联",
@@ -253,16 +266,17 @@
           "time_info": "[00时23分 ~ 03时38分]"
         },
         {
-          "title": "乘联分会崔东树：10月中国占世界汽车份额回升到38%",
-          "url": "https://wallstreetcn.com/livenews/3013098",
-          "source": "华尔街见闻-快讯",
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            8
+            19,
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[22时22分 ~ 23时23分]"
         },
         {
           "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
@@ -314,6 +328,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时19分 ~ 20时43分]"
+        },
+        {
+          "title": "乘联分会崔东树：10月中国占世界汽车份额回升到38%",
+          "url": "https://wallstreetcn.com/livenews/3013098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时23分]"
+        },
+        {
+          "title": "宁德时代董事长回应“基层员工涨薪”",
+          "url": "https://www.toutiao.com/trending/7578796721682157099/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时48分 ~ 23时23分]"
         },
         {
           "title": "宁德时代：公司作为有限合伙人之一参与投资“博裕新智新产（宁波）股权投资合伙企业（有限合伙）”，于基金完成首次交割后，基金认缴出资金额为人民币40.01亿元，其中公司作为有限合伙人认缴出资人民币5亿元，持有基金12.497%的认缴比例。",
@@ -456,18 +495,6 @@
           "time_info": "[17时51分 ~ 18时50分]"
         },
         {
-          "title": "宁德时代发布涨薪通知，部分员工基本工资上调 150 元，涨薪背后有哪些考量？如何看待此事？",
-          "url": "https://www.zhihu.com/question/1978869711925109609",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时35分 ~ 22时49分]"
-        },
-        {
           "title": "小鹏汽车(09868.HK)2025年11月交付智能电动汽车36,728辆，同比增长19%。",
           "url": "https://flash.jin10.com/detail/20251201173009694800",
           "source": "金十数据",
@@ -533,18 +560,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
-        },
-        {
-          "title": "小米汽车月销破4万辆 订单还够用吗",
-          "url": "https://www.toutiao.com/trending/7578838517380288027/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 22时49分]"
         },
         {
           "title": "雪佛龙(CVX.N)：已获悉发生在新罗西斯克的事件，该事件导致其中一个单点系泊装置（SPM）瘫痪，已确认目前Tengizchevroil的装运仍在继续。所有人员均已确认安全，未发生任何人员伤亡。",
@@ -838,17 +853,6 @@
           "time_info": "[18时25分 ~ 18时50分]"
         },
         {
-          "title": "宁德时代董事长回应“基层员工涨薪”",
-          "url": "https://www.toutiao.com/trending/7578796721682157099/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 22时49分]"
-        },
-        {
           "title": "小米汽车“现车选购”即将开启",
           "url": "https://www.toutiao.com/trending/7578719989142834726/",
           "source": "今日头条",
@@ -913,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨约0.9%。 热门中概股里，新东方涨5%，网易涨3.8%，阿特斯太阳能涨3.6%，文远知行涨3.3%，百胜中国、阿里巴巴、亚朵、小马智行等涨超1%。 小鹏则跌2.5%，理想跌3.4%，蔚来跌3.5%，金山云跌5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3013110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "西班牙汽车制造商协会（ANFAC）：11月份西班牙特斯拉新车注册量同比下降8.75%，至1523辆。",
