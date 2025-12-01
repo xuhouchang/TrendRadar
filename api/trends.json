@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T21:36:22.560277+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2025-12-01T22:22:32.379088+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "曼联2:1水晶宫",
@@ -55,22 +55,6 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
-          "title": "宁德时代基层员工每月涨薪150元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20,
-            2,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时23分 ~ 21时36分]"
-        },
-        {
           "title": "宁德时代发布涨薪通知",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -83,6 +67,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时34分 ~ 18时50分]"
+        },
+        {
+          "title": "宁德时代基层员工每月涨薪150元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20,
+            2,
+            9,
+            7,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[15时23分 ~ 22时22分]"
         },
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -240,6 +241,17 @@
           "time_info": "[00时23分 ~ 03时38分]"
         },
         {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
           "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
           "url": "https://flash.jin10.com/detail/20251201170412970800",
           "source": "金十数据",
@@ -249,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "乘联分会崔东树：10月中国占世界汽车份额回升到38%",
+          "url": "https://wallstreetcn.com/livenews/3013098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
@@ -302,17 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "摩根大通公司于11月25日将其在宁德时代(03750.HK)的多头持仓比例从7.63%增至8.09%。",
@@ -678,6 +690,30 @@
           "time_info": "[11时51分 ~ 12时51分]"
         },
         {
+          "title": "宁德时代发布涨薪通知，部分员工基本工资上调 150 元，涨薪背后有哪些考量？如何看待此事？",
+          "url": "https://www.zhihu.com/question/1978869711925109609",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
+          "title": "人民日报谈小米集团高质量发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时22分]"
+        },
+        {
           "title": "蔚来公司11月同比增长76.3%，乐道品牌交付同比增长132.1%",
           "url": "https://wallstreetcn.com/livenews/3012959",
           "source": "华尔街见闻-快讯",
@@ -739,6 +775,18 @@
           "time_info": "[13时28分 ~ 13时50分]"
         },
         {
+          "title": "宏盟在斥资135亿美元收购竞争对手英特公共集团(Interpublic Group)后，将裁员 4000 多人，并关闭多个知名广告代理品牌。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3013070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时22分]"
+        },
+        {
           "title": "特斯拉11月在丹麦的注册量同比下降49%，降至534辆。（路透）",
           "url": "https://wallstreetcn.com/livenews/3012839",
           "source": "华尔街见闻-快讯",
@@ -749,17 +797,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
-          "title": "宁德时代发布涨薪通知，部分员工基本工资上调 150 元，涨薪背后有哪些考量？如何看待此事？",
-          "url": "https://www.zhihu.com/question/1978869711925109609",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "日产汽车（日本）11月销量同比下降40%。",
@@ -784,17 +821,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 18时50分]"
-        },
-        {
-          "title": "人民日报谈小米集团高质量发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "小米汽车“现车选购”即将开启",
@@ -885,17 +911,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "宏盟在斥资135亿美元收购竞争对手英特公共集团(Interpublic Group)后，将裁员 4000 多人，并关闭多个知名广告代理品牌。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3013070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "西班牙汽车制造商协会（ANFAC）：西班牙1月至11月特斯拉新车注册量同比增长5.56%，而电动汽车整体注册量则增长了100%。",
           "url": "https://flash.jin10.com/detail/20251201185711379800",
           "source": "金十数据",
@@ -905,6 +920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "丰田汽车11月在日本销量同比下降1.5%；本田日本11月销量同比下降8.0%。",
@@ -982,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "小米汽车为何推现车选购",
+          "url": "https://www.toutiao.com/trending/7577800242021482538/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "零跑汽车称，11月，零跑全系交付再创新高达70327台，同比增长超75%，持续刷新月销纪录，连续九个月保持增长态势。",
