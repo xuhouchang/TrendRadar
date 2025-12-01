@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:44:17.276345+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2025-12-01T16:33:10.538307+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "曼联2:1水晶宫",
@@ -86,6 +86,23 @@
           "time_info": "[00时23分 ~ 13时28分]"
         },
         {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            22,
+            14,
+            13,
+            15,
+            16,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时51分 ~ 16时33分]"
+        },
+        {
           "title": "弃帅保车?小米启动去雷军化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
           "source": "贴吧",
@@ -95,11 +112,24 @@
             19,
             21,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时23分 ~ 15时44分]"
+          "appearance_count": 34,
+          "time_info": "[00时23分 ~ 16时33分]"
+        },
+        {
+          "title": "宁德时代发布涨薪通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时33分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -126,34 +156,6 @@
           "time_info": "[00时23分 ~ 07时39分]"
         },
         {
-          "title": "宁德时代发布涨薪通知",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时44分]"
-        },
-        {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
-          "ranks": [
-            22,
-            14,
-            13,
-            15,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 15时44分]"
-        },
-        {
           "title": "哈就里海管道集团公司设施遭袭抗议",
           "url": "https://flash.jin10.com/detail/20251130194852237800",
           "source": "金十数据",
@@ -163,6 +165,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 03时38分]"
+        },
+        {
+          "title": "人保集团副总裁于泽疑似失联",
+          "url": "https://www.toutiao.com/trending/7578723281956651050/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 16时33分]"
+        },
+        {
+          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
+          "url": "https://www.cls.cn/detail/2215595",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时33分]"
         },
         {
           "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
@@ -192,16 +220,39 @@
           "time_info": "[12时51分 ~ 15时44分]"
         },
         {
-          "title": "人保集团副总裁于泽疑似失联",
-          "url": "https://www.toutiao.com/trending/7578723281956651050/",
-          "source": "今日头条",
+          "title": "宁德时代基层员工每月涨薪150元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            13,
+            30,
+            20,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时33分]"
+        },
+        {
+          "title": "极氪汽车：11月，集团旗下极氪和领克品牌共交付了63,902辆汽车，分别实现同比增长7.1%和环比增长3.7%。具体而言，极氪品牌交付了28,843辆汽车，而领克品牌交付了35,059辆汽车。",
+          "url": "https://flash.jin10.com/detail/20251201160220079800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "极氪汽车：11月，集团旗下极氪和领克品牌共交付了63,902辆汽车，分别实现同比增长7.1%和环比增长3.7%。具体而言，极氪品牌交付了28,843辆汽车，而领克品牌交付了35,059辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3012899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "11月小米汽车交付量超4万台",
@@ -284,6 +335,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "瑞典汽车产业协会(Mobility Sweden)数据显示，11月特斯拉(TSLA.O)在瑞典的新车注册量同比下降59%。",
+          "url": "https://flash.jin10.com/detail/20251201155920791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "雪佛龙(CVX.N)：已获悉发生在新罗西斯克的事件，该事件导致其中一个单点系泊装置（SPM）瘫痪，已确认目前Tengizchevroil的装运仍在继续。所有人员均已确认安全，未发生任何人员伤亡。",
           "url": "https://flash.jin10.com/detail/20251201121143224800",
           "source": "金十数据",
@@ -307,16 +369,16 @@
           "time_info": "[11时52分 ~ 12时51分]"
         },
         {
-          "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
-          "url": "https://www.cls.cn/detail/2215595",
-          "source": "财联社热门",
+          "title": "2526 赛季英超第 13 轮，水晶宫 1:2 曼联，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1978555119378378761",
+          "source": "知乎",
           "ranks": [
-            13,
-            7
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时33分]"
         },
         {
           "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
@@ -403,29 +465,6 @@
           "time_info": "[13时28分 ~ 13时50分]"
         },
         {
-          "title": "宁德时代基层员工每月涨薪150元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
-          "title": "2526 赛季英超第 13 轮，水晶宫 1:2 曼联，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1978555119378378761",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
           "title": "小米汽车“现车选购”即将开启",
           "url": "https://www.toutiao.com/trending/7578719989142834726/",
           "source": "今日头条",
@@ -446,6 +485,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
+          "title": "据英国金融时报：英国政府将撤回向莫桑比克一个液化天然气项目提供的11.5亿美元贷款，该项目由法国道达尔能源牵头。",
+          "url": "https://flash.jin10.com/detail/20251201154735426800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "零跑汽车：11月全系交付达70327台，同比增长超75%。",
