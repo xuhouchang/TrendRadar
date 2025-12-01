@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T11:52:14.014325+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2025-12-01T12:51:44.970565+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "曼联2:1水晶宫",
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 11时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 12时51分]"
         },
         {
           "title": "欧佩克+同意明年全集团保持产量稳定 八个主要产油国重申明年Q1暂停增产",
@@ -81,8 +81,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 11时52分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 12时51分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -91,11 +91,12 @@
           "ranks": [
             10,
             11,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时23分 ~ 11时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时23分 ~ 12时51分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -133,28 +134,6 @@
           "time_info": "[00时23分 ~ 03时38分]"
         },
         {
-          "title": "惠誉：韩国2026年信用卡资产表现展望“恶化”；对日本汽车贷款的展望为“中性”。",
-          "url": "https://flash.jin10.com/detail/20251201114638887800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "深圳地铁集团法定代表人变更，黄力平接替辛杰",
-          "url": "https://wallstreetcn.com/livenews/3012775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "11月小米汽车交付量超4万台",
           "url": "https://s.weibo.com/weibo?q=%2311%E6%9C%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%854%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -166,48 +145,120 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
+          "title": "普京为何突然带货中国电动汽车",
+          "url": "https://www.toutiao.com/trending/7578661450617458212/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：其不间断运营不仅对生产商至关重要，对众多依赖这一运输系统保障能源安全的国家也同样不可或缺。",
+          "url": "https://flash.jin10.com/detail/20251201121222377800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：里海管道联盟（CPC）是一条至关重要的出口通道，使哈萨克斯坦生产的原油能够进入国际市场。",
+          "url": "https://flash.jin10.com/detail/20251201121204938800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：已获悉发生在新罗西斯克的事件，该事件导致其中一个单点系泊装置（SPM）瘫痪，已确认目前Tengizchevroil的装运仍在继续。所有人员均已确认安全，未发生任何人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20251201121143224800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "惠誉：韩国2026年信用卡资产表现展望“恶化”；对日本汽车贷款的展望为“中性”。",
+          "url": "https://flash.jin10.com/detail/20251201114638887800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时51分]"
+        },
+        {
+          "title": "深圳地铁集团法定代表人变更，黄力平接替辛杰",
+          "url": "https://wallstreetcn.com/livenews/3012775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时51分]"
+        },
+        {
           "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
           "url": "https://flash.jin10.com/detail/20251201111003612800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时51分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251201110752364800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时51分]"
         },
         {
           "title": "岚图汽车11月交付20005辆",
           "url": "https://www.toutiao.com/trending/7578705598729469995/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 12时51分]"
         },
         {
           "title": "小米汽车将开放现车选购",
           "url": "https://www.douyin.com/hot/2322868",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 12时51分]"
         },
         {
           "title": "零跑汽车11月交付70327台",
@@ -232,6 +283,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "小米汽车将开放“现车选购”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "零跑汽车称，11月，零跑全系交付再创新高达70327台，同比增长超75%，持续刷新月销纪录，连续九个月保持增长态势。",
           "url": "https://wallstreetcn.com/livenews/3012650",
           "source": "华尔街见闻-快讯",
@@ -249,9 +311,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
+        },
+        {
+          "title": "小米汽车11月交付量超过4万辆",
+          "url": "https://www.toutiao.com/trending/7577675094711222282/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     }
