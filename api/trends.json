@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T04:22:06.771070+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-02T04:41:05.315598+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 04时41分]"
         },
         {
           "title": "马斯克：我应该少碰政治",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 04时41分]"
         },
         {
           "title": "怎么评价 2025 年 11 月比亚迪销量 48 万同比下滑 5.24%？",
@@ -41,8 +41,24 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 04时41分]"
+        },
+        {
+          "title": "宁德时代基层员工每月涨薪150元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            21,
+            19,
+            16,
+            10,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "time_info": "[00时29分 ~ 04时41分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -60,21 +76,6 @@
           "time_info": "[00时29分 ~ 04时22分]"
         },
         {
-          "title": "宁德时代基层员工每月涨薪150元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            21,
-            19,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时22分]"
-        },
-        {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
           "url": "https://flash.jin10.com/detail/20251202010150806800",
           "source": "金十数据",
@@ -88,6 +89,32 @@
           "time_info": "[01时22分 ~ 02时34分]"
         },
         {
+          "title": "黑石集团、阿波罗、KKR将替英国央行测试私人信用（市场对英国国债的需求）。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3013178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 04时41分]"
+        },
+        {
+          "title": "宁德时代董事长回应“基层员工涨薪”",
+          "url": "https://www.toutiao.com/trending/7578796721682157099/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时41分]"
+        },
+        {
           "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
           "url": "https://flash.jin10.com/detail/20251202011157970800",
           "source": "金十数据",
@@ -98,31 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时34分]"
-        },
-        {
-          "title": "黑石集团、阿波罗、KKR将替英国央行测试私人信用（市场对英国国债的需求）。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3013178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时34分 ~ 04时22分]"
-        },
-        {
-          "title": "宁德时代董事长回应“基层员工涨薪”",
-          "url": "https://www.toutiao.com/trending/7578796721682157099/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时49分]"
         },
         {
           "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
