@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T17:29:33.586878+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-12-01T17:51:31.443119+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
         {
           "title": "曼联2:1水晶宫",
@@ -37,6 +37,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "宁德时代发布涨薪通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 17时51分]"
         },
         {
           "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
@@ -86,18 +98,6 @@
           "time_info": "[00时23分 ~ 13时28分]"
         },
         {
-          "title": "宁德时代发布涨薪通知",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 17时29分]"
-        },
-        {
           "title": "小米汽车将开放现车选购",
           "url": "https://www.douyin.com/hot/2322868",
           "source": "抖音",
@@ -111,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时51分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时51分 ~ 17时51分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -125,11 +125,12 @@
             21,
             23,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时23分 ~ 17时29分]"
+          "appearance_count": 36,
+          "time_info": "[00时23分 ~ 17时51分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -163,11 +164,41 @@
             13,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 17时51分]"
+        },
+        {
+          "title": "宁德时代基层员工每月涨薪150元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20,
+            2,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 17时51分]"
+        },
+        {
+          "title": "人保集团副总裁于泽疑似失联",
+          "url": "https://www.toutiao.com/trending/7578723281956651050/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            2,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 17时51分]"
         },
         {
           "title": "哈就里海管道集团公司设施遭袭抗议",
@@ -181,42 +212,26 @@
           "time_info": "[00时23分 ~ 03时38分]"
         },
         {
-          "title": "人保集团副总裁于泽疑似失联",
-          "url": "https://www.toutiao.com/trending/7578723281956651050/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 16时33分]"
-        },
-        {
-          "title": "宁德时代基层员工每月涨薪150元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%9F%BA%E5%B1%82%E5%91%98%E5%B7%A5%E6%AF%8F%E6%9C%88%E6%B6%A8%E8%96%AA150%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时29分]"
-        },
-        {
           "title": "印度Nifty汽车指数创历史新高，现涨0.8%。",
           "url": "https://flash.jin10.com/detail/20251201170412970800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "拓普集团：筹划发行H股股票并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3012943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "工信部：鼓励中国光伏、风电、锂电池、新能源汽车等优势企业“走出去”",
@@ -246,6 +261,17 @@
           "time_info": "[12时51分 ~ 15时44分]"
         },
         {
+          "title": "摩根大通公司于11月25日将其在宁德时代(03750.HK)的多头持仓比例从7.63%增至8.09%。",
+          "url": "https://flash.jin10.com/detail/20251201173417307800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "极氪汽车：11月，集团旗下极氪和领克品牌共交付了63,902辆汽车，分别实现同比增长7.1%和环比增长3.7%。具体而言，极氪品牌交付了28,843辆汽车，而领克品牌交付了35,059辆汽车。",
           "url": "https://flash.jin10.com/detail/20251201160220079800",
           "source": "金十数据",
@@ -255,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "蔚来：11月交付36,275辆汽车，同比增长76.3%",
+          "url": "https://flash.jin10.com/detail/20251201173117698800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "11月小米汽车交付量超4万台",
@@ -321,20 +358,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
         {
-          "title": "吉利汽车：本集团于11月的汽车总销量为31.04万部，较去年同期增长约24%；极氪11月实现汽车销售量28843部，同比增长7%。",
-          "url": "https://wallstreetcn.com/livenews/3012915",
-          "source": "华尔街见闻-快讯",
+          "title": "小鹏汽车(09868.HK)2025年1月至11月累计交付量达391,937辆，同比增长156%。",
+          "url": "https://flash.jin10.com/detail/20251201173034335800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "17时51分"
         },
         {
           "title": "雪佛龙(CVX.N)：里海管道联盟（CPC）是一条至关重要的出口通道，使哈萨克斯坦生产的原油能够进入国际市场。",
@@ -370,15 +407,37 @@
           "time_info": "16时33分"
         },
         {
+          "title": "小鹏汽车(09868.HK)2025年11月交付智能电动汽车36,728辆，同比增长19%。",
+          "url": "https://flash.jin10.com/detail/20251201173009694800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "理想汽车：11月，理想汽车交付新车33181辆。截至2025年11月30日，理想汽车历史累计交付量为149.6万辆。",
           "url": "https://wallstreetcn.com/livenews/3012914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "上汽集团1-11月销售410.8万辆 销量已超去年全年",
+          "url": "https://wallstreetcn.com/livenews/3012932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "雪佛龙(CVX.N)：已获悉发生在新罗西斯克的事件，该事件导致其中一个单点系泊装置（SPM）瘫痪，已确认目前Tengizchevroil的装运仍在继续。所有人员均已确认安全，未发生任何人员伤亡。",
@@ -404,16 +463,40 @@
           "time_info": "[11时52分 ~ 12时51分]"
         },
         {
+          "title": "挪威11月份的特斯拉新车注册量同比增长175.2%，达到6215辆。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "极氪汽车：11月，集团旗下极氪和领克品牌共交付了63,902辆汽车，分别实现同比增长7.1%和环比增长3.7%。具体而言，极氪品牌交付了28,843辆汽车，而领克品牌交付了35,059辆汽车。",
           "url": "https://wallstreetcn.com/livenews/3012899",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时51分]"
+        },
+        {
+          "title": "吉利汽车：本集团于11月的汽车总销量为31.04万部，较去年同期增长约24%；极氪11月实现汽车销售量28843部，同比增长7%。",
+          "url": "https://wallstreetcn.com/livenews/3012915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时29分]"
+          "time_info": "[17时29分 ~ 17时51分]"
         },
         {
           "title": "2526 赛季英超第 13 轮，水晶宫 1:2 曼联，如何评价这场比赛？",
@@ -500,6 +583,17 @@
           "time_info": "[15时23分 ~ 15时44分]"
         },
         {
+          "title": "如何评价「新能源汽车正进入下行周期」的观点？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1978761406493979455",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时51分]"
+        },
+        {
           "title": "日产汽车（日本）11月销量同比下降40%。",
           "url": "https://flash.jin10.com/detail/20251201130444072800",
           "source": "金十数据",
@@ -534,6 +628,17 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
+          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3012928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "据英国金融时报：英国政府将撤回向莫桑比克一个液化天然气项目提供的11.5亿美元贷款，该项目由法国道达尔能源牵头。",
           "url": "https://flash.jin10.com/detail/20251201154735426800",
           "source": "金十数据",
@@ -556,17 +661,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "如何评价「新能源汽车正进入下行周期」的观点？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1978761406493979455",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "丰田汽车11月在日本销量同比下降1.5%；本田日本11月销量同比下降8.0%。",
           "url": "https://flash.jin10.com/detail/20251201130341266800",
           "source": "金十数据",
@@ -584,7 +678,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -617,7 +711,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -664,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "欧佩克秘书处收到伊拉克、阿联酋、哈萨克斯坦和阿曼提交的更新版（产量）补偿方案。",
+          "url": "https://flash.jin10.com/detail/20251201171712951800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "据智己汽车消息，智己汽车11月销售13577台。",
