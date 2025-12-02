@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T06:42:05.827501+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2025-12-03T07:19:35.118789+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 06时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -27,23 +27,12 @@
             10,
             9,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 04时02分]"
-        },
-        {
-          "title": "雷军突然开卖现车 小米彻底摊牌了",
-          "url": "https://www.toutiao.com/trending/7579141283130641926/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "马斯克首次详谈伴侣身世：有印度血统",
@@ -55,8 +44,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 06时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 07时19分]"
+        },
+        {
+          "title": "雷军突然开卖现车 小米彻底摊牌了",
+          "url": "https://www.toutiao.com/trending/7579141283130641926/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
