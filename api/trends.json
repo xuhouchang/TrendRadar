@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-03T07:40:31.747833+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-03T09:39:15.153747+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 07时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 09时39分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -57,8 +58,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 07时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 09时39分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -160,6 +161,17 @@
           "time_info": "[04时25分 ~ 05时39分]"
         },
         {
+          "title": "恒指低开0.44%，报25980.89点；恒生科技指数跌0.51%。小鹏汽车跌2.6%，蔚来跌1.8%，网易、快手、哔哩哔哩跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3014030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "斯泰兰蒂斯集团Stellantis ADR涨2.2%，此前瑞银集团上调评级。",
           "url": "https://wallstreetcn.com/livenews/3013840",
           "source": "华尔街见闻-快讯",
@@ -171,6 +183,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 03时20分]"
+        },
+        {
+          "title": "特斯拉Optimus团队发布机器人跑步视频",
+          "url": "https://flash.jin10.com/detail/20251203091740295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "特斯拉发布人形机器人“擎天柱”跑步视频",
+          "url": "https://wallstreetcn.com/livenews/3014025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "美国国防部长赫格塞思：我们打击贩毒集团的行动才刚刚开始。打击行动已暂停，因为目前很难找到船只。",
@@ -211,6 +245,17 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "富勒姆4:5曼城",
+          "url": "https://www.douyin.com/hot/2324746",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
           "url": "https://flash.jin10.com/detail/20251203004623208800",
           "source": "金十数据",
@@ -234,13 +279,24 @@
           "time_info": "[06时18分 ~ 06时42分]"
         },
         {
+          "title": "印度阿达尼集团计划到2030年斥资150亿美元扩建印度机场。",
+          "url": "https://flash.jin10.com/detail/20251203085422030800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "王曼昱成都混团世界杯开门红",
           "url": "https://www.douyin.com/hot/2324513",
           "source": "抖音",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -273,7 +329,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
