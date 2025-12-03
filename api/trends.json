@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:33:21.281585+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-03T15:22:18.406389+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -24,6 +24,19 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
+          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
+          "url": "https://wallstreetcn.com/articles/3760515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 15时22分]"
+        },
+        {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
           "source": "贴吧",
@@ -32,11 +45,12 @@
             9,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 14时33分]"
+          "appearance_count": 29,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "马斯克首次详谈伴侣身世：有印度血统",
@@ -53,17 +67,16 @@
           "time_info": "[01时47分 ~ 07时40分]"
         },
         {
-          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
-          "url": "https://wallstreetcn.com/articles/3760515",
-          "source": "华尔街见闻",
+          "title": "富勒姆4:5曼城",
+          "url": "https://www.douyin.com/hot/2324746",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时38分 ~ 15时22分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -88,18 +101,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时17分 ~ 13时20分]"
-        },
-        {
-          "title": "富勒姆4:5曼城",
-          "url": "https://www.douyin.com/hot/2324746",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -165,6 +166,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 05时39分]"
+        },
+        {
+          "title": "“零公里二手车”被曝灰色流通",
+          "url": "https://www.toutiao.com/trending/7579324042491363347/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
+          "title": "中汽协：10月汽车整车进口4.3万辆，同比下降0.3%",
+          "url": "https://wallstreetcn.com/livenews/3014278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "美股收盘：三大股指收涨 小鹏跌近8%",
@@ -261,15 +285,16 @@
           "time_info": "09时39分"
         },
         {
-          "title": "“零公里二手车”被曝灰色流通",
-          "url": "https://www.toutiao.com/trending/7579324042491363347/",
-          "source": "今日头条",
+          "title": "特斯拉发布人形机器人跑步视频",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
-            8
+            26,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 15时22分]"
         },
         {
           "title": "特斯拉发布人形机器人“擎天柱”跑步视频",
@@ -343,15 +368,17 @@
           "time_info": "[13时44分 ~ 14时33分]"
         },
         {
-          "title": "特斯拉发布人形机器人跑步视频",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
+          "title": "特斯拉擎天柱有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            12,
+            26,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时49分 ~ 14时33分]"
+          "time_info": "[13时20分 ~ 15时22分]"
         },
         {
           "title": "汇丰控股公告称，董事会今日委任利伯特为集团主席。",
@@ -365,18 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 13时44分]"
-        },
-        {
-          "title": "特斯拉擎天柱有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
@@ -441,6 +456,18 @@
           "time_info": "[06时18分 ~ 06时42分]"
         },
         {
+          "title": "王曼昱错穿梁靖崑裤子",
+          "url": "https://www.toutiao.com/trending/7578821524983939078/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251203103110984800",
           "source": "金十数据",
@@ -461,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "A股福建本地股午后持续走低，海峡创新跌超18%，平潭发展、榕基软件、东百集团跌停，乾照光电、福龙马、睿能科技跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3014232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "王曼昱成都混团世界杯开门红",
@@ -527,17 +565,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "王曼昱错穿梁靖崑裤子",
-          "url": "https://www.toutiao.com/trending/7578821524983939078/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "恒生科技指数日内跌超1%。蔚来、小鹏汽车跌超4%。",
