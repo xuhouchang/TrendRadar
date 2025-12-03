@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T04:25:57.225873+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2025-12-04T04:47:23.453794+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 04时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 04时47分]"
         },
         {
           "title": "据知情人士透露，美国电动汽车检测工具制造商Power Probe Plc.采取罕见行动，准备申请英国IPO。（彭博）",
@@ -29,8 +29,22 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 04时47分]"
+        },
+        {
+          "title": "通用汽车CEO Mary Barra：（前美国总统拜登任期内出台的）严厉的汽车里程制度带来工厂关闭的风险。",
+          "url": "https://wallstreetcn.com/livenews/3014582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 04时47分]"
         },
         {
           "title": "消息人士称，美国拟提议取消汽车制造商为满足燃油经济性法规而进行的碳信用交易。",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 02时33分]"
-        },
-        {
-          "title": "通用汽车CEO Mary Barra：（前美国总统拜登任期内出台的）严厉的汽车里程制度带来工厂关闭的风险。",
-          "url": "https://wallstreetcn.com/livenews/3014582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时25分]"
         },
         {
           "title": "美国官员和汽车制造商表示，白宫将宣布大幅降低燃油经济性要求。",
@@ -86,6 +86,19 @@
           "time_info": "[00时57分 ~ 02时33分]"
         },
         {
+          "title": "骑摩托车跟开汽车什么区别？",
+          "url": "https://www.zhihu.com/question/268250514",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时47分]"
+        },
+        {
           "title": "福特汽车CEO Farley：今天将会见美国总统特朗普和交通部长Duffy。",
           "url": "https://wallstreetcn.com/livenews/3014548",
           "source": "华尔街见闻-快讯",
@@ -97,19 +110,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时25分]"
-        },
-        {
-          "title": "骑摩托车跟开汽车什么区别？",
-          "url": "https://www.zhihu.com/question/268250514",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 04时25分]"
         },
         {
           "title": "为什么在 IDEA 使用 @Autowired 会报黄?",
