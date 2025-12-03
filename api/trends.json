@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:47:24.589879+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2025-12-03T18:24:54.457755+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             16,
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时29分 ~ 17时47分]"
+          "appearance_count": 38,
+          "time_info": "[00时29分 ~ 18时24分]"
         },
         {
           "title": "“零公里二手车”被曝灰色流通",
@@ -109,8 +110,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时38分 ~ 17时47分]"
+          "appearance_count": 19,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -589,7 +590,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
