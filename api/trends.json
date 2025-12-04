@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:20:07.534219+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-12-04T12:05:09.401758+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "骑摩托车跟开汽车什么区别？",
@@ -32,8 +32,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 11时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 12时05分]"
         },
         {
           "title": "为什么在 IDEA 使用 @Autowired 会报黄?",
@@ -122,7 +122,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -314,6 +314,17 @@
           "time_info": "[05时39分 ~ 06时21分]"
         },
         {
+          "title": "日本拟打造“宇宙作战集团”",
+          "url": "https://www.cls.cn/detail/2219050",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
           "title": "美国总统特朗普赞赏福特汽车的F-150车型。",
           "url": "https://flash.jin10.com/detail/20251204045437409800",
           "source": "金十数据",
@@ -335,6 +346,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "佘诗曼自曝已立遗嘱",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E8%87%AA%E6%9B%9D%E5%B7%B2%E7%AB%8B%E9%81%97%E5%98%B1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
         },
         {
           "title": "恒指高开0.17%，报25804.01点；恒生科技指数涨0.21%。携程、京东涨超3%，地平线机器人涨近2%；理想汽车跌超2%，小鹏汽车跌1.7%。",
@@ -365,7 +387,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -387,7 +409,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -423,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251204110745388800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     }
