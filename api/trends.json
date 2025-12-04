@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T16:54:48.492259+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-04T17:26:01.294804+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "骑摩托车跟开汽车什么区别？",
@@ -130,6 +130,17 @@
           "time_info": "[07时18分 ~ 07时40分]"
         },
         {
+          "title": "英国汽车制造商和贸易商协会（SMMT）：英国11月份新车注册量下降1.6%，至151,154辆。",
+          "url": "https://flash.jin10.com/detail/20251204171326271800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美国联邦公报公布对韩国汽车及汽车零部件关税下调后，现代汽车股价上涨6%，至282,500韩元。",
           "url": "https://flash.jin10.com/detail/20251204105320722800",
           "source": "金十数据",
@@ -161,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "知情人士：印度信实工业集团已着手为旗下数字平台公司Jio Platforms起草初步招股说明书，此举有望促成印度史上规模最大的IPO。",
+          "url": "https://flash.jin10.com/detail/20251204170938409800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "美国官员和汽车制造商表示，白宫将宣布大幅降低燃油经济性要求。",
@@ -235,6 +257,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时21分 ~ 07时40分]"
+        },
+        {
+          "title": "50岁佘诗曼自曝早已立好遗嘱",
+          "url": "https://www.baidu.com/s?wd=50%E5%B2%81%E4%BD%98%E8%AF%97%E6%9B%BC%E8%87%AA%E6%9B%9D%E6%97%A9%E5%B7%B2%E7%AB%8B%E5%A5%BD%E9%81%97%E5%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时26分]"
         },
         {
           "title": "速腾聚创激光雷达EM4获广汽高域独家定点，将搭载于飞行汽车AirCab",
@@ -435,19 +471,6 @@
           "time_info": "[12时52分 ~ 13时44分]"
         },
         {
-          "title": "50岁佘诗曼自曝早已立好遗嘱",
-          "url": "https://www.baidu.com/s?wd=50%E5%B2%81%E4%BD%98%E8%AF%97%E6%9B%BC%E8%87%AA%E6%9B%9D%E6%97%A9%E5%B7%B2%E7%AB%8B%E5%A5%BD%E9%81%97%E5%98%B1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时54分]"
-        },
-        {
           "title": "市场消息：俄罗斯总统普京表示，他并不想重返八国集团（G8）。",
           "url": "https://flash.jin10.com/detail/20251204150525983800",
           "source": "金十数据",
@@ -511,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
