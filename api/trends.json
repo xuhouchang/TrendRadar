@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T22:48:51.290089+08:00",
-  "total_titles_processed": 2088,
+  "generated_at": "2025-12-04T23:25:10.831762+08:00",
+  "total_titles_processed": 2162,
   "failed_sources": [],
   "trends": [
     {
@@ -399,6 +399,19 @@
           "time_info": "[15时42分 ~ 16时29分]"
         },
         {
+          "title": "斯泰兰蒂斯集团StellantisCEO：预计新款美国产品的需求强劲。",
+          "url": "https://wallstreetcn.com/livenews/3015230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时25分]"
+        },
+        {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
           "url": "https://flash.jin10.com/detail/20251204044658236800",
           "source": "金十数据",
@@ -507,18 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时47分 ~ 18时25分]"
-        },
-        {
-          "title": "斯泰兰蒂斯集团StellantisCEO：预计新款美国产品的需求强劲。",
-          "url": "https://wallstreetcn.com/livenews/3015230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时48分]"
         },
         {
           "title": "中国贸促会代表团出席美商亚洲集团举办的中美企业交流活动",
