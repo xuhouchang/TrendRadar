@@ -1,66 +1,55 @@
 {
-  "generated_at": "2025-12-05T23:45:16.103710+08:00",
-  "total_titles_processed": 2261,
+  "generated_at": "2025-12-06T00:27:20.431460+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 48,
+      "match_count": 7,
       "titles": [
         {
-          "title": "曼联1-1西汉姆联",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94",
-          "source": "bilibili 热搜",
+          "title": "据媒体报道：七国集团（G7）和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。 G7和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
+          "url": "https://wallstreetcn.com/livenews/3016046",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7,
-            14,
-            21,
-            25,
-            27,
-            29
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 15时41分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
+          "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251205235701029800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15,
-            13,
-            10,
-            9,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时52分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "动力电池“下水”：电动船舶市场加速扩容 宁德时代发布“船-岸-云”方案",
-          "url": "https://www.cls.cn/detail/2219957",
-          "source": "财联社热门",
+          "title": "消息人士：七国集团和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
+          "url": "https://flash.jin10.com/detail/20251205235635588800",
+          "source": "金十数据",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时24分 ~ 07时40分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "墨西哥一世界杯场馆周边发现456袋人体遗骸，当地有贩毒集团",
-          "url": "https://news.ifeng.com/c/8oq7aXZSgaX",
-          "source": "凤凰网",
+          "title": "消息人士：瑞士政府正准备放宽瑞银集团的部分资本监管规定。",
+          "url": "https://flash.jin10.com/detail/20251205235240473800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 19时40分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "“创新”成为中国经济社会发展关键词",
@@ -70,507 +59,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时21分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
+          "url": "https://www.zhihu.com/question/1980256801569130289",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "马斯克X平台被欧盟罚款1.2亿欧元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BX%E5%B9%B3%E5%8F%B0%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE1.2%E4%BA%BF%E6%AC%A7%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时42分 ~ 23时45分]"
-        },
-        {
-          "title": "美联储负责监管的副主席米歇尔·鲍曼（Michelle Bowman）对此次信息征询表示反对。 鲍曼在一份声明中表示：“我不能支持关于美联储储备银行支票服务未来的信息和意见征询。支票服务信息征询（RFI）似乎倾向于储备银行停止支票服务，尽管支票仍然是一种重要的支付机制。”",
-          "url": "https://wallstreetcn.com/livenews/3015373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 07时40分]"
-        },
-        {
-          "title": "蔚来乐道汽车发布全国换电站电池翻倍计划：将增投超8000块全新电池包",
-          "url": "https://wallstreetcn.com/livenews/3015623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时33分]"
-        },
-        {
-          "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
-          "url": "https://flash.jin10.com/detail/20251205065532013800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时40分]"
-        },
-        {
-          "title": "蓝思科技切入小米汽车供应链，明年车载玻璃产能或达150万套",
-          "url": "https://wallstreetcn.com/livenews/3015900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时40分]"
-        },
-        {
-          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3015621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时33分]"
-        },
-        {
-          "title": "文件显示，孙正义将其在软银集团的合计持股比例从33.74%提高至34.73%。",
-          "url": "https://flash.jin10.com/detail/20251205121840718800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
-          "url": "https://flash.jin10.com/detail/20251205135814783800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "Meta公司：与CNN、福克斯新闻、世界集团、人物公司和今日美国公司等出版机构合作，将带来更多实时新闻和内容。我们将继续拓展新的合作伙伴关系，并探索新功能，以提升使用我们产品的用户的体验。",
-          "url": "https://flash.jin10.com/detail/20251205210849547800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "报道：马斯克的X因违反内容法被欧盟罚款1.2亿欧元",
-          "url": "https://wallstreetcn.com/livenews/3015915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
-          "url": "https://flash.jin10.com/detail/20251205160508277800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时52分]"
-        },
-        {
-          "title": "现代汽车股价涨超7%，触及历史新高。",
-          "url": "https://flash.jin10.com/detail/20251205092414780800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "欧盟监管机构：对TikTok的设计、算法系统及未成年人保护措施的调查仍在继续。",
-          "url": "https://flash.jin10.com/detail/20251205192317955800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "特朗普：已批准在美国生产微型汽车",
-          "url": "https://flash.jin10.com/detail/20251205223526062800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "周四（12月4日），彭博电动汽车价格回报指数涨0.09%，报3390.91点。 成分股中，MP材料涨超5%，沃尔沃汽车、Lucid集团、保时捷P911涨超4%，美国雅宝则跌约6%。",
-          "url": "https://wallstreetcn.com/livenews/3015356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时43分]"
-        },
-        {
-          "title": "美国总统特朗普：已批准在美国生产微型汽车。",
-          "url": "https://flash.jin10.com/detail/20251205223336422800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "美国总统特朗普敦促立即制造紧凑型汽车（tiny cars）。",
-          "url": "https://wallstreetcn.com/livenews/3016010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时46分 ~ 23时45分]"
-        },
-        {
-          "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3015559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时03分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.4%。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，CQQQ初步收涨1%，KWEB大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3015351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "王传福回应比亚迪国内销量下滑",
-          "url": "https://wallstreetcn.com/livenews/3015600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时45分]"
-        },
-        {
-          "title": "特斯拉网站显示，特斯拉开始在欧洲销售其Model 3车型的低价版。 特斯拉标准版Model 3在德国的售价为37,970欧元，在挪威的售价为330,056挪威克朗，在瑞典的售价为449,990瑞典克朗。",
-          "url": "https://wallstreetcn.com/livenews/3015719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时28分]"
-        },
-        {
-          "title": "恒生指数收涨0.58%，恒生科技指数涨0.84%。保险股领涨，中国平安涨近7%，中国人寿涨超5%。百度集团涨逾5%，领涨科网股；新能源车概念股反弹，小鹏汽车、蔚来涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3015750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时52分]"
-        },
-        {
-          "title": "中钢协副会长李毅仁会见西门子集团艾闻达首席战略及运营官Hans-Rolf Huppert",
-          "url": "https://wallstreetcn.com/livenews/3015948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
-          "title": "马斯克感谢万斯为“X”发声",
-          "url": "https://flash.jin10.com/detail/20251205105914023800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时03分]"
-        },
-        {
-          "title": "本田中国11月终端汽车销量同比下降33.8%。",
-          "url": "https://wallstreetcn.com/livenews/3015552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时03分]"
-        },
-        {
-          "title": "比亚迪王传福：未来还有更多重磅技术发布",
-          "url": "https://wallstreetcn.com/livenews/3015748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时52分]"
-        },
-        {
-          "title": "世茂集团11月合约销售额15.1亿元人民币，1-11月累计合约销售额224.3亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3015820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时23分]"
-        },
-        {
-          "title": "宏胜饮料集团新增劳动争议，六天后开庭",
-          "url": "https://wallstreetcn.com/livenews/3015652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时21分]"
-        },
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
-          "url": "https://wallstreetcn.com/livenews/3015856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时20分]"
-        },
-        {
-          "title": "港股收盘：百度集团涨逾5%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E9%80%BE5%25",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时44分]"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251205110604497800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时50分]"
-        },
-        {
-          "title": "罗曼股份：收到控股子公司上海武桐树高新技术有限公司与客户签订采购《算力设备采购合同》，金额合计约为2.92亿元。",
-          "url": "https://wallstreetcn.com/livenews/3015883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时40分]"
-        },
-        {
-          "title": "国家能源局主要负责人会见法国电力集团董事长兼首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3015956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时21分]"
-        },
-        {
-          "title": "任正非点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7579776859911782419/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时33分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.39%，报7731.88点。 热门中概股里，阿特斯太阳能初步收涨5.8%，蔚来涨5%，亿航智能、老虎证券涨超4%，小鹏涨3.5%，小马智行涨3%，百胜中国则跌1.3%，Boss直聘跌2.2%，大全新能源跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.03%，中概互联网指数ETF（KWEB）收跌0.05%。 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，XtrackersHarvest中证50（ASHS）收涨0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3015351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 06时43分]"
-        },
-        {
-          "title": "欧洲股市收涨超0.4%，雷诺、奔驰、保时捷、宝马等汽车概念股至少涨超4%",
-          "url": "https://wallstreetcn.com/livenews/3015291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时41分]"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：我们未来会议的关键词依然是充分灵活性，唯一不变的是我们的2%通胀目标。",
-          "url": "https://flash.jin10.com/detail/20251205223216402800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "A股保险股持续拉升，中国太保涨超6%，中国平安涨超5%，中国人保、中国人寿等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3015645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "宁德时代：鉴于赵丰刚先生申请辞去公司董事、董事会战略委员会委员职务，经公司董事会提名委员会资格审核，董事会同意提名吴映明先生为公司第四届董事会非独立董事候选人，同时补选吴映明先生为公司第四届董事会战略委员会委员，任期自股东会审议通过之日起至第四届董事会任期届满之日止。",
-          "url": "https://wallstreetcn.com/livenews/3016000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "欧盟开出数字服务法下的首张罚单 马斯克旗下X被罚1.2亿欧元",
-          "url": "https://wallstreetcn.com/livenews/3015915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "宁德时代：董事会同意提名吴映明先生为公司第四届董事会非独立董事候选人",
-          "url": "https://wallstreetcn.com/livenews/3016000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "普京称并不希望俄重新加入七国集团",
-          "url": "https://www.toutiao.com/trending/7579915631786393651/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "花旗在2026年展望中将欧洲汽车板块的评级从“减配”上调至“中性”。",
-          "url": "https://flash.jin10.com/detail/20251205143447339800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "00时27分"
         }
       ]
     }
