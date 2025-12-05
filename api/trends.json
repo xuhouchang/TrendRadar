@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T13:21:19.973956+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2025-12-05T13:45:04.486498+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,32 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 13时45分]"
+        },
+        {
+          "title": "蔚来乐道汽车发布全国换电站电池翻倍计划：将增投超8000块全新电池包",
+          "url": "https://wallstreetcn.com/livenews/3015623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时45分]"
+        },
+        {
+          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
+          "url": "https://wallstreetcn.com/livenews/3015621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 13时45分]"
         },
         {
           "title": "美联储负责监管的副主席米歇尔·鲍曼（Michelle Bowman）对此次信息征询表示反对。 鲍曼在一份声明中表示：“我不能支持关于美联储储备银行支票服务未来的信息和意见征询。支票服务信息征询（RFI）似乎倾向于储备银行停止支票服务，尽管支票仍然是一种重要的支付机制。”",
@@ -44,17 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时40分]"
-        },
-        {
-          "title": "蔚来乐道汽车发布全国换电站电池翻倍计划：将增投超8000块全新电池包",
-          "url": "https://wallstreetcn.com/livenews/3015623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
@@ -77,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "恒生科技指数午后转涨。百度集团一度涨7.7%，此前路透报道称，昆仑芯计划在香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3015621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "现代汽车股价涨超7%，触及历史新高。",
@@ -136,6 +138,19 @@
           "time_info": "05时41分"
         },
         {
+          "title": "王传福回应比亚迪国内销量下滑",
+          "url": "https://wallstreetcn.com/livenews/3015600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时45分]"
+        },
+        {
           "title": "马斯克感谢万斯为“X”发声",
           "url": "https://flash.jin10.com/detail/20251205105914023800",
           "source": "金十数据",
@@ -158,18 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时03分]"
-        },
-        {
-          "title": "王传福回应比亚迪国内销量下滑",
-          "url": "https://wallstreetcn.com/livenews/3015600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球汽车制造商市值变化",
@@ -212,7 +215,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -223,7 +226,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
