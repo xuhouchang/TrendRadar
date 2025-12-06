@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T00:46:17.691026+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-12-07T01:17:23.474035+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1980618656774894195",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -59,8 +60,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 00时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "中核集团出席中法企业家委员会第七次会议",
@@ -70,8 +71,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         }
       ]
     }
