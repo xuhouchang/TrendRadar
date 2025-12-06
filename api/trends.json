@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T18:21:01.223823+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-12-06T18:42:53.843060+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             13,
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时44分 ~ 18时21分]"
+          "appearance_count": 19,
+          "time_info": "[12时44分 ~ 18时42分]"
         },
         {
           "title": "印度财政部长西塔拉曼：海关是我下一个重点整顿领域。这是否会成为一场大爆炸式的改革，由媒体来评判。",
@@ -174,11 +175,12 @@
           "ranks": [
             1,
             4,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 18时42分]"
         },
         {
           "title": "大众汽车首席执行官：大众汽车将在未来五年内总计投资1600亿欧元。",
@@ -187,11 +189,12 @@
           "ranks": [
             3,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 18时42分]"
         },
         {
           "title": "标普道琼斯指数公司：CRH、Carvana、Comfort Systems USA将被纳入标普500指数。 原有成分股LKQ、Solstice ADV Materials、Mohawk Industries将被移出。",
@@ -237,18 +240,6 @@
           "time_info": "[13时42分 ~ 15时39分]"
         },
         {
-          "title": "卡塔尔能源部长：海湾地区房地产建设过多，房地产泡沫可能正在形成。",
-          "url": "https://flash.jin10.com/detail/20251206170525265800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时21分]"
-        },
-        {
           "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
           "url": "https://wallstreetcn.com/livenews/3016069",
           "source": "华尔街见闻-快讯",
@@ -286,6 +277,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 06时20分]"
+        },
+        {
+          "title": "卡塔尔能源部长：海湾地区房地产建设过多，房地产泡沫可能正在形成。",
+          "url": "https://flash.jin10.com/detail/20251206170525265800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时42分]"
         },
         {
           "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
