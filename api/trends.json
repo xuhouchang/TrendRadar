@@ -1,527 +1,55 @@
 {
-  "generated_at": "2025-12-06T23:39:53.931321+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-07T00:24:04.146139+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "“创新”成为中国经济社会发展关键词",
-          "url": "https://www.toutiao.com/trending/7580325259027598911/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时27分 ~ 12时44分]"
-        },
-        {
-          "title": "保加利亚、捷克、意大利、波兰、匈牙利和斯洛伐克呼吁欧盟允许混合动力汽车或采用其他绿色技术的发动机在2035年之后继续使用。",
-          "url": "https://flash.jin10.com/detail/20251206020940694800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时28分 ~ 07时39分]"
-        },
         {
           "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
-            11,
-            10,
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[12时44分 ~ 23时39分]"
-        },
-        {
-          "title": "SamAltman 计划建立火箭公司，公开喊话与马斯克的 SpaceX 竞争，他胜算几何？",
-          "url": "https://www.zhihu.com/question/1979921437809742328",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15,
-            13,
-            14,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 21时27分]"
-        },
-        {
-          "title": "印度财政部长西塔拉曼：海关是我下一个重点整顿领域。这是否会成为一场大爆炸式的改革，由媒体来评判。",
-          "url": "https://flash.jin10.com/detail/20251206124303145800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            7,
-            9,
-            17,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 16时47分]"
-        },
-        {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 07时39分]"
-        },
-        {
-          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
-          "url": "https://www.zhihu.com/question/1979110285521478648",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 16时47分]"
-        },
-        {
-          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
-          "url": "https://wallstreetcn.com/livenews/3016208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            14,
-            16,
-            18,
-            20,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 14时51分]"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司党委委员、副总裁于泽涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-          "url": "https://flash.jin10.com/detail/20251206100319964800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            16,
-            19,
-            22,
-            23,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 14时51分]"
-        },
-        {
-          "title": "马斯克称欧盟应该被废除",
-          "url": "https://wallstreetcn.com/livenews/3016320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时17分 ~ 23时39分]"
-        },
-        {
-          "title": "大众汽车首席执行官：奥迪在美国建厂的潜力巨大，但需要华盛顿方面提供大规模的财政支持，而目前尚无此类支持。",
-          "url": "https://flash.jin10.com/detail/20251206170334832800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            8,
-            13,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 19时38分]"
-        },
-        {
-          "title": "大众汽车首席执行官：大众汽车将在未来五年内总计投资1600亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251206170000625800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            10,
-            15,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 19时38分]"
-        },
-        {
-          "title": "美国退休执法人员被控帮墨西哥贩毒集团洗钱",
-          "url": "https://flash.jin10.com/detail/20251206133233523800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            13,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 16时47分]"
-        },
-        {
-          "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
-          "url": "https://flash.jin10.com/detail/20251206220812258800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时40分 ~ 23时39分]"
-        },
-        {
-          "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
-          "url": "https://flash.jin10.com/detail/20251206132257334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            14,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 16时47分]"
-        },
-        {
-          "title": "中核集团出席中法企业家委员会第七次会议",
-          "url": "https://wallstreetcn.com/livenews/3016305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14,
-            17,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时38分 ~ 23时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1980618656774894195",
           "source": "知乎",
           "ranks": [
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时40分 ~ 23时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "标普道琼斯指数公司：CRH、Carvana、Comfort Systems USA将被纳入标普500指数。 原有成分股LKQ、Solstice ADV Materials、Mohawk Industries将被移出。",
-          "url": "https://wallstreetcn.com/livenews/3016149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 09时26分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
-          "url": "https://wallstreetcn.com/livenews/3016148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 09时26分]"
-        },
-        {
-          "title": "卡塔尔能源部长：海湾地区房地产建设过多，房地产泡沫可能正在形成。",
-          "url": "https://flash.jin10.com/detail/20251206170525265800",
+          "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
+          "url": "https://flash.jin10.com/detail/20251206220812258800",
           "source": "金十数据",
           "ranks": [
-            2,
-            6,
-            11,
-            15,
-            21
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 19时38分]"
-        },
-        {
-          "title": "长安汽车金融：有不法分子冒名发送催收短信，不排除存在持续大规模发送情况",
-          "url": "https://wallstreetcn.com/livenews/3016228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            11,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时39分]"
-        },
-        {
-          "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
-          "url": "https://wallstreetcn.com/livenews/3016069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 03时38分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX洽谈按8000亿美元估值出售股票。 该公司CFO最近数日向投资者们通报了股票出售事宜。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "00时24分"
         },
         {
-          "title": "马斯克旗下SpaceX告诉投资者，该公司考虑2026年后期/年底IPO。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3016108",
+          "title": "马斯克称欧盟应该被废除",
+          "url": "https://wallstreetcn.com/livenews/3016320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11,
-            25,
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251205235701029800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "消息人士：七国集团和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
-          "url": "https://flash.jin10.com/detail/20251205235635588800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "中国人保集团副总裁于泽被查",
-          "url": "https://www.toutiao.com/trending/7580047280057909311/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时23分]"
-        },
-        {
-          "title": "消息人士：瑞士政府正准备放宽瑞银集团的部分资本监管规定。",
-          "url": "https://flash.jin10.com/detail/20251205235240473800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "据媒体报道：七国集团（G7）和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。 G7和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
-          "url": "https://wallstreetcn.com/livenews/3016046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "富国银行分析师Mike Mayo点评“花旗集团市净率七年来首次达到1”：这是一个重要的里程碑，因为它反映了公司正在从价值破坏向价值创造过渡。 重申花旗集团是自己2026年的首选股，市净率达到1或更高是“一家不值得存在的公司和一家值得存在的公司之间的区别”。",
-          "url": "https://wallstreetcn.com/livenews/3016137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时20分 ~ 07时39分]"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3016195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时20分]"
-        },
-        {
-          "title": "马斯克X平台被欧盟罚款1.2亿欧元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BX%E5%B9%B3%E5%8F%B0%E8%A2%AB%E6%AC%A7%E7%9B%9F%E7%BD%9A%E6%AC%BE1.2%E4%BA%BF%E6%AC%A7%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "王曼昱2比1伊藤美诚",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B12%E6%AF%941%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "瑞银集团股价上涨2.8%，因波动性而暂停交易。 路透报道称，瑞士政府料将对该公司放宽某些资本制度。",
-          "url": "https://wallstreetcn.com/livenews/3016047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 01时43分]"
-        },
-        {
-          "title": "周五（12月5日），彭博电动汽车价格回报指数涨1.00%，报3426.04点，本周累计上涨0.24%。",
-          "url": "https://wallstreetcn.com/livenews/3016124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时42分]"
-        },
-        {
-          "title": "花旗集团市净率七年来首次达到1，标志着转型成功里程碑",
-          "url": "https://wallstreetcn.com/livenews/3016125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "汽车事故中出现「丢轮」，如何判断是触发了「丢轮保命」的安全策略还是车子质量问题？",
-          "url": "https://www.zhihu.com/question/1978790092953892744",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 06时42分]"
+          "time_info": "00时24分"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -531,53 +59,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时40分 ~ 23时39分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.3%，本周累涨约0.5%、实现V形反转。 热门中概股里，百度初步收涨5.8%，万国数据涨4.5%，小鹏涨2.7%，新东方涨2.5%，小马智行则跌2.8%，阿特斯太阳能跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3016120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时20分]"
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "花旗集团股价自从2018年以来首次超过账面价值。",
-          "url": "https://wallstreetcn.com/livenews/3016125",
+          "title": "中核集团出席中法企业家委员会第七次会议",
+          "url": "https://wallstreetcn.com/livenews/3016305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "本周，标普累涨约0.3%，道指累涨约0.4%，纳指累涨约0.6%。 周五发布PCE通胀数据当天，标普500指数初步收涨0.1%，公用事业、保健、原材料、能源等板块至多跌0.9%，科技、可选消费、电信板块至多涨0.8%。 纳斯达克100指数初步收涨0.3%，成分股中，华纳兄弟探索初步收涨6.3%，Adobe涨5.2%，美光科技、格芯至多涨约4.7%，核电股CEG则跌超2%，奈飞跌3.1%，安进跌3.1%，MercadoLibre跌3.5%，Strategy跌3.7%。 Salesforce初步收涨5.3%，领跑道指成分股，高盛、VZ、V至少涨约1%，联合健康、Merck、宝洁、雪佛龙则收跌超1%，安进表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3016122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "经济日报：增强智能网联汽车供需适配性",
-          "url": "https://wallstreetcn.com/livenews/3016162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "00时24分"
         }
       ]
     }
