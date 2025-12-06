@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:39:54.716517+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2025-12-07T02:27:43.364297+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -48,11 +48,23 @@
           "ranks": [
             6,
             9,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "中核集团出席中法企业家委员会第七次会议",
+          "url": "https://wallstreetcn.com/livenews/3016305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时23分 ~ 01时39分]"
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "中核集团出席中法企业家委员会第七次会议",
-          "url": "https://wallstreetcn.com/livenews/3016305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时39分]"
         }
       ]
     }
