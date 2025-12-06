@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:19:19.409159+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-12-06T15:39:07.940568+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[02时28分 ~ 07时39分]"
         },
         {
+          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 15时39分]"
+        },
+        {
           "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
           "url": "https://www.zhihu.com/question/1980256801569130289",
           "source": "知乎",
@@ -42,6 +56,21 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时27分 ~ 07时39分]"
+        },
+        {
+          "title": "印度财政部长西塔拉曼：海关是我下一个重点整顿领域。这是否会成为一场大爆炸式的改革，由媒体来评判。",
+          "url": "https://flash.jin10.com/detail/20251206124303145800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            7,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 15时39分]"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -62,17 +91,18 @@
           "time_info": "[10时54分 ~ 14时51分]"
         },
         {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32118178",
-          "source": "澎湃新闻",
+          "title": "SamAltman 计划建立火箭公司，公开喊话与马斯克的 SpaceX 竞争，他胜算几何？",
+          "url": "https://www.zhihu.com/question/1979921437809742328",
+          "source": "知乎",
           "ranks": [
-            16,
+            10,
+            15,
             13,
-            11
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 15时39分]"
         },
         {
           "title": "中国人民保险集团股份有限公司党委委员、副总裁于泽涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
@@ -93,32 +123,17 @@
           "time_info": "[10时54分 ~ 14时51分]"
         },
         {
-          "title": "印度财政部长西塔拉曼：海关是我下一个重点整顿领域。这是否会成为一场大爆炸式的改革，由媒体来评判。",
-          "url": "https://flash.jin10.com/detail/20251206124303145800",
+          "title": "美国退休执法人员被控帮墨西哥贩毒集团洗钱",
+          "url": "https://flash.jin10.com/detail/20251206133233523800",
           "source": "金十数据",
           "ranks": [
-            2,
             3,
-            7,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 15时19分]"
-        },
-        {
-          "title": "SamAltman 计划建立火箭公司，公开喊话与马斯克的 SpaceX 竞争，他胜算几何？",
-          "url": "https://www.zhihu.com/question/1979921437809742328",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15,
+            5,
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 15时39分]"
         },
         {
           "title": "标普道琼斯指数公司：CRH、Carvana、Comfort Systems USA将被纳入标普500指数。 原有成分股LKQ、Solstice ADV Materials、Mohawk Industries将被移出。",
@@ -133,6 +148,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时42分 ~ 09时26分]"
+        },
+        {
+          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
+          "url": "https://www.zhihu.com/question/1979110285521478648",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时44分 ~ 15时39分]"
+        },
+        {
+          "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
+          "url": "https://flash.jin10.com/detail/20251206132257334800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 15时39分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
@@ -156,11 +196,12 @@
             2,
             6,
             11,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 15时39分]"
         },
         {
           "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
@@ -200,32 +241,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "美国退休执法人员被控帮墨西哥贩毒集团洗钱",
-          "url": "https://flash.jin10.com/detail/20251206133233523800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
-        },
-        {
-          "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
-          "url": "https://flash.jin10.com/detail/20251206132257334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
@@ -321,18 +336,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时54分 ~ 13时20分]"
-        },
-        {
-          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
-          "url": "https://www.zhihu.com/question/1979110285521478648",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时44分 ~ 15时19分]"
         },
         {
           "title": "马斯克X平台被欧盟罚款1.2亿欧元",
