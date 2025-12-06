@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:43:22.063399+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-12-06T12:23:15.868874+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 11时43分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 12时23分]"
         },
         {
           "title": "保加利亚、捷克、意大利、波兰、匈牙利和斯洛伐克呼吁欧盟允许混合动力汽车或采用其他绿色技术的发动机在2035年之后继续使用。",
@@ -72,18 +72,6 @@
           "time_info": "[06时42分 ~ 09时26分]"
         },
         {
-          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
-          "url": "https://wallstreetcn.com/livenews/3016208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
-        },
-        {
           "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
           "url": "https://wallstreetcn.com/livenews/3016069",
           "source": "华尔街见闻-快讯",
@@ -123,6 +111,19 @@
           "time_info": "[04时23分 ~ 06时20分]"
         },
         {
+          "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
+          "url": "https://wallstreetcn.com/livenews/3016208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时23分]"
+        },
+        {
           "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
           "url": "https://flash.jin10.com/detail/20251205235701029800",
           "source": "金十数据",
@@ -147,6 +148,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时43分]"
+        },
+        {
+          "title": "中国人保集团副总裁于泽被查",
+          "url": "https://www.toutiao.com/trending/7580047280057909311/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时23分]"
         },
         {
           "title": "消息人士：瑞士政府正准备放宽瑞银集团的部分资本监管规定。",
@@ -208,23 +222,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
-        },
-        {
-          "title": "中国人保集团副总裁于泽被查",
-          "url": "https://www.toutiao.com/trending/7580047280057909311/",
-          "source": "今日头条",
-          "ranks": [
-            8,
+            14,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时23分]"
         },
         {
           "title": "瑞银集团股价上涨2.8%，因波动性而暂停交易。 路透报道称，瑞士政府料将对该公司放宽某些资本制度。",
@@ -253,6 +256,19 @@
           "time_info": "[05时41分 ~ 06时42分]"
         },
         {
+          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3016195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时23分]"
+        },
+        {
           "title": "花旗集团市净率七年来首次达到1，标志着转型成功里程碑",
           "url": "https://wallstreetcn.com/livenews/3016125",
           "source": "华尔街见闻-快讯",
@@ -276,18 +292,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 06时42分]"
-        },
-        {
-          "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3016195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.3%，本周累涨约0.5%、实现V形反转。 热门中概股里，百度初步收涨5.8%，万国数据涨4.5%，小鹏涨2.7%，新东方涨2.5%，小马智行则跌2.8%，阿特斯太阳能跌3.7%。",
