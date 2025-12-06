@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:39:07.940568+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-12-06T16:25:29.635789+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             16,
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 15时39分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 16时25分]"
         },
         {
           "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
@@ -66,11 +67,12 @@
             3,
             7,
             9,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 16时25分]"
         },
         {
           "title": "王传福：比亚迪是龙头老大，可以被别人欺负一下，但不能欺负别人",
@@ -123,17 +125,44 @@
           "time_info": "[10时54分 ~ 14时51分]"
         },
         {
+          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
+          "url": "https://www.zhihu.com/question/1979110285521478648",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 16时25分]"
+        },
+        {
           "title": "美国退休执法人员被控帮墨西哥贩毒集团洗钱",
           "url": "https://flash.jin10.com/detail/20251206133233523800",
           "source": "金十数据",
           "ranks": [
             3,
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
+          "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
+          "url": "https://flash.jin10.com/detail/20251206132257334800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "标普道琼斯指数公司：CRH、Carvana、Comfort Systems USA将被纳入标普500指数。 原有成分股LKQ、Solstice ADV Materials、Mohawk Industries将被移出。",
@@ -148,31 +177,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时42分 ~ 09时26分]"
-        },
-        {
-          "title": "知名投资人 MichaelBurry 披露做空特斯拉，他为何看空这家新能源巨头？",
-          "url": "https://www.zhihu.com/question/1979110285521478648",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
-          "url": "https://flash.jin10.com/detail/20251206132257334800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时39分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
