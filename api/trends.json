@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:29:04.151118+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-12-07T14:50:48.960991+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时39分 ~ 14时29分]"
+          "appearance_count": 11,
+          "time_info": "[07时39分 ~ 14时50分]"
         },
         {
           "title": "中国人民保险集团股份有限公司副总裁于泽接受审查调查",
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时23分 ~ 09时47分]"
+        },
+        {
+          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
+          "url": "https://wallstreetcn.com/articles/3760842",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 14时50分]"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -55,19 +68,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时39分 ~ 13时19分]"
-        },
-        {
-          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
-          "url": "https://wallstreetcn.com/articles/3760842",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 14时29分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
@@ -111,6 +111,21 @@
           "time_info": "[00时24分 ~ 09时47分]"
         },
         {
+          "title": "如何看待 11 月份比亚迪海外销量?",
+          "url": "https://www.zhihu.com/question/1979174855929770210",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            11,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 14时50分]"
+        },
+        {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1980618656774894195",
           "source": "知乎",
@@ -126,20 +141,6 @@
           "time_info": "[00时23分 ~ 02时49分]"
         },
         {
-          "title": "如何看待 11 月份比亚迪海外销量?",
-          "url": "https://www.zhihu.com/question/1979174855929770210",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 14时29分]"
-        },
-        {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://wallstreetcn.com/livenews/3016330",
           "source": "华尔街见闻-快讯",
@@ -152,8 +153,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 14时50分]"
         },
         {
           "title": "“某品牌汽车致多人死亡”系谣言",
@@ -163,8 +164,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 14时50分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -176,8 +177,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 14时50分]"
         },
         {
           "title": "曼城3-0桑德兰",
@@ -203,8 +204,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 14时50分]"
         },
         {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
