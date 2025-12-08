@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T17:52:06.864352+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-12-08T18:24:24.337572+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "国际机构看中国经济 关键词亮了",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 17时52分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 18时24分]"
         },
         {
           "title": "净网：网民造谣汽车造成8杀被查处",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 17时52分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 18时24分]"
         },
         {
           "title": "中国汽车何以重塑全球价值链",
@@ -65,6 +65,21 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时22分 ~ 11时22分]"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 18时24分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -93,21 +108,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 06时41分]"
-        },
-        {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 17时52分]"
         },
         {
           "title": "央视曝光汽车智驾神器成夺命陷阱",
@@ -167,8 +167,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时40分 ~ 17时52分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 18时24分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -225,8 +225,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 18时24分]"
         },
         {
           "title": "11月重点商品出海数据出炉：汽车同比增幅领跑 多商品环比实现双位数增长",
@@ -234,11 +234,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "旺旺集团市值缩水1100亿",
@@ -255,6 +256,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时54分 ~ 15时44分]"
+        },
+        {
+          "title": "龙湖集团2029年到期美元债势创3个月最大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3016898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时24分]"
         },
         {
           "title": "网警查处编造汽车造成8杀网络谣言案",
@@ -279,15 +292,15 @@
           "time_info": "07时39分"
         },
         {
-          "title": "龙湖集团2029年到期美元债势创3个月最大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3016898",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉(TSLA.O)盘前跌超1%，摩根士丹利将其评级从超配下调至中性。",
+          "url": "https://flash.jin10.com/detail/20251208180145909800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "18时24分"
         },
         {
           "title": "王曼昱首轮对阵张本美和",
@@ -323,6 +336,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
+          "url": "https://wallstreetcn.com/livenews/3016849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时24分]"
+        },
+        {
+          "title": "乘联分会： 2025年1-10月中国汽车进口40万辆 同比下降30%",
+          "url": "https://wallstreetcn.com/livenews/3016848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时24分]"
+        },
+        {
+          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3016846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时24分]"
         },
         {
           "title": "台湾电力供应担忧加剧 特斯拉Powerwall订单量激增三倍",
@@ -373,19 +428,6 @@
           "time_info": "[12时08分 ~ 13时23分]"
         },
         {
-          "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
-          "url": "https://wallstreetcn.com/livenews/3016849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时52分]"
-        },
-        {
           "title": "特斯拉中国官网显示，新款Model 3高性能全轮驱动版预计交付日期更新为2026年2月。",
           "url": "https://wallstreetcn.com/livenews/3016703",
           "source": "华尔街见闻-快讯",
@@ -399,19 +441,6 @@
           "time_info": "[12时54分 ~ 13时46分]"
         },
         {
-          "title": "乘联分会： 2025年1-10月中国汽车进口40万辆 同比下降30%",
-          "url": "https://wallstreetcn.com/livenews/3016848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时52分]"
-        },
-        {
           "title": "印度汽车经销商协会联盟（FADA）：各品类车型降价势头延续，自10月启动的涨势在11月得以延续。74%的经销商预计未来3个月将实现增长。",
           "url": "https://flash.jin10.com/detail/20251208113404165800",
           "source": "金十数据",
@@ -423,19 +452,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 13时23分]"
-        },
-        {
-          "title": "香港恒生指数收盘下跌1.23%，报25765.36点。恒生科技指数收盘基本持平。华虹半导体涨近4.5%，中芯国际涨近3%。百度集团涨3.45%。",
-          "url": "https://wallstreetcn.com/livenews/3016846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时52分]"
         },
         {
           "title": "印度汽车经销商协会联盟（FADA）：11月整体零售销量同比增长2.14%。",
@@ -550,7 +566,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -605,7 +621,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -616,7 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -627,7 +643,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
