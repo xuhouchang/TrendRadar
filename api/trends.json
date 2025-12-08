@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T22:23:28.963025+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2025-12-08T22:48:39.629524+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "国际机构看中国经济 关键词亮了",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时40分 ~ 22时23分]"
+          "appearance_count": 24,
+          "time_info": "[09时40分 ~ 22时48分]"
         },
         {
           "title": "净网：网民造谣汽车造成8杀被查处",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时40分 ~ 22时23分]"
+          "appearance_count": 24,
+          "time_info": "[09时40分 ~ 22时48分]"
         },
         {
           "title": "中国汽车何以重塑全球价值链",
@@ -174,8 +174,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时24分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[15时24分 ~ 22时48分]"
         },
         {
           "title": "波兰外长怒怼马斯克“废除欧盟”言论：飞火星去吧",
@@ -249,6 +249,19 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
+          "title": "A股唯二！美的集团完成单次百亿回购",
+          "url": "https://www.cls.cn/detail/2223188",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时48分]"
+        },
+        {
           "title": "旺旺集团市值缩水1100亿",
           "url": "https://www.toutiao.com/trending/7581304094682254874/",
           "source": "今日头条",
@@ -274,18 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时22分]"
-        },
-        {
-          "title": "A股唯二！美的集团完成单次百亿回购",
-          "url": "https://www.cls.cn/detail/2223188",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时23分]"
         },
         {
           "title": "龙湖集团2029年到期美元债势创3个月最大涨幅",
@@ -379,6 +380,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：七国集团预计将于今年年底前再次举行会议。",
+          "url": "https://flash.jin10.com/detail/20251208222102987800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "乘联分会：中国11月新能源汽车零售销量同比增长4.2%，环比增长3.0%。",
@@ -652,6 +664,18 @@
           "time_info": "[11时22分 ~ 12时08分]"
         },
         {
+          "title": "李小鹏回应女儿花滑天赋",
+          "url": "https://www.toutiao.com/trending/7581313236591706138/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时48分]"
+        },
+        {
           "title": "偶像练习生七年后居然还有售后",
           "url": "https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%E4%B8%83%E5%B9%B4%E5%90%8E%E5%B1%85%E7%84%B6%E8%BF%98%E6%9C%89%E5%94%AE%E5%90%8E&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -816,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "李小鹏回应女儿花滑天赋",
-          "url": "https://www.toutiao.com/trending/7581313236591706138/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         }
       ]
     }
