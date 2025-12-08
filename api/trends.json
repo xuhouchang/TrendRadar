@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T05:39:48.604231+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-12-09T06:20:31.759384+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 05时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 06时20分]"
         },
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时20分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[01时20分 ~ 06时20分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -39,11 +39,12 @@
             11,
             13,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 03时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 06时20分]"
         },
         {
           "title": "特斯拉机器人摔倒疑似“露馅”",
@@ -59,19 +60,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时44分 ~ 05时39分]"
-        },
-        {
-          "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3017165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时39分]"
+          "appearance_count": 12,
+          "time_info": "[01时44分 ~ 06时20分]"
         },
         {
           "title": "标普500指数初步收跌超0.4%，电信板块跌1.9%，原材料、可选消费、公用事业、保健、能源板块至多跌超1.6%，科技板块则涨0.7%。 纳斯达克100指数初步收跌0.3%，迈威尔科技跌7%，Fortinet跌4%，奈飞、特斯拉跌3.4%。",
@@ -85,15 +75,27 @@
           "time_info": "[05时18分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
-          "url": "https://flash.jin10.com/detail/20251209050046236800",
-          "source": "金十数据",
+          "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3017165",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 06时20分]"
+        },
+        {
+          "title": "微博年度关键词赛博",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时20分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -107,17 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 05时18分]"
-        },
-        {
-          "title": "微博年度关键词赛博",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E8%AF%8D%E8%B5%9B%E5%8D%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
         },
         {
           "title": "Fujitsu（富士通）牵头的一个集团丧失英国脱欧边境系统合同。（Politico）",
@@ -183,6 +174,18 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
+          "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
+          "url": "https://flash.jin10.com/detail/20251209050046236800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时20分]"
+        },
+        {
           "title": "美的集团已完成100亿元股份回购方案",
           "url": "https://www.toutiao.com/trending/7580584728064770058/",
           "source": "今日头条",
@@ -204,6 +207,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时24分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     }
