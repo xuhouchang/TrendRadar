@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T03:18:11.409348+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2025-12-09T03:39:48.722617+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 03时39分]"
         },
         {
           "title": "马斯克回应被罚1.2亿欧元",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 03时39分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -37,11 +37,12 @@
           "ranks": [
             11,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 03时39分]"
         },
         {
           "title": "特斯拉机器人摔倒疑似“露馅”",
@@ -50,33 +51,12 @@
           "ranks": [
             29,
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 03时18分]"
-        },
-        {
-          "title": "加拿大政府声明：七国集团财长通话讨论的核心议题集中在出口管制和关键矿物。",
-          "url": "https://flash.jin10.com/detail/20251209024941223800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "加拿大政府声明：七国集团财长就负责任地生产和供应关键矿物举行通话。",
-          "url": "https://flash.jin10.com/detail/20251209024843284800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 03时39分]"
         },
         {
           "title": "Fujitsu（富士通）牵头的一个集团丧失英国脱欧边境系统合同。（Politico）",
@@ -92,6 +72,30 @@
           "time_info": "[01时45分 ~ 03时18分]"
         },
         {
+          "title": "加拿大政府声明：七国集团财长通话讨论的核心议题集中在出口管制和关键矿物。",
+          "url": "https://flash.jin10.com/detail/20251209024941223800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时39分]"
+        },
+        {
+          "title": "加拿大政府声明：七国集团财长就负责任地生产和供应关键矿物举行通话。",
+          "url": "https://flash.jin10.com/detail/20251209024843284800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时39分]"
+        },
+        {
           "title": "可再生能源公司NextEra Energy与埃克森美孚洽谈打造大型数据中心。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3017109",
           "source": "华尔街见闻-快讯",
@@ -102,6 +106,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时18分]"
+        },
+        {
+          "title": "银行业CEO们将与美国国会参议员们讨论加密货币市场（监管）制度。 花旗集团、美国银行、富国银行的CEO们会见了相关的参议员。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3017102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 03时39分]"
         },
         {
           "title": "美的集团已完成100亿元股份回购方案",
@@ -115,16 +132,15 @@
           "time_info": "[00时55分 ~ 01时21分]"
         },
         {
-          "title": "银行业CEO们将与美国国会参议员们讨论加密货币市场（监管）制度。 花旗集团、美国银行、富国银行的CEO们会见了相关的参议员。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3017102",
+          "title": "可再生能源公司NextEra Energy旗下开发部门与埃克森美孚洽谈为大型数据中心修建天然气发电站。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3017109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            18
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         }
       ]
     }
