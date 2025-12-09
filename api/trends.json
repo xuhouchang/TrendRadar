@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T04:21:51.537009+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-12-10T04:41:17.645443+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 04时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 04时41分]"
         },
         {
           "title": "12 月 9 日中俄两军在东海、太平洋西部空域组织实施第 10 次联合空中战略巡航，释放了哪些信号？",
@@ -28,11 +29,12 @@
             17,
             13,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 04时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 04时41分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
@@ -46,8 +48,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 04时41分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -58,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：有迹象表明经济正在复苏，但我们需要等待。",
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
@@ -82,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：金融状况的某些方面已趋紧，我们需要评估这将如何影响经济。",
@@ -94,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储行长布雷曼：密切关注未来现金利率路径至关重要，但同时也需强调，若情况发生变化，我们将适时调整。",
@@ -104,9 +106,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：如果我们看到通胀前景发生变化，我们将进行调整。",
@@ -117,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：重要的是，我们要在下次货币政策会议之前关注所有即将发布的数据。",
@@ -129,8 +131,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "壳牌(SHEL.N)：由于胡佛海上输油管道系统停运，其位于墨西哥湾近海的Whale平台和Perdido 平台的产量已暂时关闭，预计他们将于今日结束前恢复生产。",
@@ -141,8 +143,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：我们将持续聚焦于我们的核心使命。",
@@ -153,8 +155,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：货币政策没有预设路径。",
@@ -165,8 +167,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "新西兰联储主席布雷曼：正密切关注包括通胀和GDP在内的各项数据。",
@@ -177,8 +179,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：新西兰联储在履行其法定职能方面已取得巨大成就。",
+          "url": "https://flash.jin10.com/detail/20251210032241378800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
+        },
+        {
+          "title": "狼队1:4曼联",
+          "url": "https://www.douyin.com/hot/2331061",
+          "source": "抖音",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 04时41分]"
         },
         {
           "title": "埃克森美孚表示，拥有25年资历的Neil Hansen将接替担任首席财务官。",
@@ -191,18 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时54分]"
-        },
-        {
-          "title": "新西兰联储主席布雷曼：新西兰联储在履行其法定职能方面已取得巨大成就。",
-          "url": "https://flash.jin10.com/detail/20251210032241378800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
@@ -227,18 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 00时28分]"
-        },
-        {
-          "title": "狼队1:4曼联",
-          "url": "https://www.douyin.com/hot/2331061",
-          "source": "抖音",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时21分]"
         },
         {
           "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
