@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T17:46:52.037670+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2025-12-09T18:26:03.003078+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 17时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时49分 ~ 18时26分]"
         },
         {
           "title": "曼联4比1狼队",
@@ -93,8 +93,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时39分 ~ 17时46分]"
+          "appearance_count": 17,
+          "time_info": "[09时39分 ~ 18时26分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -170,6 +170,19 @@
           "time_info": "[05时18分 ~ 07时40分]"
         },
         {
+          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
+          "url": "https://www.cls.cn/detail/2223935",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时26分]"
+        },
+        {
           "title": "美国参议院委员会推进艾萨克曼的NASA局长提名",
           "url": "https://flash.jin10.com/detail/20251209072623541800",
           "source": "金十数据",
@@ -179,6 +192,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "小米集团(01810.HK)12月9日以2.971亿港元回购720万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20251209175458955800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：12月9日回购720万股B类股，耗资约3亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3017587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
@@ -192,6 +227,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时39分 ~ 13时45分]"
+        },
+        {
+          "title": "余承东：下个百万台十几个月就能完成",
+          "url": "https://www.toutiao.com/trending/7581754513019833866/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 18时26分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）全球汽车制造商市值变化",
@@ -216,27 +264,28 @@
           "time_info": "[05时18分 ~ 05时39分]"
         },
         {
-          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
-          "url": "https://www.cls.cn/detail/2223935",
-          "source": "财联社热门",
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将明年1月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶低水1.05美元。（外媒更正：非升水）",
+          "url": "https://flash.jin10.com/detail/20251209174143937800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时46分]"
-        },
-        {
-          "title": "宝马集团：自2026年5月14日起，Milan Nedeljković将出任首席执行官。",
-          "url": "https://wallstreetcn.com/livenews/3017562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时46分"
+          "time_info": "18时26分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本汽车制造商选择降低出口价格而不是将成本转嫁给美国消费者，这稳定了汽车出口量，并未对国内就业和生产造成巨大负面影响。 国内物价和薪资动态的强劲势头足以防止负面冲击对通胀产生重大影响。 目前来看通胀风险并不高，尤其是财政刺激导致基准通胀加速的风险。 实现中长期财政可持续性是政府的职责。",
+          "url": "https://wallstreetcn.com/livenews/3017558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时26分]"
         },
         {
           "title": "福特汽车与雷诺联手在欧洲生产平价电动车",
@@ -302,16 +351,17 @@
           "time_info": "[15时43分 ~ 16时56分]"
         },
         {
-          "title": "日本央行行长植田和男：日本汽车制造商选择降低出口价格而不是将成本转嫁给美国消费者，这稳定了汽车出口量，并未对国内就业和生产造成巨大负面影响。 国内物价和薪资动态的强劲势头足以防止负面冲击对通胀产生重大影响。 目前来看通胀风险并不高，尤其是财政刺激导致基准通胀加速的风险。 实现中长期财政可持续性是政府的职责。",
-          "url": "https://wallstreetcn.com/livenews/3017558",
+          "title": "余承东透露享界将推新车型",
+          "url": "https://wallstreetcn.com/livenews/3017553",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11
+            5,
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时26分]"
         },
         {
           "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
@@ -365,18 +415,6 @@
           "time_info": "[03时18分 ~ 03时39分]"
         },
         {
-          "title": "余承东透露享界将推新车型",
-          "url": "https://wallstreetcn.com/livenews/3017553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时46分]"
-        },
-        {
           "title": "加拿大政府声明：七国集团财长就负责任地生产和供应关键矿物举行通话。",
           "url": "https://flash.jin10.com/detail/20251209024843284800",
           "source": "金十数据",
@@ -402,19 +440,6 @@
           "time_info": "[06时20分 ~ 07时40分]"
         },
         {
-          "title": "余承东：下个百万台十几个月就能完成",
-          "url": "https://www.toutiao.com/trending/7581754513019833866/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 17时46分]"
-        },
-        {
           "title": "银行业CEO们将与美国国会参议员们讨论加密货币市场（监管）制度。 花旗集团、美国银行、富国银行的CEO们会见了相关的参议员。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3017102",
           "source": "华尔街见闻-快讯",
@@ -427,6 +452,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 04时24分]"
+        },
+        {
+          "title": "余承东官宣首款MPV命名为智界V9",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E9%A6%96%E6%AC%BEMPV%E5%91%BD%E5%90%8D%E4%B8%BA%E6%99%BA%E7%95%8CV9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 18时26分]"
         },
         {
           "title": "余承东官宣尚界首款轿跑明年上市",
@@ -453,6 +491,18 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
+          "title": "宝马集团：自2026年5月14日起，Milan Nedeljković将出任首席执行官。",
+          "url": "https://wallstreetcn.com/livenews/3017562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时26分]"
+        },
+        {
           "title": "中泰量子科技联合实验室在曼谷揭幕",
           "url": "https://wallstreetcn.com/livenews/3017250",
           "source": "华尔街见闻-快讯",
@@ -465,6 +515,19 @@
           "time_info": "[09时39分 ~ 11时19分]"
         },
         {
+          "title": "吉利汽车公布极氪私有化合资格极氪持有人选择结果",
+          "url": "https://wallstreetcn.com/livenews/3017534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时26分]"
+        },
+        {
           "title": "美的集团已完成100亿元股份回购方案",
           "url": "https://www.toutiao.com/trending/7580584728064770058/",
           "source": "今日头条",
@@ -474,6 +537,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时21分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本汽车制造商选择降低出口价格而不是将成本转嫁给美国消费者，这稳定了汽车出口量，并未对国内就业和生产造成巨大负面影响。",
+          "url": "https://flash.jin10.com/detail/20251209171131100800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时26分]"
         },
         {
           "title": "余承东剧透鸿蒙智行首款MPV：名为智界V9",
@@ -512,18 +587,6 @@
           "time_info": "[03时39分 ~ 04时24分]"
         },
         {
-          "title": "吉利汽车公布极氪私有化合资格极氪持有人选择结果",
-          "url": "https://wallstreetcn.com/livenews/3017534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时46分]"
-        },
-        {
           "title": "雷诺集团：首款与福特汽车(F.N)合作的电动汽车预计将于2028年初亮相展厅。",
           "url": "https://flash.jin10.com/detail/20251209140110930800",
           "source": "金十数据",
@@ -536,27 +599,15 @@
           "time_info": "[14时33分 ~ 15时23分]"
         },
         {
-          "title": "余承东官宣首款MPV命名为智界V9",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E9%A6%96%E6%AC%BEMPV%E5%91%BD%E5%90%8D%E4%B8%BA%E6%99%BA%E7%95%8CV9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时46分]"
-        },
-        {
-          "title": "日本央行行长植田和男：日本汽车制造商选择降低出口价格而不是将成本转嫁给美国消费者，这稳定了汽车出口量，并未对国内就业和生产造成巨大负面影响。",
-          "url": "https://flash.jin10.com/detail/20251209171131100800",
+          "title": "日本央行行长植田和男：有信心七国集团能在危机情况下协同行动。",
+          "url": "https://flash.jin10.com/detail/20251209173147673800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时46分"
+          "time_info": "18时26分"
         },
         {
           "title": "福建：鼓励宁德时代、星云电子等企业先行先试开展电动船舶基础配套设施建设",
