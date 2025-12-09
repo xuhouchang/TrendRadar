@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T19:20:23.284492+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2025-12-09T19:41:13.116995+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时49分 ~ 19时20分]"
+          "appearance_count": 18,
+          "time_info": "[12时49分 ~ 19时41分]"
         },
         {
           "title": "曼联4比1狼队",
@@ -133,6 +133,20 @@
           "time_info": "[01时44分 ~ 07时20分]"
         },
         {
+          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
+          "url": "https://www.cls.cn/detail/2223935",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 19时41分]"
+        },
+        {
           "title": "浙金中心祥源系产品无法兑付，增信人祥源集团信用 AA+，为什么会出现这样的情况？",
           "url": "https://www.zhihu.com/question/1980688516510922014",
           "source": "知乎",
@@ -144,20 +158,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时39分 ~ 13时45分]"
-        },
-        {
-          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
-          "url": "https://www.cls.cn/detail/2223935",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "微博年度关键词赛博",
@@ -622,6 +622,18 @@
           "time_info": "[03时39分 ~ 04时24分]"
         },
         {
+          "title": "12月9日下午，商务部副部长兼国际贸易谈判副代表凌激会见大众汽车集团（中国）董事长兼首席执行官贝瑞德。（商务部网站）",
+          "url": "https://wallstreetcn.com/livenews/3017606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 19时41分]"
+        },
+        {
           "title": "雷诺集团：首款与福特汽车(F.N)合作的电动汽车预计将于2028年初亮相展厅。",
           "url": "https://flash.jin10.com/detail/20251209140110930800",
           "source": "金十数据",
@@ -676,17 +688,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "12月9日下午，商务部副部长兼国际贸易谈判副代表凌激会见大众汽车集团（中国）董事长兼首席执行官贝瑞德。（商务部网站）",
-          "url": "https://wallstreetcn.com/livenews/3017606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
@@ -761,7 +762,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
