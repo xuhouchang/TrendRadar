@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T01:21:46.369772+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-12-10T01:45:32.440897+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1981656074458199100",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 01时45分]"
         },
         {
           "title": "12 月 9 日中俄两军在东海、太平洋西部空域组织实施第 10 次联合空中战略巡航，释放了哪些信号？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时45分]"
         },
         {
           "title": "埃克森美孚表示，拥有25年资历的Neil Hansen将接替担任首席财务官。",
