@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T13:45:28.649830+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-12-09T14:33:37.536199+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "【早报】中央政治局会议定调明年经济工作；美的集团完成百亿级回购",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时33分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -115,11 +115,12 @@
             18,
             11,
             9,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 13时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时33分]"
         },
         {
           "title": "微博年度关键词赛博",
@@ -182,17 +183,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "A股福建板块再度拉升，福建高速直线涨停，中创环保、舒华体育、欣贺股份、龙洲股份、安记食品、东百集团等十余股此前涨停。",
-          "url": "https://wallstreetcn.com/livenews/3017413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "标普500指数初步收跌超0.4%，电信板块跌1.9%，原材料、可选消费、公用事业、保健、能源板块至多跌超1.6%，科技板块则涨0.7%。 纳斯达克100指数初步收跌0.3%，迈威尔科技跌7%，Fortinet跌4%，奈飞、特斯拉跌3.4%。",
           "url": "https://wallstreetcn.com/livenews/3017157",
           "source": "华尔街见闻-快讯",
@@ -216,6 +206,18 @@
           "time_info": "[07时20分 ~ 07时40分]"
         },
         {
+          "title": "A股福建板块再度拉升，福建高速直线涨停，中创环保、舒华体育、欣贺股份、龙洲股份、安记食品、东百集团等十余股此前涨停。",
+          "url": "https://wallstreetcn.com/livenews/3017413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时33分]"
+        },
+        {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
           "url": "https://flash.jin10.com/detail/20251209034556231800",
           "source": "金十数据",
@@ -227,6 +229,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 05时18分]"
+        },
+        {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时33分]"
         },
         {
           "title": "Fujitsu（富士通）牵头的一个集团丧失英国脱欧边境系统合同。（Politico）",
@@ -279,6 +294,19 @@
           "time_info": "[03时18分 ~ 03时39分]"
         },
         {
+          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
+          "url": "https://www.zhihu.com/question/1981421077650511816",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时33分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
           "url": "https://wallstreetcn.com/livenews/3017167",
           "source": "华尔街见闻-快讯",
@@ -306,18 +334,6 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
-          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
-          "url": "https://wallstreetcn.com/livenews/3017390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时45分]"
-        },
-        {
           "title": "可再生能源公司NextEra Energy与埃克森美孚洽谈打造大型数据中心。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3017109",
           "source": "华尔街见闻-快讯",
@@ -340,18 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 11时19分]"
-        },
-        {
-          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
-          "url": "https://www.zhihu.com/question/1981421077650511816",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时45分]"
         },
         {
           "title": "美的集团已完成100亿元股份回购方案",
@@ -411,6 +415,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "雷诺集团：首款与福特汽车(F.N)合作的电动汽车预计将于2028年初亮相展厅。",
+          "url": "https://flash.jin10.com/detail/20251209140110930800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
           "url": "https://wallstreetcn.com/livenews/3017238",
           "source": "华尔街见闻-快讯",
@@ -420,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "雷诺集团与福特汽车(F.N)达成乘用车和商用车战略合作伙伴关系，首期合作将推出两款面向欧洲市场的经济型电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251209140032750800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "智谱AutoGLM开源，手机交互进入新纪元",
