@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T05:22:37.782236+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-12-11T05:45:29.907589+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 05时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 05时45分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -42,11 +42,12 @@
             7,
             15,
             6,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 05时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 05时45分]"
         },
         {
           "title": "王曼昱4比2胜张本美和",
@@ -59,8 +60,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时47分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时47分 ~ 05时45分]"
         },
         {
           "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
@@ -76,6 +77,17 @@
           "time_info": "[02时31分 ~ 03时40分]"
         },
         {
+          "title": "周三（12月10日），彭博电动汽车价格回报指数涨0.30%，报3449.44点。",
+          "url": "https://wallstreetcn.com/livenews/3018675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX已经在出售部分股权的过程中选择数据中心。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3018563",
           "source": "华尔街见闻-快讯",
@@ -88,6 +100,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 03时40分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3018673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
@@ -256,7 +279,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         }
