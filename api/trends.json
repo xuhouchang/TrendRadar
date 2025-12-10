@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T06:21:10.327095+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2025-12-11T06:45:54.335164+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 06时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -47,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 06时45分]"
         },
         {
           "title": "王曼昱4比2胜张本美和",
@@ -62,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时47分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[01时47分 ~ 06时45分]"
         },
         {
           "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
@@ -122,11 +123,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时45分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
@@ -134,11 +136,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时45分]"
         },
         {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
