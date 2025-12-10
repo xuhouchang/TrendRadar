@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T12:54:23.874843+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2025-12-10T13:21:59.584223+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时53分 ~ 12时54分]"
+          "appearance_count": 26,
+          "time_info": "[00时53分 ~ 13时21分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
@@ -143,6 +143,19 @@
           "time_info": "[04时21分 ~ 04时41分]"
         },
         {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时21分]"
+        },
+        {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
           "url": "https://flash.jin10.com/detail/20251210092622322800",
           "source": "金十数据",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时54分]"
         },
         {
           "title": "曼联4比1狼队",
@@ -201,6 +202,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 04时41分]"
+        },
+        {
+          "title": "充“劣质电”致汽车自燃？谣言",
+          "url": "https://www.toutiao.com/trending/7581803443355615295/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时21分]"
         },
         {
           "title": "狼队1:4曼联",
@@ -325,17 +337,6 @@
           "time_info": "[06时21分 ~ 07时25分]"
         },
         {
-          "title": "充“劣质电”致汽车自燃？谣言",
-          "url": "https://www.toutiao.com/trending/7581803443355615295/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 12时54分]"
-        },
-        {
           "title": "新西兰联储主席布雷曼：新西兰联储在履行其法定职能方面已取得巨大成就。",
           "url": "https://flash.jin10.com/detail/20251210032241378800",
           "source": "金十数据",
@@ -404,6 +405,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "余承东透露明年或将推出问界M6",
+          "url": "https://www.toutiao.com/trending/7581702141497819155/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时21分]"
         },
         {
           "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
@@ -493,17 +506,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "余承东透露明年或将推出问界M6",
-          "url": "https://www.toutiao.com/trending/7581702141497819155/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "余承东再聊为什么坚持做旅行车",
