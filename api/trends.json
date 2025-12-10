@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T22:50:34.971231+08:00",
-  "total_titles_processed": 2271,
+  "generated_at": "2025-12-10T23:25:58.295609+08:00",
+  "total_titles_processed": 2333,
   "failed_sources": [],
   "trends": [
     {
@@ -39,21 +39,6 @@
           "time_info": "[00时15分 ~ 12时54分]"
         },
         {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时47分 ~ 22时50分]"
-        },
-        {
           "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
           "url": "https://www.zhihu.com/question/1981134593068390187",
           "source": "知乎",
@@ -65,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时24分 ~ 22时50分]"
+          "appearance_count": 10,
+          "time_info": "[18时24分 ~ 23时25分]"
         },
         {
           "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
@@ -107,6 +92,22 @@
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            2,
+            4,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时47分 ~ 23时25分]"
+        },
+        {
+          "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.toutiao.com/trending/7582161338932186634/",
           "source": "今日头条",
           "ranks": [
@@ -115,11 +116,12 @@
             4,
             13,
             18,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时24分 ~ 22时50分]"
+          "appearance_count": 10,
+          "time_info": "[18时24分 ~ 23时25分]"
         },
         {
           "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
@@ -168,11 +170,12 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时50分]"
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时25分]"
         },
         {
           "title": "新西兰联储主席布雷曼：有迹象表明经济正在复苏，但我们需要等待。",
@@ -800,7 +803,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
