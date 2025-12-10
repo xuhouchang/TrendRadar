@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:19:10.406230+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2025-12-11T03:40:34.762829+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 03时40分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             15,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 03时40分]"
         },
         {
           "title": "美媒：关于政府效率部，马斯克惊人爆料",
@@ -42,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 03时40分]"
         },
         {
           "title": "王曼昱4比2胜张本美和",
@@ -55,8 +56,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 03时40分]"
         },
         {
           "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
@@ -68,8 +69,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 03时40分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX已经在出售部分股权的过程中选择数据中心。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3018563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 03时40分]"
         },
         {
           "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
@@ -94,20 +109,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时30分 ~ 03时19分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX已经在出售部分股权的过程中选择数据中心。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3018563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 03时19分]"
         },
         {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
