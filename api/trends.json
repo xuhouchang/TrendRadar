@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:30:41.976635+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2025-12-10T16:56:32.940077+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 16时30分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 16时56分]"
         },
         {
           "title": "12 月 9 日中俄两军在东海、太平洋西部空域组织实施第 10 次联合空中战略巡航，释放了哪些信号？",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 16时30分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 16时56分]"
         },
         {
           "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
@@ -77,11 +77,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 16时56分]"
         },
         {
           "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
@@ -121,6 +122,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 04时41分]"
+        },
+        {
+          "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
+          "url": "https://www.zhihu.com/question/1979268269694277414",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 16时56分]"
         },
         {
           "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
@@ -181,17 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时41分]"
-        },
-        {
-          "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
-          "url": "https://www.zhihu.com/question/1979268269694277414",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 16时30分]"
         },
         {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
