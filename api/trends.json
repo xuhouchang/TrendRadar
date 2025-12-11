@@ -1,1047 +1,154 @@
 {
-  "generated_at": "2025-12-11T23:49:49.674572+08:00",
-  "total_titles_processed": 2534,
+  "generated_at": "2025-12-12T00:31:40.921364+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 84,
+      "match_count": 13,
       "titles": [
         {
-          "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
-          "url": "https://www.zhihu.com/question/1981134593068390187",
-          "source": "知乎",
+          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
+          "url": "https://www.cls.cn/detail/2226827",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            4,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 05时22分]"
-        },
-        {
-          "title": "美媒：关于政府效率部，马斯克惊人爆料",
-          "url": "https://news.ifeng.com/c/8oyuWx4CZR8",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 11时25分]"
-        },
-        {
-          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/1982111618621007519",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时25分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "特斯拉机器人摔倒摘镜被群嘲",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
-            6,
-            9,
-            10,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时25分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "马斯克：若重来，不会领导“政府效率部”",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时55分 ~ 21时39分]"
-        },
-        {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.toutiao.com/trending/7582161338932186634/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            15,
-            6,
-            8,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 07时40分]"
-        },
-        {
-          "title": "王楚钦孙颖莎3:0林诗栋蒯曼",
-          "url": "https://www.douyin.com/hot/2333413",
-          "source": "抖音",
-          "ranks": [
-            4,
-            7,
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时26分 ~ 23时49分]"
-        },
-        {
-          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
-          "url": "https://www.cls.cn/detail/2226827",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时25分 ~ 23时49分]"
-        },
-        {
-          "title": "皇马不敌曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E4%B8%8D%E6%95%8C%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            5,
-            9,
-            8,
-            19,
-            10,
-            30,
-            25,
-            29,
-            15,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时42分 ~ 23时49分]"
-        },
-        {
-          "title": "皇马1:2曼城",
-          "url": "https://www.douyin.com/hot/2333043",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            8,
-            18,
-            17,
-            22,
-            21,
-            16,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时25分 ~ 23时49分]"
-        },
-        {
-          "title": "王曼昱4比2胜张本美和",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E8%83%9C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28,
-            29,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时47分 ~ 06时45分]"
-        },
-        {
-          "title": "王楚钦孙颖莎3比0林诗栋蒯曼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 18时25分]"
-        },
-        {
-          "title": "黑石集团总裁Jon Gray：美国经济一直都具有“不错的韧性”。 企业并购增多，但仍然低于历史水平。",
-          "url": "https://wallstreetcn.com/livenews/3018576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 03时40分]"
-        },
-        {
-          "title": "欧冠联赛 2025 第六轮，皇马 1-2 憾负曼城，罗德里戈破门难救主，哈兰德点射反超，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1982328949234226428",
+          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/1982111618621007519",
           "source": "知乎",
           "ranks": [
-            7,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时55分]"
-        },
-        {
-          "title": "王楚钦孙颖莎vs林诗栋蒯曼",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 16时56分]"
-        },
-        {
-          "title": "蔚来沈斐称「在补能基础设施越来越完善的当下，大电池增程是一种资源浪费」，你认同吗？",
-          "url": "https://www.zhihu.com/question/1982105752643584116",
-          "source": "知乎",
-          "ranks": [
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时25分]"
-        },
-        {
-          "title": "一批恶意抹黑汽车企业账号被处置",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%89%B9%E6%81%B6%E6%84%8F%E6%8A%B9%E9%BB%91%E6%B1%BD%E8%BD%A6%E4%BC%81%E4%B8%9A%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%A4%84%E7%BD%AE%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "WTT 香港总决赛，王曼昱 4-2 张本美和晋级八强，如何评价本场比赛两人的发挥？",
-          "url": "https://www.zhihu.com/question/1982179936195323399",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时40分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：对迪士尼卡通人物的需求“高得离谱”。",
-          "url": "https://flash.jin10.com/detail/20251211234304426800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "王楚钦孙颖莎击败林诗栋蒯曼",
-          "url": "https://www.toutiao.com/trending/7582245461541781510/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15,
-            13,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 19时20分]"
-        },
-        {
-          "title": "王楚钦孙颖莎3比0林诗栋蒯曼",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 18时25分]"
+          "time_info": "00时31分"
         },
         {
           "title": "直播交付第 20000 台尚界 H5 新车，余承东称其为「百万级的车」，如何评价这一说法？",
           "url": "https://www.zhihu.com/question/1981755989242967394",
           "source": "知乎",
           "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时45分 ~ 23时49分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX已经在出售部分股权的过程中选择数据中心。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3018563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 03时40分]"
-        },
-        {
-          "title": "科威特将2026年1月销往亚洲的超轻质原油官方售价定为较阿曼 / 迪拜原油均价每桶低1.9 美元。",
-          "url": "https://wallstreetcn.com/livenews/3018936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时47分]"
-        },
-        {
-          "title": "科威特将2026年1月对亚洲出口原油的官方售价定为较阿曼/迪拜均价贴水1.4美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251211124714836800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 13时47分]"
-        },
-        {
-          "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
-          "url": "https://flash.jin10.com/detail/20251211020149364800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "据华尔街日报：福特与SK将终止美国电动汽车电池合作。",
-          "url": "https://flash.jin10.com/detail/20251211233934585800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "中汽协：中国11月份新能源汽车销量同比增长20.6%。",
-          "url": "https://wallstreetcn.com/livenews/3018996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "俄国防部：已控制哈尔科夫州利曼村",
-          "url": "https://wallstreetcn.com/livenews/3019167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 19时42分]"
-        },
-        {
-          "title": "美国司法部：法院批准司法部就联合健康集团与Amedisys合并案达成的和解协议。",
-          "url": "https://flash.jin10.com/detail/20251211072526843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "科威特将1月对亚洲出口的超轻原油官方售价定为较阿曼/迪拜均价贴水1.9美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251211125011608800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时47分]"
-        },
-        {
-          "title": "瑞银集团分析师建议做多10年期德国国债，目标收益率为2.75%，并表示市场定价的期限溢价过高。",
-          "url": "https://flash.jin10.com/detail/20251211173143948800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "请问显胯宽吗 不知道我的身材很曼妙",
-          "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E9%97%AE%E6%98%BE%E8%83%AF%E5%AE%BD%E5%90%97%20%E4%B8%8D%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E8%BA%AB%E6%9D%90%E5%BE%88%E6%9B%BC%E5%A6%99&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 03时19分]"
-        },
-        {
-          "title": "小米集团：12月11日以9720万港元回购230万股B类股份。",
-          "url": "https://wallstreetcn.com/livenews/3019164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时20分]"
-        },
-        {
-          "title": "印度驻曼谷大使馆：鉴于泰柬边境附近的局势，建议计划前往这些地区的印度游客关注泰国官方渠道（包括泰国旅游局新闻中心）的最新信息。",
-          "url": "https://flash.jin10.com/detail/20251211150159617800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "周三（12月10日），彭博电动汽车价格回报指数涨0.30%，报3449.44点。",
-          "url": "https://wallstreetcn.com/livenews/3018675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 06时45分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
-          "url": "https://wallstreetcn.com/livenews/3018673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 06时45分]"
-        },
-        {
-          "title": "俄罗斯国防部：俄罗斯军队已控制乌克兰哈尔科夫地区的利曼定居点。",
-          "url": "https://flash.jin10.com/detail/20251211170920762800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251211111214492800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时10分]"
-        },
-        {
-          "title": "据国际文传电讯社：普京将于周五在土库曼斯坦与土耳其总统埃尔多安会晤。",
-          "url": "https://flash.jin10.com/detail/20251211173410615800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时25分]"
-        },
-        {
-          "title": "皇马1比2曼城",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC1%E6%AF%942%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
-          "url": "https://flash.jin10.com/detail/20251211013151029800",
-          "source": "金十数据",
-          "ranks": [
-            4,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时31分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "商务部：有序发展二手商品租赁、竞拍、拆零出售、售后回购等新型业态",
-          "url": "https://wallstreetcn.com/livenews/3019087",
-          "source": "华尔街见闻-快讯",
+          "title": "皇马1:2曼城",
+          "url": "https://www.douyin.com/hot/2333043",
+          "source": "抖音",
           "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时56分]"
-        },
-        {
-          "title": "中汽协陈士华：2025年全年中国汽车出口有望冲刺700万辆",
-          "url": "https://wallstreetcn.com/livenews/3018994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时24分]"
-        },
-        {
-          "title": "何小鹏再次点赞特斯拉FSD",
-          "url": "https://wallstreetcn.com/livenews/3019082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时56分]"
-        },
-        {
-          "title": "智谱开源「会使用手机」的模型 AutoGLM，此举是否会加快流量入口逻辑转变的进程？",
-          "url": "https://www.zhihu.com/question/1982027018515211902",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时55分]"
-        },
-        {
-          "title": "王曼昱张本美和30板极限对轰震撼解说",
-          "url": "https://www.toutiao.com/trending/7582366158763052590/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 11时25分]"
-        },
-        {
-          "title": "小米集团(01810.HK)12月11日以9720万港元回购230万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20251211180127271800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时50分]"
-        },
-        {
-          "title": "汽车行业网络乱象专项整治行动公开曝光第二批典型案例。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3018888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时10分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "克里姆林宫：俄罗斯总统普京将在土库曼斯坦会见伊朗总统佩泽希齐扬。",
-          "url": "https://flash.jin10.com/detail/20251211225930579800",
-          "source": "金十数据",
+          "title": "皇马不敌曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E4%B8%8D%E6%95%8C%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            27
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时49分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "香港交易所委任房观明为集团首席风险总监。",
-          "url": "https://wallstreetcn.com/livenews/3019103",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://flash.jin10.com/detail/20251211235112934800",
+          "source": "金十数据",
           "ranks": [
-            8,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 17时26分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "马斯克：若重来 不会领导“政府效率部”",
-          "url": "https://wallstreetcn.com/livenews/3019118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时49分]"
-        },
-        {
-          "title": "德国财政部长克林贝伊尔：德国将支持希腊财政部长基里亚科斯·皮拉卡基斯担任欧元集团主席。",
-          "url": "https://flash.jin10.com/detail/20251211222824484800",
+          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
+          "url": "https://flash.jin10.com/detail/20251211235011876800",
           "source": "金十数据",
           "ranks": [
-            9,
-            29
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "两部门：原则上仅允许同一集团内同一省（区、市）的新能源发电企业进行集中报价 禁止跨集团、跨省（区、市）集中报价",
-          "url": "https://wallstreetcn.com/livenews/3019015",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
+          "url": "https://flash.jin10.com/detail/20251211234949588800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            21
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时44分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "东百集团：公司股票可能存在短期涨幅较大后的大幅下跌风险",
-          "url": "https://wallstreetcn.com/livenews/3019195",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
+          "url": "https://flash.jin10.com/detail/20251211234938201800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            28
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时45分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
           "url": "https://wallstreetcn.com/livenews/3019299",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时49分]"
-        },
-        {
-          "title": "中汽协：中国11月份汽车销量同比增长3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3018987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时24分]"
-        },
-        {
-          "title": "黑石集团总裁：美国经济一直“极具韧性”。",
-          "url": "https://flash.jin10.com/detail/20251211012408568800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时31分]"
-        },
-        {
-          "title": "大众汽车正考虑为美国和欧洲市场生产增程式电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3019073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时56分]"
-        },
-        {
-          "title": "南都电源：收到公司控股股东杭州南都电源有限公司、上海益都实业有限公司、上海南都集团有限公司通知，获悉其正在筹划控制权变更、促进再生铅板块股权出售的相关事宜。股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3019178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车以旧换新规模预计超1800亿元",
-          "url": "https://wallstreetcn.com/livenews/3019271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时46分]"
-        },
-        {
-          "title": "SpaceX若以$1.5万亿美元估值上市马斯克财富将翻倍",
-          "url": "https://wallstreetcn.com/livenews/3018534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时54分]"
-        },
-        {
-          "title": "中汽协：11月新能源汽车出口30万辆，同比增长2.6倍",
-          "url": "https://wallstreetcn.com/livenews/3019005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时44分]"
-        },
-        {
-          "title": "市场消息：大众汽车考虑为欧美市场生产增程式电动汽车。",
-          "url": "https://flash.jin10.com/detail/20251211160152905800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时56分]"
-        },
-        {
-          "title": "吴夏帆带着狙击蝴蝶售后来了",
-          "url": "https://www.douyin.com/hot/2332634",
-          "source": "抖音",
-          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "美国贸易办公室（USTR）代表格里尔：在美国墨西哥加拿大贸易协议（USMCA）原产地问题上，需要考虑非汽车行业的贸易制度。 可能会修订USMCA，也可能会根据“日落条款”（sunset clause）退出。",
-          "url": "https://wallstreetcn.com/livenews/3018525",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
+          "url": "https://flash.jin10.com/detail/20251211234711697800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            30
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时54分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
+          "title": "马斯克暗示SpaceX将上市",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BASpaceX%E5%B0%86%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "问界M8冬季出行实力护航",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM8%E5%86%AC%E5%AD%A3%E5%87%BA%E8%A1%8C%E5%AE%9E%E5%8A%9B%E6%8A%A4%E8%88%AA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时44分]"
-        },
-        {
-          "title": "皇马1-2曼城遭遇主场两连败",
-          "url": "https://www.toutiao.com/trending/7582337234494898182/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：墨西哥希望推动纺织和汽车产业发展。",
-          "url": "https://flash.jin10.com/detail/20251211222520484800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "瑞士政府：对钢铁、汽车、铝和铜的行业关税继续维持不变。",
-          "url": "https://flash.jin10.com/detail/20251211000127731800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "黑石集团首席运营官：芯片、数据中心和电力领域的资本需求极其巨大，而我们恰恰具备独特的优势来抓住这一机遇。",
-          "url": "https://flash.jin10.com/detail/20251211013556775800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "巴基斯坦11月汽车销量降至12,408辆。",
-          "url": "https://flash.jin10.com/detail/20251211202429599800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "前11个月我国汽车产销量双超3100万辆",
-          "url": "https://wallstreetcn.com/livenews/3018973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "惠誉：受宏观和贸易风险疲软影响，全球汽车行业前景恶化。",
-          "url": "https://flash.jin10.com/detail/20251211001700593800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "欧盟委员会执行副主席东布罗夫斯基斯：希望今日欧元集团会议能在冻结俄罗斯资产问题上取得进展，且我们已竭尽全力回应比利时的关切。",
-          "url": "https://flash.jin10.com/detail/20251211221907000800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "若SpaceX明年以1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
-          "url": "https://flash.jin10.com/detail/20251210235718083800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "旭辉控股集团：拟对旗下7只公司债券进行购回，购回总额不超2.2亿元",
-          "url": "https://wallstreetcn.com/livenews/3019205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "零跑汽车：董事长朱江明及傅利泉增持215.06万股H股 增持金额超1亿元港币",
-          "url": "https://wallstreetcn.com/livenews/3019232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美媒：贝佐斯与马斯克正竞相将数据中心带入太空",
-          "url": "https://flash.jin10.com/detail/20251211005802992800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "中汽协：11月新能源汽车国内销量152.2万辆 同比增长6.5%",
-          "url": "https://wallstreetcn.com/livenews/3018996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "马斯克在X上回帖暗示SpaceX可能进行IPO",
-          "url": "https://wallstreetcn.com/livenews/3018769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "据华尔街日报：马斯克旗下的SpaceX已将数据中心计划作为股权出售的一部分进行推介。",
-          "url": "https://flash.jin10.com/detail/20251211004648936800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)：美国油轮扣押事件未影响其运营。",
-          "url": "https://flash.jin10.com/detail/20251211044455199800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "00时31分"
         }
       ]
     }
