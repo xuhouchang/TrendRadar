@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T06:45:15.346466+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-12-12T07:20:43.926481+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 06时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "直播交付第 20000 台尚界 H5 新车，余承东称其为「百万级的车」，如何评价这一说法？",
@@ -28,23 +28,12 @@
             8,
             6,
             7,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 06时45分]"
-        },
-        {
-          "title": "特斯拉机器人摔倒摘镜被群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 06时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "皇马不敌曼城",
@@ -58,11 +47,24 @@
             13,
             17,
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 06时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时20分]"
+        },
+        {
+          "title": "特斯拉机器人摔倒摘镜被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "皇马1:2曼城",
@@ -77,8 +79,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 06时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时20分]"
         },
         {
           "title": "马斯克暗示SpaceX将上市",
