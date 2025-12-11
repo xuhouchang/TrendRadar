@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-12T04:44:10.325604+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-12T05:22:58.524019+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
           "url": "https://www.cls.cn/detail/2226827",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "直播交付第 20000 台尚界 H5 新车，余承东称其为「百万级的车」，如何评价这一说法？",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "特斯拉机器人摔倒摘镜被群嘲",
@@ -41,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "皇马不敌曼城",
@@ -57,8 +58,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "皇马1:2曼城",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "马斯克暗示SpaceX将上市",
@@ -103,17 +104,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 04时44分]"
-        },
-        {
-          "title": "欧元集团开始物色欧洲央行副行长继任者",
-          "url": "https://flash.jin10.com/detail/20251212033845875800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时44分]"
         },
         {
           "title": "欧元集团：欧元区成员国必须在1月9日之前递交欧洲央行副行长的候选人名单。 欧元区财长们将在1月19日会议上做决定。",
@@ -166,6 +156,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3019409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "欧元集团开始物色欧洲央行副行长继任者",
+          "url": "https://flash.jin10.com/detail/20251212033845875800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 05时22分]"
         },
         {
           "title": "市场消息：欧元集团启动欧洲央行副行长提名程序。",
@@ -233,6 +246,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时58分]"
+        },
+        {
+          "title": "特斯拉11月美国销量跌至近四年低点，廉价车型未能扭转颓势",
+          "url": "https://flash.jin10.com/detail/20251212045720176800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "考克斯数据：尽管特斯拉(TSLA.O)推出更便宜的Model Y和Model 3，但其11月在美销量仍降至近4年低点。（外媒更正，非近3年）",
+          "url": "https://flash.jin10.com/detail/20251212044239983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "法国财长：希腊财长Pierrakakis被任命为欧元集团主席。",
