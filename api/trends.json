@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T22:23:29.679547+08:00",
-  "total_titles_processed": 2393,
+  "generated_at": "2025-12-11T22:46:58.279008+08:00",
+  "total_titles_processed": 2429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "王传福回应比亚迪国内销量下滑，他称后面会有重磅技术发布，这会是怎样的技术？能否扭转其在国内的颓势？",
@@ -20,21 +20,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 05时22分]"
-        },
-        {
-          "title": "特斯拉机器人摔倒摘镜被群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时25分 ~ 22时23分]"
         },
         {
           "title": "美媒：关于政府效率部，马斯克惊人爆料",
@@ -64,8 +49,24 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时25分 ~ 22时23分]"
+          "appearance_count": 23,
+          "time_info": "[11时25分 ~ 22时46分]"
+        },
+        {
+          "title": "特斯拉机器人摔倒摘镜被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[11时25分 ~ 22时46分]"
         },
         {
           "title": "马斯克：若重来，不会领导“政府效率部”",
@@ -105,8 +106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时26分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[17时26分 ~ 22时46分]"
         },
         {
           "title": "皇马不敌曼城",
@@ -128,8 +129,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时42分 ~ 22时23分]"
+          "appearance_count": 24,
+          "time_info": "[09时42分 ~ 22时46分]"
         },
         {
           "title": "皇马1:2曼城",
@@ -145,11 +146,27 @@
             21,
             16,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时25分 ~ 22时23分]"
+          "appearance_count": 22,
+          "time_info": "[11时25分 ~ 22时46分]"
+        },
+        {
+          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
+          "url": "https://www.cls.cn/detail/2226827",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 22时46分]"
         },
         {
           "title": "王曼昱4比2胜张本美和",
@@ -165,20 +182,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时47分 ~ 06时45分]"
-        },
-        {
-          "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
-          "url": "https://www.cls.cn/detail/2226827",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 22时23分]"
         },
         {
           "title": "王楚钦孙颖莎3比0林诗栋蒯曼",
@@ -473,6 +476,17 @@
           "time_info": "17时26分"
         },
         {
+          "title": "德国财政部长克林贝伊尔：德国将支持希腊财政部长基里亚科斯·皮拉卡基斯担任欧元集团主席。",
+          "url": "https://flash.jin10.com/detail/20251211222824484800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251211111214492800",
           "source": "金十数据",
@@ -567,6 +581,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 12时55分]"
+        },
+        {
+          "title": "直播交付第 20000 台尚界 H5 新车，余承东称其为「百万级的车」，如何评价这一说法？",
+          "url": "https://www.zhihu.com/question/1981755989242967394",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 22时46分]"
         },
         {
           "title": "王曼昱张本美和30板极限对轰震撼解说",
@@ -666,19 +693,6 @@
           "time_info": "[14时34分 ~ 15时24分]"
         },
         {
-          "title": "直播交付第 20000 台尚界 H5 新车，余承东称其为「百万级的车」，如何评价这一说法？",
-          "url": "https://www.zhihu.com/question/1981755989242967394",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时23分]"
-        },
-        {
           "title": "黑石集团总裁：美国经济一直“极具韧性”。",
           "url": "https://flash.jin10.com/detail/20251211012408568800",
           "source": "金十数据",
@@ -713,6 +727,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 19时42分]"
+        },
+        {
+          "title": "乘联分会崔东树：2025年汽车以旧换新规模预计超1800亿元",
+          "url": "https://wallstreetcn.com/livenews/3019271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时46分]"
         },
         {
           "title": "SpaceX若以$1.5万亿美元估值上市马斯克财富将翻倍",
@@ -807,6 +832,17 @@
           "time_info": "[09时42分 ~ 09时43分]"
         },
         {
+          "title": "墨西哥总统辛鲍姆：墨西哥希望推动纺织和汽车产业发展。",
+          "url": "https://flash.jin10.com/detail/20251211222520484800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "瑞士政府：对钢铁、汽车、铝和铜的行业关税继续维持不变。",
           "url": "https://flash.jin10.com/detail/20251211000127731800",
           "source": "金十数据",
@@ -827,17 +863,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车以旧换新规模预计超1800亿元",
-          "url": "https://wallstreetcn.com/livenews/3019271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "巴基斯坦11月汽车销量降至12,408辆。",
@@ -871,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：希望今日欧元集团会议能在冻结俄罗斯资产问题上取得进展，且我们已竭尽全力回应比利时的关切。",
+          "url": "https://flash.jin10.com/detail/20251211221907000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "若SpaceX明年以1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
