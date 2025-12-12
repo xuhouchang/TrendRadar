@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T03:18:15.352702+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-12-13T03:40:12.099520+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时40分]"
         },
         {
           "title": "汽车在高速上跑了 3 个小时，有必要停车给发动机散热吗？",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 03时40分]"
         },
         {
           "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
@@ -50,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 03时40分]"
         },
         {
           "title": "通用汽车回吐涨幅，美国发布英国关税的税率配额。",
@@ -75,11 +76,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 03时40分]"
         },
         {
           "title": "瑞银集团涨幅重新扩大至3.5%，报34.80（瑞郎），瑞士盘初曾达到35.17，创2008年一季度以来盘中新高，延续近期上涨的趋势。 一个由具有影响力的瑞士议员组成的团体建议，降低针对瑞银的（AT1）资本要求。",
