@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:23:51.820559+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-12-12T15:44:05.720889+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "【数据看盘】实力游资联手量化资金买入雪人集团 超9亿元资金逆势抢筹中兴通讯",
@@ -71,8 +71,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 15时44分]"
         },
         {
           "title": "皇马1:2曼城",
@@ -131,6 +131,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 04时44分]"
+        },
+        {
+          "title": "王曼昱WTT单打第100胜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1WTT%E5%8D%95%E6%89%93%E7%AC%AC100%E8%83%9C%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "王曼昱4比1朱芊曦",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%941%E6%9C%B1%E8%8A%8A%E6%9B%A6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 15时44分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -193,6 +215,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 03时41分]"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯高度赞赏与土库曼斯坦德加强战略伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20251212152321580800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "欧元集团（由欧元区成员国财长组成）启动遴选欧洲央行副行长的程序。",
@@ -262,7 +295,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -300,17 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "王曼昱4比1朱芊曦",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%941%E6%9C%B1%E8%8A%8A%E6%9B%A6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "孙正义质押给贷款机构的软银集团股份削减了21亿美元",
@@ -369,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 04时44分]"
+        },
+        {
+          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
+          "url": "https://www.cls.cn/detail/2227456",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "特斯拉11月美国销量跌至近四年低点，廉价车型未能扭转颓势",
