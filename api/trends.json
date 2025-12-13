@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T00:48:10.029019+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2025-12-14T01:18:08.371755+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "长城汽车：全面审视井持续强化内部价格合规管理体系建设",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "据俄罗斯媒体：俄方称南部集团军部队在康斯坦丁诺夫卡地区摧毁一辆德国豹1A5坦克。",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "海南省政府与国家能源集团签署全面深化战略合作协议",
@@ -48,19 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
-        },
-        {
-          "title": "据巴勒斯坦媒体：以色列空袭加沙城西一辆汽车造成的伤亡人数已上升至4人死亡，20多人受伤。",
-          "url": "https://flash.jin10.com/detail/20251213222834029800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "2025WTT 香港总决赛女单半决赛，陈熠 0:4 王曼昱，如何评价本场比赛？",
@@ -71,19 +60,43 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "据巴勒斯坦媒体：以色列空袭加沙城西一辆汽车造成的伤亡人数已上升至4人死亡，20多人受伤。",
+          "url": "https://flash.jin10.com/detail/20251213222834029800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "蒯曼击败孙颖莎 晋级香港女单决赛",
           "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E5%87%BB%E8%B4%A5%E5%AD%99%E9%A2%96%E8%8E%8E+%E6%99%8B%E7%BA%A7%E9%A6%99%E6%B8%AF%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "小米现车开售后二手行情崩塌",
+          "url": "https://www.toutiao.com/trending/7583167861523529754/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 01时18分]"
         },
         {
           "title": "王曼昱4比0陈熠 晋级总决赛冠军战",
@@ -91,11 +104,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 00时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设",
@@ -105,19 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时48分]"
-        },
-        {
-          "title": "小米现车开售后二手行情崩塌",
-          "url": "https://www.toutiao.com/trending/7583167861523529754/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时18分]"
         }
       ]
     }
