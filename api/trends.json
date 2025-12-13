@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:44:34.346791+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-12-13T14:31:25.638504+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -171,6 +171,19 @@
           "time_info": "[01时20分 ~ 02时32分]"
         },
         {
+          "title": "比亚迪的「可变磁通量电机」技术原理是什么？旨在解决什么问题？",
+          "url": "https://www.zhihu.com/question/1982403934460085815",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时31分]"
+        },
+        {
           "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
           "url": "https://www.zhihu.com/question/1982603963074355711",
           "source": "知乎",
@@ -181,18 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时03分 ~ 12时00分]"
-        },
-        {
-          "title": "比亚迪的「可变磁通量电机」技术原理是什么？旨在解决什么问题？",
-          "url": "https://www.zhihu.com/question/1982403934460085815",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时44分]"
         },
         {
           "title": "瑞银集团涨幅重新扩大至3.5%，报34.80（瑞郎），瑞士盘初曾达到35.17，创2008年一季度以来盘中新高，延续近期上涨的趋势。 一个由具有影响力的瑞士议员组成的团体建议，降低针对瑞银的（AT1）资本要求。",
