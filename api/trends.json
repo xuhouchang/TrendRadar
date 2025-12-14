@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T01:18:07.064564+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-12-15T01:41:33.603728+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "WTT 香港总决赛女单决赛，王曼昱 4-2 蒯曼夺冠，如何评价本场比赛？",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "蔚来在上海建成500座充换电站",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "王曼昱卫冕WTT总决赛女单冠军",
@@ -66,8 +68,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "阿联酋总统与塞浦路斯总统讨论加强双边关系、投资、能源、经济合作以及加强欧盟与海湾国家关系的前景，以及区域发展。",
@@ -77,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时41分]"
         },
         {
           "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
@@ -88,8 +90,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时41分]"
         }
       ]
     }
