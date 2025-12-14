@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T04:42:51.932356+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-12-15T05:18:55.623047+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "王曼昱击败蒯曼夺冠",
@@ -33,8 +33,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 02时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "蔚来在上海建成500座充换电站",
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "阿联酋总统与塞浦路斯总统讨论加强双边关系、投资、能源、经济合作以及加强欧盟与海湾国家关系的前景，以及区域发展。",
@@ -58,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             17,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 04时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "王曼昱卫冕WTT总决赛女单冠军",
@@ -76,8 +77,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 04时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
@@ -113,11 +114,12 @@
             25,
             20,
             19,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 05时18分]"
         },
         {
           "title": "王曼昱正手三连杀 最后一分神了",
