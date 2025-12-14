@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T19:17:35.282279+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-12-14T19:38:48.861732+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -252,6 +252,18 @@
           "time_info": "[15时19分 ~ 15时39分]"
         },
         {
+          "title": "据黎巴嫩媒体：以色列空袭黎巴嫩南部巴拉什特镇一辆汽车。",
+          "url": "https://flash.jin10.com/detail/20251214182943280800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时38分]"
+        },
+        {
           "title": "羽绒服往往不是穿坏的 保养坑不要踩",
           "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%BE%80%E5%BE%80%E4%B8%8D%E6%98%AF%E7%A9%BF%E5%9D%8F%E7%9A%84+%E4%BF%9D%E5%85%BB%E5%9D%91%E4%B8%8D%E8%A6%81%E8%B8%A9",
           "source": "百度热搜",
@@ -262,18 +274,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 11时39分]"
-        },
-        {
-          "title": "据黎巴嫩媒体：以色列空袭黎巴嫩南部巴拉什特镇一辆汽车。",
-          "url": "https://flash.jin10.com/detail/20251214182943280800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时17分]"
         },
         {
           "title": "特斯拉教练车现身杭州 学费五千多",
