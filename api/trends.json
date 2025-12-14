@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T04:22:42.445995+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-12-15T04:42:51.932356+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "王曼昱击败蒯曼夺冠",
@@ -49,8 +49,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 04时42分]"
+        },
+        {
+          "title": "阿联酋总统与塞浦路斯总统讨论加强双边关系、投资、能源、经济合作以及加强欧盟与海湾国家关系的前景，以及区域发展。",
+          "url": "https://flash.jin10.com/detail/20251214212707925800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "王曼昱卫冕WTT总决赛女单冠军",
@@ -64,8 +76,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 04时42分]"
+        },
+        {
+          "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
+          "url": "https://flash.jin10.com/detail/20251214204744094800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "WTT 香港总决赛女单决赛，王曼昱 4-2 蒯曼夺冠，如何评价本场比赛？",
@@ -81,30 +105,6 @@
           "time_info": "[00时24分 ~ 01时41分]"
         },
         {
-          "title": "阿联酋总统与塞浦路斯总统讨论加强双边关系、投资、能源、经济合作以及加强欧盟与海湾国家关系的前景，以及区域发展。",
-          "url": "https://flash.jin10.com/detail/20251214212707925800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
-          "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
-          "url": "https://flash.jin10.com/detail/20251214204744094800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
           "title": "王曼昱冠军",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -112,11 +112,12 @@
             1,
             25,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 04时42分]"
         },
         {
           "title": "王曼昱正手三连杀 最后一分神了",
