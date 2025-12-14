@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:20:57.439247+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2025-12-14T17:41:24.422649+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -238,6 +238,19 @@
           "time_info": "[15时19分 ~ 15时39分]"
         },
         {
+          "title": "零跑汽车：杜绝任何形式的价格欺诈和不正当竞争行为",
+          "url": "https://wallstreetcn.com/livenews/3020358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 17时41分]"
+        },
+        {
           "title": "羽绒服往往不是穿坏的 保养坑不要踩",
           "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%BE%80%E5%BE%80%E4%B8%8D%E6%98%AF%E7%A9%BF%E5%9D%8F%E7%9A%84+%E4%BF%9D%E5%85%BB%E5%9D%91%E4%B8%8D%E8%A6%81%E8%B8%A9",
           "source": "百度热搜",
@@ -248,19 +261,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 11时39分]"
-        },
-        {
-          "title": "零跑汽车：杜绝任何形式的价格欺诈和不正当竞争行为",
-          "url": "https://wallstreetcn.com/livenews/3020358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时20分]"
         },
         {
           "title": "特斯拉教练车现身杭州 学费五千多",
