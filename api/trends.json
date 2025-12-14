@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:44:21.161713+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-14T14:31:14.180546+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时24分 ~ 07时40分]"
+        },
+        {
+          "title": "外媒眼中的中国经济关键词",
+          "url": "https://www.douyin.com/hot/2335953",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 14时31分]"
         },
         {
           "title": "2025WTT 香港总决赛女单半决赛，陈熠 0:4 王曼昱，如何评价本场比赛？",
@@ -172,17 +183,6 @@
           "time_info": "[00时24分 ~ 07时40分]"
         },
         {
-          "title": "外媒眼中的中国经济关键词",
-          "url": "https://www.douyin.com/hot/2335953",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时44分]"
-        },
-        {
           "title": "德国总理默茨在海德堡与欧洲议会保守派集团领导人Manfred Weber一同举行的新闻发布会上表示：只有拥有具备竞争力的制造业，我们才能为气候保护做出贡献。 我们需要尽快纠正欧洲的条件，让这个行业在欧洲拥有未来。",
           "url": "https://wallstreetcn.com/livenews/3020268",
           "source": "华尔街见闻-快讯",
@@ -194,6 +194,21 @@
           "time_info": "[05时39分 ~ 07时40分]"
         },
         {
+          "title": "王曼昱晋级决赛",
+          "url": "https://www.douyin.com/hot/2335681",
+          "source": "抖音",
+          "ranks": [
+            10,
+            21,
+            26,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时31分]"
+        },
+        {
           "title": "全球最大汽车安全试验中心投入使用",
           "url": "https://wallstreetcn.com/livenews/3020330",
           "source": "华尔街见闻-快讯",
@@ -201,11 +216,12 @@
             3,
             10,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时31分]"
         },
         {
           "title": "羽绒服往往不是穿坏的 保养坑不要踩",
@@ -218,20 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 11时39分]"
-        },
-        {
-          "title": "王曼昱晋级决赛",
-          "url": "https://www.douyin.com/hot/2335681",
-          "source": "抖音",
-          "ranks": [
-            10,
-            21,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时44分]"
         },
         {
           "title": "特斯拉教练车现身杭州 学费五千多",
