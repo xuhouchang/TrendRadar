@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:41:24.422649+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-12-14T18:20:46.617760+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -244,11 +244,12 @@
           "ranks": [
             9,
             11,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 18时20分]"
         },
         {
           "title": "羽绒服往往不是穿坏的 保养坑不要踩",
