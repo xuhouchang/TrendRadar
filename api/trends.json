@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:20:50.446904+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2025-12-14T13:44:21.161713+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 13时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 13时44分]"
         },
         {
           "title": "据巴勒斯坦媒体：以色列空袭加沙城西一辆汽车造成的伤亡人数已上升至4人死亡，20多人受伤。",
@@ -179,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时44分]"
         },
         {
           "title": "德国总理默茨在海德堡与欧洲议会保守派集团领导人Manfred Weber一同举行的新闻发布会上表示：只有拥有具备竞争力的制造业，我们才能为气候保护做出贡献。 我们需要尽快纠正欧洲的条件，让这个行业在欧洲拥有未来。",
@@ -200,11 +200,12 @@
           "ranks": [
             3,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时44分]"
         },
         {
           "title": "羽绒服往往不是穿坏的 保养坑不要踩",
@@ -225,11 +226,12 @@
           "ranks": [
             10,
             21,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 13时44分]"
         },
         {
           "title": "特斯拉教练车现身杭州 学费五千多",
