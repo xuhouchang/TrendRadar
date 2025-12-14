@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T03:38:22.794819+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-12-15T04:22:42.445995+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             5,
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "王曼昱击败蒯曼夺冠",
@@ -44,11 +45,12 @@
             7,
             9,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "王曼昱卫冕WTT总决赛女单冠军",
@@ -62,8 +64,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "WTT 香港总决赛女单决赛，王曼昱 4-2 蒯曼夺冠，如何评价本场比赛？",
@@ -83,22 +85,24 @@
           "url": "https://flash.jin10.com/detail/20251214212707925800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
           "url": "https://flash.jin10.com/detail/20251214204744094800",
           "source": "金十数据",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "王曼昱冠军",
@@ -107,11 +111,12 @@
           "ranks": [
             1,
             25,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 04时22分]"
         },
         {
           "title": "王曼昱正手三连杀 最后一分神了",
@@ -120,7 +125,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
