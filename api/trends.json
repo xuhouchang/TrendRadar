@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T13:26:34.258583+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2025-12-15T13:49:45.820798+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -148,11 +148,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时49分]"
         },
         {
           "title": "A股大消费板块集体拉升，食品、乳业、零售、白酒等纷纷走强，欢乐家、皇氏集团、均瑶健康、阳光乳业、百大集团、东百集团、皇台酒业等多股涨停，骑士乳业涨超10%。",
