@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:28:26.116961+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-12-16T05:18:51.568091+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -16,19 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 04时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时18分]"
         },
         {
-          "title": "马斯克身家现已达6000亿美元。（福布斯）",
-          "url": "https://wallstreetcn.com/livenews/3021144",
+          "title": "福特汽车为电动汽车投资计提195亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3021173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "贝莱德集团下跌1%。 据彭博报道，荷兰养老基金PME认为，贝莱德不再遵守一系列可持续目标。",
@@ -55,15 +55,37 @@
           "time_info": "[03时20分 ~ 04时28分]"
         },
         {
+          "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3021170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "福特拟将肯塔基电动汽车电池工厂转为生产电网储能电池",
           "url": "https://flash.jin10.com/detail/20251216035046076800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3021168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "通用汽车敲定一份协议，将在未来的汽车产品提供苹果音乐（Apple Music）。",
@@ -79,6 +101,30 @@
           "time_info": "[02时33分 ~ 04时28分]"
         },
         {
+          "title": "马斯克身家现已达6000亿美元。（福布斯）",
+          "url": "https://wallstreetcn.com/livenews/3021144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时18分]"
+        },
+        {
+          "title": "2526 赛季英超第 16 轮，水晶宫 0:3 曼城，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1983658831331495986",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 05时18分]"
+        },
+        {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
           "url": "https://www.cls.cn/detail/2229889",
           "source": "财联社热门",
@@ -91,6 +137,17 @@
           "time_info": "[00时01分 ~ 01时25分]"
         },
         {
+          "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
+          "url": "https://flash.jin10.com/detail/20251216050109624800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "福布斯：马斯克净资产突破6700亿美元 距离万亿富翁比失去首富头衔更近",
           "url": "https://flash.jin10.com/detail/20251216031801479800",
           "source": "金十数据",
@@ -101,18 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时28分]"
-        },
-        {
-          "title": "2526 赛季英超第 16 轮，水晶宫 0:3 曼城，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1983658831331495986",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "俄罗斯黑海舰队新闻处负责人：关于黑海舰队新罗西斯克海军基地海湾内一艘潜艇遭“摧毁”的消息不属实。",
@@ -227,7 +272,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
