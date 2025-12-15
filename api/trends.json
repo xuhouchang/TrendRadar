@@ -1,544 +1,66 @@
 {
-  "generated_at": "2025-12-15T23:25:32.979170+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2025-12-16T00:01:51.146992+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 5,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
           "url": "https://wallstreetcn.com/articles/3761393",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时41分 ~ 23时25分]"
-        },
-        {
-          "title": "王曼昱击败蒯曼夺冠",
-          "url": "https://www.douyin.com/hot/2336464",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            20,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 12时41分]"
-        },
-        {
-          "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
-          "url": "https://wallstreetcn.com/livenews/3020424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            5,
-            8,
-            10,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 06时42分]"
-        },
-        {
-          "title": "蔚来在上海建成500座充换电站",
-          "url": "https://wallstreetcn.com/livenews/3020419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            9,
-            12,
-            14,
-            18,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 06时42分]"
-        },
-        {
-          "title": "王曼昱冠军",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            25,
-            20,
-            19,
-            18,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时28分 ~ 07时19分]"
-        },
-        {
-          "title": "阿联酋总统与塞浦路斯总统讨论加强双边关系、投资、能源、经济合作以及加强欧盟与海湾国家关系的前景，以及区域发展。",
-          "url": "https://flash.jin10.com/detail/20251214212707925800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 05时39分]"
-        },
-        {
-          "title": "王曼昱卫冕WTT总决赛女单冠军",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8D%AB%E5%86%95WTT%E6%80%BB%E5%86%B3%E8%B5%9B%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 05时39分]"
-        },
-        {
-          "title": "科威特石油部长：正在为阿曼杜库姆的石化项目寻找合作伙伴，但若未找到投资者，也已准备好与阿曼共同推进该项目。",
-          "url": "https://flash.jin10.com/detail/20251214204744094800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 04时42分]"
-        },
-        {
-          "title": "WTT 香港总决赛女单决赛，王曼昱 4-2 蒯曼夺冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1983589975074239526",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 01时41分]"
-        },
-        {
-          "title": "王曼昱收获1500冠军积分和8万美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%94%B6%E8%8E%B71500%E5%86%A0%E5%86%9B%E7%A7%AF%E5%88%86%E5%92%8C8%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            28,
-            29,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时16分 ~ 09时46分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价逼近一年高位，最新上涨4.1%。",
-          "url": "https://flash.jin10.com/detail/20251215223824389800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "A股大消费板块集体拉升，食品、乳业、零售、白酒等纷纷走强，欢乐家、皇氏集团、均瑶健康、阳光乳业、百大集团、东百集团、皇台酒业等多股涨停，骑士乳业涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3020560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "00时01分"
         },
         {
           "title": "曹操出行：集团业务营运正常，整体业务基本面未发生任何重大不利变化",
           "url": "https://wallstreetcn.com/livenews/3021073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "A股可控核聚变概念延续强势，雪人集团、华菱线缆3连板，国机重装2连板，中泰股份、斯瑞新材、中国西电涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3020555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "国家发文禁止亏本卖车，比亚迪、长城等响应，是否意味着车市「价格战」即将结束？",
-          "url": "https://www.zhihu.com/question/1983538465825109868",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "百大集团：西子联合于2025年12月10日至12月11日减持公司股份数量139.94万股，占公司总股本的0.37%。截至本公告披露日，西子联合上述减持计划尚未实施完毕，但根据实际情况及资金安排，西子联合决定提前终止本次减持计划。",
-          "url": "https://wallstreetcn.com/livenews/3020950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时47分]"
-        },
-        {
-          "title": "金十图示：2025年12月15日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251215110628788800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯法院裁定力拓集团向俄铝（RUSAL）支付1047.5亿卢布。",
-          "url": "https://flash.jin10.com/detail/20251215191746247800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "曼城3-0水晶宫",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E6%B0%B4%E6%99%B6%E5%AE%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时33分]"
-        },
-        {
-          "title": "市场监管总局：11月共7家汽车生产企业宣布召回共计24.45万辆汽车",
-          "url": "https://wallstreetcn.com/livenews/3020671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时26分]"
-        },
-        {
-          "title": "宁德时代与传化集团签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3020833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时32分]"
-        },
-        {
-          "title": "中汽协付炳锋：L3级自动驾驶车型产品获得许可，智能网联汽车迈入量产应用新阶段",
-          "url": "https://wallstreetcn.com/livenews/3020931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
+          "time_info": "00时01分"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
           "url": "https://www.cls.cn/detail/2229889",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时25分]"
-        },
-        {
-          "title": "马斯克：太阳是天空中一个巨大的、免费的聚变反应堆。在地球上建造小型反应堆简直愚蠢至极。",
-          "url": "https://flash.jin10.com/detail/20251215063751582800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时40分]"
-        },
-        {
-          "title": "避免对“券商加杠杆”理解偏颇，注意吴清主席发言中的三个关键词",
-          "url": "https://www.cls.cn/detail/2228934",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "赛力斯：积极响应《汽车行业价格行为合规指南》",
-          "url": "https://wallstreetcn.com/livenews/3020772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时45分]"
-        },
-        {
-          "title": "航天机电：公司主营业务不涉及商业航天。公司目前主要经营汽车热系统产业和光伏产业两大产业。",
-          "url": "https://wallstreetcn.com/livenews/3020854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时27分]"
-        },
-        {
-          "title": "小鹏第三个海外本地化生产项目落地马来西亚",
-          "url": "https://wallstreetcn.com/livenews/3020770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时45分]"
-        },
-        {
-          "title": "三菱日联金融集团（MUFG）据悉将达成收购印度Shriram Finance股份的协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3020852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时27分]"
-        },
-        {
-          "title": "蚂蚁集团推出AI健康应用阿福",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BAAI%E5%81%A5%E5%BA%B7%E5%BA%94%E7%94%A8%E9%98%BF%E7%A6%8F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
-          "title": "小米集团(01810.HK)12月15日以约3亿港元回购720万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20251215183754992800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "00时01分"
         },
         {
-          "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3020535",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪海洋双旗舰定名海豹08海狮08",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E6%B4%8B%E5%8F%8C%E6%97%97%E8%88%B0%E5%AE%9A%E5%90%8D%E6%B5%B7%E8%B1%B908%E6%B5%B7%E7%8B%AE08%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.34%，恒生科技指数收跌2.48%，科网股多数走低，华虹半导体跌超6%，百度跌超5%；消费股、内险股走高，李宁涨超5%，中国平安涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3020828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "据韩联社：通用汽车韩国子公司表示，计划向在韩业务投资3亿美元。此举旨在缓解市场对其可能考虑缩减在韩生产规模的担忧。",
-          "url": "https://flash.jin10.com/detail/20251215105022712800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "00时01分"
         },
         {
           "title": "特斯拉涨约4.9%，报481.37美元，逼近2024年12月顶部488.54美元。",
           "url": "https://wallstreetcn.com/livenews/3021057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "墨西哥经济部长：关税不会显著提高亚洲汽车的价格。",
-          "url": "https://flash.jin10.com/detail/20251215215758175800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "比亚迪海洋双旗舰定名海豹08海狮08",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E6%B4%8B%E5%8F%8C%E6%97%97%E8%88%B0%E5%AE%9A%E5%90%8D%E6%B5%B7%E8%B1%B908%E6%B5%B7%E7%8B%AE08%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "极米科技：全资子公司宜宾市极米光电有限公司于近日收到某国内知名汽车主机厂的开发定点通知，宜宾极米将成为该客户某车型的车载投影供应商。",
-          "url": "https://wallstreetcn.com/livenews/3020814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "小鹏汽车与EPMB签署车辆组装协议",
-          "url": "https://wallstreetcn.com/livenews/3020733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "如何从汽车大国变身汽车强国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E4%BB%8E%E6%B1%BD%E8%BD%A6%E5%A4%A7%E5%9B%BD%E5%8F%98%E8%BA%AB%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "中国工信部许可两款L3级自动驾驶车型产品，两款产品分别来自长安汽车和北汽蓝谷。",
-          "url": "https://wallstreetcn.com/livenews/3020808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "A股保险板块震荡走强，中国平安涨超4%，创2021年4月以来新高；中国太保、新华保险、中国人保、中国人寿涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3020616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "华为乾崑探索智能汽车无人区",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8E%A2%E7%B4%A2%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E6%97%A0%E4%BA%BA%E5%8C%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "王曼昱正手三连杀 最后一分神了",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%AD%A3%E6%89%8B%E4%B8%89%E8%BF%9E%E6%9D%80+%E6%9C%80%E5%90%8E%E4%B8%80%E5%88%86%E7%A5%9E%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "00时01分"
         }
       ]
     }
