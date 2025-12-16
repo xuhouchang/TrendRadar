@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T05:42:57.282370+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-17T06:20:12.819162+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "360集团：玉红所称“财务造假”等言论完全背离事实，将追究法律责任",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "几十亿财务造假？周鸿祎遭前高管玉红“炮轰”，360集团火速否认",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "周鸿祎被指控“财务造假”，360集团发布声明",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "欧盟拟放弃2035年燃油车禁令 只因“卷”不过特斯拉和比亚迪…",
@@ -64,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
@@ -76,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 05时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价上涨2.9%，触及历史新高，市值超1.6万亿美元。",
@@ -85,22 +85,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 05时42分]"
-        },
-        {
-          "title": "周二（12月16日），彭博电动汽车价格回报指数跌1.57%，报3383.42点，亚太早盘显著走低，北京时间10:00过后（主要）持续交投于3390点下方，整体呈现出长尾L形走势。 成分股中，Ola Electric Mobility Ltd.跌超7.7%，沃尔沃汽车集团（欧股）收跌超6.8%，“特斯拉劲敌”Rivian跌约4%，Lucid集团跌超2.6%，特斯拉、微宏控股（MVST）、普拉格动力公司、禾赛科技则涨超3%，小马智行涨约7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3021907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 06时20分]"
         },
         {
           "title": "特斯拉收涨3.1%，时隔一年再创收盘历史新高。",
@@ -153,17 +143,6 @@
           "time_info": "[03时20分 ~ 03时41分]"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
-          "url": "https://flash.jin10.com/detail/20251217050135170800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时42分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。",
           "url": "https://wallstreetcn.com/livenews/3021903",
           "source": "华尔街见闻-快讯",
@@ -202,11 +181,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 06时20分]"
         },
         {
           "title": "特斯拉：为德国柏林-勃兰登堡超级工厂创造条件，自2027年起实现年产高达8吉瓦时（GWh）的电池单元。 将在德国的电池单元生产领域再投入数亿欧元。",
@@ -220,6 +200,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时45分 ~ 04时25分]"
+        },
+        {
+          "title": "周二（12月16日），彭博电动汽车价格回报指数跌1.57%，报3383.42点，亚太早盘显著走低，北京时间10:00过后（主要）持续交投于3390点下方，整体呈现出长尾L形走势。 成分股中，Ola Electric Mobility Ltd.跌超7.7%，沃尔沃汽车集团（欧股）收跌超6.8%，“特斯拉劲敌”Rivian跌约4%，Lucid集团跌超2.6%，特斯拉、微宏控股（MVST）、普拉格动力公司、禾赛科技则涨超3%，小马智行涨约7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3021907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时20分]"
         },
         {
           "title": "美国总统特朗普：12月17日美东时间21:00（18日北京时间10:00）将发表全国讲话。",
@@ -246,6 +238,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 03时41分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
+          "url": "https://flash.jin10.com/detail/20251217050135170800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时20分]"
         },
         {
           "title": "美国多州起诉特朗普政府冻结电动汽车充电桩资金",
@@ -359,6 +363,28 @@
           "time_info": "[02时45分 ~ 03时41分]"
         },
         {
+          "title": "西太平洋银行：预计澳洲联储将在2026年持续按兵不动，之前预计会多次降息。",
+          "url": "https://wallstreetcn.com/livenews/3021914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "西太平洋银行：预计澳洲联储将在2026年持续按兵不动，之前预计会多次降息。",
+          "url": "https://flash.jin10.com/detail/20251217052908336800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "欧洲放宽内燃机禁令，以帮助陷入困境的汽车行业",
           "url": "https://flash.jin10.com/detail/20251216234212264800",
           "source": "金十数据",
@@ -370,6 +396,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3021906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
           "url": "https://flash.jin10.com/detail/20251217021002477800",
           "source": "金十数据",
@@ -379,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.34%，报7556.33点。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。 ETF中，XtrackersHarvest中证50（ASHS）收跌1.26%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。 中国科技指数ETF（CQQQ）收跌0.60%，中概互联网指数ETF（KWEB）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3021903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "白宫幕僚长发表惊人言论：马斯克是“吸毒者”，副总统是“阴谋论者”",
