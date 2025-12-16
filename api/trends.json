@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:24:10.062673+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-16T15:45:10.541893+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 15时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 15时45分]"
         },
         {
           "title": "【早报】纳斯达克：申请将工作日交易时长延长至23小时；特斯拉无人驾驶要来了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时20分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[07时20分 ~ 15时45分]"
         },
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -66,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时21分 ~ 15时24分]"
+          "appearance_count": 20,
+          "time_info": "[06时21分 ~ 15时45分]"
         },
         {
           "title": "曼联与伯恩茅斯上演进球大战",
@@ -80,11 +80,12 @@
             12,
             7,
             17,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时43分 ~ 14时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时43分 ~ 15时45分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -98,6 +99,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
+          "url": "https://www.cls.cn/detail/2230679",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时56分 ~ 15时45分]"
         },
         {
           "title": "曼联战平伯恩茅斯",
@@ -148,6 +163,19 @@
           "time_info": "[03时20分 ~ 05时43分]"
         },
         {
+          "title": "余承东任华为终端公司董事长",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 15时45分]"
+        },
+        {
           "title": "美军在太平洋对三艘涉嫌贩毒船只发动致命袭击",
           "url": "https://flash.jin10.com/detail/20251216124950421800",
           "source": "金十数据",
@@ -160,16 +188,15 @@
           "time_info": "[12时56分 ~ 13时47分]"
         },
         {
-          "title": "余承东任华为终端公司董事长",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
+          "url": "https://wallstreetcn.com/articles/3761459",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 15时45分]"
         },
         {
           "title": "2526 赛季英超第 16 轮，曼联 4:4 伯恩茅斯，如何评价这场比赛？",
@@ -194,19 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 05时20分]"
-        },
-        {
-          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
-          "url": "https://www.cls.cn/detail/2230679",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 15时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
@@ -373,17 +387,6 @@
           "time_info": "[02时33分 ~ 04时28分]"
         },
         {
-          "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
-          "url": "https://wallstreetcn.com/articles/3761459",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
           "url": "https://wallstreetcn.com/livenews/3021168",
           "source": "华尔街见闻-快讯",
@@ -407,6 +410,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 06时21分]"
+        },
+        {
+          "title": "余承东任华为终端公司董事长",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 15时45分]"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
@@ -594,15 +608,15 @@
           "time_info": "[07时41分 ~ 09时43分]"
         },
         {
-          "title": "余承东任华为终端公司董事长",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
+          "title": "金十图示：2025年12月16日（周二）富时中国A50指数成分股今日收盘行情一览：收涨个股仅7家，寒武纪、新易盛跌超4%，紫金矿业跌超3%，宁德时代跌1.8%",
+          "url": "https://flash.jin10.com/detail/20251216150529451800",
+          "source": "金十数据",
           "ranks": [
-            22
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时24分]"
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时45分]"
         },
         {
           "title": "惠誉评级：欧洲汽车供应商近期盈利能力无明显提升。",
@@ -676,6 +690,17 @@
           "time_info": "[00时01分 ~ 00时31分]"
         },
         {
+          "title": "马斯克身家跃升至6770亿美元",
+          "url": "https://www.douyin.com/hot/2337685",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 15时45分]"
+        },
+        {
           "title": "车主新买汽车还未开出园区便撞倒人",
           "url": "https://www.toutiao.com/trending/7584037708160761862/",
           "source": "今日头条",
@@ -696,17 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "金十图示：2025年12月16日（周二）富时中国A50指数成分股今日收盘行情一览：收涨个股仅7家，寒武纪、新易盛跌超4%，紫金矿业跌超3%，宁德时代跌1.8%",
-          "url": "https://flash.jin10.com/detail/20251216150529451800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         },
         {
           "title": "盛宝集团：本周数据可能令美国利率重新定价",
@@ -781,7 +795,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -792,7 +806,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
