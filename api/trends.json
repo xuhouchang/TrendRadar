@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:45:10.541893+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2025-12-16T16:31:28.589296+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时43分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[09时43分 ~ 16时31分]"
         },
         {
           "title": "【早报】纳斯达克：申请将工作日交易时长延长至23小时；特斯拉无人驾驶要来了",
@@ -81,11 +81,27 @@
             7,
             17,
             9,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 15时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 16时31分]"
+        },
+        {
+          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
+          "url": "https://www.cls.cn/detail/2230679",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时56分 ~ 16时31分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -99,20 +115,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时45分 ~ 07时42分]"
-        },
-        {
-          "title": "余承东任华为终端公司董事长 孟晚舟卸任华为终端公司董事",
-          "url": "https://www.cls.cn/detail/2230679",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时56分 ~ 15时45分]"
         },
         {
           "title": "曼联战平伯恩茅斯",
@@ -138,6 +140,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时24分 ~ 14时34分]"
+        },
+        {
+          "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
+          "url": "https://wallstreetcn.com/articles/3761459",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "如何看待杭州一小米用户提车，在离开交付中心时误触刹车撞倒汽车销售？",
@@ -186,17 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 13时47分]"
-        },
-        {
-          "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
-          "url": "https://wallstreetcn.com/articles/3761459",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 15时45分]"
         },
         {
           "title": "2526 赛季英超第 16 轮，曼联 4:4 伯恩茅斯，如何评价这场比赛？",
@@ -267,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "余承东任华为终端公司董事长",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "澳大利亚12月西太平洋/墨尔本消费者信心指数月率 -9%，前值12.80%。",
@@ -412,17 +425,6 @@
           "time_info": "[05时18分 ~ 06时21分]"
         },
         {
-          "title": "余承东任华为终端公司董事长",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BB%BB%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AF%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 15时45分]"
-        },
-        {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
           "url": "https://www.cls.cn/detail/2229889",
           "source": "财联社热门",
@@ -433,6 +435,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 01时25分]"
+        },
+        {
+          "title": "欧盟资深议员Weber：2035年起，汽车制造商车队的二氧化碳排放目标将实现90%的削减。",
+          "url": "https://flash.jin10.com/detail/20251216154707063800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "恒生指数低开0.32%，报25547.92点；恒生科技指数跌0.56%。小鹏汽车、百度、小米、阿里巴巴等跌超1%。",
