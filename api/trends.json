@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:50:05.736899+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-17T19:20:49.188410+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
@@ -116,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时53分 ~ 18时50分]"
+          "appearance_count": 15,
+          "time_info": "[12时53分 ~ 19时20分]"
         },
         {
           "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
@@ -127,11 +127,12 @@
             20,
             18,
             16,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时23分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 19时20分]"
         },
         {
           "title": "3个关键词读懂11月经济成绩单",
@@ -141,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 18时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
@@ -335,17 +336,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "烟台公安：打掉一个炒作新能源汽车负面信息团伙，抓获12人、关停8000余个账号",
-          "url": "https://wallstreetcn.com/livenews/3022349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "特斯拉：为德国柏林-勃兰登堡超级工厂创造条件，自2027年起实现年产高达8吉瓦时（GWh）的电池单元。 将在德国的电池单元生产领域再投入数亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3021854",
           "source": "华尔街见闻-快讯",
@@ -408,6 +398,19 @@
           "time_info": "[04时46分 ~ 05时42分]"
         },
         {
+          "title": "大陆集团任命Christian Koetz为首席执行官，自2026年1月1日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3022327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 19时20分]"
+        },
+        {
           "title": "欧盟委员会提议设立一类监管更宽松的小型汽车新类别。欧盟委员会根据人均国内生产总值为公司车队设定国家目标。",
           "url": "https://flash.jin10.com/detail/20251217000659739800",
           "source": "金十数据",
@@ -444,18 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
-          "title": "大陆集团任命Christian Koetz为首席执行官，自2026年1月1日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3022327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时50分]"
         },
         {
           "title": "本田发言人：由于半导体短缺，公司将于明年1月5日至6日暂停寄居（Yorii）和铃鹿（Suzuka）汽车工厂的生产运营。",
@@ -527,6 +518,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 01时49分]"
+        },
+        {
+          "title": "烟台公安：打掉一个炒作新能源汽车负面信息团伙，抓获12人、关停8000余个账号",
+          "url": "https://wallstreetcn.com/livenews/3022349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时20分]"
         },
         {
           "title": "上海机场：公司及控股子公司上海虹桥国际机场有限责任公司于12月17日在上海签订了三项免税店项目经营权转让合同，合同对方分别为杜福睿（上海）商业有限公司和中国免税品（集团）有限责任公司。",
@@ -639,6 +642,18 @@
           "time_info": "[06时20分 ~ 06时44分]"
         },
         {
+          "title": "理想汽车：2026年上市新品将在研发初期即纳入海外市场法规适配考量",
+          "url": "https://wallstreetcn.com/livenews/3022340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时20分]"
+        },
+        {
           "title": "L3级自动驾驶车型产品获准入许可，智能网联汽车迈入量产应用",
           "url": "https://wallstreetcn.com/livenews/3021929",
           "source": "华尔街见闻-快讯",
@@ -694,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "理想汽车：2026年上市新品将在研发初期即纳入海外市场法规适配考量",
-          "url": "https://wallstreetcn.com/livenews/3022340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         },
         {
           "title": "据华尔街日报：黑石集团正牵头对数据安全公司Cyera进行4亿美元投资，对该公司的估值为90亿美元。",
