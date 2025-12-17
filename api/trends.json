@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:10:32.848263+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-17T12:07:07.943660+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 11时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 12时07分]"
         },
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -90,8 +90,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 12时07分]"
+        },
+        {
+          "title": "特斯拉创历史新高！大摩大胆预测：2035年Robotaxi规模将达百万辆",
+          "url": "https://www.cls.cn/detail/2231654",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时10分]"
+          "time_info": "[09时28分 ~ 12时07分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价上涨2.9%，触及历史新高，市值超1.6万亿美元。",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时46分 ~ 06时44分]"
-        },
-        {
-          "title": "特斯拉创历史新高！大摩大胆预测：2035年Robotaxi规模将达百万辆",
-          "url": "https://www.cls.cn/detail/2231654",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时10分]"
         },
         {
           "title": "特斯拉涨2.8%，报489.53美元，突破2024年12月创盘中历史最高位488.54美元。",
@@ -267,7 +267,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -618,7 +618,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
