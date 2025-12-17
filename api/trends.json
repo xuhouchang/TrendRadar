@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:20:28.093772+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-18T03:41:23.396177+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 03时41分]"
         },
         {
           "title": "同行质疑公牛集团“10户中国家庭，7户用公牛”误导宣传，被起诉索赔420万",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 03时41分]"
         },
         {
           "title": "如何评价尊界第 10000 台车下线？",
@@ -55,8 +55,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时41分]"
         },
         {
           "title": "美国财政部将墨西哥Santa Rosa de Lima贩毒集团列入制裁名单，指责该集团盗窃燃料，扰乱全球能源市场。",
@@ -67,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 03时41分]"
         },
         {
           "title": "据两位消息人士透露，凯雷集团已聘请高盛为其竞购卢克石油公司部分资产提供顾问服务。",
@@ -79,8 +79,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 03时41分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）预计2026年波兰铜销售59.47万吨。",
@@ -88,11 +88,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 03时41分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
+          "url": "https://flash.jin10.com/detail/20251218023211737800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 03时41分]"
         },
         {
           "title": "消息人士：总部位于伦敦的INOCEA集团正就收购德国军舰制造商基尔德国海军船厂进行谈判。",
@@ -107,26 +119,15 @@
           "time_info": "[00时29分 ~ 00时57分]"
         },
         {
-          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
-          "url": "https://flash.jin10.com/detail/20251218023211737800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "标普全球评级：预计中国高端汽车市场持续严峻的市场环境将拖累大众汽车的盈利能力和自由现金流。预计大众汽车在短期内缺乏有效手段抵消美国进口关税的影响。",
           "url": "https://flash.jin10.com/detail/20251218022645812800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时41分]"
         }
       ]
     }
