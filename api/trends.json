@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T05:40:23.156835+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-12-19T06:20:47.367185+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 05时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "轮胎频繁被钉子扎 车主机智解决",
@@ -29,11 +29,12 @@
             30,
             6,
             29,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 05时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 06时20分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
@@ -48,17 +49,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时18分 ~ 05时40分]"
-        },
-        {
-          "title": "周四（12月18日），彭博电动汽车价格回报指数跌0.47%，报3377.67点。",
-          "url": "https://wallstreetcn.com/livenews/3023346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时40分]"
         },
         {
           "title": "尽管局势紧张，雪佛龙仍继续装运委内瑞拉原油",
@@ -107,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时48分]"
+        },
+        {
+          "title": "周四（12月18日），彭博电动汽车价格回报指数跌0.47%，报3377.67点。",
+          "url": "https://wallstreetcn.com/livenews/3023346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时20分]"
         },
         {
           "title": "雪佛龙继续在委内瑞拉装载油轮",
@@ -261,6 +263,28 @@
           "time_info": "01时27分"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3023354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
+          "url": "https://flash.jin10.com/detail/20251219051647002800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
           "title": "特朗普赞扬沃勒和鲍曼，称将在未来几周内公布美联储主席人选",
           "url": "https://wallstreetcn.com/livenews/3023309",
           "source": "华尔街见闻-快讯",
@@ -270,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3023341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "佩斯科夫：七国集团模式已经过时",
