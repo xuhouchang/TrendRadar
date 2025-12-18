@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T18:49:00.391078+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-12-18T19:20:18.434554+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "商务部：中欧双方正在就电动汽车案开展磋商",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时30分 ~ 18时49分]"
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -167,6 +167,17 @@
           "time_info": "[04时25分 ~ 05时43分]"
         },
         {
+          "title": "打击网络诈骗国际会议在曼谷召开，中国、缅甸等派出部级代表参会",
+          "url": "https://wallstreetcn.com/livenews/3023084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "据日经新闻：丰田汽车总裁佐藤将出任日本汽车游说团体的下一任主席。",
           "url": "https://flash.jin10.com/detail/20251218150731120800",
           "source": "金十数据",
@@ -242,6 +253,17 @@
           "time_info": "[17时51分 ~ 18时49分]"
         },
         {
+          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
+          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "据港交所文件，截至12月12日，贝莱德在长城汽车(02333.HK)H股的多头头寸由8.13%降至7.59%。",
           "url": "https://flash.jin10.com/detail/20251218172822032800",
           "source": "金十数据",
@@ -262,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "市场消息：阿曼承诺对印度企业在主要服务业领域实现100%外商直接投资。",
-          "url": "https://flash.jin10.com/detail/20251218183028717800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
@@ -324,17 +335,6 @@
           "time_info": "[05时21分 ~ 06时45分]"
         },
         {
-          "title": "市场消息：阿曼向印度提供98.1%的关税税目零关税准入。",
-          "url": "https://flash.jin10.com/detail/20251218182855910800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3022607",
           "source": "华尔街见闻-快讯",
@@ -357,6 +357,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 14时34分]"
+        },
+        {
+          "title": "深圳市政府与中航集团签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3023048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
@@ -396,18 +409,6 @@
           "time_info": "[11时11分 ~ 12时08分]"
         },
         {
-          "title": "深圳市政府与中航集团签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3023048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时49分]"
-        },
-        {
           "title": "据阿曼国家通讯社：阿曼与印度签署全面经济伙伴关系协定。",
           "url": "https://flash.jin10.com/detail/20251218180458453800",
           "source": "金十数据",
@@ -445,6 +446,18 @@
           "time_info": "[02时33分 ~ 03时41分]"
         },
         {
+          "title": "市场消息：阿曼承诺对印度企业在主要服务业领域实现100%外商直接投资。",
+          "url": "https://flash.jin10.com/detail/20251218183028717800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时20分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
           "url": "https://flash.jin10.com/detail/20251218023211737800",
           "source": "金十数据",
@@ -467,6 +480,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 04时46分]"
+        },
+        {
+          "title": "市场消息：阿曼向印度提供98.1%的关税税目零关税准入。",
+          "url": "https://flash.jin10.com/detail/20251218182855910800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时20分]"
         },
         {
           "title": "商务部：中欧双方正在就电动汽车案开展磋商",
