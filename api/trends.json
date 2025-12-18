@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T16:56:59.491741+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-12-18T17:29:05.008816+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,19 @@
           "time_info": "[00时57分 ~ 16时31分]"
         },
         {
+          "title": "这些“关键词”，带你读懂海南自贸港全岛封关",
+          "url": "https://www.cls.cn/detail/2233036",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 17时29分]"
+        },
+        {
           "title": "炒作新能源汽车负面信息团伙被打掉",
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
           "source": "百度热搜",
@@ -92,6 +105,17 @@
           "time_info": "[09时29分 ~ 16时31分]"
         },
         {
+          "title": "商务部：中欧双方正在就电动汽车案开展磋商",
+          "url": "https://news.ifeng.com/c/8pBahKvgWws",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 17时29分]"
+        },
+        {
           "title": "马斯克携巨款重投共和党意欲何为",
           "url": "https://www.toutiao.com/trending/7585021017584569899/",
           "source": "今日头条",
@@ -102,17 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时22分 ~ 15时44分]"
-        },
-        {
-          "title": "商务部：中欧双方正在就电动汽车案开展磋商",
-          "url": "https://news.ifeng.com/c/8pBahKvgWws",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 16时56分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 06时21分]"
-        },
-        {
-          "title": "这些“关键词”，带你读懂海南自贸港全岛封关",
-          "url": "https://www.cls.cn/detail/2233036",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 16时56分]"
         },
         {
           "title": "据CNBC：LVMH集团首席执行官贝阿尔诺表示，希望自己能再干十年，目前尚不打算退休。",
@@ -298,6 +299,19 @@
           "time_info": "[13时23分 ~ 14时34分]"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时29分]"
+        },
+        {
           "title": "小鹏汽车法务部：关于“盗电”违法行为已报案，部分案件已成功侦破",
           "url": "https://wallstreetcn.com/livenews/3022894",
           "source": "华尔街见闻-快讯",
@@ -332,18 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时44分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3022988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时56分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）预计2026年波兰铜销售59.47万吨。",
