@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T21:37:15.312472+08:00",
-  "total_titles_processed": 2118,
+  "generated_at": "2025-12-18T22:23:34.684165+08:00",
+  "total_titles_processed": 2205,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,18 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
+          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时23分]"
+        },
+        {
           "title": "2025关键词是祛魅吗",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%85%B3%E9%94%AE%E8%AF%8D%E6%98%AF%E7%A5%9B%E9%AD%85%E5%90%97",
           "source": "bilibili 热搜",
@@ -115,18 +127,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[09时29分 ~ 16时31分]"
-        },
-        {
-          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
-          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时37分]"
         },
         {
           "title": "马斯克携巨款重投共和党意欲何为",
@@ -413,6 +413,18 @@
           "time_info": "19时41分"
         },
         {
+          "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32203221",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时23分]"
+        },
+        {
           "title": "特朗普媒体科技集团(DJT.O)：交易预计于2026年年中完成。",
           "url": "https://flash.jin10.com/detail/20251218193251152800",
           "source": "金十数据",
@@ -633,15 +645,16 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
-          "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32203221",
-          "source": "澎湃新闻",
+          "title": "轮胎频繁被钉子扎 车主机智解决",
+          "url": "https://www.toutiao.com/trending/7584588663188389938/",
+          "source": "今日头条",
           "ranks": [
-            13
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时23分]"
         },
         {
           "title": "消息人士：总部位于伦敦的INOCEA集团正就收购德国军舰制造商基尔德国海军船厂进行谈判。",
@@ -677,17 +690,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时43分]"
-        },
-        {
-          "title": "轮胎频繁被钉子扎 车主机智解决",
-          "url": "https://www.toutiao.com/trending/7584588663188389938/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "陈平安一嗓子给我喊回来了",
