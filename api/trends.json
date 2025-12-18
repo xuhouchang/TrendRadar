@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T01:48:30.598704+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-19T02:32:15.388324+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "轮胎频繁被钉子扎 车主机智解决",
@@ -29,8 +29,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 01时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，创11月26日（当天收涨1.4%）以来最大单日涨幅，报359.93点。 在十个板块中，北欧工业板块涨幅最大。 高科技工程集团Sandvik AB（山特维克股份）涨3.8%，在一众北欧个股里领跑。",
@@ -46,15 +46,26 @@
           "time_info": "[00时57分 ~ 01时48分]"
         },
         {
-          "title": "花旗集团就美国货币监理署（OCC）撤销2024年7月修正案表示，正投入必要资源以推动系统现代化，并强化风险与控制环境。大多数项目已达到或接近“目标状态”，并已开始显现改进成效，包括更完善、标准化、自动化和数字化的控制措施所带来的益处。",
-          "url": "https://flash.jin10.com/detail/20251219012044008800",
+          "title": "雪佛龙继续在委内瑞拉装载油轮",
+          "url": "https://flash.jin10.com/detail/20251219020250432800",
           "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "02时32分"
+        },
+        {
+          "title": "通用汽车CEO Barra通过“魔鬼考验”考察Anderson的接班潜力",
+          "url": "https://wallstreetcn.com/livenews/3023294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "莱茵集团：将把波兰海上风电开发项目出售给波兰电力公司。交易预计于2026年第一季度完成。",
@@ -79,6 +90,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时48分]"
+        },
+        {
+          "title": "花旗集团就美国货币监理署（OCC）撤销2024年7月修正案表示，正投入必要资源以推动系统现代化，并强化风险与控制环境。大多数项目已达到或接近“目标状态”，并已开始显现改进成效，包括更完善、标准化、自动化和数字化的控制措施所带来的益处。",
+          "url": "https://flash.jin10.com/detail/20251219012044008800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 02时32分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
