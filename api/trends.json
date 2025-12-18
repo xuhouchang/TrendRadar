@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T13:23:19.537479+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-12-18T13:47:19.715029+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
             22,
             9,
             13,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 13时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时57分 ~ 13时47分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
@@ -84,6 +85,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时25分 ~ 06时21分]"
+        },
+        {
+          "title": "炒作新能源汽车负面信息团伙被打掉",
+          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 13时47分]"
         },
         {
           "title": "据CNBC：LVMH集团首席执行官贝阿尔诺表示，希望自己能再干十年，目前尚不打算退休。",
@@ -110,17 +126,6 @@
           "time_info": "[04时25分 ~ 05时43分]"
         },
         {
-          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251218125501281800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
           "url": "https://www.cls.cn/detail/2232805",
           "source": "财联社热门",
@@ -132,21 +137,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时29分 ~ 12时55分]"
-        },
-        {
-          "title": "炒作新能源汽车负面信息团伙被打掉",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 13时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -232,6 +222,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "迪拜将3月官方原油价格设定为较阿曼均价贴水0.10美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251218125501281800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时47分]"
         },
         {
           "title": "创业板指跌超2%，权重股宁德时代、中际旭创、新易盛、阳光电源均跌超3%。",
