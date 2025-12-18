@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T09:29:25.669696+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-12-18T11:11:35.317144+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 09时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 11时11分]"
         },
         {
           "title": "如何评价尊界第 10000 台车下线？",
@@ -123,13 +123,24 @@
           "time_info": "[05时43分 ~ 07时20分]"
         },
         {
+          "title": "创业板指跌超2%，权重股宁德时代、中际旭创、新易盛、阳光电源均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3022793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
           "url": "https://wallstreetcn.com/livenews/3022713",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -233,6 +244,30 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
+          "url": "https://www.cls.cn/detail/2232805",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时11分]"
+        },
+        {
+          "title": "炒作新能源汽车负面信息团伙被打掉",
+          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时11分]"
+        },
+        {
           "title": "消息人士：总部位于伦敦的INOCEA集团正就收购德国军舰制造商基尔德国海军船厂进行谈判。",
           "url": "https://flash.jin10.com/detail/20251218000105968800",
           "source": "金十数据",
@@ -267,35 +302,13 @@
           "time_info": "[05时21分 ~ 05时43分]"
         },
         {
-          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
-          "url": "https://www.cls.cn/detail/2232805",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "炒作新能源汽车负面信息团伙被打掉",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "市场消息：SOC投资集团正向亚马逊、沃尔玛及Alphabet询问，要求这些企业说明特朗普政府的移民政策如何影响其财务状况与供应链。",
           "url": "https://flash.jin10.com/detail/20251218080802005800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -306,9 +319,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "小米创办人、董事长兼CEO雷军在微博发文称，小米17Ultra，下周正式发布。",
+          "url": "https://wallstreetcn.com/livenews/3022756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     }
