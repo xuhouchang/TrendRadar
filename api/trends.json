@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:24:18.384156+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-12-19T18:47:48.092600+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时41分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[09时41分 ~ 18时47分]"
         },
         {
           "title": "欧委会近期密集对中车集团等多家中企发起调查，商务部：强烈反对",
@@ -89,6 +89,19 @@
           "time_info": "[03时18分 ~ 05时40分]"
         },
         {
+          "title": "三角洲平安果行动攻略",
+          "url": "https://www.douyin.com/hot/2341223",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 18时47分]"
+        },
+        {
           "title": "旧国标电动车秒变“零公里二手车”",
           "url": "https://www.toutiao.com/trending/7584280089505366058/",
           "source": "今日头条",
@@ -124,19 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时40分]"
-        },
-        {
-          "title": "三角洲平安果行动攻略",
-          "url": "https://www.douyin.com/hot/2341223",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "美国CPI通胀报告出炉当天，标普500指数初步收涨0.8%，可选消费板块涨1.9%，电信、科技板块涨1.5%，能源板块跌1.4%。 纳斯达克100指数初步收涨1.5%，成分股中，美光科技涨10.4%，拉姆研究涨6.5%，核电股CEG涨6.1%，Applovin、星巴克、Palantir、科磊、Doordash、特斯拉至少涨3.9%，贝克休斯则跌1.8%，PAYX跌2.1%，华纳兄弟探索WBD跌2.3%，Diamondback Energy跌4.9%。 亚马逊初步收涨2.5%，英伟达涨2%，Merck涨1.8%，微软涨1.7%，领跑道指成分股，联合健康、雪佛龙、宝洁则跌超1%。 半导体指数中行2.5%。",
@@ -185,17 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：中国正在发生创新，AI革命将是中美两国更紧密的合作，就像特斯拉、苹果主动积极拥抱中国",
-          "url": "https://wallstreetcn.com/livenews/3023843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "雪佛龙继续在委内瑞拉装载油轮",
@@ -306,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时48分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：中国正在发生创新，AI革命将是中美两国更紧密的合作，就像特斯拉、苹果主动积极拥抱中国",
+          "url": "https://wallstreetcn.com/livenews/3023843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时47分]"
         },
         {
           "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
@@ -538,9 +539,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "森麒麟：摩洛哥工厂正常生产运营，公司保留对造谣中伤行为追究法律责任的权利",
+          "url": "https://wallstreetcn.com/livenews/3023862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "丰田汽车将从2026年开始在日本销售美国制造的汽车，将在日本销售三款美国制造的车型。",
@@ -563,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "小米集团：12月19日回购375万股B类普通股，耗资约1.5亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3023850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "恒生科技指数涨幅扩大至1%。地平线机器人涨近7%，小鹏汽车涨近5%。",
