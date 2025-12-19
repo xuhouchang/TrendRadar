@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T07:20:24.205804+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-12-20T07:41:10.511405+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             8,
             7,
             22,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 07时41分]"
         },
         {
           "title": "英国财富流失潮加剧：保守党金主曼苏尔回归埃及",
@@ -61,6 +62,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时20分 ~ 07时20分]"
+        },
+        {
+          "title": "三角洲平安果行动攻略",
+          "url": "https://www.douyin.com/hot/2341223",
+          "source": "抖音",
+          "ranks": [
+            25,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时38分 ~ 07时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.9%，本周累跌约1.3%。 热门中概股里，小马智行初步收涨11.7%，小鹏涨6.7%，再鼎医药涨5.1%，理想涨5%，万国数据涨4.3%，贝壳跌1%，Boss直聘跌2.6%。",
@@ -108,24 +122,12 @@
           "ranks": [
             8,
             13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "三角洲平安果行动攻略",
-          "url": "https://www.douyin.com/hot/2341223",
-          "source": "抖音",
-          "ranks": [
-            25,
-            17,
-            23
+            16,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时38分 ~ 07时20分]"
+          "time_info": "[06时21分 ~ 07时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.86%，报7639.32点，本周累计下跌1.43%，整体呈现出W形震荡走势。 热门中概股里，小马智行初步收涨11.7%，小鹏涨6.7%，再鼎医药涨5.1%，理想涨5%，万国数据涨4.3%，贝壳跌1%，Boss直聘跌2.6%。 ETF中，中国科技指数ETF（CQQQ）收涨1.20%，中概互联网指数ETF（KWEB）收涨0.86%。 XtrackersHarvest中证50（ASHS）收涨0.99%，德银嘉实沪深300指数ETF（ASHR）收涨0.40%。",
