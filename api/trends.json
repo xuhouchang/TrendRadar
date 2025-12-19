@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:38:52.939191+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2025-12-20T04:23:46.666243+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时23分]"
         },
         {
           "title": "英国财富流失潮加剧：保守党金主曼苏尔回归埃及",
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             8,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时55分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时23分]"
         },
         {
           "title": "存在溜车风险，福特在美国召回超27万辆电动和混动汽车",
@@ -77,7 +78,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         }
