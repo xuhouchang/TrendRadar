@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T00:53:22.865245+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2025-12-20T01:19:53.418861+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时19分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时19分]"
         }
       ]
     }
