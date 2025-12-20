@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T00:24:39.471919+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-21T00:46:42.022857+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "2025年度知识关键词",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "十大关键词，回顾2025中国电影市场的高光与阵痛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32210233",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -81,8 +82,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis NV的CEO Antonio Filosa：欧盟没能在修订版气候政策中“围绕促进本公司在欧洲扩大投资”提供清晰的增长路线图。 欧洲气候政策表明，（本公司）不存在为了增长而重返欧洲汽车行业的紧迫性。 缺少了增长，很难考虑扩大（在欧洲的）投资。（英国金融时报）",
@@ -92,8 +93,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时46分]"
         }
       ]
     }
