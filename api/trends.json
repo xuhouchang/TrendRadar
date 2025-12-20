@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T16:48:43.471346+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-12-20T17:20:40.190604+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 16时48分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 17时20分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -38,8 +38,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时04分 ~ 16时48分]"
+          "appearance_count": 16,
+          "time_info": "[11时04分 ~ 17时20分]"
+        },
+        {
+          "title": "2025年度知识关键词",
+          "url": "https://www.douyin.com/hot/2342008",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 17时20分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时27分 ~ 12时01分]"
-        },
-        {
-          "title": "2025年度知识关键词",
-          "url": "https://www.douyin.com/hot/2342008",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 16时48分]"
         },
         {
           "title": "三角洲平安果行动攻略",
@@ -102,21 +102,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时04分 ~ 16时48分]"
-        },
-        {
-          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
-          "url": "https://wallstreetcn.com/livenews/3024244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 16时48分]"
+          "appearance_count": 16,
+          "time_info": "[11时04分 ~ 17时20分]"
         },
         {
           "title": "小米给全国汽车经销商发超一亿元“红包”",
@@ -126,11 +113,26 @@
             4,
             7,
             8,
-            14
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 17时20分]"
+        },
+        {
+          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
+          "url": "https://wallstreetcn.com/livenews/3024244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            10,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时21分 ~ 16时48分]"
+          "time_info": "[13时45分 ~ 17时20分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -172,11 +174,12 @@
             1,
             6,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时48分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时20分]"
         },
         {
           "title": "英国财富流失潮加剧：保守党金主曼苏尔回归埃及",
@@ -205,6 +208,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 13时21分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时20分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -260,17 +276,15 @@
           "time_info": "[04时44分 ~ 06时21分]"
         },
         {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
+          "title": "巴西电动“飞行汽车”原型机完成首飞",
+          "url": "https://wallstreetcn.com/livenews/3024260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            24,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
