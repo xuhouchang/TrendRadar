@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:43:51.708235+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2025-12-20T19:16:49.647844+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时20分 ~ 18时43分]"
+          "appearance_count": 16,
+          "time_info": "[13时20分 ~ 19时16分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时04分 ~ 18时43分]"
+          "appearance_count": 20,
+          "time_info": "[11时04分 ~ 19时16分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -106,6 +107,40 @@
           "time_info": "[13时21分 ~ 18时20分]"
         },
         {
+          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
+          "url": "https://flash.jin10.com/detail/20251220133230149800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            10,
+            11,
+            15,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 19时16分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            5,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 19时16分]"
+        },
+        {
           "title": "十大关键词，回顾2025中国电影市场的高光与阵痛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32210233",
           "source": "澎湃新闻",
@@ -119,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时04分 ~ 18时43分]"
+          "appearance_count": 20,
+          "time_info": "[11时04分 ~ 19时16分]"
         },
         {
           "title": "三角洲平安果行动攻略",
@@ -141,38 +176,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[03时38分 ~ 18时20分]"
-        },
-        {
-          "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
-          "url": "https://flash.jin10.com/detail/20251220133230149800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            10,
-            11,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 18时43分]"
-        },
-        {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 18时43分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -222,6 +225,21 @@
           "time_info": "[02时55分 ~ 04时44分]"
         },
         {
+          "title": "巴西电动“飞行汽车”原型机完成首飞",
+          "url": "https://wallstreetcn.com/livenews/3024260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            10,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "马斯克点赞王力宏伴舞机器人",
           "url": "https://www.toutiao.com/trending/7585536096348553235/",
           "source": "今日头条",
@@ -233,20 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时01分 ~ 13时21分]"
-        },
-        {
-          "title": "巴西电动“飞行汽车”原型机完成首飞",
-          "url": "https://wallstreetcn.com/livenews/3024260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时43分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -302,6 +306,20 @@
           "time_info": "[04时44分 ~ 06时21分]"
         },
         {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            24,
+            18,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 19时16分]"
+        },
+        {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
           "url": "https://wallstreetcn.com/livenews/3024173",
           "source": "华尔街见闻-快讯",
@@ -326,20 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 11时05分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            24,
-            18,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时43分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
