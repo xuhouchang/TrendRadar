@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:17:55.641820+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2025-12-21T05:39:12.014110+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 05时39分]"
         },
         {
           "title": "2025年度知识关键词",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 05时39分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 05时39分]"
         },
         {
           "title": "十大关键词，回顾2025中国电影市场的高光与阵痛",
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 05时39分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 05时39分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
@@ -88,8 +88,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 05时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时17分 ~ 05时39分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis NV的CEO Antonio Filosa：欧盟没能在修订版气候政策中“围绕促进本公司在欧洲扩大投资”提供清晰的增长路线图。 欧洲气候政策表明，（本公司）不存在为了增长而重返欧洲汽车行业的紧迫性。 缺少了增长，很难考虑扩大（在欧洲的）投资。（英国金融时报）",
@@ -102,6 +102,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 05时17分]"
+        },
+        {
+          "title": "华为新手机充电时电池爆了 售后拒保",
+          "url": "https://www.toutiao.com/trending/7585507417572573225/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 05时39分]"
         },
         {
           "title": "UP主锐评开云集团香水",
@@ -139,26 +152,13 @@
           "time_info": "[03时37分 ~ 04时21分]"
         },
         {
-          "title": "华为新手机充电时电池爆了 售后拒保",
-          "url": "https://www.toutiao.com/trending/7585507417572573225/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
           "title": "三角洲平安果行动攻略",
           "url": "https://www.douyin.com/hot/2341223",
           "source": "抖音",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
