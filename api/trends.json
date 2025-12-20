@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T18:20:37.956016+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-12-20T18:43:51.708235+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 18时43分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时20分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[13时20分 ~ 18时43分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时04分 ~ 18时20分]"
+          "appearance_count": 19,
+          "time_info": "[11时04分 ~ 18时43分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -70,6 +70,23 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时27分 ~ 12时01分]"
+        },
+        {
+          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
+          "url": "https://wallstreetcn.com/livenews/3024244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            10,
+            19,
+            22,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 18时43分]"
         },
         {
           "title": "小米给全国汽车经销商发超一亿元“红包”",
@@ -102,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时04分 ~ 18时20分]"
+          "appearance_count": 19,
+          "time_info": "[11时04分 ~ 18时43分]"
         },
         {
           "title": "三角洲平安果行动攻略",
@@ -126,22 +143,6 @@
           "time_info": "[03时38分 ~ 18时20分]"
         },
         {
-          "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
-          "url": "https://wallstreetcn.com/livenews/3024244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            10,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时20分]"
-        },
-        {
           "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
           "url": "https://flash.jin10.com/detail/20251220133230149800",
           "source": "金十数据",
@@ -151,11 +152,27 @@
             10,
             11,
             15,
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时31分 ~ 18时43分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            5,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时31分 ~ 18时20分]"
+          "time_info": "[15时38分 ~ 18时43分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -188,20 +205,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时01分 ~ 16时48分]"
-        },
-        {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时38分 ~ 18时20分]"
         },
         {
           "title": "英国财富流失潮加剧：保守党金主曼苏尔回归埃及",
@@ -238,11 +241,12 @@
           "ranks": [
             4,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 18时43分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -324,6 +328,20 @@
           "time_info": "[09时29分 ~ 11时05分]"
         },
         {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            24,
+            18,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时43分]"
+        },
+        {
           "title": "马斯克赢得560亿美元薪酬方案",
           "url": "https://www.toutiao.com/trending/7584824117158985770/",
           "source": "今日头条",
@@ -348,19 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 14时31分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            24,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 18时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.86%，报7639.32点，本周累计下跌1.43%，整体呈现出W形震荡走势。 热门中概股里，小马智行初步收涨11.7%，小鹏涨6.7%，再鼎医药涨5.1%，理想涨5%，万国数据涨4.3%，贝壳跌1%，Boss直聘跌2.6%。 ETF中，中国科技指数ETF（CQQQ）收涨1.20%，中概互联网指数ETF（KWEB）收涨0.86%。 XtrackersHarvest中证50（ASHS）收涨0.99%，德银嘉实沪深300指数ETF（ASHR）收涨0.40%。",
