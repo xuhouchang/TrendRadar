@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T07:40:36.531445+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-12-21T09:47:33.360916+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "2025年度知识关键词",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -77,11 +77,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 07时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
@@ -132,11 +133,12 @@
           "url": "https://wallstreetcn.com/livenews/3024339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时40分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 09时47分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
