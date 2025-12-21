@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T07:19:38.810531+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-22T07:41:00.036411+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 07时40分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
@@ -26,11 +26,12 @@
             3,
             6,
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时19分 ~ 07时19分]"
+          "appearance_count": 6,
+          "time_info": "[05时19分 ~ 07时40分]"
         }
       ]
     }
