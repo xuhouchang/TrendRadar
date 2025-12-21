@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:21:15.051152+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-12-21T17:41:53.301740+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 37,
+          "time_info": "[00时24分 ~ 17时41分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -57,22 +57,6 @@
           "time_info": "[00时24分 ~ 07时40分]"
         },
         {
-          "title": "老虎咬观光车轮胎 被同伴制止还炸毛",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E8%99%8E%E5%92%AC%E8%A7%82%E5%85%89%E8%BD%A6%E8%BD%AE%E8%83%8E+%E8%A2%AB%E5%90%8C%E4%BC%B4%E5%88%B6%E6%AD%A2%E8%BF%98%E7%82%B8%E6%AF%9B",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9,
-            8,
-            7,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时37分 ~ 17时21分]"
-        },
-        {
           "title": "2025年度知识关键词",
           "url": "https://www.douyin.com/hot/2342008",
           "source": "抖音",
@@ -91,6 +75,23 @@
           "is_new": false,
           "appearance_count": 32,
           "time_info": "[00时24分 ~ 15时40分]"
+        },
+        {
+          "title": "老虎咬观光车轮胎 被同伴制止还炸毛",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E8%99%8E%E5%92%AC%E8%A7%82%E5%85%89%E8%BD%A6%E8%BD%AE%E8%83%8E+%E8%A2%AB%E5%90%8C%E4%BC%B4%E5%88%B6%E6%AD%A2%E8%BF%98%E7%82%B8%E6%AF%9B",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9,
+            8,
+            7,
+            13,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 17时41分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -133,8 +134,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时37分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 17时41分]"
         },
         {
           "title": "华为新手机充电时电池爆了 售后拒保",
@@ -172,11 +173,12 @@
             8,
             10,
             21,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 17时41分]"
         },
         {
           "title": "崔东树：中国汽车引领中国出口高质量增长",
