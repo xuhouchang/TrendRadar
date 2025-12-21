@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:21:09.204257+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-12-21T18:44:28.224472+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时24分 ~ 18时21分]"
+          "appearance_count": 40,
+          "time_info": "[00时24分 ~ 18时44分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -107,6 +107,22 @@
           "time_info": "[00时24分 ~ 09时47分]"
         },
         {
+          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            18,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时37分 ~ 18时44分]"
+        },
+        {
           "title": "马斯克赢得560亿美元薪酬方案",
           "url": "https://www.douyin.com/hot/2342030",
           "source": "抖音",
@@ -121,21 +137,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时17分 ~ 07时40分]"
-        },
-        {
-          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            18,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时37分 ~ 18时21分]"
         },
         {
           "title": "华为新手机充电时电池爆了 售后拒保",
