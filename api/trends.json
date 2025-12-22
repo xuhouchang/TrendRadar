@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:43:17.506090+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2025-12-22T21:35:25.086774+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -38,11 +38,12 @@
             7,
             12,
             6,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时24分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[15时24分 ~ 21时35分]"
         },
         {
           "title": "阿斯顿维拉主场胜曼联",
@@ -100,6 +101,18 @@
           "time_info": "[11时43分 ~ 13时25分]"
         },
         {
+          "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时35分]"
+        },
+        {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E5%8D%96%E7%88%86%E7%B1%B3%E8%8A%B1",
           "source": "百度热搜",
@@ -128,18 +141,6 @@
           "time_info": "[11时43分 ~ 13时48分]"
         },
         {
-          "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
-          "url": "https://www.zhihu.com/question/1985806313826043181",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时43分]"
-        },
-        {
           "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
           "url": "https://wallstreetcn.com/articles/3761794",
           "source": "华尔街见闻",
@@ -152,6 +153,17 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
+          "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
+          "url": "https://news.ifeng.com/c/8pIN9NpA1ze",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "和十几年前相比，如今的汽车大降价了，是不是材料被「偷工减料」了，品质大不如以前了？",
           "url": "https://www.zhihu.com/question/1935860756613674447",
           "source": "知乎",
@@ -162,6 +174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时24分 ~ 17时52分]"
+        },
+        {
+          "title": "Matrix可再生能源公司与特斯拉签署协议，在英国合作开发电池储能项目。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3024986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」合理吗？",
@@ -186,15 +209,17 @@
           "time_info": "09时47分"
         },
         {
-          "title": "亿纬锂能投资10亿建设钠电总部，同步布局机器人AI中心",
-          "url": "https://wallstreetcn.com/livenews/3024959",
+          "title": "华夏幸福：董事会拒绝中国平安人寿增加五项临时提案至股东大会",
+          "url": "https://wallstreetcn.com/livenews/3024932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            15,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时35分]"
         },
         {
           "title": "“深港汽车快通计划”正式实施",
@@ -220,18 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
-          "title": "华夏幸福：董事会拒绝中国平安人寿增加五项临时提案至股东大会",
-          "url": "https://wallstreetcn.com/livenews/3024932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 20时43分]"
         },
         {
           "title": "俄武装力量总参谋部作战训练局长在汽车炸弹爆炸中身亡",
@@ -317,6 +330,18 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
+          "title": "亿纬锂能投资10亿建设钠电总部，同步布局机器人AI中心",
+          "url": "https://wallstreetcn.com/livenews/3024959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时35分]"
+        },
+        {
           "title": "小米集团(01810.HK)12月22日以1.495亿港元回购380万股。",
           "url": "https://flash.jin10.com/detail/20251222182542779800",
           "source": "金十数据",
@@ -327,6 +352,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 19时19分]"
+        },
+        {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时35分]"
         },
         {
           "title": "海口“十五五”规划建议：用好进口商品“零关税”、加工增值内销免关税等政策 扩大暂时进出境修理、再制造产品进出口等试点效应",
@@ -341,18 +379,6 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
-          "title": "俄军中将遭汽车炸弹爆炸身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时43分]"
-        },
-        {
           "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
           "url": "https://flash.jin10.com/detail/20251222131309919800",
           "source": "金十数据",
@@ -363,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 14时36分]"
+        },
+        {
+          "title": "小米给汽车经销商发超1亿元“红包”？ 官方回应：仅针对“车融合店”",
+          "url": "https://wallstreetcn.com/livenews/3024938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时35分]"
         },
         {
           "title": "蜜雪集团一度涨逾13%，其美国首店开业",
@@ -441,17 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
-        },
-        {
-          "title": "小米给汽车经销商发超1亿元“红包”？ 官方回应：仅针对“车融合店”",
-          "url": "https://wallstreetcn.com/livenews/3024938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "波兰国家石油公司：挪威子公司收购了北海阿尔布斯凯尔和韦斯特埃科菲斯油田的股份，该交易将使公司资源增加约800万桶油当量。该项目涉及从总共三个矿藏启动生产，每年为集团额外提供4.2亿立方米天然气。",
