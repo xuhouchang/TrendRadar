@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T16:31:37.246944+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-12-22T17:29:17.917500+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -99,15 +99,16 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
-          "title": "“深港汽车快通计划”正式实施",
-          "url": "https://wallstreetcn.com/livenews/3024806",
-          "source": "华尔街见闻-快讯",
+          "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
+          "url": "https://www.zhihu.com/question/1985392228986798563",
+          "source": "知乎",
           "ranks": [
-            2
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时29分]"
         },
         {
           "title": "俄军一高官在汽车炸弹爆炸中身亡",
@@ -115,11 +116,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 17时29分]"
         },
         {
           "title": "华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」合理吗？",
@@ -128,7 +130,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -144,16 +146,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
-          "url": "https://www.zhihu.com/question/1985392228986798563",
+          "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
           "source": "知乎",
           "ranks": [
-            7,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
@@ -166,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时45分]"
+        },
+        {
+          "title": "“深港汽车快通计划”正式实施",
+          "url": "https://wallstreetcn.com/livenews/3024806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "俄武装力量总参谋部作战训练局长在汽车炸弹爆炸中身亡",
@@ -251,6 +264,18 @@
           "time_info": "[12时40分 ~ 13时25分]"
         },
         {
+          "title": "和十几年前相比，如今的汽车大降价了，是不是材料被「偷工减料」了，品质大不如以前了？",
+          "url": "https://www.zhihu.com/question/1935860756613674447",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时29分]"
+        },
+        {
           "title": "海口“十五五”规划建议：用好进口商品“零关税”、加工增值内销免关税等政策 扩大暂时进出境修理、再制造产品进出口等试点效应",
           "url": "https://wallstreetcn.com/livenews/3024662",
           "source": "华尔街见闻-快讯",
@@ -261,18 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时40分]"
-        },
-        {
-          "title": "和十几年前相比，如今的汽车大降价了，是不是材料被「偷工减料」了，品质大不如以前了？",
-          "url": "https://www.zhihu.com/question/1935860756613674447",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时31分]"
         },
         {
           "title": "经过数月的延误，英国旨在促进曼彻斯特、利兹和利物浦等城市经济增长的北方动力铁路计划将在新年公布其高级别细节。",
@@ -332,6 +345,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "波兰国家石油公司：挪威子公司收购了北海阿尔布斯凯尔和韦斯特埃科菲斯油田的股份，该交易将使公司资源增加约800万桶油当量。该项目涉及从总共三个矿藏启动生产，每年为集团额外提供4.2亿立方米天然气。",
+          "url": "https://flash.jin10.com/detail/20251222163744159800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
           "url": "https://wallstreetcn.com/livenews/3024551",
           "source": "华尔街见闻-快讯",
@@ -360,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
