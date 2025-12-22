@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:40:51.485684+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-12-22T13:25:09.355209+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时25分]"
         },
         {
           "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时25分]"
         },
         {
           "title": "海南自贸区板块继续大涨，海汽集团、海南发展2连板，凯撒旅业、海德股份、海峡股份、海南瑞泽、海南橡胶、海南高速等涨超5%。",
@@ -80,15 +80,17 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
-          "title": "泰国11月汽车出口同比下滑12.22%（10月为下降1.51%）。",
-          "url": "https://flash.jin10.com/detail/20251222115711938800",
-          "source": "金十数据",
+          "title": "2526 赛季英超第 17 轮，阿斯顿维拉 2:1 曼联，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1986233227304773190",
+          "source": "知乎",
           "ranks": [
-            5
+            10,
+            13,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时25分]"
         },
         {
           "title": "特斯拉提交新专利：将Starlink接收器嵌入天窗，绕过网络运营商",
@@ -119,7 +121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -136,28 +138,16 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
-          "title": "海口“十五五”规划建议：用好进口商品“零关税”、加工增值内销免关税等政策 扩大暂时进出境修理、再制造产品进出口等试点效应",
-          "url": "https://wallstreetcn.com/livenews/3024662",
-          "source": "华尔街见闻-快讯",
+          "title": "泰国11月汽车出口同比下滑12.22%（10月为下降1.51%）。",
+          "url": "https://flash.jin10.com/detail/20251222115711938800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            20
+            5,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
-        },
-        {
-          "title": "2526 赛季英超第 17 轮，阿斯顿维拉 2:1 曼联，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1986233227304773190",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时40分]"
+          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -165,7 +155,20 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时25分]"
+        },
+        {
+          "title": "海口“十五五”规划建议：用好进口商品“零关税”、加工增值内销免关税等政策 扩大暂时进出境修理、再制造产品进出口等试点效应",
+          "url": "https://wallstreetcn.com/livenews/3024662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
