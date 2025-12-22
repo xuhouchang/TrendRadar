@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T04:23:50.815022+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-23T04:45:32.332439+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -38,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
+        },
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 04时45分]"
         },
         {
           "title": "韩四大企业集团掌门人拟访华",
@@ -54,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "华夏幸福预重整博弈升级 董事会全数否决平安五项提案",
@@ -68,20 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
-        },
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -94,11 +94,12 @@
             24,
             18,
             17,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）11月铜产量6.03万吨，同比下滑2%。 11月铜销售6.21万吨，同比增长2%。",
@@ -115,6 +116,19 @@
           "time_info": "[00时27分 ~ 01时43分]"
         },
         {
+          "title": "卡尼任命前贝莱德高管怀斯曼为加拿大驻美国大使",
+          "url": "https://flash.jin10.com/detail/20251223022404607800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 04时45分]"
+        },
+        {
           "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
           "url": "https://www.zhihu.com/question/1985392228986798563",
           "source": "知乎",
@@ -126,19 +140,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 01时43分]"
-        },
-        {
-          "title": "卡尼任命前贝莱德高管怀斯曼为加拿大驻美国大使",
-          "url": "https://flash.jin10.com/detail/20251223022404607800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时23分]"
         },
         {
           "title": "加拿大总理卡尼任命马克·怀斯曼为驻华盛顿大使，其将于明年2月15日正式接任。",
