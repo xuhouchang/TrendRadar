@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T17:52:07.090691+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-12-22T18:23:12.623348+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,30 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
+          "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
+          "url": "https://www.zhihu.com/question/1985392228986798563",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 18时23分]"
+        },
+        {
+          "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
           "url": "https://flash.jin10.com/detail/20251222043920328800",
           "source": "金十数据",
@@ -48,16 +72,19 @@
           "time_info": "[05时19分 ~ 07时40分]"
         },
         {
-          "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
-          "url": "https://www.zhihu.com/question/1985392228986798563",
-          "source": "知乎",
+          "title": "俄军一高官在汽车炸弹爆炸中身亡",
+          "url": "https://www.toutiao.com/trending/7586567701565489215/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            12
+            6,
+            9,
+            19,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时45分 ~ 18时23分]"
         },
         {
           "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
@@ -69,18 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 13时25分]"
-        },
-        {
-          "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
-          "url": "https://www.zhihu.com/question/1985806313826043181",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 17时52分]"
         },
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -95,20 +110,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时43分 ~ 14时36分]"
-        },
-        {
-          "title": "俄军一高官在汽车炸弹爆炸中身亡",
-          "url": "https://www.toutiao.com/trending/7586567701565489215/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 17时52分]"
         },
         {
           "title": "2526 赛季英超第 17 轮，阿斯顿维拉 2:1 曼联，如何评价这场比赛？",
