@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T23:23:05.290459+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-12-22T23:45:45.747238+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时40分 ~ 23时23分]"
+          "appearance_count": 9,
+          "time_info": "[19时40分 ~ 23时45分]"
         },
         {
           "title": "有消费者称华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -43,6 +43,17 @@
           "time_info": "[17时29分 ~ 19时19分]"
         },
         {
+          "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
+          "url": "https://news.ifeng.com/c/8pIN9NpA1ze",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时35分 ~ 23时45分]"
+        },
+        {
           "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
           "url": "https://www.zhihu.com/question/1985392228986798563",
           "source": "知乎",
@@ -55,19 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时24分 ~ 23时23分]"
-        },
-        {
-          "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
-          "url": "https://news.ifeng.com/c/8pIN9NpA1ze",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时35分 ~ 23时23分]"
+          "appearance_count": 20,
+          "time_info": "[15时24分 ~ 23时45分]"
         },
         {
           "title": "阿斯顿维拉主场胜曼联",
@@ -84,6 +84,22 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            22,
+            20,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时19分 ~ 23时45分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
           "url": "https://flash.jin10.com/detail/20251222043920328800",
           "source": "金十数据",
@@ -97,21 +113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时19分 ~ 07时40分]"
-        },
-        {
-          "title": "俄军中将遭汽车炸弹爆炸身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            22,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时19分 ~ 23时23分]"
         },
         {
           "title": "俄军一高官在汽车炸弹爆炸中身亡",
@@ -214,6 +215,20 @@
           "time_info": "09时47分"
         },
         {
+          "title": "吉利汽车宣布，完成极氪私有化。",
+          "url": "https://wallstreetcn.com/livenews/3025012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 23时45分]"
+        },
+        {
           "title": "圣诞曼波妆四件套",
           "url": "https://www.douyin.com/hot/2344313",
           "source": "抖音",
@@ -224,17 +239,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3025030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
         },
         {
           "title": "华夏幸福：董事会拒绝中国平安人寿增加五项临时提案至股东大会",
@@ -286,19 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时45分]"
-        },
-        {
-          "title": "吉利汽车宣布，完成极氪私有化。",
-          "url": "https://wallstreetcn.com/livenews/3025012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时23分]"
         },
         {
           "title": "俄武装力量总参谋部作战训练局长在汽车炸弹爆炸中身亡",
@@ -420,6 +411,18 @@
           "time_info": "[11时43分 ~ 12时40分]"
         },
         {
+          "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3025030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时45分]"
+        },
+        {
           "title": "阿信方报平安",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%96%B9%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -476,6 +479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价创下历史新高，最新上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251222224324969800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时45分]"
         },
         {
           "title": "王曼昱以积累铺就赛季荣耀之路",
@@ -586,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价创下历史新高，最新上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251222224324969800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
         },
         {
           "title": "俄罗斯调查委员会称，一名将军在莫斯科的汽车爆炸中身亡。",
