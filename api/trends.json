@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T00:54:35.648437+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-12-24T01:21:20.674537+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -35,22 +35,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "百亿富豪俞发祥被警方采取刑事强制措施，此前祥源集团爆雷涉案金额高达 200 亿元，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/1986728574279968153",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "2025年证券业十大年度关键词出炉",
@@ -61,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
