@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T23:22:44.374342+08:00",
-  "total_titles_processed": 2198,
+  "generated_at": "2025-12-23T23:45:25.328055+08:00",
+  "total_titles_processed": 2251,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时42分 ~ 23时22分]"
+          "appearance_count": 31,
+          "time_info": "[09时42分 ~ 23时45分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[13时26分 ~ 23时22分]"
+          "appearance_count": 25,
+          "time_info": "[13时26分 ~ 23时45分]"
         },
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -152,8 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时24分 ~ 23时22分]"
+          "appearance_count": 20,
+          "time_info": "[15时24分 ~ 23时45分]"
         },
         {
           "title": "韩四大企业集团掌门人拟访华",
@@ -189,8 +189,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[16时56分 ~ 23时22分]"
+          "appearance_count": 14,
+          "time_info": "[16时56分 ~ 23时45分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -213,6 +213,18 @@
           "time_info": "[00时27分 ~ 07时41分]"
         },
         {
+          "title": "2025年证券业十大年度关键词出炉",
+          "url": "https://www.cls.cn/detail/2237592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时19分 ~ 23时45分]"
+        },
+        {
           "title": "工人保龄球式卸冻鱼45分钟卸27吨",
           "url": "https://www.toutiao.com/trending/7586536921666600966/",
           "source": "今日头条",
@@ -226,18 +238,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时45分 ~ 17时48分]"
-        },
-        {
-          "title": "2025年证券业十大年度关键词出炉",
-          "url": "https://www.cls.cn/detail/2237592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时19分 ~ 23时22分]"
         },
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银齐创新高，原油大涨",
@@ -352,17 +352,6 @@
           "time_info": "[18时49分 ~ 20时44分]"
         },
         {
-          "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
-          "url": "https://wallstreetcn.com/livenews/3025670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
           "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
           "url": "https://www.zhihu.com/question/1985392228986798563",
           "source": "知乎",
@@ -388,17 +377,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时56分 ~ 18时24分]"
-        },
-        {
-          "title": "哥伦比亚财政部长Avila：在非公开配售中向太平洋投资管理公司（PIMCO，品浩）出售本币比索（主权）债券。",
-          "url": "https://wallstreetcn.com/livenews/3025668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "加通贝祥：将特斯拉(TSLA.O)目标价从482美元上调至551美元。",
@@ -564,6 +542,18 @@
           "time_info": "[13时27分 ~ 13时48分]"
         },
         {
+          "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3025670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时45分]"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251223110524092800",
           "source": "金十数据",
@@ -600,6 +590,18 @@
           "time_info": "[13时27分 ~ 13时48分]"
         },
         {
+          "title": "哥伦比亚财政部长Avila：在非公开配售中向太平洋投资管理公司（PIMCO，品浩）出售本币比索（主权）债券。",
+          "url": "https://wallstreetcn.com/livenews/3025668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时45分]"
+        },
+        {
           "title": "美国总统特朗普：我们还将与其他保险公司、汽车保险公司和房屋保险公司会面。",
           "url": "https://flash.jin10.com/detail/20251223070230285800",
           "source": "金十数据",
@@ -609,6 +611,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时41分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超0.6%。 热门中概股阿特斯太阳能跌4.7%，小鹏跌3%，名创优品跌2.5%，小马智行跌1.8%，万国数据跌1.6%，大全新能源跌1.4%，百度跌1.3%，理想跌1.2%，携程跌1.1%，再鼎医药涨0.8%，多尼斯涨7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3025664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时45分]"
         },
         {
           "title": "加拿大总理卡尼任命马克·怀斯曼为驻华盛顿大使，其将于明年2月15日正式接任。",
@@ -678,17 +692,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时56分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超0.6%。 热门中概股阿特斯太阳能跌4.7%，小鹏跌3%，名创优品跌2.5%，小马智行跌1.8%，万国数据跌1.6%，大全新能源跌1.4%，百度跌1.3%，理想跌1.2%，携程跌1.1%，再鼎医药涨0.8%，多尼斯涨7.1%。",
-          "url": "https://wallstreetcn.com/livenews/3025664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "据美国全国公共广播电台：美国称周一在太平洋东部打击了又一艘船只，造成一人死亡。",
@@ -763,7 +766,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时22分"
         },
