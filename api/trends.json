@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T07:20:10.761139+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-12-24T07:40:51.880965+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 07时40分]"
         },
         {
           "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
@@ -46,11 +46,12 @@
             15,
             19,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 07时40分]"
         },
         {
           "title": "2025年证券业十大年度关键词出炉",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时39分 ~ 05时20分]"
+        },
+        {
+          "title": "韩国财政部：汽车销售税减免措施将延长至明年6月。",
+          "url": "https://flash.jin10.com/detail/20251224070804733800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "百亿富豪俞发祥被警方采取刑事强制措施，此前祥源集团爆雷涉案金额高达 200 亿元，会带来哪些影响？",
