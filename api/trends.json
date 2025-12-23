@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:31:20.154244+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-12-23T16:56:46.366295+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 16时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 16时56分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时19分 ~ 16时31分]"
+          "appearance_count": 29,
+          "time_info": "[01时19分 ~ 16时56分]"
         },
         {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
@@ -103,6 +103,20 @@
           "time_info": "[09时42分 ~ 15时24分]"
         },
         {
+          "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
+          "url": "https://www.zhihu.com/question/1986547034866593809",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 16时56分]"
+        },
+        {
           "title": "圣诞曼波妆四件套",
           "url": "https://www.douyin.com/hot/2344313",
           "source": "抖音",
@@ -118,20 +132,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[06时21分 ~ 15时24分]"
-        },
-        {
-          "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
-          "url": "https://www.zhihu.com/question/1986547034866593809",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 16时31分]"
         },
         {
           "title": "韩四大企业集团掌门人拟访华",
@@ -180,8 +180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 16时56分]"
         },
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银齐创新高，原油大涨",
@@ -193,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
-          "url": "https://wallstreetcn.com/livenews/3025483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
@@ -267,6 +256,17 @@
           "time_info": "[03时18分 ~ 04时45分]"
         },
         {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "宝马申请防篡改螺丝专利获批，主要目的是为了提高安全性还是变相垄断售后市场？",
           "url": "https://www.zhihu.com/question/1985392228986798563",
           "source": "知乎",
@@ -278,6 +278,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 01时43分]"
+        },
+        {
+          "title": "华新建材：华新集团拟增持金额2亿至4亿元",
+          "url": "https://wallstreetcn.com/livenews/3025493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "加通贝祥：将特斯拉(TSLA.O)目标价从482美元上调至551美元。",
@@ -306,6 +317,18 @@
           "time_info": "[06时45分 ~ 07时41分]"
         },
         {
+          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
+          "url": "https://wallstreetcn.com/livenews/3025483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时56分]"
+        },
+        {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3025129",
           "source": "华尔街见闻-快讯",
@@ -330,6 +353,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 14时35分]"
+        },
+        {
+          "title": "工人保龄球式卸冻鱼45分钟卸27吨",
+          "url": "https://www.toutiao.com/trending/7586536921666600966/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时56分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.58%，报7683.26点。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.03%。 XtrackersHarvest中证50（ASHS）收涨1.15%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
@@ -418,18 +454,6 @@
           "time_info": "[13时27分 ~ 13时48分]"
         },
         {
-          "title": "工人保龄球式卸冻鱼45分钟卸27吨",
-          "url": "https://www.toutiao.com/trending/7586536921666600966/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 16时31分]"
-        },
-        {
           "title": "欧洲汽车制造商协会：欧盟1月至11月新车注册量增长1.4%，达到9,860,092辆。欧盟11月新车注册量增长2.1%，至887,491辆。11月欧盟新注册车辆中，电动汽车市场份额为65.6%。",
           "url": "https://flash.jin10.com/detail/20251223130042677800",
           "source": "金十数据",
@@ -477,6 +501,28 @@
           "time_info": "[15时24分 ~ 15时45分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：福特汽车公司召回45,047辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20251223160519545800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时56分]"
+        },
+        {
+          "title": "俄罗斯当地政府：俄罗斯塔曼港火灾已被扑灭。",
+          "url": "https://flash.jin10.com/detail/20251223160346540800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时56分]"
+        },
+        {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025030",
           "source": "华尔街见闻-快讯",
@@ -487,6 +533,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时52分]"
+        },
+        {
+          "title": "三星将以15亿欧元收购采埃孚集团的辅助驾驶业务。",
+          "url": "https://flash.jin10.com/detail/20251223160033927800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时56分]"
         },
         {
           "title": "美军在东太平洋袭击一艘“贩毒船”致1人死亡",
@@ -511,39 +568,6 @@
           "time_info": "11时27分"
         },
         {
-          "title": "美国国家公路交通安全管理局：福特汽车公司召回45,047辆美国车辆。",
-          "url": "https://flash.jin10.com/detail/20251223160519545800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "俄罗斯当地政府：俄罗斯塔曼港火灾已被扑灭。",
-          "url": "https://flash.jin10.com/detail/20251223160346540800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "三星将以15亿欧元收购采埃孚集团的辅助驾驶业务。",
-          "url": "https://flash.jin10.com/detail/20251223160033927800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "国家能源局：截至2025年11月底我国电动汽车充电基础设施（枪）总数达到1932.2万个 同比增长52.0%",
           "url": "https://wallstreetcn.com/livenews/3025284",
           "source": "华尔街见闻-快讯",
@@ -561,7 +585,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
