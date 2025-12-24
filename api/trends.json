@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:45:31.221374+08:00",
-  "total_titles_processed": 2021,
+  "generated_at": "2025-12-24T23:22:18.055017+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,17 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "河南许昌汽车站倒闭系谣言",
+          "url": "https://www.toutiao.com/trending/7586977710678622214/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时19分 ~ 23时22分]"
+        },
+        {
           "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
           "url": "https://www.zhihu.com/question/1972374354886136143",
           "source": "知乎",
@@ -81,17 +92,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时34分 ~ 17时46分]"
-        },
-        {
-          "title": "河南许昌汽车站倒闭系谣言",
-          "url": "https://www.toutiao.com/trending/7586977710678622214/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时19分 ~ 22时45分]"
         },
         {
           "title": "2025 知乎年度影人官宣，佘诗曼、王小枪、张琪、臧溪川、杨旭文、兰西雅……你有什么想问他们的？",
@@ -129,6 +129,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时44分 ~ 06时44分]"
+        },
+        {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时22分]"
         },
         {
           "title": "Waymo公司就太平洋天然气和电力公司（PG&E）停电事件发表声明：将改进我们的应急响应规程。",
@@ -176,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        },
-        {
-          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
-          "url": "https://wallstreetcn.com/livenews/3026260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "Waymo公司就太平洋天然气和电力公司（PG&E）停电事件发表声明：应对如此规模的事件对自动驾驶技术来说是一项挑战。",
@@ -488,6 +489,19 @@
           "time_info": "[19时19分 ~ 20时43分]"
         },
         {
+          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
+          "url": "https://wallstreetcn.com/livenews/3026243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "美国驻联合国特使：美国将实施制裁，剥夺马杜罗包括石油利润在内的为“太阳集团”提供资金的资源。",
           "url": "https://flash.jin10.com/detail/20251224043610958800",
           "source": "金十数据",
@@ -583,18 +597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时33分 ~ 22时20分]"
-        },
-        {
-          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
-          "url": "https://wallstreetcn.com/livenews/3026243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时45分]"
         },
         {
           "title": "胡兵薛佳凝20多年了还有售后",
