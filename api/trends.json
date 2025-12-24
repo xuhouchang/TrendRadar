@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-25T03:17:19.392770+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-25T03:39:00.699072+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "河南许昌汽车站倒闭系谣言",
+          "url": "https://www.toutiao.com/trending/7586977710678622214/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 03时39分]"
+        },
         {
           "title": "汽车角度分析COD之父车祸",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
@@ -21,15 +32,19 @@
           "time_info": "[01时18分 ~ 02时54分]"
         },
         {
-          "title": "河南许昌汽车站倒闭系谣言",
-          "url": "https://www.toutiao.com/trending/7586977710678622214/",
-          "source": "今日头条",
+          "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
+          "url": "https://wallstreetcn.com/livenews/3026299",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            4,
+            9,
+            18,
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 03时39分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
@@ -43,18 +58,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
-          "url": "https://wallstreetcn.com/livenews/3026299",
+          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
+          "url": "https://wallstreetcn.com/livenews/3026328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9,
-            18,
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 03时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "嘉能可铜业公司旗下智利曼托维德铜金矿的工会表示，若劳资合同谈判调解失败，工人准备举行罢工，停工可能于12月29日开始。 目前政府已启动为期五天的初步调解程序，若双方同意可再延长五天。",
+          "url": "https://wallstreetcn.com/livenews/3026327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "特斯拉因Model 3车门紧急开门按钮问题而面临美国国家公路交通安全管理局（NHTSA）新的调查。 NHTSA称，正根据（特斯拉车主的）请愿而推进对问题的评估。",
@@ -79,8 +102,34 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 03时39分]"
+        },
+        {
+          "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
+          "url": "https://wallstreetcn.com/livenews/3026310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时31分 ~ 03时17分]"
+          "time_info": "[02时54分 ~ 03时39分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 03时39分]"
         },
         {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
@@ -111,28 +160,15 @@
           "time_info": "[00时26分 ~ 03时17分]"
         },
         {
-          "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
-          "url": "https://wallstreetcn.com/livenews/3026310",
-          "source": "华尔街见闻-快讯",
+          "title": "宁德时代宜春枧下窝锂矿预计春节前后复产",
+          "url": "https://www.cls.cn/detail/2239212",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时17分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3026308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 03时39分]"
         },
         {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
@@ -158,17 +194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时31分]"
-        },
-        {
-          "title": "宁德时代宜春枧下窝锂矿预计春节前后复产",
-          "url": "https://www.cls.cn/detail/2239212",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
         }
       ]
     }
