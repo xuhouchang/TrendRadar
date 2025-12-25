@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T00:50:35.313969+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-26T01:19:00.590152+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "郑州中原保时捷中心人去楼空，贵州也有保时捷4S店被曝经营异常，均为同一家控股股东",
@@ -37,8 +38,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -49,30 +61,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "卢伟冰发布小米汽车最新交付成绩",
           "url": "https://www.toutiao.com/trending/7586845024520863807/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     }
