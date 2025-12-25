@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:48:33.671921+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-12-25T14:34:09.783134+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时41分 ~ 13时48分]"
+          "appearance_count": 10,
+          "time_info": "[07时41分 ~ 14时34分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -31,11 +31,12 @@
             2,
             9,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时18分 ~ 13时48分]"
+          "appearance_count": 17,
+          "time_info": "[01时18分 ~ 14时34分]"
         },
         {
           "title": "宁德时代宜春枧下窝锂矿预计春节前后复产",
@@ -76,6 +77,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 04时44分]"
+        },
+        {
+          "title": "深铁建设集团通报“有人进入在建地铁隧道拍摄视频”：两单位被追责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245639",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 14时34分]"
         },
         {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
@@ -159,18 +173,6 @@
           "time_info": "[02时31分 ~ 04时44分]"
         },
         {
-          "title": "第二批疏解央企有序落地，中国农发集团雄安总部开工",
-          "url": "https://wallstreetcn.com/livenews/3026550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时48分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
           "url": "https://wallstreetcn.com/livenews/3026308",
           "source": "华尔街见闻-快讯",
@@ -182,17 +184,17 @@
           "time_info": "02时31分"
         },
         {
-          "title": "深铁建设集团通报“有人进入在建地铁隧道拍摄视频”：两单位被追责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32245639",
-          "source": "澎湃新闻",
+          "title": "第二批疏解央企有序落地，中国农发集团雄安总部开工",
+          "url": "https://wallstreetcn.com/livenews/3026550",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18,
-            19
+            2,
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 14时34分]"
         },
         {
           "title": "商品天气集团（Commodity Weather Group）气象学家Sean Bratton：美国下周还将有另一股冷空气伴随降水席卷中西部和东海岸，导致元旦假期期间气候寒冷。 我们目前正处于一个较为多变的天气模式中。",
@@ -274,6 +276,18 @@
           "time_info": "[11时27分 ~ 12时13分]"
         },
         {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 14时34分]"
+        },
+        {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
           "url": "https://wallstreetcn.com/livenews/3026274",
           "source": "华尔街见闻-快讯",
@@ -288,6 +302,18 @@
           "time_info": "[00时26分 ~ 01时42分]"
         },
         {
+          "title": "日本计划明年在太平洋海底试挖稀土",
+          "url": "https://www.toutiao.com/trending/7587354177043857462/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 14时34分]"
+        },
+        {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
           "url": "https://wallstreetcn.com/livenews/3026260",
           "source": "华尔街见闻-快讯",
@@ -299,17 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时48分]"
         },
         {
           "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
@@ -334,18 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时31分]"
-        },
-        {
-          "title": "日本计划明年在太平洋海底试挖稀土",
-          "url": "https://www.toutiao.com/trending/7587354177043857462/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时48分]"
         },
         {
           "title": "网传“有人进入在建地铁隧道拍摄视频”，深铁建设集团通报",
