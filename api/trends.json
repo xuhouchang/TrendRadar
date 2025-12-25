@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T12:56:47.368577+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-12-25T13:25:45.093664+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "汽车角度分析COD之父车祸",
@@ -21,8 +21,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时18分 ~ 12时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 13时25分]"
+        },
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时41分 ~ 13时25分]"
         },
         {
           "title": "宁德时代宜春枧下窝锂矿预计春节前后复产",
@@ -36,18 +48,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时17分 ~ 09时43分]"
-        },
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 12时56分]"
         },
         {
           "title": "河南许昌汽车站倒闭系谣言",
@@ -169,6 +169,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "第二批疏解央企有序落地，中国农发集团雄安总部开工",
+          "url": "https://wallstreetcn.com/livenews/3026550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "商品天气集团（Commodity Weather Group）气象学家Sean Bratton：美国下周还将有另一股冷空气伴随降水席卷中西部和东海岸，导致元旦假期期间气候寒冷。 我们目前正处于一个较为多变的天气模式中。",
           "url": "https://wallstreetcn.com/livenews/3026339",
           "source": "华尔街见闻-快讯",
@@ -195,15 +206,17 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
-          "title": "丰田：11月份全球汽车产量同比下降5.5%，至821,723辆。",
-          "url": "https://wallstreetcn.com/livenews/3026529",
-          "source": "华尔街见闻-快讯",
+          "title": "深铁建设集团通报“有人进入在建地铁隧道拍摄视频”：两单位被追责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32245639",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            16,
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时25分]"
         },
         {
           "title": "特斯拉在欧洲为何卖不动了",
@@ -246,6 +259,18 @@
           "time_info": "[11时27分 ~ 12时13分]"
         },
         {
+          "title": "丰田：11月份全球汽车产量同比下降5.5%，至821,723辆。",
+          "url": "https://wallstreetcn.com/livenews/3026529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 13时25分]"
+        },
+        {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
           "url": "https://wallstreetcn.com/livenews/3026274",
           "source": "华尔街见闻-快讯",
@@ -260,18 +285,6 @@
           "time_info": "[00时26分 ~ 01时42分]"
         },
         {
-          "title": "深铁建设集团通报“有人进入在建地铁隧道拍摄视频”：两单位被追责",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32245639",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时56分]"
-        },
-        {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
           "url": "https://wallstreetcn.com/livenews/3026260",
           "source": "华尔街见闻-快讯",
@@ -283,6 +296,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
+          "url": "https://flash.jin10.com/detail/20251225123115229800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 13时25分]"
         },
         {
           "title": "特斯拉Model 3紧急开门拉手遭美国NHTSA新一轮调查",
@@ -308,15 +333,15 @@
           "time_info": "07时41分"
         },
         {
-          "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
-          "url": "https://flash.jin10.com/detail/20251225123115229800",
-          "source": "金十数据",
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "13时25分"
         },
         {
           "title": "丰田：11月份日本本土汽车产量（仅限丰田品牌）同比下降9.7%，至258,177辆。",
@@ -325,7 +350,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -336,9 +361,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "日本计划明年在太平洋海底试挖稀土",
+          "url": "https://www.toutiao.com/trending/7587354177043857462/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     }
