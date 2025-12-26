@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:47:08.567222+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2025-12-26T19:19:53.924844+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时26分 ~ 18时47分]"
+          "appearance_count": 44,
+          "time_info": "[00时26分 ~ 19时19分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时54分 ~ 18时47分]"
+          "appearance_count": 19,
+          "time_info": "[12时54分 ~ 19时19分]"
         },
         {
           "title": "解析马斯克25年最新火星移民计划",
@@ -96,11 +96,12 @@
             19,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时26分 ~ 18时47分]"
+          "appearance_count": 44,
+          "time_info": "[00时26分 ~ 19时19分]"
         },
         {
           "title": "小鹏P7送官方店检修，被私拆4个轮胎",
@@ -154,11 +155,12 @@
           "url": "https://flash.jin10.com/detail/20251226183531980800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时19分]"
         },
         {
           "title": "小鹏正式进入毛里求斯市场",
