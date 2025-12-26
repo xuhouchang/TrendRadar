@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T00:25:22.915741+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T00:48:39.312418+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7587201669700583430/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -37,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "优信集团与蔚来资本等签署5000万美元融资协议",
@@ -48,19 +50,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
           "url": "https://flash.jin10.com/detail/20251226232713729800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "纳斯达克金龙中国指数短线拉升，涨幅扩大至0.8%。热门中概股小鹏涨7.5%，理想涨3.1%，蔚来涨3.2%，拼多多涨2.1%，阿里巴巴涨1.7%。",
@@ -70,19 +73,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
           "url": "https://wallstreetcn.com/livenews/3027390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -92,19 +96,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初涨0.44%。 热门中概股叮咚买菜涨8.46%，小鹏涨3.78%，理想涨2.59%，蔚来涨1.1%，阿特斯太阳能、百胜中国、百度、阿里巴巴、贝壳、京东、华住、万国数据等至多涨0.74%。 再鼎医药跌1.83%，文远知行跌1.93%，小马智行跌3.89%。",
           "url": "https://wallstreetcn.com/livenews/3027381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         }
       ]
     }
