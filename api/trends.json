@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T01:41:37.433887+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-12-27T02:31:10.733380+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -38,11 +38,24 @@
           "ranks": [
             6,
             5,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
+        },
+        {
+          "title": "相声大师润美,平安夜远程爱国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348403&amp;topic_name=%E7%9B%B8%E5%A3%B0%E5%A4%A7%E5%B8%88%E6%B6%A6%E7%BE%8E%2C%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%BF%9C%E7%A8%8B%E7%88%B1%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "优信集团与蔚来资本等签署5000万美元融资协议",
@@ -69,16 +82,15 @@
           "time_info": "[00时25分 ~ 01时41分]"
         },
         {
-          "title": "相声大师润美,平安夜远程爱国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348403&amp;topic_name=%E7%9B%B8%E5%A3%B0%E5%A4%A7%E5%B8%88%E6%B6%A6%E7%BE%8E%2C%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%BF%9C%E7%A8%8B%E7%88%B1%E5%9B%BD",
-          "source": "贴吧",
+          "title": "多地保时捷4S店疑似“跑路”？经销商回应",
+          "url": "https://www.cls.cn/detail/2241458",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            26
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时41分]"
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -117,13 +129,24 @@
           "time_info": "[00时25分 ~ 00时48分]"
         },
         {
+          "title": "王曼昱率山东鲁能晋级乒超女团决赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%8E%87%E5%B1%B1%E4%B8%9C%E9%B2%81%E8%83%BD%E6%99%8B%E7%BA%A7%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
+        },
+        {
           "title": "封关后的海南汽车到底能不能买",
           "url": "https://www.toutiao.com/trending/7588108901032136233/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
