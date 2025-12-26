@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T18:23:03.015894+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2025-12-26T18:47:08.567222+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时26分 ~ 18时23分]"
+          "appearance_count": 43,
+          "time_info": "[00时26分 ~ 18时47分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时54分 ~ 18时23分]"
+          "appearance_count": 18,
+          "time_info": "[12时54分 ~ 18时47分]"
         },
         {
           "title": "解析马斯克25年最新火星移民计划",
@@ -99,8 +99,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时26分 ~ 18时23分]"
+          "appearance_count": 43,
+          "time_info": "[00时26分 ~ 18时47分]"
         },
         {
           "title": "小鹏P7送官方店检修，被私拆4个轮胎",
@@ -150,15 +150,15 @@
           "time_info": "[00时26分 ~ 04时44分]"
         },
         {
-          "title": "中国首批L3级自动驾驶汽车开启规模化上路运行",
-          "url": "https://wallstreetcn.com/livenews/3027223",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯第一副总理曼图罗夫：俄罗斯正推迟履行出口合同中的武器和军事装备交付，优先保障向俄罗斯武装部队的交付。",
+          "url": "https://flash.jin10.com/detail/20251226183531980800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "小鹏正式进入毛里求斯市场",
@@ -192,11 +192,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 18时47分]"
+        },
+        {
+          "title": "中国首批L3级自动驾驶汽车开启规模化上路运行",
+          "url": "https://wallstreetcn.com/livenews/3027223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时23分]"
+          "time_info": "[17时45分 ~ 18时47分]"
         },
         {
           "title": "锂电池板块开盘大涨，丰元股份、天际股份竞价涨停，湖南裕能、华盛锂电、龙蟠科技、金圆股份等涨超7%，消息面上，碳酸锂主力合约盘中强势突破13万关口，日内涨超8%，创2023年11月以来新高。",
@@ -282,6 +295,18 @@
           "time_info": "[16时29分 ~ 16时54分]"
         },
         {
+          "title": "唐湘龙：民进党就是台湾最大诈骗集团",
+          "url": "https://www.toutiao.com/trending/7587601669853364265/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 18时47分]"
+        },
+        {
           "title": "越南VN指数下跌2%，跌至1707点，该国最大的企业集团Vingroup股价跌停，跌幅7%。",
           "url": "https://flash.jin10.com/detail/20251226110011712800",
           "source": "金十数据",
@@ -304,17 +329,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时43分 ~ 16时29分]"
-        },
-        {
-          "title": "唐湘龙：民进党就是台湾最大诈骗集团",
-          "url": "https://www.toutiao.com/trending/7587601669853364265/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "中国如何布局电动汽车",
