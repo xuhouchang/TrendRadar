@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T12:54:55.900786+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-12-26T13:23:01.648591+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -29,23 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 12时54分]"
-        },
-        {
-          "title": "相声大师润美,平安夜远程爱国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348403&amp;topic_name=%E7%9B%B8%E5%A3%B0%E5%A4%A7%E5%B8%88%E6%B6%A6%E7%BE%8E%2C%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%BF%9C%E7%A8%8B%E7%88%B1%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 12时54分]"
+          "appearance_count": 28,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "东南亚股市收盘播报｜越南股市收跌超2.2%，尾盘重挫，温纳集团宣布退出南北高铁项目",
@@ -64,6 +49,34 @@
           "time_info": "[02时31分 ~ 06时44分]"
         },
         {
+          "title": "相声大师润美,平安夜远程爱国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348403&amp;topic_name=%E7%9B%B8%E5%A3%B0%E5%A4%A7%E5%B8%88%E6%B6%A6%E7%BE%8E%2C%E5%B9%B3%E5%AE%89%E5%A4%9C%E8%BF%9C%E7%A8%8B%E7%88%B1%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时26分 ~ 13时23分]"
+        },
+        {
+          "title": "解析马斯克25年最新火星移民计划",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E9%A9%AC%E6%96%AF%E5%85%8B25%E5%B9%B4%E6%9C%80%E6%96%B0%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 13时23分]"
+        },
+        {
           "title": "画师全跑光,马斯克AI贴脸盗图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
           "source": "贴吧",
@@ -72,11 +85,12 @@
             14,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 12时54分]"
+          "appearance_count": 28,
+          "time_info": "[00时26分 ~ 13时23分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -95,15 +109,28 @@
           "time_info": "[00时26分 ~ 04时44分]"
         },
         {
-          "title": "解析马斯克25年最新火星移民计划",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E9%A9%AC%E6%96%AF%E5%85%8B25%E5%B9%B4%E6%9C%80%E6%96%B0%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
+          "title": "小鹏P7送官方店检修，被私拆4个轮胎",
+          "url": "https://news.ifeng.com/c/8pOQBr9pPQh",
+          "source": "凤凰网",
           "ranks": [
-            1
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 13时23分]"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251226110616887800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时54分]"
+          "time_info": "[11时25分 ~ 13时23分]"
         },
         {
           "title": "锂电池板块开盘大涨，丰元股份、天际股份竞价涨停，湖南裕能、华盛锂电、龙蟠科技、金圆股份等涨超7%，消息面上，碳酸锂主力合约盘中强势突破13万关口，日内涨超8%，创2023年11月以来新高。",
@@ -144,30 +171,6 @@
           "time_info": "[00时26分 ~ 02时54分]"
         },
         {
-          "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251226110616887800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时54分]"
-        },
-        {
-          "title": "小鹏P7送官方店检修，被私拆4个轮胎",
-          "url": "https://news.ifeng.com/c/8pOQBr9pPQh",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 12时54分]"
-        },
-        {
           "title": "越南VN指数下跌2%，跌至1707点，该国最大的企业集团Vingroup股价跌停，跌幅7%。",
           "url": "https://flash.jin10.com/detail/20251226110011712800",
           "source": "金十数据",
@@ -180,6 +183,18 @@
           "time_info": "[11时25分 ~ 12时12分]"
         },
         {
+          "title": "马斯克今年赚了地球上其他人一生都赚不到的钱！",
+          "url": "https://www.cls.cn/detail/2240694",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 13时23分]"
+        },
+        {
           "title": "中国如何布局电动汽车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E5%B8%83%E5%B1%80%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6",
           "source": "bilibili 热搜",
@@ -189,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时41分]"
-        },
-        {
-          "title": "马斯克今年赚了地球上其他人一生都赚不到的钱！",
-          "url": "https://www.cls.cn/detail/2240694",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
@@ -222,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "刘炜珊3比2蒯曼",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%82%9C%E7%8F%8A3%E6%AF%942%E8%92%AF%E6%9B%BC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
