@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:31:10.733380+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-12-27T02:54:23.280431+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -39,11 +39,12 @@
             6,
             5,
             15,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -54,8 +55,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 02时54分]"
         },
         {
           "title": "优信集团与蔚来资本等签署5000万美元融资协议",
@@ -89,8 +90,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 02时54分]"
+        },
+        {
+          "title": "王曼昱率山东鲁能晋级乒超女团决赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%8E%87%E5%B1%B1%E4%B8%9C%E9%B2%81%E8%83%BD%E6%99%8B%E7%BA%A7%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 02时54分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -127,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时48分]"
-        },
-        {
-          "title": "王曼昱率山东鲁能晋级乒超女团决赛",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%8E%87%E5%B1%B1%E4%B8%9C%E9%B2%81%E8%83%BD%E6%99%8B%E7%BA%A7%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
         },
         {
           "title": "封关后的海南汽车到底能不能买",
