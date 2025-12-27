@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:19:42.973196+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2025-12-27T22:42:59.026414+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时07分 ~ 22时19分]"
+          "appearance_count": 26,
+          "time_info": "[12时07分 ~ 22时42分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -56,6 +56,26 @@
           "time_info": "[00时25分 ~ 11时23分]"
         },
         {
+          "title": "我的2025年度关键词",
+          "url": "https://www.douyin.com/hot/2348889",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            13,
+            16,
+            10,
+            9,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[13时22分 ~ 22时42分]"
+        },
+        {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.toutiao.com/trending/7587201669700583430/",
           "source": "今日头条",
@@ -76,25 +96,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时25分 ~ 07时42分]"
-        },
-        {
-          "title": "我的2025年度关键词",
-          "url": "https://www.douyin.com/hot/2348889",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            17,
-            15,
-            13,
-            16,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[13时22分 ~ 22时19分]"
         },
         {
           "title": "曼联1-0纽卡",
@@ -127,6 +128,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[12时07分 ~ 18时21分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时44分 ~ 22时42分]"
         },
         {
           "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
@@ -189,8 +204,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时31分 ~ 22时19分]"
+          "appearance_count": 22,
+          "time_info": "[14时31分 ~ 22时42分]"
         },
         {
           "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
@@ -239,18 +254,32 @@
           "time_info": "[02时30分 ~ 07时20分]"
         },
         {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
+          "title": "中核集团首个核医疗示范基地启用",
+          "url": "https://wallstreetcn.com/livenews/3027567",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11,
-            9,
-            10
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时44分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时42分]"
+        },
+        {
+          "title": "广药集团拟投100亿至150亿创新转型",
+          "url": "https://wallstreetcn.com/livenews/3027559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -311,30 +340,30 @@
           "time_info": "[13时45分 ~ 16时50分]"
         },
         {
-          "title": "中核集团首个核医疗示范基地启用",
-          "url": "https://wallstreetcn.com/livenews/3027567",
-          "source": "华尔街见闻-快讯",
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
           "ranks": [
-            5,
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
+          "time_info": "[21时47分 ~ 22时42分]"
         },
         {
-          "title": "广药集团拟投100亿至150亿创新转型",
-          "url": "https://wallstreetcn.com/livenews/3027559",
-          "source": "华尔街见闻-快讯",
+          "title": "中核集团首个核医疗示范基地启用",
+          "url": "https://flash.jin10.com/detail/20251227202642429800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            7,
-            13,
-            15
+            1,
+            5,
+            11,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时19分]"
+          "time_info": "[20时40分 ~ 22时42分]"
         },
         {
           "title": "樊振东陈梦王曼昱虎扑十大运动员",
@@ -370,31 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时40分]"
-        },
-        {
-          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
-          "url": "https://www.zhihu.com/question/1988011205906935872",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时19分]"
-        },
-        {
-          "title": "中核集团首个核医疗示范基地启用",
-          "url": "https://flash.jin10.com/detail/20251227202642429800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "本周，标普累涨约1.4%，道指累涨1.1%，纳指累涨1.2%，半导体指数累涨2.1%，科技股七巨头指数累涨1.7%，生物科技指数累涨1.2%，银行指数累涨1.7%。 周五当天，标普500指数初步微幅收跌不到0.01%，可选消费、能源、金融、电信等板块至多跌0.4%，科技板块涨0.2%。 纳斯达克100指数初步收跌0.08%，成分股中，Workday、TTWO、拼多多、TEAM、西部数据、英伟达至多涨1.8%，Arm控股跌1.2%，华纳兄弟探索跌1.2%，Applovin与特斯拉跌2.1%，Palantir跌2.8%。 迪士尼、麦当劳、迪士尼跌超0.7%，3M涨1%，联合健康涨1.12%，耐克涨1.4%，与英伟达领跑。",
