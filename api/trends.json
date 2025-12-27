@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T13:22:19.679659+08:00",
-  "total_titles_processed": 933,
+  "generated_at": "2025-12-27T13:45:50.189664+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -82,8 +82,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 13时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时25分 ~ 13时45分]"
         },
         {
           "title": "王曼昱率山东鲁能晋级乒超女团决赛",
@@ -128,15 +128,19 @@
           "time_info": "[05时19分 ~ 07时42分]"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约0.6%。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3027463",
-          "source": "华尔街见闻-快讯",
+          "title": "曼联1-0纽卡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-0%E7%BA%BD%E5%8D%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            3,
+            18,
+            17,
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时45分]"
         },
         {
           "title": "马斯克转发粉丝“DogeDesigner”的帖子，声称Grok的日活跃用户在过去28天里增长了66.17%。",
@@ -146,11 +150,35 @@
             1,
             4,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时45分]"
+        },
+        {
+          "title": "2025，我真的 ___ 了？个人报告中，你的年度关键词是什么，有哪些难忘的数据回顾？",
+          "url": "https://www.zhihu.com/question/1987780681246454762",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时45分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约0.6%。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3027463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时40分]"
         },
         {
           "title": "本周，标普累涨约1.4%，道指累涨1.1%，纳指累涨1.2%，半导体指数累涨2.1%，科技股七巨头指数累涨1.7%，生物科技指数累涨1.2%，银行指数累涨1.7%。 周五当天，标普500指数初步微幅收跌不到0.01%，可选消费、能源、金融、电信等板块至多跌0.4%，科技板块涨0.2%。 纳斯达克100指数初步收跌0.08%，成分股中，Workday、TTWO、拼多多、TEAM、西部数据、英伟达至多涨1.8%，Arm控股跌1.2%，华纳兄弟探索跌1.2%，Applovin与特斯拉跌2.1%，Palantir跌2.8%。 迪士尼、麦当劳、迪士尼跌超0.7%，3M涨1%，联合健康涨1.12%，耐克涨1.4%，与英伟达领跑。",
@@ -164,31 +192,42 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
-          "title": "曼联1-0纽卡",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-0%E7%BA%BD%E5%8D%A1",
-          "source": "bilibili 热搜",
+          "title": "曼联1:0纽卡",
+          "url": "https://www.douyin.com/hot/2348763",
+          "source": "抖音",
           "ranks": [
-            3,
-            18,
-            17,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 13时22分]"
-        },
-        {
-          "title": "2025，我真的 ___ 了？个人报告中，你的年度关键词是什么，有哪些难忘的数据回顾？",
-          "url": "https://www.zhihu.com/question/1987780681246454762",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
+            23,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时23分 ~ 13时22分]"
+          "time_info": "[12时07分 ~ 13时45分]"
+        },
+        {
+          "title": "海湾地区裂痕加深，沙特袭击也门境内由阿联酋支持的派系",
+          "url": "https://flash.jin10.com/detail/20251227132006990800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
+          "url": "https://wallstreetcn.com/livenews/3027516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时45分]"
         },
         {
           "title": "广东汽车坠江致5死事件情况通报",
@@ -202,30 +241,30 @@
           "time_info": "09时40分"
         },
         {
-          "title": "曼联1:0纽卡",
-          "url": "https://www.douyin.com/hot/2348763",
-          "source": "抖音",
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时22分]"
-        },
-        {
-          "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
-          "url": "https://wallstreetcn.com/livenews/3027516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
+            18,
             15,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时23分 ~ 13时22分]"
+          "time_info": "[12时07分 ~ 13时45分]"
+        },
+        {
+          "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257453",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 13时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
@@ -264,18 +303,6 @@
           "time_info": "[00时25分 ~ 01时41分]"
         },
         {
-          "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32257453",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 13时22分]"
-        },
-        {
           "title": "超30城扎堆发汽车消费“红包”",
           "url": "https://www.baidu.com/s?wd=%E8%B6%8530%E5%9F%8E%E6%89%8E%E5%A0%86%E5%8F%91%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E2%80%9C%E7%BA%A2%E5%8C%85%E2%80%9D",
           "source": "百度热搜",
@@ -287,18 +314,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 05时40分]"
-        },
-        {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时22分]"
         },
         {
           "title": "你如何看待曼联1-0纽卡斯尔",
@@ -323,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时48分]"
+        },
+        {
+          "title": "我的2025年度关键词",
+          "url": "https://www.douyin.com/hot/2348889",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时45分]"
         },
         {
           "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
@@ -358,17 +384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "我的2025年度关键词",
-          "url": "https://www.douyin.com/hot/2348889",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "封关后的海南汽车到底能不能买",
