@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:42:59.026414+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2025-12-27T23:19:49.821880+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[12时07分 ~ 22时42分]"
+          "appearance_count": 27,
+          "time_info": "[12时07分 ~ 23时19分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -42,6 +42,20 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时25分 ~ 09时40分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时44分 ~ 23时19分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -72,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[13时22分 ~ 22时42分]"
+          "appearance_count": 25,
+          "time_info": "[13时22分 ~ 23时19分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -128,20 +142,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[12时07分 ~ 18时21分]"
-        },
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时44分 ~ 22时42分]"
         },
         {
           "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
@@ -204,8 +204,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[14时31分 ~ 22时42分]"
+          "appearance_count": 23,
+          "time_info": "[14时31分 ~ 23时19分]"
         },
         {
           "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
@@ -260,11 +260,24 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时42分]"
+          "time_info": "[21时47分 ~ 23时19分]"
         },
         {
           "title": "广药集团拟投100亿至150亿创新转型",
@@ -275,11 +288,12 @@
             7,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时38分 ~ 22时42分]"
+          "appearance_count": 7,
+          "time_info": "[19时38分 ~ 23时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -311,6 +325,22 @@
           "time_info": "[11时23分 ~ 14时32分]"
         },
         {
+          "title": "中核集团首个核医疗示范基地启用",
+          "url": "https://flash.jin10.com/detail/20251227202642429800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            11,
+            17,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时19分]"
+        },
+        {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
           "url": "https://wallstreetcn.com/livenews/3027464",
           "source": "华尔街见闻-快讯",
@@ -338,32 +368,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时45分 ~ 16时50分]"
-        },
-        {
-          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
-          "url": "https://www.zhihu.com/question/1988011205906935872",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时47分 ~ 22时42分]"
-        },
-        {
-          "title": "中核集团首个核医疗示范基地启用",
-          "url": "https://flash.jin10.com/detail/20251227202642429800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            11,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时42分]"
         },
         {
           "title": "樊振东陈梦王曼昱虎扑十大运动员",
