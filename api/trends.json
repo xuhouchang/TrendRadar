@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:43:40.946583+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-28T07:20:26.939591+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时29分 ~ 06时43分]"
+          "appearance_count": 11,
+          "time_info": "[02时29分 ~ 07时20分]"
         },
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -39,20 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 06时43分]"
-        },
-        {
-          "title": "台湾地震 房屋狂摇汽车警报响成一片",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 06时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -63,8 +51,36 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "台湾地震 房屋狂摇汽车警报响成一片",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 15,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "time_info": "[00时48分 ~ 07时20分]"
+        },
+        {
+          "title": "物业禁止新能源汽车进地下车库",
+          "url": "https://www.toutiao.com/trending/7587592446197383177/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23,
+            28,
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[02时29分 ~ 07时20分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -75,8 +91,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
@@ -87,8 +103,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "我的2025年度关键词",
@@ -103,8 +119,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "广药集团拟投100亿至150亿创新转型",
@@ -115,8 +131,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 06时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -126,22 +142,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 06时43分]"
-        },
-        {
-          "title": "物业禁止新能源汽车进地下车库",
-          "url": "https://www.toutiao.com/trending/7587592446197383177/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            23,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时29分 ~ 06时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 07时20分]"
         }
       ]
     }
