@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:22:04.438512+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-12-27T17:42:06.573587+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时07分 ~ 17时42分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -75,21 +75,6 @@
           "time_info": "[00时25分 ~ 07时42分]"
         },
         {
-          "title": "曼联1:0纽卡",
-          "url": "https://www.douyin.com/hot/2348763",
-          "source": "抖音",
-          "ranks": [
-            23,
-            5,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 17时22分]"
-        },
-        {
           "title": "曼联1-0纽卡",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-0%E7%BA%BD%E5%8D%A1",
           "source": "bilibili 热搜",
@@ -104,6 +89,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时40分 ~ 15时40分]"
+        },
+        {
+          "title": "曼联1:0纽卡",
+          "url": "https://www.douyin.com/hot/2348763",
+          "source": "抖音",
+          "ranks": [
+            23,
+            5,
+            16,
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时07分 ~ 17时42分]"
         },
         {
           "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
@@ -121,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 17时42分]"
         },
         {
           "title": "多地保时捷4S店疑似“跑路”？经销商回应",
@@ -138,17 +139,33 @@
           "time_info": "[02时30分 ~ 13时22分]"
         },
         {
+          "title": "马斯克最新身家7519亿美元",
+          "url": "https://www.douyin.com/hot/2348565",
+          "source": "抖音",
+          "ranks": [
+            12,
+            21,
+            22,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 17时42分]"
+        },
+        {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
           "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
           "source": "澎湃新闻",
           "ranks": [
             16,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 17时42分]"
         },
         {
           "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
@@ -161,8 +178,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时40分 ~ 17时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 17时42分]"
         },
         {
           "title": "我的2025年度关键词",
@@ -170,11 +187,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 17时22分]"
+          "appearance_count": 14,
+          "time_info": "[13时22分 ~ 17时42分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -188,8 +206,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时25分 ~ 17时22分]"
+          "appearance_count": 36,
+          "time_info": "[00时25分 ~ 17时42分]"
         },
         {
           "title": "王曼昱率山东鲁能晋级乒超女团决赛",
@@ -206,20 +224,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时30分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克最新身家7519亿美元",
-          "url": "https://www.douyin.com/hot/2348565",
-          "source": "抖音",
-          "ranks": [
-            12,
-            21,
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 17时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
