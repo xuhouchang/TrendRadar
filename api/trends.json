@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-27T15:40:45.486464+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-27T16:28:10.781645+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 16时28分]"
+        },
         {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
@@ -59,19 +75,18 @@
           "time_info": "[00时25分 ~ 07时42分]"
         },
         {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
+          "title": "曼联1:0纽卡",
+          "url": "https://www.douyin.com/hot/2348763",
+          "source": "抖音",
           "ranks": [
-            18,
-            15,
-            10,
-            8,
-            7
+            23,
+            5,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 15时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 16时28分]"
         },
         {
           "title": "曼联1-0纽卡",
@@ -88,20 +103,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时40分 ~ 15时40分]"
-        },
-        {
-          "title": "曼联1:0纽卡",
-          "url": "https://www.douyin.com/hot/2348763",
-          "source": "抖音",
-          "ranks": [
-            23,
-            5,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 15时40分]"
         },
         {
           "title": "多地保时捷4S店疑似“跑路”？经销商回应",
@@ -127,8 +128,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 15时40分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 16时28分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -142,8 +143,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时25分 ~ 15时40分]"
+          "appearance_count": 31,
+          "time_info": "[00时25分 ~ 16时28分]"
         },
         {
           "title": "王曼昱率山东鲁能晋级乒超女团决赛",
@@ -175,8 +176,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 15时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 16时28分]"
+        },
+        {
+          "title": "我的2025年度关键词",
+          "url": "https://www.douyin.com/hot/2348889",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 16时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -221,16 +234,32 @@
           "time_info": "[05时19分 ~ 07时42分]"
         },
         {
-          "title": "我的2025年度关键词",
-          "url": "https://www.douyin.com/hot/2348889",
-          "source": "抖音",
+          "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
+          "source": "澎湃新闻",
           "ranks": [
-            20,
-            19
+            16,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时22分 ~ 15时40分]"
+          "time_info": "[14时31分 ~ 16时28分]"
+        },
+        {
+          "title": "海湾地区裂痕加深，沙特袭击也门境内由阿联酋支持的派系",
+          "url": "https://flash.jin10.com/detail/20251227132006990800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 16时28分]"
         },
         {
           "title": "2025，我真的 ___ 了？个人报告中，你的年度关键词是什么，有哪些难忘的数据回顾？",
@@ -267,20 +296,6 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
-          "title": "海湾地区裂痕加深，沙特袭击也门境内由阿联酋支持的派系",
-          "url": "https://flash.jin10.com/detail/20251227132006990800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时40分]"
-        },
-        {
           "title": "广东汽车坠江致5死事件情况通报",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -292,16 +307,16 @@
           "time_info": "09时40分"
         },
         {
-          "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
-          "source": "澎湃新闻",
+          "title": "马斯克最新身家7519亿美元",
+          "url": "https://www.douyin.com/hot/2348565",
+          "source": "抖音",
           "ranks": [
-            16,
-            17
+            12,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时31分 ~ 15时40分]"
+          "time_info": "[15时19分 ~ 16时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
@@ -351,17 +366,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 05时40分]"
-        },
-        {
-          "title": "马斯克最新身家7519亿美元",
-          "url": "https://www.douyin.com/hot/2348565",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 15时40分]"
         },
         {
           "title": "你如何看待曼联1-0纽卡斯尔",
@@ -423,13 +427,24 @@
           "time_info": "[00时25分 ~ 00时48分]"
         },
         {
+          "title": "日本57车连撞 烧焦汽车骨架堆满公路",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC57%E8%BD%A6%E8%BF%9E%E6%92%9E+%E7%83%A7%E7%84%A6%E6%B1%BD%E8%BD%A6%E9%AA%A8%E6%9E%B6%E5%A0%86%E6%BB%A1%E5%85%AC%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "汽车高速耗尽电量 2人推车被撞身亡",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%AB%98%E9%80%9F%E8%80%97%E5%B0%BD%E7%94%B5%E9%87%8F+2%E4%BA%BA%E6%8E%A8%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
