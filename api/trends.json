@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T00:24:59.424415+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T00:48:28.907023+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
+        },
+        {
+          "title": "台湾地震 房屋狂摇汽车警报响成一片",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "00时48分"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -37,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -48,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
@@ -59,19 +70,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "我的2025年度关键词",
           "url": "https://www.douyin.com/hot/2348889",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "广药集团拟投100亿至150亿创新转型",
@@ -81,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -92,8 +104,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时48分]"
         }
       ]
     }
