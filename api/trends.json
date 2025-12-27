@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T05:39:59.887797+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-12-28T06:19:53.231418+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
@@ -39,8 +39,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 06时19分]"
+        },
+        {
+          "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
+          "url": "https://wallstreetcn.com/livenews/3027579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时29分 ~ 06时19分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -51,19 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时39分]"
-        },
-        {
-          "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
-          "url": "https://wallstreetcn.com/livenews/3027579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时29分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -74,8 +74,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
@@ -86,8 +86,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "我的2025年度关键词",
@@ -102,8 +102,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "广药集团拟投100亿至150亿创新转型",
@@ -114,8 +114,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -125,8 +125,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -139,8 +139,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时29分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[02时29分 ~ 06时19分]"
         }
       ]
     }
