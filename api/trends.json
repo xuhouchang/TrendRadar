@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:44:59.915283+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2025-12-27T19:17:38.429435+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时07分 ~ 18时44分]"
+          "appearance_count": 19,
+          "time_info": "[12时07分 ~ 19时17分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -151,8 +151,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时19分 ~ 18时44分]"
+          "appearance_count": 13,
+          "time_info": "[15时19分 ~ 19时17分]"
         },
         {
           "title": "我的2025年度关键词",
@@ -163,11 +163,12 @@
             19,
             17,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时22分 ~ 18时44分]"
+          "appearance_count": 17,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
@@ -180,8 +181,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时31分 ~ 18时44分]"
+          "appearance_count": 15,
+          "time_info": "[14时31分 ~ 19时17分]"
         },
         {
           "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
@@ -194,8 +195,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时40分 ~ 18时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时40分 ~ 19时17分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -322,6 +323,17 @@
           "time_info": "[05时19分 ~ 05时40分]"
         },
         {
+          "title": "樊振东陈梦王曼昱虎扑十大运动员",
+          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%99%8E%E6%89%91%E5%8D%81%E5%A4%A7%E8%BF%90%E5%8A%A8%E5%91%98&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时17分]"
+        },
+        {
           "title": "广东汽车坠江致5死事件情况通报",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -331,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "樊振东陈梦王曼昱虎扑十大运动员",
-          "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%99%8E%E6%89%91%E5%8D%81%E5%A4%A7%E8%BF%90%E5%8A%A8%E5%91%98&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
@@ -416,6 +417,18 @@
           "time_info": "[12时07分 ~ 12时53分]"
         },
         {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时17分]"
+        },
+        {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
           "url": "https://flash.jin10.com/detail/20251226232713729800",
           "source": "金十数据",
@@ -461,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         },
         {
           "title": "汽车高速耗尽电量 2人推车被撞身亡",
