@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-27T07:42:11.971603+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-12-27T09:40:33.006842+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
-          "url": "https://news.ifeng.com/c/8pP745uL2xK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时42分]"
-        },
         {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
@@ -28,11 +17,24 @@
             7,
             14,
             18,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 09时40分]"
+        },
+        {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -66,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时30分 ~ 07时42分]"
+          "appearance_count": 15,
+          "time_info": "[02时30分 ~ 09时40分]"
         },
         {
           "title": "相声大师润美,平安夜远程爱国",
@@ -78,8 +80,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "王曼昱率山东鲁能晋级乒超女团决赛",
@@ -144,6 +146,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时40分]"
+        },
+        {
+          "title": "曼联1-0纽卡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-0%E7%BA%BD%E5%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "广东汽车坠江致5死事件情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
@@ -229,6 +253,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时48分]"
+        },
+        {
+          "title": "实探“郑州中原保时捷中心连夜闭店”：东安集团3家店出问题，有门店刚办完营业仪式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257453",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "封关后的海南汽车到底能不能买",
