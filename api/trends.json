@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:48:48.628836+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-12-29T01:19:01.492203+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时19分]"
         },
         {
           "title": "成都警方：男子4S店外引燃易燃物，其本人当场死亡、另有4人受伤",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时19分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时19分]"
         },
         {
           "title": "特斯拉回应女子30多万买到老款车",
@@ -47,33 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
-        },
-        {
-          "title": "极石汽车闫枫：2026年极石全球销量目标3万辆",
-          "url": "https://flash.jin10.com/detail/20251228210951843800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
-        },
-        {
-          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
-          "url": "https://wallstreetcn.com/livenews/3027643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时19分]"
         },
         {
           "title": "蒯曼率队夺乒超女团冠军",
@@ -83,19 +62,42 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 01时19分]"
+        },
+        {
+          "title": "极石汽车闫枫：2026年极石全球销量目标3万辆",
+          "url": "https://flash.jin10.com/detail/20251228210951843800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时19分]"
+        },
+        {
+          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
+          "url": "https://wallstreetcn.com/livenews/3027643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时19分]"
         },
         {
           "title": "白银飙至80美元 马斯克急了",
           "url": "https://www.toutiao.com/trending/7588867240255032842/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时19分]"
         },
         {
           "title": "零跑汽车发布首款MPV D99",
@@ -104,7 +106,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         }
