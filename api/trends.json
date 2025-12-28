@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:24:51.273600+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-12-28T13:48:24.277647+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 13时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 13时48分]"
         },
         {
           "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
@@ -72,8 +72,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时29分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[02时29分 ~ 13时48分]"
         },
         {
           "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
@@ -87,6 +87,19 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时24分 ~ 09时52分]"
+        },
+        {
+          "title": "汽车国家队重回牌桌中央",
+          "url": "https://wallstreetcn.com/articles/3762186",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时40分 ~ 13时48分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -160,19 +173,6 @@
           "time_info": "[00时24分 ~ 07时41分]"
         },
         {
-          "title": "汽车国家队重回牌桌中央",
-          "url": "https://wallstreetcn.com/articles/3762186",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时40分 ~ 13时24分]"
-        },
-        {
           "title": "白银狂飙，马斯克直言：这不好！",
           "url": "https://wallstreetcn.com/articles/3762194",
           "source": "华尔街见闻",
@@ -181,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时48分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -195,8 +195,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 13时48分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -209,6 +209,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时24分]"
+        },
+        {
+          "title": "白银价格暴涨 马斯克：这可不好",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时48分]"
         },
         {
           "title": "台湾海域地震房屋狂摇汽车警报响不停",
@@ -235,19 +248,6 @@
           "time_info": "[09时52分 ~ 11时48分]"
         },
         {
-          "title": "白银价格暴涨 马斯克：这可不好",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 13时24分]"
-        },
-        {
           "title": "乒超女团决赛王曼昱缺席",
           "url": "https://www.baidu.com/s?wd=%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%B3%E8%B5%9B%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%BC%BA%E5%B8%AD",
           "source": "百度热搜",
@@ -269,8 +269,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时48分]"
         },
         {
           "title": "马斯克直言白银狂飙不是好事",
