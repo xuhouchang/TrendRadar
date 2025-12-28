@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T18:21:39.834832+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-12-28T18:45:19.294669+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "白银狂飙，马斯克直言：这不好！",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时48分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时48分 ~ 18时45分]"
         },
         {
           "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
@@ -73,20 +73,6 @@
           "time_info": "[00时48分 ~ 07时20分]"
         },
         {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时24分 ~ 18时21分]"
-        },
-        {
           "title": "史上最严电动汽车电耗国标来了",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E8%80%97%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -97,8 +83,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 18时45分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 33,
+          "time_info": "[00时24分 ~ 18时45分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -133,8 +133,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时48分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 18时45分]"
         },
         {
           "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
@@ -227,6 +227,18 @@
           "time_info": "[00时24分 ~ 09时52分]"
         },
         {
+          "title": "蒯曼率队夺乒超女团冠军",
+          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E7%8E%87%E9%98%9F%E5%A4%BA%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时32分 ~ 18时45分]"
+        },
+        {
           "title": "中核集团首个核医疗示范基地启用",
           "url": "https://flash.jin10.com/detail/20251227202642429800",
           "source": "金十数据",
@@ -245,23 +257,12 @@
             3,
             4,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时21分]"
-        },
-        {
-          "title": "蒯曼率队夺乒超女团冠军",
-          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E7%8E%87%E9%98%9F%E5%A4%BA%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时32分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 18时45分]"
         },
         {
           "title": "宁德时代：2026年钠电池将开启全领域大规模应用",
@@ -270,11 +271,12 @@
           "ranks": [
             1,
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时45分]"
         },
         {
           "title": "海南省政府与山东招金集团有限公司签署战略合作框架协议",
@@ -285,11 +287,12 @@
             8,
             12,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 18时45分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
@@ -313,11 +316,12 @@
           "ranks": [
             1,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时45分]"
         },
         {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
@@ -326,11 +330,23 @@
           "ranks": [
             2,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时45分]"
+        },
+        {
+          "title": "蔚来与中石化合作共建第292座换电站上线",
+          "url": "https://wallstreetcn.com/livenews/3027631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -343,6 +359,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时24分]"
+        },
+        {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架",
+          "url": "https://flash.jin10.com/detail/20251228163923165800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 18时45分]"
         },
         {
           "title": "台湾海域地震房屋狂摇汽车警报响不停",
@@ -369,19 +399,6 @@
           "time_info": "[16时27分 ~ 17时42分]"
         },
         {
-          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架",
-          "url": "https://flash.jin10.com/detail/20251228163923165800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
           "title": "白银价格屡创新高 马斯克：这可不好",
           "url": "https://flash.jin10.com/detail/20251228091115537800",
           "source": "金十数据",
@@ -392,6 +409,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 11时48分]"
+        },
+        {
+          "title": "男子4S店外引爆易燃品致1死4伤",
+          "url": "https://www.douyin.com/hot/2350202",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
