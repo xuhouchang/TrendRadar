@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:17:59.428099+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-28T19:39:43.579256+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时48分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[11时48分 ~ 19时39分]"
         },
         {
           "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
@@ -81,11 +81,12 @@
             7,
             6,
             16,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 19时39分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -98,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时24分 ~ 19时17分]"
+          "appearance_count": 35,
+          "time_info": "[00时24分 ~ 19时39分]"
         },
         {
           "title": "白银价格狂飙，马斯克直言：这不好",
@@ -134,8 +135,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 19时39分]"
         },
         {
           "title": "冬季风暴侵袭美东北部 航班大面积延误，部分区域断电",
@@ -166,6 +167,22 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时24分 ~ 09时52分]"
+        },
+        {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            6,
+            8,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 19时39分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -208,11 +225,12 @@
             15,
             17,
             20,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 09时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 19时39分]"
         },
         {
           "title": "广药集团拟投100亿至150亿创新转型",
@@ -236,8 +254,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时32分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[14时32分 ~ 19时39分]"
         },
         {
           "title": "中核集团首个核医疗示范基地启用",
@@ -251,22 +269,6 @@
           "time_info": "[00时24分 ~ 07时41分]"
         },
         {
-          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
-          "url": "https://wallstreetcn.com/livenews/3027613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            6,
-            8,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 19时17分]"
-        },
-        {
           "title": "宁德时代：2026年钠电池将开启全领域大规模应用",
           "url": "https://wallstreetcn.com/livenews/3027621",
           "source": "华尔街见闻-快讯",
@@ -278,8 +280,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 19时39分]"
         },
         {
           "title": "海南省政府与山东招金集团有限公司签署战略合作框架协议",
@@ -298,6 +300,42 @@
           "time_info": "[16时28分 ~ 18时45分]"
         },
         {
+          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
+          "url": "https://wallstreetcn.com/livenews/3027643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
+          "title": "蔚来与中石化合作共建第292座换电站上线",
+          "url": "https://wallstreetcn.com/livenews/3027631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时39分]"
+        },
+        {
+          "title": "男子4S店外引爆易燃品致1死4伤",
+          "url": "https://www.douyin.com/hot/2350202",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时39分]"
+        },
+        {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
           "url": "https://flash.jin10.com/detail/20251228144705189800",
           "source": "金十数据",
@@ -311,6 +349,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
+          "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
+          "url": "https://flash.jin10.com/detail/20251228190503620800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时39分]"
         },
         {
           "title": "重庆追加汽车置换、汽车报废更新补贴",
@@ -327,29 +376,6 @@
           "time_info": "[17时21分 ~ 18时45分]"
         },
         {
-          "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
-          "url": "https://wallstreetcn.com/livenews/3027643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "蔚来与中石化合作共建第292座换电站上线",
-          "url": "https://wallstreetcn.com/livenews/3027631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时17分]"
-        },
-        {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
           "url": "https://flash.jin10.com/detail/20251228164627469800",
           "source": "金十数据",
@@ -364,18 +390,6 @@
           "time_info": "[17时21分 ~ 18时45分]"
         },
         {
-          "title": "男子4S店外引爆易燃品致1死4伤",
-          "url": "https://www.douyin.com/hot/2350202",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时17分]"
-        },
-        {
           "title": "马斯克1个表情评宇树机器人踹工程师",
           "url": "https://www.toutiao.com/trending/7588573431797514283/",
           "source": "今日头条",
@@ -386,17 +400,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时48分 ~ 13时24分]"
-        },
-        {
-          "title": "小米集团：公司联合创始人林斌计划累计出售不超过20亿美元公司B类普通股",
-          "url": "https://flash.jin10.com/detail/20251228190503620800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架",
@@ -475,6 +478,39 @@
           "time_info": "[11时48分 ~ 13时24分]"
         },
         {
+          "title": "成都男子在4S店外引爆易燃品 1死4伤",
+          "url": "https://www.toutiao.com/trending/7588850242771124267/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
+          "title": "成都男子4S店外引爆易燃品致1死4伤",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%94%B7%E5%AD%904S%E5%BA%97%E5%A4%96%E5%BC%95%E7%88%86%E6%98%93%E7%87%83%E5%93%81%E8%87%B41%E6%AD%BB4%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
+          "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
+          "url": "https://flash.jin10.com/detail/20251228181644467800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时39分]"
+        },
+        {
           "title": "马斯克直言白银狂飙不是好事",
           "url": "https://www.toutiao.com/trending/7588708734008823305/",
           "source": "今日头条",
@@ -496,39 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时40分 ~ 07时41分]"
-        },
-        {
-          "title": "成都男子在4S店外引爆易燃品 1死4伤",
-          "url": "https://www.toutiao.com/trending/7588850242771124267/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "成都男子4S店外引爆易燃品致1死4伤",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E7%94%B7%E5%AD%904S%E5%BA%97%E5%A4%96%E5%BC%95%E7%88%86%E6%98%93%E7%87%83%E5%93%81%E8%87%B41%E6%AD%BB4%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "宁德时代：明年钠电池将在换电、乘用车、商用车、储能等领域大规模应用",
-          "url": "https://flash.jin10.com/detail/20251228181644467800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "曼城击败森林八连胜",
