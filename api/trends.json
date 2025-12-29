@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T07:20:33.282344+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-30T07:41:44.021682+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 07时41分]"
         },
         {
           "title": "涉“成都4S店燃爆事件”造谣者被处罚",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 07时41分]"
         },
         {
           "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
@@ -41,11 +42,12 @@
             5,
             8,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 07时41分]"
         },
         {
           "title": "2名涉“成都4S店燃爆”造谣者被罚",
@@ -55,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 07时41分]"
         },
         {
           "title": "警方查处涉“4S店爆燃”造谣者",
@@ -66,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -110,17 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
-          "url": "https://flash.jin10.com/detail/20251230065611933800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "派杰投资：将花旗集团(C.N)目标价从120美元上调至130美元。",
@@ -172,6 +163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
+          "url": "https://flash.jin10.com/detail/20251230065611933800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时41分]"
         },
         {
           "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
