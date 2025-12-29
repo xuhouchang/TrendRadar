@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T23:23:14.522628+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2025-12-29T23:45:33.796702+08:00",
+  "total_titles_processed": 1996,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,24 @@
           "time_info": "[00时25分 ~ 19时20分]"
         },
         {
+          "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
+          "url": "https://www.zhihu.com/question/1988052599975466209",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            13,
+            10,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[15时26分 ~ 23时45分]"
+        },
+        {
           "title": "比亚迪入股机器人减速器生产商智同科技",
           "url": "https://www.cls.cn/detail/2242576",
           "source": "财联社热门",
@@ -48,23 +66,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[17时31分 ~ 19时41分]"
-        },
-        {
-          "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
-          "url": "https://www.zhihu.com/question/1988052599975466209",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            13,
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时26分 ~ 23时23分]"
         },
         {
           "title": "白银价格又双叒叕创新高！马斯克疾呼：这可不是什么好事",
@@ -94,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时47分 ~ 23时23分]"
+          "appearance_count": 20,
+          "time_info": "[15时47分 ~ 23时45分]"
         },
         {
           "title": "特斯拉回应女子30多万买到老款车",
@@ -137,6 +138,17 @@
           "time_info": "[00时48分 ~ 07时41分]"
         },
         {
+          "title": "2名涉“成都4S店燃爆”造谣者被罚",
+          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E6%B6%89%E2%80%9C%E6%88%90%E9%83%BD4S%E5%BA%97%E7%87%83%E7%88%86%E2%80%9D%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时41分 ~ 23时45分]"
+        },
+        {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
@@ -175,17 +187,6 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "2名涉“成都4S店燃爆”造谣者被罚",
-          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E6%B6%89%E2%80%9C%E6%88%90%E9%83%BD4S%E5%BA%97%E7%87%83%E7%88%86%E2%80%9D%E9%80%A0%E8%B0%A3%E8%80%85%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时41分 ~ 23时23分]"
-        },
-        {
           "title": "涉“成都4S店燃爆事件”造谣者被处罚",
           "url": "https://www.toutiao.com/trending/7589069447061602345/",
           "source": "今日头条",
@@ -193,8 +194,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时22分 ~ 23时23分]"
+          "appearance_count": 6,
+          "time_info": "[22时22分 ~ 23时45分]"
         },
         {
           "title": "小米集团：联合创始人林斌计划减持不超20亿美元公司B类普通股",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时44分 ~ 21时38分]"
+        },
+        {
+          "title": "警方查处涉“4S店爆燃”造谣者",
+          "url": "https://www.douyin.com/hot/2351185",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时22分 ~ 23时45分]"
         },
         {
           "title": "正义使命2025演习关键词：斩首",
@@ -333,17 +345,6 @@
           "time_info": "17时54分"
         },
         {
-          "title": "警方查处涉“4S店爆燃”造谣者",
-          "url": "https://www.douyin.com/hot/2351185",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时22分 ~ 23时23分]"
-        },
-        {
           "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
           "url": "https://wallstreetcn.com/livenews/3028087",
           "source": "华尔街见闻-快讯",
@@ -428,6 +429,19 @@
           "time_info": "[13时53分 ~ 14时36分]"
         },
         {
+          "title": "中概指数盘初跌1.3%，阿里跌2.9%，小鹏跌2.7%",
+          "url": "https://wallstreetcn.com/livenews/3028216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时45分]"
+        },
+        {
           "title": "长安汽车：拟定增募资不超60亿元，用于新能源车型及数智平台开发等项目",
           "url": "https://wallstreetcn.com/livenews/3028151",
           "source": "华尔街见闻-快讯",
@@ -451,18 +465,6 @@
           "time_info": "19时20分"
         },
         {
-          "title": "中概指数盘初跌1.3%，阿里跌2.9%，小鹏跌2.7%",
-          "url": "https://wallstreetcn.com/livenews/3028216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时23分]"
-        },
-        {
           "title": "智界汽车12月交付突破10000台",
           "url": "https://wallstreetcn.com/livenews/3027864",
           "source": "华尔街见闻-快讯",
@@ -475,6 +477,18 @@
           "time_info": "[11时50分 ~ 12时50分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
+          "url": "https://flash.jin10.com/detail/20251229224502300800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时45分]"
+        },
+        {
           "title": "比亚迪辟谣将推出飞行汽车",
           "url": "https://wallstreetcn.com/livenews/3027855",
           "source": "华尔街见闻-快讯",
@@ -485,6 +499,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 12时50分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与埃隆·马斯克召开电话会议。",
+          "url": "https://flash.jin10.com/detail/20251229224332128800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时45分]"
         },
         {
           "title": "被指电芯存质量问题遭索赔超23亿 欣旺达市值单日缩水逾60亿元",
@@ -574,28 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时47分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
-          "url": "https://flash.jin10.com/detail/20251229224502300800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡与埃隆·马斯克召开电话会议。",
-          "url": "https://flash.jin10.com/detail/20251229224332128800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
         },
         {
           "title": "宁德时代明年将大规模应用钠电池 “钠锂双星闪耀”或成新趋势",
