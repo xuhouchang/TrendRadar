@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T07:20:32.890546+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2025-12-31T07:41:14.114516+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时41分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时41分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -47,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时41分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时17分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[03时17分 ~ 07时41分]"
         },
         {
           "title": "雷军官宣跨年直播，将现场拆车，如何看待小米「拆车 + 聊天」 这一形式？你希望通过拆解看到哪些信息？",
@@ -71,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时41分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -103,6 +103,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 07时41分]"
         },
         {
           "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
@@ -169,18 +183,15 @@
           "time_info": "[00时28分 ~ 01时45分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪 2026 是否依然保持强势，它的最大竞争对手是吉利还是其他？",
+          "url": "https://www.zhihu.com/question/1980274356778189108",
+          "source": "知乎",
           "ranks": [
-            3,
-            13,
-            22,
-            30
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 07时41分]"
         },
         {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
@@ -243,17 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 06时45分]"
-        },
-        {
-          "title": "比亚迪 2026 是否依然保持强势，它的最大竞争对手是吉利还是其他？",
-          "url": "https://www.zhihu.com/question/1980274356778189108",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时20分]"
         },
         {
           "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
