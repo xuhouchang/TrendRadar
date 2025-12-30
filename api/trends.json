@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T05:20:51.275887+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-12-31T05:42:06.350692+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 05时42分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 05时42分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -42,11 +42,12 @@
             10,
             14,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 05时42分]"
         },
         {
           "title": "雷军官宣跨年直播，将现场拆车，如何看待小米「拆车 + 聊天」 这一形式？你希望通过拆解看到哪些信息？",
@@ -56,8 +57,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 05时42分]"
+        },
+        {
+          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
+          "url": "https://www.cls.cn/detail/2244180",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时17分 ~ 05时42分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -94,22 +106,12 @@
           "url": "https://wallstreetcn.com/livenews/3028921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
-          "url": "https://www.cls.cn/detail/2244180",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时17分 ~ 05时20分]"
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时42分]"
         },
         {
           "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
@@ -118,7 +120,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         },
@@ -143,9 +145,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "商务部等8部门印发《2026年汽车以旧换新补贴实施细则》",
@@ -162,15 +175,15 @@
           "time_info": "[00时28分 ~ 01时45分]"
         },
         {
-          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
-          "url": "https://wallstreetcn.com/livenews/3028914",
+          "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
+          "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "05时42分"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -185,6 +198,18 @@
           "time_info": "[01时45分 ~ 02时32分]"
         },
         {
+          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
+          "url": "https://wallstreetcn.com/livenews/3028914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时42分]"
+        },
+        {
           "title": "卡塔尔外交部强调也门统一和领土完整的重要性。卡塔尔表示，沙特阿拉伯和海湾合作委员会成员国的安全是卡塔尔安全“不可分割的一部分”。",
           "url": "https://flash.jin10.com/detail/20251231032700354800",
           "source": "金十数据",
@@ -194,8 +219,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时42分]"
         },
         {
           "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
@@ -219,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时54分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "宁德时代换电板块双线完成年度建站目标：一年建成1020座乘用车换电站、305座商用车换电站",
