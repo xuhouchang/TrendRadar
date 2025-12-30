@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T22:48:22.367765+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2025-12-30T23:23:25.062237+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -122,8 +122,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时48分 ~ 22时48分]"
+          "appearance_count": 10,
+          "time_info": "[18时48分 ~ 23时23分]"
+        },
+        {
+          "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
+          "url": "https://wallstreetcn.com/articles/3762313",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -141,16 +153,16 @@
           "time_info": "[02时31分 ~ 05时19分]"
         },
         {
-          "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
-          "url": "https://wallstreetcn.com/articles/3762313",
-          "source": "华尔街见闻",
+          "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
+          "url": "https://wallstreetcn.com/livenews/3028835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时48分]"
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时23分]"
         },
         {
           "title": "特斯拉尾盘下跌2.9%。据报道，“木头姐”Cathie Wood出售价值3000万美元的特斯拉股票。",
@@ -195,6 +207,20 @@
           "time_info": "[17时26分 ~ 18时49分]"
         },
         {
+          "title": "汽车以旧换新国补将按车价比例补贴",
+          "url": "https://www.toutiao.com/trending/7589611017433517578/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时23分]"
+        },
+        {
           "title": "雷军：我将做一场跨年直播 工程师将现场拆车",
           "url": "https://wallstreetcn.com/livenews/3028528",
           "source": "华尔街见闻-快讯",
@@ -221,19 +247,6 @@
           "time_info": "[16时56分 ~ 17时48分]"
         },
         {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.toutiao.com/trending/7589611017433517578/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时48分]"
-        },
-        {
           "title": "【两部门：2026年支持汽车报废更新 支持汽车置换更新】国家发展改革委、财政部发布关于2026年实施大规模设备更新和消费品以旧换新政策的通知。支持汽车报废更新。个人消费者报废登记在本人名下的乘用车，并购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车或2.0升及以下排量燃油乘用车的，给予汽车报废更新补贴支持，购买新能源乘用车补贴车价的12%（最高不超过2万元）、购买2.0升及以下排量燃油乘用车补贴车价的10%（最高不超过1.5万元）。支持汽车置换更新。个人消费者转让登记在本人名下的乘用车，并购买纳入《减免车辆购置税的新能源汽车车型目录》的新能源乘用车或2.0升及以下排量燃油乘用车的，给予汽车置换更新补贴支持，购买新能源乘用车补贴车价的8%（最高不超过1.5万元）、购买2.0升及以下排量燃油乘用车补贴车价的6%（最高不超过1.3万元）。",
           "url": "https://wallstreetcn.com/livenews/3028714",
           "source": "华尔街见闻-快讯",
@@ -243,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
-          "url": "https://wallstreetcn.com/livenews/3028835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "特斯拉第900万辆电动车在上海超级工厂下线",
@@ -350,17 +352,6 @@
           "time_info": "[16时56分 ~ 18时23分]"
         },
         {
-          "title": "美股热门中概股多数高开，百度(BIDU.O)涨5.6%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超3%，网易(NTES.O)涨超2%，台积电(TSM.N)、哔哩哔哩(BILI.O)、阿里巴巴(BABA.N)涨超0.3%。",
-          "url": "https://flash.jin10.com/detail/20251230223250434800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "派杰投资：将花旗集团(C.N)目标价从120美元上调至130美元。",
           "url": "https://flash.jin10.com/detail/20251230002212841800",
           "source": "金十数据",
@@ -386,6 +377,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时36分 ~ 22时48分]"
+        },
+        {
+          "title": "宁德时代换电板块双线完成年度建站目标：一年建成1020座乘用车换电站、305座商用车换电站",
+          "url": "https://wallstreetcn.com/livenews/3028821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时23分]"
         },
         {
           "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
@@ -475,18 +479,6 @@
           "time_info": "[11时29分 ~ 12时24分]"
         },
         {
-          "title": "宁德时代换电板块双线完成年度建站目标：一年建成1020座乘用车换电站、305座商用车换电站",
-          "url": "https://wallstreetcn.com/livenews/3028821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时48分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
           "url": "https://wallstreetcn.com/livenews/3028341",
           "source": "华尔街见闻-快讯",
@@ -522,6 +514,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
+          "title": "美股热门中概股多数高开，百度(BIDU.O)涨5.6%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超3%，网易(NTES.O)涨超2%，台积电(TSM.N)、哔哩哔哩(BILI.O)、阿里巴巴(BABA.N)涨超0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230223250434800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时23分]"
         },
         {
           "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
@@ -597,6 +601,19 @@
           "time_info": "[11时28分 ~ 12时24分]"
         },
         {
+          "title": "特斯拉公布分析师预测：Q4交付量或下滑15%，税收补贴退坡与竞争加剧冲击需求",
+          "url": "https://wallstreetcn.com/livenews/3028810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
           "title": "豪华真旗舰就选问界M9",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%AA%E5%8D%8E%E7%9C%9F%E6%97%97%E8%88%B0%E5%B0%B1%E9%80%89%E9%97%AE%E7%95%8CM9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -629,18 +646,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉公布分析师预测：Q4交付量或下滑15%，税收补贴退坡与竞争加剧冲击需求",
-          "url": "https://wallstreetcn.com/livenews/3028810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时48分]"
         },
         {
           "title": "消息称小米汽车明年拟推4款新车",
