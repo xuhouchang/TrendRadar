@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T15:44:11.024666+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-12-30T16:31:18.177849+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 15时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时43分 ~ 16时31分]"
         },
         {
           "title": "白银急涨，马斯克竟拿中国出口管制说事",
@@ -82,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 15时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时28分 ~ 16时31分]"
         },
         {
           "title": "警方查处涉“4S店爆燃”造谣者",
@@ -171,11 +171,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时31分]"
         },
         {
           "title": "派杰投资：将花旗集团(C.N)目标价从120美元上调至130美元。",
@@ -253,6 +254,30 @@
           "time_info": "[07时20分 ~ 07时41分]"
         },
         {
+          "title": "雷军官宣跨年直播，将现场拆车",
+          "url": "https://www.cls.cn/detail/2243773",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
+          "title": "何小鹏9大场景美国对比特斯拉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F9%E5%A4%A7%E5%9C%BA%E6%99%AF%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%AF%94%E7%89%B9%E6%96%AF%E6%8B%89%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 16时31分]"
+        },
+        {
           "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
           "url": "https://wallstreetcn.com/livenews/3028331",
           "source": "华尔街见闻-快讯",
@@ -325,17 +350,6 @@
           "time_info": "[12时24分 ~ 12时58分]"
         },
         {
-          "title": "雷军官宣跨年直播，将现场拆车",
-          "url": "https://www.cls.cn/detail/2243773",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
           "title": "港股百度集团盘中涨超7%",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E7%9B%98%E4%B8%AD%E6%B6%A8%E8%B6%857%25",
           "source": "百度热搜",
@@ -357,17 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时20分]"
-        },
-        {
-          "title": "何小鹏9大场景美国对比特斯拉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F9%E5%A4%A7%E5%9C%BA%E6%99%AF%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%AF%94%E7%89%B9%E6%96%AF%E6%8B%89%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "恒指开盘基本持平，恒生科技指数涨0.38%。蔚来涨超5%，百度涨超3%。中芯国际涨2.8%，此前公告称，拟向5名股东发行5.47亿股股份购买中芯北方49.00%股权，交易价格406亿元。",
