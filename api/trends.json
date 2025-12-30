@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:45:00.289156+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2025-12-31T07:20:32.890546+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -47,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -56,11 +56,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时17分 ~ 06时45分]"
+          "appearance_count": 12,
+          "time_info": "[03时17分 ~ 07时20分]"
         },
         {
           "title": "雷军官宣跨年直播，将现场拆车，如何看待小米「拆车 + 聊天」 这一形式？你希望通过拆解看到哪些信息？",
@@ -70,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -168,6 +169,20 @@
           "time_info": "[00时28分 ~ 01时45分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时42分 ~ 07时20分]"
+        },
+        {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
           "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
@@ -177,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 06时45分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
@@ -243,6 +245,17 @@
           "time_info": "[05时42分 ~ 06时45分]"
         },
         {
+          "title": "比亚迪 2026 是否依然保持强势，它的最大竞争对手是吉利还是其他？",
+          "url": "https://www.zhihu.com/question/1980274356778189108",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 07时20分]"
+        },
+        {
           "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
           "url": "https://flash.jin10.com/detail/20251231025925842800",
           "source": "金十数据",
@@ -264,17 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 06时45分]"
-        },
-        {
-          "title": "比亚迪 2026 是否依然保持强势，它的最大竞争对手是吉利还是其他？",
-          "url": "https://www.zhihu.com/question/1980274356778189108",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
