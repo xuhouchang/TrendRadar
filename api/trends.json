@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T13:49:51.450363+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-12-30T14:34:38.182582+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,17 @@
           "time_info": "[00时26分 ~ 12时24分]"
         },
         {
+          "title": "将推出飞行汽车？比亚迪高管否认",
+          "url": "https://www.toutiao.com/trending/7588521891170664467/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 14时34分]"
+        },
+        {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
           "url": "https://wallstreetcn.com/livenews/3028300",
           "source": "华尔街见闻-快讯",
@@ -89,17 +100,6 @@
           "time_info": "[02时31分 ~ 05时19分]"
         },
         {
-          "title": "将推出飞行汽车？比亚迪高管否认",
-          "url": "https://www.toutiao.com/trending/7588521891170664467/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 13时49分]"
-        },
-        {
           "title": "白银急涨，马斯克竟拿中国出口管制说事",
           "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
           "source": "凤凰网",
@@ -108,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时28分 ~ 13时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 14时34分]"
         },
         {
           "title": "特斯拉尾盘下跌2.9%。据报道，“木头姐”Cathie Wood出售价值3000万美元的特斯拉股票。",
@@ -124,18 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 06时20分]"
-        },
-        {
-          "title": "胖东来集团2025年销售额达234亿元",
-          "url": "https://wallstreetcn.com/livenews/3028555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时49分]"
         },
         {
           "title": "雷军：我将做一场跨年直播 工程师将现场拆车",
@@ -163,6 +151,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 06时20分]"
+        },
+        {
+          "title": "胖东来集团2025年销售额达234亿元",
+          "url": "https://wallstreetcn.com/livenews/3028555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 14时34分]"
         },
         {
           "title": "派杰投资：将花旗集团(C.N)目标价从120美元上调至130美元。",
