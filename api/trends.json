@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:47:15.314421+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2025-12-31T19:20:19.926246+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时14分 ~ 18时47分]"
+          "appearance_count": 19,
+          "time_info": "[12时14分 ~ 19时20分]"
         },
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -82,11 +82,42 @@
             11,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时27分 ~ 18时47分]"
+          "appearance_count": 20,
+          "time_info": "[11时27分 ~ 19时20分]"
+        },
+        {
+          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
+          "url": "https://www.zhihu.com/question/1989627854183483240",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
+          "title": "2026汽车报废置换补贴解读",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12,
+            15,
+            26,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 19时20分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -117,37 +148,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时27分 ~ 18时47分]"
-        },
-        {
-          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
-          "url": "https://www.zhihu.com/question/1989627854183483240",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 18时47分]"
-        },
-        {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            12,
-            15,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 18时47分]"
+          "appearance_count": 20,
+          "time_info": "[11时27分 ~ 19时20分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -443,17 +445,6 @@
           "time_info": "[12时14分 ~ 13时50分]"
         },
         {
-          "title": "恒大汽车：继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3029276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "马斯克：Cybercab将于明年4月份量产",
           "url": "https://www.toutiao.com/trending/7589217378653290537/",
           "source": "今日头条",
@@ -475,6 +466,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
+          "url": "https://wallstreetcn.com/livenews/3029254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）全球汽车制造商市值变化",
@@ -527,18 +531,6 @@
           "time_info": "[13时50分 ~ 14时34分]"
         },
         {
-          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
-          "url": "https://wallstreetcn.com/livenews/3029254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时47分]"
-        },
-        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://flash.jin10.com/detail/20251231012608769800",
           "source": "金十数据",
@@ -549,6 +541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时32分]"
+        },
+        {
+          "title": "恒大汽车：继续停牌",
+          "url": "https://wallstreetcn.com/livenews/3029276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时20分]"
         },
         {
           "title": "卡塔尔外交部强调也门统一和领土完整的重要性。卡塔尔表示，沙特阿拉伯和海湾合作委员会成员国的安全是卡塔尔安全“不可分割的一部分”。",
@@ -562,6 +566,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 05时42分]"
+        },
+        {
+          "title": "岁岁平岁岁安岁岁平安",
+          "url": "https://www.douyin.com/hot/2353193",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
@@ -586,18 +603,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时25分 ~ 17时47分]"
-        },
-        {
-          "title": "岁岁平岁岁安岁岁平安",
-          "url": "https://www.douyin.com/hot/2353193",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 18时47分]"
         },
         {
           "title": "2026年汽车“国补”细则正式发布",
