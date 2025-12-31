@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-31T15:45:00.634480+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-12-31T16:31:07.760807+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 16时31分]"
+        },
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
           "url": "https://wallstreetcn.com/articles/3762313",
@@ -17,8 +29,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 15时45分]"
+          "appearance_count": 32,
+          "time_info": "[00时28分 ~ 16时31分]"
+        },
+        {
+          "title": "2025年度关键词大盘点",
+          "url": "https://www.douyin.com/hot/2352362",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 16时31分]"
         },
         {
           "title": "2026年汽车“国补”细则来了",
@@ -50,39 +73,32 @@
           "time_info": "[00时28分 ~ 09时44分]"
         },
         {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 15时45分]"
-        },
-        {
-          "title": "2025年度关键词大盘点",
-          "url": "https://www.douyin.com/hot/2352362",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 15时45分]"
-        },
-        {
           "title": "2026年汽车国补细则",
           "url": "https://www.douyin.com/hot/2352698",
           "source": "抖音",
           "ranks": [
             4,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 15时45分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 16时31分]"
+        },
+        {
+          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 16时31分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -99,21 +115,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时28分 ~ 07时41分]"
-        },
-        {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 15时45分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -346,6 +347,17 @@
           "time_info": "[15时44分 ~ 15时45分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：保时捷北美公司正在美国召回 173,538 辆汽车，原因是后视摄像头图像问题。",
+          "url": "https://flash.jin10.com/detail/20251231160951865800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "商务部等8部门印发《2026年汽车以旧换新补贴实施细则》",
           "url": "https://flash.jin10.com/detail/20251231000628691800",
           "source": "金十数据",
@@ -384,6 +396,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 15时45分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：大众汽车美国集团正在美国召回 27,768 辆汽车，因为未正确固定的儿童座椅会在碰撞中增加受伤风险。",
+          "url": "https://flash.jin10.com/detail/20251231160543143800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
@@ -576,13 +599,24 @@
           "time_info": "09时44分"
         },
         {
+          "title": "大空头迈克尔月初表示特斯拉“估值高得离谱” 但称并未做空",
+          "url": "https://flash.jin10.com/detail/20251231154821196800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "著名投资人、“大空头”迈克尔：没有做空特斯拉(TSLA.O)。",
           "url": "https://flash.jin10.com/detail/20251231145914594800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
