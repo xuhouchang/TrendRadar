@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T06:45:22.639936+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-01-01T07:20:36.719653+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "解读解放军演习关键词，周锡玮：民进党唯一出路是放弃“台独”",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -62,11 +62,12 @@
             1,
             6,
             7,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 06时45分]"
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
@@ -99,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
