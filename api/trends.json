@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T01:20:46.257722+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-01-02T01:43:53.030746+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
@@ -71,11 +71,12 @@
           "ranks": [
             24,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时43分]"
         },
         {
           "title": "比亚迪去年累计销量超460万辆",
