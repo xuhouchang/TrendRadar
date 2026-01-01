@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:25:07.182414+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-01-02T04:45:52.077611+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -61,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 04时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时45分]"
         },
         {
           "title": "东风汽车2025新能源汽车销量104万辆",
