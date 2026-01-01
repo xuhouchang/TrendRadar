@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T09:53:33.746679+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-01-01T11:51:53.357165+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -48,11 +48,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 09时53分]"
+          "appearance_count": 21,
+          "time_info": "[00时27分 ~ 11时51分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -83,6 +84,40 @@
           "time_info": "[05时19分 ~ 05时41分]"
         },
         {
+          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://wallstreetcn.com/livenews/3029559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1989014402733717101",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 11时51分]"
+        },
+        {
+          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://flash.jin10.com/detail/20260101112910886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "2026年汽车国补细则",
           "url": "https://www.douyin.com/hot/2352698",
           "source": "抖音",
@@ -102,7 +137,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -113,18 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1989014402733717101",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -184,7 +208,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -195,9 +219,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260101110745884800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "广东省委书记黄坤明会见中核集团董事长申彦锋总经理张涛",
@@ -206,7 +241,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -217,7 +252,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -228,9 +263,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "海南：汽车以旧换新最高补贴2万元",
+          "url": "https://wallstreetcn.com/livenews/3029543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "岚图汽车2025年交付超15万辆，同比增87%",
+          "url": "https://wallstreetcn.com/livenews/3029539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
@@ -239,9 +296,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "智己汽车公布，2025年销量81,017台，全年销量再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3029537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
+          "url": "https://wallstreetcn.com/livenews/3029536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "中概指数全年涨超11%，蔚来收跌约7.3%，2025年玉柴国际涨超280%，阿里涨约76%，小鹏涨超71%",
@@ -261,9 +340,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "岚图汽车：2025全年累计交付150169辆，实现“十连涨”，同比增长87%",
+          "url": "https://flash.jin10.com/detail/20260101101429406800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "宁德时代与厦门市共建零碳科技城 签署战略合作协议",
