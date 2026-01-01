@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T16:55:50.788673+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-01-01T17:25:57.813350+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -42,6 +42,33 @@
           "time_info": "[00时27分 ~ 07时42分]"
         },
         {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 17时25分]"
+        },
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时48分 ~ 17时25分]"
+        },
+        {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
           "source": "百度热搜",
@@ -56,31 +83,6 @@
           "time_info": "[00时27分 ~ 11时51分]"
         },
         {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时48分 ~ 16时55分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 16时55分]"
-        },
-        {
           "title": "胖东来集团公布的销量数据显示，截至2025年12月31日，2025年集团合计销售额超235.31亿元。",
           "url": "https://wallstreetcn.com/livenews/3029575",
           "source": "华尔街见闻-快讯",
@@ -91,11 +93,12 @@
             12,
             16,
             18,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 16时55分]"
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 17时25分]"
         },
         {
           "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
@@ -131,6 +134,19 @@
           "time_info": "[05时19分 ~ 07时42分]"
         },
         {
+          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
+          "url": "https://wallstreetcn.com/articles/3762419",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 17时25分]"
+        },
+        {
           "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1989014402733717101",
           "source": "知乎",
@@ -151,23 +167,110 @@
             3,
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时55分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
-          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
-          "url": "https://wallstreetcn.com/articles/3762419",
-          "source": "华尔街见闻",
+          "title": "极石汽车：2025年12月交付2528台，同比增长99.4%；全年交付量15318台。",
+          "url": "https://flash.jin10.com/detail/20260101155024240800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时30分 ~ 16时55分]"
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
+          "url": "https://wallstreetcn.com/livenews/3029592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时25分]"
+        },
+        {
+          "title": "蔚来公司12月交付新车48,135台，再创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3029591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "日本一铁路道口发生汽车与列车相撞",
+          "url": "https://flash.jin10.com/detail/20260101161448468800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时25分]"
+        },
+        {
+          "title": "据阿曼国家通讯社报道，阿曼将2026年预算的平均油价设定为每桶60美元。",
+          "url": "https://flash.jin10.com/detail/20260101151626275800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时25分]"
+        },
+        {
+          "title": "据阿曼国家通讯社报道，阿曼预计2026年预算收入为114.47亿里亚尔，较2025年增长2.4%。",
+          "url": "https://flash.jin10.com/detail/20260101151611790800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时25分]"
+        },
+        {
+          "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
+          "url": "https://flash.jin10.com/detail/20260101160134689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
@@ -182,40 +285,29 @@
           "time_info": "[05时19分 ~ 05时41分]"
         },
         {
-          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
-          "url": "https://wallstreetcn.com/livenews/3029592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时55分]"
-        },
-        {
-          "title": "蔚来公司12月交付新车48,135台，再创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3029591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时55分]"
-        },
-        {
-          "title": "极石汽车：2025年12月交付2528台，同比增长99.4%；全年交付量15318台。",
-          "url": "https://flash.jin10.com/detail/20260101155024240800",
+          "title": "蔚来12月交付新车48135台 再创历史新高",
+          "url": "https://flash.jin10.com/detail/20260101160110608800",
           "source": "金十数据",
           "ranks": [
-            4,
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时55分]"
+          "time_info": "[16时55分 ~ 17时25分]"
+        },
+        {
+          "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3029587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时25分]"
         },
         {
           "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
@@ -227,17 +319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
-          "url": "https://wallstreetcn.com/livenews/3029597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "蔚来汽车：2025年12月交付48,135辆汽车，同比增长54.6%。2025年第四季度交付124,807辆汽车，同比增长71.7%。",
@@ -251,76 +332,31 @@
           "time_info": "16时31分"
         },
         {
-          "title": "日本一铁路道口发生汽车与列车相撞",
-          "url": "https://flash.jin10.com/detail/20260101161448468800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
           "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
-          "url": "https://wallstreetcn.com/livenews/3029587",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20260101151421908800",
+          "source": "金十数据",
           "ranks": [
-            4,
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时25分]"
         },
         {
-          "title": "据阿曼国家通讯社报道，阿曼将2026年预算的平均油价设定为每桶60美元。",
-          "url": "https://flash.jin10.com/detail/20260101151626275800",
+          "title": "蔚来品牌换电体系一月将新增超4200块长续航电池包",
+          "url": "https://flash.jin10.com/detail/20260101142304316800",
           "source": "金十数据",
           "ranks": [
-            4,
-            9,
-            12
+            11,
+            17,
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时55分]"
-        },
-        {
-          "title": "据阿曼国家通讯社报道，阿曼预计2026年预算收入为114.47亿里亚尔，较2025年增长2.4%。",
-          "url": "https://flash.jin10.com/detail/20260101151611790800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时55分]"
-        },
-        {
-          "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
-          "url": "https://flash.jin10.com/detail/20260101160134689800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "蔚来12月交付新车48135台 再创历史新高",
-          "url": "https://flash.jin10.com/detail/20260101160110608800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
           "title": "2026年汽车国补细则",
@@ -361,19 +397,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
-          "url": "https://flash.jin10.com/detail/20260101151421908800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 16时55分]"
-        },
-        {
           "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
           "url": "https://wallstreetcn.com/livenews/3029522",
           "source": "华尔街见闻-快讯",
@@ -408,20 +431,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "蔚来品牌换电体系一月将新增超4200块长续航电池包",
-          "url": "https://flash.jin10.com/detail/20260101142304316800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时55分]"
         },
         {
           "title": "海南：汽车以旧换新最高补贴2万元",
@@ -621,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "蔚来",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
