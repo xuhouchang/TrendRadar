@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T23:22:37.050486+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-01-02T23:44:45.018164+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -29,11 +29,12 @@
             5,
             4,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时41分 ~ 23时22分]"
+          "appearance_count": 22,
+          "time_info": "[12时41分 ~ 23时44分]"
         },
         {
           "title": "12月电车成绩单：小米首破5万大关，蔚来、鸿蒙智行交付再创新高，零跑同增超四成",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时27分 ~ 23时22分]"
+          "appearance_count": 43,
+          "time_info": "[00时27分 ~ 23时44分]"
         },
         {
           "title": "“新汽车”放榜2025",
@@ -89,8 +90,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时27分 ~ 23时22分]"
+          "appearance_count": 43,
+          "time_info": "[00时27分 ~ 23时44分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -103,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时40分 ~ 23时22分]"
+          "appearance_count": 24,
+          "time_info": "[11时40分 ~ 23时44分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -120,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时55分 ~ 23时22分]"
+          "appearance_count": 13,
+          "time_info": "[16时55分 ~ 23时44分]"
         },
         {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
@@ -132,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 23时22分]"
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 23时44分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -145,6 +146,31 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "“停靠在八楼的2路汽车”具象化了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%85%AB%E6%A5%BC%E7%9A%842%E8%B7%AF%E6%B1%BD%E8%BD%A6%E2%80%9D%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时40分 ~ 23时44分]"
+        },
+        {
+          "title": "马斯克宣布 2026 年将大规模生产脑机接口设备，目前这项技术处于什么水平？大规模应用将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1990099036682811045",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时33分 ~ 23时44分]"
         },
         {
           "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
@@ -174,18 +200,6 @@
           "time_info": "[17时25分 ~ 21时33分]"
         },
         {
-          "title": "“停靠在八楼的2路汽车”具象化了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%85%AB%E6%A5%BC%E7%9A%842%E8%B7%AF%E6%B1%BD%E8%BD%A6%E2%80%9D%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时40分 ~ 23时22分]"
-        },
-        {
           "title": "LVMH旗下Belmond指责凯雷集团子公司导致秘鲁马丘比丘火车相撞事故",
           "url": "https://wallstreetcn.com/livenews/3029660",
           "source": "华尔街见闻-快讯",
@@ -198,18 +212,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时21分 ~ 07时42分]"
-        },
-        {
-          "title": "马斯克宣布 2026 年将大规模生产脑机接口设备，目前这项技术处于什么水平？大规模应用将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1990099036682811045",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 23时22分]"
         },
         {
           "title": "2025比亚迪销量或超特斯拉成全球第1",
@@ -347,6 +349,31 @@
           "time_info": "[19时19分 ~ 20时42分]"
         },
         {
+          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3029850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时44分]"
+        },
+        {
+          "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3029861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时44分]"
+        },
+        {
           "title": "香港恒生科技指数涨超4%。恒生指数涨超2%。华虹半导体涨超10%，百度集团涨近9%，中芯国际涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3029748",
           "source": "华尔街见闻-快讯",
@@ -464,17 +491,15 @@
           "time_info": "[22时21分 ~ 23时22分]"
         },
         {
-          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3029850",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪秦MAX信息曝光",
+          "url": "https://www.toutiao.com/trending/7590183104053264427/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            14,
-            21
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时21分 ~ 23时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "宗馥莉重任宏胜集团法定代表人",
@@ -503,6 +528,19 @@
           "time_info": "[22时21分 ~ 23时22分]"
         },
         {
+          "title": "美股热门中概股普涨，网易(NTES.O)、哔哩哔哩(BILI.O)涨近7%，蔚来汽车(NIO.N)、阿里巴巴(BABA.N)涨超4%，台积电(TSM.N)涨超3%，理想汽车(LI.O)、拼多多(PDD.O)涨超2.5%。",
+          "url": "https://flash.jin10.com/detail/20260102223256927800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时44分]"
+        },
+        {
           "title": "美股热门中概股盘前普涨，网易(NTES.O)涨6.1%，蔚来汽车(NIO.N)涨5.5%，阿里巴巴(BABA.N)涨4.13%，理想汽车(LI.O)涨近3%，京东(JD.O)、台积电(TSM.N)、拼多多(PDD.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260102172348617800",
           "source": "金十数据",
@@ -516,18 +554,6 @@
           "time_info": "[17时47分 ~ 18时46分]"
         },
         {
-          "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3029861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时22分]"
-        },
-        {
           "title": "西班牙汽车制造商协会（ANFAC）：2025年，西班牙特斯拉(TSLA.O)新车注册量同比下降4%，电动汽车整体注册量则增长94.6%。",
           "url": "https://flash.jin10.com/detail/20260102190757202800",
           "source": "金十数据",
@@ -538,18 +564,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时40分 ~ 20时42分]"
-        },
-        {
-          "title": "美股热门中概股普涨，网易(NTES.O)、哔哩哔哩(BILI.O)涨近7%，蔚来汽车(NIO.N)、阿里巴巴(BABA.N)涨超4%，台积电(TSM.N)涨超3%，理想汽车(LI.O)、拼多多(PDD.O)涨超2.5%。",
-          "url": "https://flash.jin10.com/detail/20260102223256927800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时22分]"
         },
         {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
@@ -711,6 +725,18 @@
           "time_info": "[11时41分 ~ 12时41分]"
         },
         {
+          "title": "寻秦记终于等来售后",
+          "url": "https://www.douyin.com/hot/2355564",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时44分]"
+        },
+        {
           "title": "曝比亚迪“大秦”续航最高630公里",
           "url": "https://www.toutiao.com/trending/7589959200517095474/",
           "source": "今日头条",
@@ -744,17 +770,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "寻秦记终于等来售后",
-          "url": "https://www.douyin.com/hot/2355564",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
         },
         {
           "title": "Rivian(RIVN.O)：第四季度和全年汽车数据均符合公司预期。",
