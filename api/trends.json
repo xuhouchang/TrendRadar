@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T17:25:24.963596+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-01-02T17:47:17.703631+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时45分 ~ 17时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时45分 ~ 17时47分]"
         },
         {
           "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[12时41分 ~ 17时47分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -58,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 17时25分]"
+          "appearance_count": 33,
+          "time_info": "[00时27分 ~ 17时47分]"
         },
         {
           "title": "“新汽车”放榜2025",
@@ -87,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时27分 ~ 17时25分]"
+          "appearance_count": 33,
+          "time_info": "[00时27分 ~ 17时47分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -100,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时40分 ~ 17时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 17时47分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -170,6 +170,17 @@
           "time_info": "[06时21分 ~ 07时42分]"
         },
         {
+          "title": "曝2025比亚迪首超特斯拉登顶全球销冠",
+          "url": "https://www.toutiao.com/trending/7590669271571828233/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时47分]"
+        },
+        {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3029693",
           "source": "华尔街见闻-快讯",
@@ -220,6 +231,18 @@
           "time_info": "03时39分"
         },
         {
+          "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300543",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 17时47分]"
+        },
+        {
           "title": "比亚迪去年累计销量超460万辆",
           "url": "https://www.toutiao.com/trending/7589655842434220075/",
           "source": "今日头条",
@@ -233,15 +256,15 @@
           "time_info": "[00时27分 ~ 03时39分]"
         },
         {
-          "title": "曝2025比亚迪首超特斯拉登顶全球销冠",
-          "url": "https://www.toutiao.com/trending/7590669271571828233/",
-          "source": "今日头条",
+          "title": "美股热门中概股盘前普涨，网易(NTES.O)涨6.1%，蔚来汽车(NIO.N)涨5.5%，阿里巴巴(BABA.N)涨4.13%，理想汽车(LI.O)涨近3%，京东(JD.O)、台积电(TSM.N)、拼多多(PDD.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260102172348617800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "17时47分"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球汽车制造商市值变化",
@@ -282,18 +305,6 @@
           "time_info": "[15时44分 ~ 16时55分]"
         },
         {
-          "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300543",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 17时25分]"
-        },
-        {
           "title": "比亚迪：2025年比亚迪海外年销量首次突破100万辆，同比增长145%。",
           "url": "https://wallstreetcn.com/livenews/3029612",
           "source": "华尔街见闻-快讯",
@@ -328,8 +339,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 17时47分]"
         },
         {
           "title": "瑞典出行数据显示，特斯拉12月在瑞典的新车注册量同比增长70.6%。",
@@ -356,6 +367,18 @@
           "time_info": "[11时41分 ~ 12时41分]"
         },
         {
+          "title": "葡萄牙汽车协会（ACAP）：葡萄牙12月特斯拉(TSLA.O)新车注册量同比下降12.7%，2025年累计下降22.3%。",
+          "url": "https://flash.jin10.com/detail/20260102164902604800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时47分]"
+        },
+        {
           "title": "百度集团港股涨超6%，此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
           "url": "https://wallstreetcn.com/livenews/3029700",
           "source": "华尔街见闻-快讯",
@@ -380,15 +403,15 @@
           "time_info": "[00时28分 ~ 00时52分]"
         },
         {
-          "title": "葡萄牙汽车协会（ACAP）：葡萄牙12月特斯拉(TSLA.O)新车注册量同比下降12.7%，2025年累计下降22.3%。",
-          "url": "https://flash.jin10.com/detail/20260102164902604800",
+          "title": "投行2026关键词系列：分化之年小摩教你如何进行资产配置丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260102171537683800",
           "source": "金十数据",
           "ranks": [
-            17
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "17时47分"
         },
         {
           "title": "多国领导人的新年关键词",
