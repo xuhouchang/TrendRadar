@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-04T07:20:18.116189+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-01-04T07:41:59.351897+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时20分]"
-        },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
           "url": "https://wallstreetcn.com/articles/3762449",
@@ -32,6 +20,19 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 07时41分]"
+        },
+        {
           "title": "哪个词是你的2026年关键词",
           "url": "https://www.douyin.com/hot/2356463",
           "source": "抖音",
@@ -39,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "雷军回应小米超强钢争议",
@@ -88,11 +89,26 @@
             18,
             23,
             26,
-            20
+            20,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 07时41分]"
+        },
+        {
+          "title": "直播拆车！雷军呼吁：希望大家说公道话，不要为了流量故意夸大或找茬",
+          "url": "https://wallstreetcn.com/articles/3762479",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时18分 ~ 07时41分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -107,8 +123,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "雷军：刹车过程中千万不要打方向盘",
@@ -124,8 +140,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
@@ -139,24 +155,12 @@
             19,
             22,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 06时44分]"
-        },
-        {
-          "title": "直播拆车！雷军呼吁：希望大家说公道话，不要为了流量故意夸大或找茬",
-          "url": "https://wallstreetcn.com/articles/3762479",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时18分 ~ 07时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 07时41分]"
         },
         {
           "title": "特斯拉电动车年销量首次被比亚迪超越",
@@ -207,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "雷军确认小字营销要改",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A1%AE%E8%AE%A4%E5%B0%8F%E5%AD%97%E8%90%A5%E9%94%80%E8%A6%81%E6%94%B9%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "雷军公开小米汽车年交付量",
