@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T17:21:31.997168+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-01-03T17:42:35.150703+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时40分 ~ 17时21分]"
+          "appearance_count": 19,
+          "time_info": "[07时40分 ~ 17时42分]"
         },
         {
           "title": "“停靠在八楼的2路汽车”具象化了",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 17时42分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 39,
+          "time_info": "[00时26分 ~ 17时42分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -118,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 39,
+          "time_info": "[00时26分 ~ 17时42分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -131,8 +131,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 39,
+          "time_info": "[00时26分 ~ 17时42分]"
+        },
+        {
+          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 17时42分]"
         },
         {
           "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
@@ -146,27 +163,12 @@
             11,
             16,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时39分 ~ 17时21分]"
-        },
-        {
-          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时39分 ~ 17时42分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -225,8 +227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[13时21分 ~ 17时42分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -255,11 +257,12 @@
             20,
             22,
             27,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时23分 ~ 17时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 17时42分]"
         },
         {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
@@ -314,8 +317,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时26分 ~ 17时21分]"
+          "appearance_count": 39,
+          "time_info": "[00时26分 ~ 17时42分]"
         },
         {
           "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
@@ -343,6 +346,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时53分 ~ 14时32分]"
+        },
+        {
+          "title": "现代汽车美国公司：12月汽车总销量为78,930辆。",
+          "url": "https://flash.jin10.com/detail/20260103173315216800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "特斯拉连续七个交易日下跌。",
@@ -391,6 +405,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时54分 ~ 05时39分]"
+        },
+        {
+          "title": "起亚美国：2025年汽车销量达852,155辆。",
+          "url": "https://flash.jin10.com/detail/20260103172020693800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "蔚来李斌：计划2026年换电站总数超4600座",
