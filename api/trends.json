@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T05:19:14.146673+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-01-04T05:40:46.386908+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "哪个词是你的2026年关键词",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "雷军回应小米超强钢争议",
@@ -86,11 +86,12 @@
             9,
             18,
             23,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "雷军：刹车过程中千万不要打方向盘",
@@ -101,11 +102,12 @@
             8,
             16,
             9,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -116,11 +118,12 @@
             10,
             18,
             20,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 05时40分]"
         },
         {
           "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
@@ -165,6 +168,17 @@
           "time_info": "[00时25分 ~ 01时41分]"
         },
         {
+          "title": "直播拆车！雷军呼吁：希望大家说公道话，不要为了流量故意夸大或找茬",
+          "url": "https://wallstreetcn.com/articles/3762479",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 05时40分]"
+        },
+        {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
           "url": "https://www.toutiao.com/trending/7590811655605616659/",
           "source": "今日头条",
@@ -188,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "直播拆车！雷军呼吁：希望大家说公道话，不要为了流量故意夸大或找茬",
-          "url": "https://wallstreetcn.com/articles/3762479",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
         },
         {
           "title": "雷军公开小米汽车年交付量",
