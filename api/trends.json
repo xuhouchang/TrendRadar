@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:41:06.930520+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-01-03T16:28:10.751685+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时40分 ~ 15时41分]"
+          "appearance_count": 16,
+          "time_info": "[07时40分 ~ 16时28分]"
         },
         {
           "title": "“停靠在八楼的2路汽车”具象化了",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 16时28分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时26分 ~ 15时41分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -118,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时26分 ~ 15时41分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -131,8 +131,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时26分 ~ 15时41分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
+          "url": "https://wallstreetcn.com/livenews/3029959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            8,
+            9,
+            11,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 16时28分]"
         },
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -147,8 +164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 16时28分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -178,22 +195,6 @@
           "time_info": "[01时43分 ~ 07时40分]"
         },
         {
-          "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
-          "url": "https://wallstreetcn.com/livenews/3029959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            8,
-            9,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 15时41分]"
-        },
-        {
           "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
           "url": "https://www.zhihu.com/question/1990172846333325720",
           "source": "知乎",
@@ -210,6 +211,21 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时26分 ~ 07时40分]"
+        },
+        {
+          "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
+          "url": "https://www.zhihu.com/question/1990694648226789131",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时21分 ~ 16时28分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -237,11 +253,12 @@
             23,
             20,
             22,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时23分 ~ 16时28分]"
         },
         {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
@@ -296,23 +313,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时26分 ~ 15时41分]"
-        },
-        {
-          "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
-          "url": "https://www.zhihu.com/question/1990694648226789131",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时21分 ~ 15时41分]"
+          "appearance_count": 36,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
