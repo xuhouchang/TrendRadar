@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T11:23:28.575285+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-03T12:08:01.935479+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "“停靠在八楼的2路汽车”具象化了",
@@ -37,11 +37,12 @@
           "url": "https://www.cls.cn/detail/2246325",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 11时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 12时08分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 11时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 12时08分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -68,6 +69,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时43分 ~ 07时40分]"
+        },
+        {
+          "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
+          "url": "https://wallstreetcn.com/articles/3762446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时08分]"
         },
         {
           "title": "胡塞武装：支持萨那“和平安排” 呼吁聚焦反以立场",
@@ -92,19 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 11时23分]"
-        },
-        {
-          "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
-          "url": "https://wallstreetcn.com/articles/3762446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 11时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 12时08分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -168,6 +169,17 @@
           "time_info": "[01时19分 ~ 07时40分]"
         },
         {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 12时08分]"
+        },
+        {
           "title": "寻秦记终于等来售后",
           "url": "https://www.douyin.com/hot/2355564",
           "source": "抖音",
@@ -183,19 +195,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 11时23分]"
-        },
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 11时23分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 12时08分]"
         },
         {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
@@ -210,8 +211,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时39分 ~ 11时23分]"
+          "appearance_count": 8,
+          "time_info": "[05时39分 ~ 12时08分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -225,8 +226,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 11时23分]"
+          "appearance_count": 7,
+          "time_info": "[06时21分 ~ 12时08分]"
         },
         {
           "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
@@ -237,8 +238,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 12时08分]"
+        },
+        {
+          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
+          "url": "https://wallstreetcn.com/articles/3762459",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时08分]"
+        },
+        {
+          "title": "比亚迪超越特斯拉成全球电车销冠",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时08分]"
+        },
+        {
+          "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
+          "url": "https://flash.jin10.com/detail/20260103111441264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "特斯拉连续七个交易日下跌。",
@@ -289,26 +324,16 @@
           "time_info": "[02时54分 ~ 05时39分]"
         },
         {
-          "title": "比亚迪超越特斯拉成全球电车销冠",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0",
-          "source": "百度热搜",
+          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
-          "url": "https://wallstreetcn.com/articles/3762459",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时08分]"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -323,24 +348,13 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
-          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
           "title": "不到两个月再变更！宗馥莉重任宏胜集团法定代表人，严学峰任联络员",
           "url": "https://m.thepaper.cn/newsDetail_forward_32302622",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -351,7 +365,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
