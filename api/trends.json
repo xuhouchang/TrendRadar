@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:39:53.838461+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-04T20:41:00.391874+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -107,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时28分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
@@ -195,6 +195,20 @@
           "time_info": "[00时25分 ~ 09时54分]"
         },
         {
+          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 20时41分]"
+        },
+        {
           "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
           "url": "https://www.toutiao.com/trending/7591130548869942822/",
           "source": "今日头条",
@@ -214,6 +228,22 @@
           "time_info": "[00时25分 ~ 07时41分]"
         },
         {
+          "title": "雷军：撞击后掉车轮是安全策略",
+          "url": "https://www.douyin.com/hot/2356675",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            28,
+            17,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时28分 ~ 20时41分]"
+        },
+        {
           "title": "两名中国公民在日本被汽车严重撞伤",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
           "source": "百度热搜",
@@ -229,21 +259,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时53分 ~ 17时21分]"
-        },
-        {
-          "title": "雷军：撞击后掉车轮是安全策略",
-          "url": "https://www.douyin.com/hot/2356675",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            28,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 19时39分]"
         },
         {
           "title": "与宁德时代签署5年电解液长单？韩国Enchem回应",
@@ -381,24 +396,24 @@
             2,
             5,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 20时41分]"
         },
         {
-          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
-          "source": "澎湃新闻",
+          "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
+          "url": "https://wallstreetcn.com/articles/3762491",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            13,
-            9
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 20时41分]"
         },
         {
           "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
@@ -439,15 +454,15 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
-          "title": "阿曼外交部就委内瑞拉局势发表声明称，重申支持国际法和尊重主权，敦促各方保持克制，畅通对话渠道，以防止局势升级。",
-          "url": "https://flash.jin10.com/detail/20260104185513568800",
-          "source": "金十数据",
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "20时41分"
         },
         {
           "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
@@ -526,17 +541,6 @@
           "time_info": "11时51分"
         },
         {
-          "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
-          "url": "https://wallstreetcn.com/articles/3762491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时39分]"
-        },
-        {
           "title": "消费者在米其林餐厅吃出鱼钩获免单",
           "url": "https://www.toutiao.com/trending/7591360397678149675/",
           "source": "今日头条",
@@ -595,6 +599,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时41分]"
+        },
+        {
+          "title": "阿曼外交部就委内瑞拉局势发表声明称，重申支持国际法和尊重主权，敦促各方保持克制，畅通对话渠道，以防止局势升级。",
+          "url": "https://flash.jin10.com/detail/20260104185513568800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时41分]"
         },
         {
           "title": "载有委内瑞拉总统马杜罗的军用飞机料将在今天（美东时间1月3日）着陆纽约。（CBS）",
@@ -682,6 +698,17 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "男子连续扎坏多车轮胎称因报复",
+          "url": "https://www.toutiao.com/trending/7591098992126394404/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
+        },
+        {
           "title": "修理厂建议我 10 万公里，大保养，你们觉得有必要吗？",
           "url": "https://www.zhihu.com/question/1967200920065512275",
           "source": "知乎",
@@ -704,6 +731,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时48分]"
+        },
+        {
+          "title": "16 世纪西班牙，为什么可以在勒班陀海战击败强大的奥斯曼，却不能用无敌舰队击败弱小的英格兰？",
+          "url": "https://www.zhihu.com/question/1890565524288673180",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "雷军：2026年小米汽车交付目标55万辆",
