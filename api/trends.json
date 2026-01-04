@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:21:08.009769+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-05T06:45:22.436597+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "茅台集团董事长陈华调研i茅台配套物流保障情况",
-          "url": "https://wallstreetcn.com/livenews/3030343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车，是真的吗？具体是什么原理？安全性能提高多少？",
@@ -43,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
@@ -55,8 +44,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
+        },
+        {
+          "title": "茅台集团董事长陈华调研i茅台配套物流保障情况",
+          "url": "https://wallstreetcn.com/livenews/3030343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 06时45分]"
         },
         {
           "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "佘诗曼四封TVB视后",
@@ -79,11 +80,12 @@
             8,
             10,
             9,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 04时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "佘诗曼黄宗泽挽手走红毯",
@@ -99,8 +101,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "玩脱了,哈基米曼波炸场春晚",
@@ -110,8 +112,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -122,22 +124,24 @@
             24,
             19,
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 06时45分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
           "url": "https://wallstreetcn.com/livenews/3030322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 06时45分]"
         },
         {
           "title": "消息人士：L3哈里斯技术公司（一家美国科技公司、国防承包商和信息技术服务提供商）即将向私人股权公司AE工业集团出售其与太空相关业务的资产，其太空资产组合总价值达8.45亿美元。",
@@ -148,8 +152,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 06时45分]"
+        },
+        {
+          "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
+          "url": "https://flash.jin10.com/detail/20260105042649832800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 06时45分]"
         },
         {
           "title": "佘诗曼四封TVB视后",
@@ -162,18 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 01时41分]"
-        },
-        {
-          "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
-          "url": "https://flash.jin10.com/detail/20260105042649832800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时21分]"
         }
       ]
     }
