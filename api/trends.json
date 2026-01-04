@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:45:22.436597+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-01-05T07:20:28.515546+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车，是真的吗？具体是什么原理？安全性能提高多少？",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
@@ -41,23 +41,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
-        },
-        {
-          "title": "茅台集团董事长陈华调研i茅台配套物流保障情况",
-          "url": "https://wallstreetcn.com/livenews/3030343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
@@ -68,8 +57,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
+        },
+        {
+          "title": "茅台集团董事长陈华调研i茅台配套物流保障情况",
+          "url": "https://wallstreetcn.com/livenews/3030343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "佘诗曼四封TVB视后",
@@ -101,8 +103,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "玩脱了,哈基米曼波炸场春晚",
@@ -112,8 +114,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -125,11 +127,12 @@
             19,
             23,
             26,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 06时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 07时20分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
@@ -149,11 +152,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 06时45分]"
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
@@ -161,11 +165,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时19分 ~ 06时45分]"
+          "appearance_count": 5,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "佘诗曼四封TVB视后",
