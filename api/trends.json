@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T18:21:36.010099+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-01-04T18:45:15.103874+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[05时18分 ~ 18时21分]"
+          "appearance_count": 27,
+          "time_info": "[05时18分 ~ 18时45分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -94,6 +94,20 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时25分 ~ 07时41分]"
+        },
+        {
+          "title": "玩脱了,哈基米曼波炸场春晚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 18时45分]"
         },
         {
           "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
@@ -163,20 +177,6 @@
           "time_info": "[00时25分 ~ 09时54分]"
         },
         {
-          "title": "玩脱了,哈基米曼波炸场春晚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 18时21分]"
-        },
-        {
           "title": "雷军回应YU7轮胎曾被黑成“面条胎”",
           "url": "https://www.toutiao.com/trending/7591130548869942822/",
           "source": "今日头条",
@@ -194,6 +194,22 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 07时41分]"
+        },
+        {
+          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
+          "url": "https://flash.jin10.com/detail/20260104151614055800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            5,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 18时45分]"
         },
         {
           "title": "两名中国公民在日本被汽车严重撞伤",
@@ -247,22 +263,6 @@
           "time_info": "[12时50分 ~ 16时51分]"
         },
         {
-          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
-          "url": "https://flash.jin10.com/detail/20260104151614055800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            5,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时21分]"
-        },
-        {
           "title": "马斯克：Grok的新版本已发布。",
           "url": "https://flash.jin10.com/detail/20260104141330230800",
           "source": "金十数据",
@@ -305,6 +305,23 @@
           "time_info": "[00时25分 ~ 01时41分]"
         },
         {
+          "title": "上汽集团：2025年销售整车450.7万辆，同比增长12.3%",
+          "url": "https://wallstreetcn.com/livenews/3030251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            10,
+            14,
+            18,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时42分 ~ 18时45分]"
+        },
+        {
           "title": "国铁集团：2026年国家铁路投产新线2000公里以上",
           "url": "https://flash.jin10.com/detail/20260104140935406800",
           "source": "金十数据",
@@ -322,20 +339,29 @@
           "time_info": "[14时32分 ~ 17时41分]"
         },
         {
-          "title": "上汽集团：2025年销售整车450.7万辆，同比增长12.3%",
-          "url": "https://wallstreetcn.com/livenews/3030251",
-          "source": "华尔街见闻-快讯",
+          "title": "雷军：撞击后掉车轮是安全策略",
+          "url": "https://www.douyin.com/hot/2356675",
+          "source": "抖音",
           "ranks": [
-            2,
-            8,
-            10,
-            14,
+            19,
             18,
-            21
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 18时45分]"
+        },
+        {
+          "title": "能源情报集团记者：除非出现即时供应变动或基本面变化，欧佩克+不会对政治局势变化作出反应",
+          "url": "https://flash.jin10.com/detail/20260104171940029800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时45分]"
         },
         {
           "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
@@ -345,11 +371,12 @@
             1,
             5,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时45分]"
         },
         {
           "title": "雷军确认小字营销要改",
@@ -364,16 +391,17 @@
           "time_info": "[07时41分 ~ 09时54分]"
         },
         {
-          "title": "能源情报集团记者：除非出现即时供应变动或基本面变化，欧佩克+不会对政治局势变化作出反应",
-          "url": "https://flash.jin10.com/detail/20260104171940029800",
-          "source": "金十数据",
+          "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
+          "url": "https://wallstreetcn.com/livenews/3030281",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            5
+            4,
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时45分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
@@ -385,18 +413,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
-          "url": "https://wallstreetcn.com/livenews/3030281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时21分]"
         },
         {
           "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
@@ -426,17 +442,17 @@
           "time_info": "[09时54分 ~ 13时49分]"
         },
         {
-          "title": "雷军：撞击后掉车轮是安全策略",
-          "url": "https://www.douyin.com/hot/2356675",
+          "title": "雷军回应为何拆车",
+          "url": "https://www.douyin.com/hot/2356315",
           "source": "抖音",
           "ranks": [
-            19,
-            18,
-            28
+            30,
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时28分 ~ 18时21分]"
+          "time_info": "[12时50分 ~ 18时45分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
@@ -486,6 +502,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时51分 ~ 17时41分]"
+        },
+        {
+          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 18时45分]"
         },
         {
           "title": "宗馥莉重任宏胜集团法定代表人，这意味着什么？如何看待这一反转？",
@@ -574,19 +602,6 @@
           "time_info": "[16时51分 ~ 17时41分]"
         },
         {
-          "title": "雷军回应为何拆车",
-          "url": "https://www.douyin.com/hot/2356315",
-          "source": "抖音",
-          "ranks": [
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 18时21分]"
-        },
-        {
           "title": "小鹏汽车发布消息称，新款小鹏P7+和G7正式开启一车双能时代，1月8日将在中国正式上市，1月9日正式在欧洲上市。",
           "url": "https://flash.jin10.com/detail/20260104090622804800",
           "source": "金十数据",
@@ -597,17 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 11时51分]"
-        },
-        {
-          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普：将重建石油基础设施。 众多石油公司将为委内瑞拉石油基建提供资金。 将在3委内瑞拉指派一位（国家）领导人。 美国将与一个“集团”经营委内瑞拉（政权），该（政治）团体将支持我（本人利益）。 这个集团包括国务卿卢比奥和“战争部长”Hegseth。 将确保委内瑞拉得到合理的治理。 希望迅速移交政权，但需要时间。",
