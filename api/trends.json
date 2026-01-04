@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T21:31:59.993373+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-04T21:49:05.260942+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -123,8 +123,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时28分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[16时28分 ~ 21时49分]"
+        },
+        {
+          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[17时41分 ~ 21时49分]"
         },
         {
           "title": "雷军回应小米超强钢争议",
@@ -143,20 +158,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时25分 ~ 07时41分]"
-        },
-        {
-          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时41分 ~ 21时31分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -243,6 +244,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[16时28分 ~ 21时31分]"
+        },
+        {
+          "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
+          "url": "https://wallstreetcn.com/articles/3762491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 21时49分]"
         },
         {
           "title": "两名中国公民在日本被汽车严重撞伤",
@@ -406,18 +419,6 @@
           "time_info": "[14时32分 ~ 17时41分]"
         },
         {
-          "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
-          "url": "https://wallstreetcn.com/articles/3762491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时31分]"
-        },
-        {
           "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
           "url": "https://wallstreetcn.com/livenews/3030281",
           "source": "华尔街见闻-快讯",
@@ -454,18 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时31分]"
         },
         {
           "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
@@ -522,6 +511,19 @@
           "time_info": "[00时25分 ~ 01时41分]"
         },
         {
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 21时49分]"
+        },
+        {
           "title": "美国总统特朗普：将重建石油基础设施。 众多石油公司将为委内瑞拉石油基建提供资金。 将在3委内瑞拉指派一位（国家）领导人。 美国将与一个“集团”经营委内瑞拉（政权），该（政治）团体将支持我（本人利益）。 这个集团包括国务卿卢比奥和“战争部长”Hegseth。 将确保委内瑞拉得到合理的治理。",
           "url": "https://wallstreetcn.com/livenews/3030134",
           "source": "华尔街见闻-快讯",
@@ -544,6 +546,20 @@
           "time_info": "11时51分"
         },
         {
+          "title": "阿曼外交部就委内瑞拉局势发表声明称，重申支持国际法和尊重主权，敦促各方保持克制，畅通对话渠道，以防止局势升级。",
+          "url": "https://flash.jin10.com/detail/20260104185513568800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 21时49分]"
+        },
+        {
           "title": "消费者在米其林餐厅吃出鱼钩获免单",
           "url": "https://www.toutiao.com/trending/7591360397678149675/",
           "source": "今日头条",
@@ -557,6 +573,32 @@
           "time_info": "[16时51分 ~ 17时41分]"
         },
         {
+          "title": "16 世纪西班牙，为什么可以在勒班陀海战击败强大的奥斯曼，却不能用无敌舰队击败弱小的英格兰？",
+          "url": "https://www.zhihu.com/question/1890565524288673180",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 21时49分]"
+        },
+        {
+          "title": "男子连续扎坏多车轮胎称因报复",
+          "url": "https://www.toutiao.com/trending/7591098992126394404/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 21时49分]"
+        },
+        {
           "title": "宗馥莉重任宏胜集团法定代表人，这意味着什么？如何看待这一反转？",
           "url": "https://www.zhihu.com/question/1990519259449745507",
           "source": "知乎",
@@ -566,19 +608,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "阿曼外交部就委内瑞拉局势发表声明称，重申支持国际法和尊重主权，敦促各方保持克制，畅通对话渠道，以防止局势升级。",
-          "url": "https://flash.jin10.com/detail/20260104185513568800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时31分]"
         },
         {
           "title": "日本栃木县10余辆汽车相撞致1死3伤",
@@ -668,30 +697,6 @@
           "time_info": "[09时54分 ~ 11时51分]"
         },
         {
-          "title": "16 世纪西班牙，为什么可以在勒班陀海战击败强大的奥斯曼，却不能用无敌舰队击败弱小的英格兰？",
-          "url": "https://www.zhihu.com/question/1890565524288673180",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
-        },
-        {
-          "title": "男子连续扎坏多车轮胎称因报复",
-          "url": "https://www.toutiao.com/trending/7591098992126394404/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
-        },
-        {
           "title": "美国总统特朗普：将重建石油基础设施。 众多石油公司将为委内瑞拉石油基建提供资金。 将在3委内瑞拉指派一位（国家）领导人。 美国将与一个“集团”经营委内瑞拉（政权），该（政治）团体将支持我（本人利益）。 这个集团包括国务卿卢比奥和“战争部长”Hegseth。 将确保委内瑞拉得到合理的治理。 希望迅速移交政权，但需要时间。",
           "url": "https://wallstreetcn.com/livenews/3030134",
           "source": "华尔街见闻-快讯",
@@ -724,6 +729,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "雷军回应“小字营销”：确实要改 重申小米汽车2026年交付目标",
+          "url": "https://www.cls.cn/detail/2246864",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
           "title": "修理厂建议我 10 万公里，大保养，你们觉得有必要吗？",
