@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T16:28:33.103209+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-01-04T16:51:35.954202+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时18分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[05时18分 ~ 16时51分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -190,11 +190,12 @@
             13,
             16,
             15,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 16时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 16时51分]"
         },
         {
           "title": "与宁德时代签署5年电解液长单？韩国Enchem回应",
@@ -206,11 +207,12 @@
             9,
             17,
             19,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 16时51分]"
         },
         {
           "title": "美交通部长：加勒比海空域航班限制将于美东时间4日0时解除",
@@ -222,11 +224,12 @@
             10,
             18,
             20,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 16时51分]"
         },
         {
           "title": "特斯拉电动车年销量首次被比亚迪超越",
@@ -261,11 +264,12 @@
             2,
             8,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 16时51分]"
         },
         {
           "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
@@ -273,11 +277,27 @@
           "source": "金十数据",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时51分]"
+        },
+        {
+          "title": "国铁集团：2026年国家铁路投产新线2000公里以上",
+          "url": "https://flash.jin10.com/detail/20260104140935406800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 16时51分]"
         },
         {
           "title": "雷军确认小字营销要改",
@@ -292,30 +312,17 @@
           "time_info": "[07时41分 ~ 09时54分]"
         },
         {
-          "title": "国铁集团：2026年国家铁路投产新线2000公里以上",
-          "url": "https://flash.jin10.com/detail/20260104140935406800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时28分]"
-        },
-        {
           "title": "上汽集团：2025年销售整车450.7万辆，同比增长12.3%",
           "url": "https://wallstreetcn.com/livenews/3030251",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时51分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
@@ -327,6 +334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
+          "url": "https://wallstreetcn.com/livenews/3030275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "雷军：未来五年至少投2000个亿在技术研发",
@@ -341,6 +359,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 13时49分]"
+        },
+        {
+          "title": "玩脱了,哈基米曼波炸场春晚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时51分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
@@ -377,17 +407,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "玩脱了,哈基米曼波炸场春晚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "宗馥莉重任宏胜集团法定代表人，这意味着什么？如何看待这一反转？",
@@ -509,6 +528,17 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
+          "url": "https://www.cls.cn/detail/2246688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时51分]"
+        },
+        {
           "title": "修理厂建议我 10 万公里，大保养，你们觉得有必要吗？",
           "url": "https://www.zhihu.com/question/1967200920065512275",
           "source": "知乎",
@@ -557,26 +587,26 @@
           "time_info": "[12时50分 ~ 16时28分]"
         },
         {
-          "title": "雷军新年直播今晚开启：现场拆一台小米YU7",
-          "url": "https://www.cls.cn/detail/2246688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "雷军：撞击后掉车轮是安全策略",
           "url": "https://www.douyin.com/hot/2356675",
           "source": "抖音",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "消费者在米其林餐厅吃出鱼钩获免单",
+          "url": "https://www.toutiao.com/trending/7591360397678149675/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "雷军：对造谣抹黑攻击小米车主的行为，我们绝对不会姑息",
@@ -588,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "顾客在米其林餐厅吃出鱼钩获免单",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%9C%A8%E7%B1%B3%E5%85%B6%E6%9E%97%E9%A4%90%E5%8E%85%E5%90%83%E5%87%BA%E9%B1%BC%E9%92%A9%E8%8E%B7%E5%85%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     }
