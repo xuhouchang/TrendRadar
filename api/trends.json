@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:25:26.099791+08:00",
-  "total_titles_processed": 1916,
+  "generated_at": "2026-01-05T22:52:32.976884+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "全球车企市值“大洗牌”：小米、比亚迪稳居三四位 保时捷跌出TOP10",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时59分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[12时59分 ~ 22时52分]"
         },
         {
           "title": "曼联1-1利兹联",
@@ -208,8 +208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时51分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[18时51分 ~ 22时52分]"
         },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -221,8 +221,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时51分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[18时51分 ~ 22时52分]"
+        },
+        {
+          "title": "曼联主帅阿莫林下课",
+          "url": "https://www.douyin.com/hot/2358195",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4,
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时52分]"
         },
         {
           "title": "佘诗曼黄宗泽挽手走红毯",
@@ -256,8 +271,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时25分 ~ 22时25分]"
+          "appearance_count": 42,
+          "time_info": "[00时25分 ~ 22时52分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -291,19 +306,15 @@
           "time_info": "[00时26分 ~ 06时45分]"
         },
         {
-          "title": "曼联主帅阿莫林下课",
-          "url": "https://www.douyin.com/hot/2358195",
-          "source": "抖音",
+          "title": "红魔换帅,曼联解雇阿莫林",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348734&amp;topic_name=%E7%BA%A2%E9%AD%94%E6%8D%A2%E5%B8%85%2C%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97",
+          "source": "贴吧",
           "ranks": [
-            7,
-            4,
-            1,
-            2,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时20分 ~ 22时25分]"
+          "time_info": "[19时42分 ~ 22时52分]"
         },
         {
           "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
@@ -318,17 +329,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时59分 ~ 17时32分]"
-        },
-        {
-          "title": "红魔换帅,曼联解雇阿莫林",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348734&amp;topic_name=%E7%BA%A2%E9%AD%94%E6%8D%A2%E5%B8%85%2C%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 22时25分]"
         },
         {
           "title": "消息人士：L3哈里斯技术公司（一家美国科技公司、国防承包商和信息技术服务提供商）即将向私人股权公司AE工业集团出售其与太空相关业务的资产，其太空资产组合总价值达8.45亿美元。",
@@ -363,11 +363,12 @@
             4,
             5,
             27,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 22时52分]"
         },
         {
           "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
@@ -381,6 +382,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时19分 ~ 07时42分]"
+        },
+        {
+          "title": "曼联未来谁来救火",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%9C%AA%E6%9D%A5%E8%B0%81%E6%9D%A5%E6%95%91%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "委政权更迭利好美油巨头 雪佛龙、康菲石油盘前双双暴涨 9%",
@@ -403,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
+        },
+        {
+          "title": "雷军聊小米汽车试验室",
+          "url": "https://www.douyin.com/hot/2358389",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时52分]"
         },
         {
           "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
@@ -472,17 +495,6 @@
           "time_info": "[00时48分 ~ 01时41分]"
         },
         {
-          "title": "雷军聊小米汽车试验室",
-          "url": "https://www.douyin.com/hot/2358389",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "前雪佛龙高管拟募集20亿美元押注委内瑞拉油业",
           "url": "https://flash.jin10.com/detail/20260105131000002800",
           "source": "金十数据",
@@ -503,17 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "芯片公司澜起科技通过港交所上市聆讯 在沪上市的澜起科技向港交所提交聆讯后上市文件。 联合保荐人为中金公司、摩根士丹利和瑞银集团。",
-          "url": "https://wallstreetcn.com/livenews/3030929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "中国航天科技集团商业火箭公司增资至13.96亿，增幅39.6%",
@@ -623,6 +624,18 @@
           "time_info": "[17时32分 ~ 18时26分]"
         },
         {
+          "title": "芯片公司澜起科技通过港交所上市聆讯 在沪上市的澜起科技向港交所提交聆讯后上市文件。 联合保荐人为中金公司、摩根士丹利和瑞银集团。",
+          "url": "https://wallstreetcn.com/livenews/3030929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时52分]"
+        },
+        {
           "title": "港交所文件显示：小米集团(01810.HK)1月5日于回购了380万股B类股份，耗资1.493亿港元。",
           "url": "https://flash.jin10.com/detail/20260105190525610800",
           "source": "金十数据",
@@ -635,6 +648,18 @@
           "time_info": "[19时20分 ~ 19时42分]"
         },
         {
+          "title": "2526 赛季英超联赛英超第 20 轮曼城 1:1 切尔西，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1991321675623576028",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时52分]"
+        },
+        {
           "title": "特斯拉上海超级工厂2025年贡献特斯拉全球超一半交付量",
           "url": "https://wallstreetcn.com/livenews/3030830",
           "source": "华尔街见闻-快讯",
@@ -645,18 +670,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 20时47分]"
-        },
-        {
-          "title": "2526 赛季英超联赛英超第 20 轮曼城 1:1 切尔西，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1991321675623576028",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "现代汽车：2026年全球销量目标为416万辆。",
@@ -681,6 +694,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时47分 ~ 21时41分]"
+        },
+        {
+          "title": "Lucid集团四季度交付5345辆，季环比增长31%。",
+          "url": "https://wallstreetcn.com/livenews/3030922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时52分]"
         },
         {
           "title": "赛力斯：12月新能源汽车销量60,981辆，同比增长63.40%；其中赛力斯汽车销量53,733辆，同比增长77.99%。",
@@ -726,17 +751,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        },
-        {
-          "title": "Lucid集团四季度交付5345辆，季环比增长31%。",
-          "url": "https://wallstreetcn.com/livenews/3030922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "曼联官宣主帅阿莫林下课，如何评价他在曼联的执教经历，怎样评价管理层这一操作？",
@@ -860,13 +874,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "美股开盘，道指涨0.19%，标普500指数涨0.48%，纳指涨0.93%。美国石油股走强，雪佛龙(CVX.N)涨6%。台积电(TSM.N)涨3.2%，高盛上调目标价35%。英特尔(INTC.O)涨5.9%，高通(QCOM.O)涨1.06%。",
+          "url": "https://flash.jin10.com/detail/20260105223030751800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "苏宁集团等38家公司重整计划获法院裁定批准",
           "url": "https://wallstreetcn.com/livenews/3030909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
