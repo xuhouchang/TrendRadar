@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T05:43:58.593937+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-01-06T06:22:22.479412+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "曼联主帅阿莫林下课",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -39,21 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
-        },
-        {
-          "title": "曼联未来谁来救火",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%9C%AA%E6%9D%A5%E8%B0%81%E6%9D%A5%E6%95%91%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "雷军聊小米汽车试验室",
@@ -66,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -77,8 +64,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "曼联未来谁来救火",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%9C%AA%E6%9D%A5%E8%B0%81%E6%9D%A5%E6%95%91%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "曼联解雇阿莫林是否业余",
@@ -92,8 +93,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -104,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "阿莫林卸任曼联主帅",
@@ -122,8 +123,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "玩脱了,哈基米曼波炸场春晚",
@@ -133,8 +134,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 05时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "博世预计到下个十年初，其软件和服务业务销售额将超过60亿欧元。",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
+          "url": "https://wallstreetcn.com/livenews/3031121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
@@ -173,6 +185,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "1月6日（2026年首个周一），美国投资级债券市场迎来370亿美元供应量。 包括通用汽车、Williams Cos.、法国农业信贷银行瑞银集团在内，20家公司发行了高评级债券。",
+          "url": "https://wallstreetcn.com/livenews/3031118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3031093",
           "source": "华尔街见闻-快讯",
@@ -198,6 +221,19 @@
           "time_info": "[03时21分 ~ 05时21分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3031100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
           "title": "斯泰兰蒂斯集团Stellantis NV四季度FCA美国总体销售332,321辆，同比增长4%。",
           "url": "https://wallstreetcn.com/livenews/3031008",
           "source": "华尔街见闻-快讯",
@@ -211,28 +247,17 @@
           "time_info": "[00时54分 ~ 01时47分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3031100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
-        },
-        {
           "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
           "url": "https://wallstreetcn.com/livenews/3031099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "周一（1月5日），彭博电动汽车价格回报指数涨1.12%，报3523.49点，全天持续上涨。",
@@ -240,11 +265,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
+          "url": "https://flash.jin10.com/detail/20260106055327542800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "通用汽车涨幅扩大至1%，刷新日高，此前发布了美国销售数据。",
@@ -257,6 +294,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时33分]"
+        },
+        {
+          "title": "美股收盘：道指创新高 雪佛龙涨5%",
+          "url": "https://flash.jin10.com/detail/20260106050116385800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 06时22分]"
         },
         {
           "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
@@ -307,18 +357,6 @@
           "time_info": "[01时47分 ~ 02时33分]"
         },
         {
-          "title": "美股收盘：道指创新高 雪佛龙涨5%",
-          "url": "https://flash.jin10.com/detail/20260106050116385800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时43分]"
-        },
-        {
           "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
           "url": "https://flash.jin10.com/detail/20260105234306694800",
           "source": "金十数据",
@@ -355,6 +393,29 @@
           "time_info": "[01时47分 ~ 02时33分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
+          "url": "https://wallstreetcn.com/livenews/3031095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时22分]"
+        },
+        {
+          "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
+          "url": "https://wallstreetcn.com/livenews/3031109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "消息人士称，随着航班恢复，美国雪佛龙公司呼吁其委内瑞拉分部的海外员工返回国内。",
           "url": "https://flash.jin10.com/detail/20260106011602491800",
           "source": "金十数据",
@@ -375,17 +436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.49%，报7898.24点。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。 ETF中，中国科技指数ETF（CQQQ）收涨2.47%，中概互联网指数ETF（KWEB）收涨2.30%。 XtrackersHarvest中证50（ASHS）收涨1.57%，德银嘉实沪深300指数ETF（ASHR）收涨1.02%。",
-          "url": "https://wallstreetcn.com/livenews/3031095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "雪佛龙(CVX.N)现涨5%、埃克森美孚石油(XOM.N)涨2.41%，康菲石油(COP.N)现涨3.05%。消息称美国总统特朗普政府未与埃克森、康菲或雪佛龙就委内瑞拉问题进行过任何会谈。",
