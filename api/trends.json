@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T04:26:59.879199+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-01-06T04:48:05.356017+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "曼联主帅阿莫林下课",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "曼联未来谁来救火",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "雷军聊小米汽车试验室",
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "曼联解雇阿莫林是否业余",
@@ -86,11 +86,12 @@
             7,
             8,
             9,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -101,8 +102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "阿莫林卸任曼联主帅",
@@ -114,11 +115,12 @@
             21,
             27,
             23,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "玩脱了,哈基米曼波炸场春晚",
@@ -128,8 +130,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 04时48分]"
         },
         {
           "title": "博世预计到下个十年初，其软件和服务业务销售额将超过60亿欧元。",
@@ -148,11 +150,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时48分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis NV四季度FCA美国总体销售332,321辆，同比增长4%。",
@@ -192,6 +195,43 @@
           "time_info": "[01时47分 ~ 02时33分]"
         },
         {
+          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
+          "url": "https://wallstreetcn.com/livenews/3031065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时48分]"
+        },
+        {
+          "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
+          "url": "https://flash.jin10.com/detail/20260106024744750800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时48分]"
+        },
+        {
+          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
+          "url": "https://flash.jin10.com/detail/20260106024236433800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时48分]"
+        },
+        {
           "title": "通用汽车四季度美国销售703,001辆，同比下滑6.9%。 四季度美国电动汽车销售25,219辆，同比下滑43%。",
           "url": "https://wallstreetcn.com/livenews/3031033",
           "source": "华尔街见闻-快讯",
@@ -214,42 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时54分]"
-        },
-        {
-          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
-          "url": "https://wallstreetcn.com/livenews/3031065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
-          "url": "https://flash.jin10.com/detail/20260106024744750800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时26分]"
-        },
-        {
-          "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
-          "url": "https://flash.jin10.com/detail/20260106024236433800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时26分]"
         },
         {
           "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
