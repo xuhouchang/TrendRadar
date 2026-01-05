@@ -1,362 +1,22 @@
 {
-  "generated_at": "2026-01-05T23:48:34.893535+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-01-06T00:28:16.188505+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 78,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "全球车企市值“大洗牌”：小米、比亚迪稳居三四位 保时捷跌出TOP10",
-          "url": "https://www.cls.cn/detail/2247690",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 19时42分]"
-        },
-        {
-          "title": "马斯克“量产预告”催化 脑机接口掀涨停潮 商业化元年稳了？",
-          "url": "https://www.cls.cn/detail/2247515",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时56分 ~ 18时26分]"
-        },
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32313092",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时59分 ~ 23时48分]"
-        },
-        {
-          "title": "曼联1-1利兹联",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%941-1%E5%88%A9%E5%85%B9%E8%81%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            2,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 07时42分]"
-        },
-        {
-          "title": "雷军称小米车轮子撞掉是丢轮保车，是真的吗？具体是什么原理？安全性能提高多少？",
-          "url": "https://www.zhihu.com/question/1991093266792280218",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 09时54分]"
-        },
-        {
-          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时25分 ~ 15时29分]"
-        },
-        {
-          "title": "阿莫林卸任曼联主帅",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%8E%AB%E6%9E%97%E5%8D%B8%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E5%B8%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时51分 ~ 23时48分]"
-        },
-        {
-          "title": "回应“绿化带战神”、“1300公里只充一次电”，“200公里瞬间刹停”、“小字营销”--雷军260分钟“拆车直播”讲了什么？",
-          "url": "https://wallstreetcn.com/articles/3762491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 09时54分]"
-        },
-        {
-          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
-          "url": "https://wallstreetcn.com/articles/3762545",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时51分 ~ 23时48分]"
-        },
-        {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 19时42分]"
-        },
-        {
-          "title": "曼城1:1切尔西",
-          "url": "https://www.douyin.com/hot/2357599",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            4,
-            9,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 18时52分]"
-        },
-        {
-          "title": "曼城1-1切尔西",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E1-1%E5%88%87%E5%B0%94%E8%A5%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            4,
-            10,
-            3,
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时54分 ~ 18时26分]"
-        },
-        {
-          "title": "茅台集团董事长陈华调研i茅台配套物流保障情况",
-          "url": "https://wallstreetcn.com/livenews/3030343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 07时42分]"
-        },
-        {
-          "title": "曼联主帅阿莫林下课",
-          "url": "https://www.douyin.com/hot/2358195",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4,
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时20分 ~ 23时48分]"
-        },
-        {
-          "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
-          "url": "https://www.zhihu.com/question/1990770031445942920",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            5,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时56分 ~ 20时47分]"
-        },
-        {
-          "title": "佘诗曼四封TVB视后",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9B%E5%B0%81TVB%E8%A7%86%E5%90%8E%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            10,
-            9,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 06时45分]"
-        },
-        {
-          "title": "红魔换帅,曼联解雇阿莫林",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348734&amp;topic_name=%E7%BA%A2%E9%AD%94%E6%8D%A2%E5%B8%85%2C%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时42分 ~ 23时48分]"
-        },
-        {
-          "title": "佘诗曼黄宗泽挽手走红毯",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E9%BB%84%E5%AE%97%E6%B3%BD%E6%8C%BD%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16,
-            27,
-            25,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 07时42分]"
-        },
-        {
-          "title": "玩脱了,哈基米曼波炸场春晚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            20,
-            21,
-            24,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时25分 ~ 23时48分]"
-        },
-        {
-          "title": "雷军带网友参观小米汽车实验室",
-          "url": "https://www.douyin.com/hot/2357448",
-          "source": "抖音",
-          "ranks": [
-            20,
-            24,
-            19,
-            23,
-            26,
-            25,
-            18,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时25分 ~ 16时34分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 06时45分]"
-        },
-        {
-          "title": "曼联解雇阿莫林是否业余",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97%E6%98%AF%E5%90%A6%E4%B8%9A%E4%BD%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            27,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时42分 ~ 23时48分]"
-        },
-        {
-          "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
-          "url": "https://www.cls.cn/detail/2247462",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 17时32分]"
-        },
-        {
-          "title": "消息人士：L3哈里斯技术公司（一家美国科技公司、国防承包商和信息技术服务提供商）即将向私人股权公司AE工业集团出售其与太空相关业务的资产，其太空资产组合总价值达8.45亿美元。",
-          "url": "https://flash.jin10.com/detail/20260105045910350800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "曼联未来谁来救火",
@@ -366,8 +26,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时52分 ~ 23时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "曼联主帅阿莫林下课",
+          "url": "https://www.douyin.com/hot/2358195",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "红魔换帅,曼联解雇阿莫林",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348734&amp;topic_name=%E7%BA%A2%E9%AD%94%E6%8D%A2%E5%B8%85%2C%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "曼联解雇阿莫林是否业余",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97%E6%98%AF%E5%90%A6%E4%B8%9A%E4%BD%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "雷军聊小米汽车试验室",
@@ -377,604 +70,74 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时25分 ~ 23时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "雷军回应“丢轮保车”",
-          "url": "https://www.cls.cn/detail/2247664",
-          "source": "财联社热门",
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
+          "url": "https://flash.jin10.com/detail/20260105234306694800",
+          "source": "金十数据",
+          "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 19时42分]"
-        },
-        {
-          "title": "马斯克表示，昨晚其与美国总统特朗普及美国第一夫人共进了晚餐。",
-          "url": "https://flash.jin10.com/detail/20260105042649832800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 07时42分]"
-        },
-        {
-          "title": "委政权更迭利好美油巨头 雪佛龙、康菲石油盘前双双暴涨 9%",
-          "url": "https://flash.jin10.com/detail/20260105171058535800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "马杜罗及其妻子乘坐的汽车抵达纽约法院。",
-          "url": "https://flash.jin10.com/detail/20260105203934818800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
-          "url": "https://flash.jin10.com/detail/20260105170758179800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "据日经新闻：由三井集团部分投资的莫桑比克液化天然气项目预计将于2029年前投产。",
-          "url": "https://flash.jin10.com/detail/20260105180009557800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "花旗：将雪佛龙(CVX.N)目标价从185美元下调至179美元。",
-          "url": "https://flash.jin10.com/detail/20260105192456619800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "航运数据显示，一艘由雪佛龙(CVX.N)包租、装载委内瑞拉原油的油轮已驶离委内瑞拉水域，正前往美国墨西哥湾沿岸。",
-          "url": "https://flash.jin10.com/detail/20260105232351349800",
-          "source": "金十数据",
-          "ranks": [
-            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "旭升集团：收到北美新能源汽车厂商定点通知，预计生命周期总销售金额约78亿元",
-          "url": "https://wallstreetcn.com/livenews/3030668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "华为余承东到访广汽，冯兴亚：未来还有广阔的合作空间",
-          "url": "https://wallstreetcn.com/livenews/3030667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "佘诗曼四封TVB视后",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9B%E5%B0%81TVB%E8%A7%86%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时41分]"
-        },
-        {
-          "title": "前雪佛龙高管拟募集20亿美元押注委内瑞拉油业",
-          "url": "https://flash.jin10.com/detail/20260105131000002800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.03%，恒生科技指数收涨0.09%。快手涨超11%，蔚来跌近6%，小鹏汽车跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3030702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "中国航天科技集团商业火箭公司增资至13.96亿，增幅39.6%",
-          "url": "https://wallstreetcn.com/livenews/3030623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时29分]"
-        },
-        {
-          "title": "全国工商联执委、贵州长通集团董事长张钊逝世，年仅54岁",
-          "url": "https://wallstreetcn.com/livenews/3030882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
-        },
-        {
-          "title": "据英国《金融时报》：前雪佛龙高管为委内瑞拉石油项目寻求20亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260105130231301800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "吉利汽车在港交所公告显示，1月5日以每股17.520港元至17.900港元的价格回购342.00万股，回购金额达6031.47万港元。",
-          "url": "https://wallstreetcn.com/livenews/3030825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "伯恩斯坦：将雪佛龙(CVX.N)目标价从170美元上调至172美元；将埃克森美孚石油(XOM.N)目标价从142美元下调至137美元。",
-          "url": "https://flash.jin10.com/detail/20260105191250575800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
-          "url": "https://wallstreetcn.com/livenews/3030823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "曼联主帅阿莫林下课",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%BC%E8%81%94%E4%B8%BB%E5%B8%85%E9%98%BF%E8%8E%AB%E6%9E%97%E4%B8%8B%E8%AF%BE",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 19时42分]"
-        },
-        {
-          "title": "外交部：呼吁各方保持冷静克制 为早日恢复也门和平安宁创造条件",
-          "url": "https://wallstreetcn.com/livenews/3030703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时32分]"
-        },
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时26分]"
-        },
-        {
-          "title": "芯片公司澜起科技通过港交所上市聆讯 在沪上市的澜起科技向港交所提交聆讯后上市文件。 联合保荐人为中金公司、摩根士丹利和瑞银集团。",
-          "url": "https://wallstreetcn.com/livenews/3030929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时52分]"
-        },
-        {
-          "title": "港交所文件显示：小米集团(01810.HK)1月5日于回购了380万股B类股份，耗资1.493亿港元。",
-          "url": "https://flash.jin10.com/detail/20260105190525610800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "2526 赛季英超联赛英超第 20 轮曼城 1:1 切尔西，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1991321675623576028",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时52分]"
+          "time_info": "00时28分"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
           "url": "https://www.cls.cn/detail/2248257",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时48分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "特斯拉上海超级工厂2025年贡献特斯拉全球超一半交付量",
-          "url": "https://wallstreetcn.com/livenews/3030830",
-          "source": "华尔街见闻-快讯",
+          "title": "阿莫林卸任曼联主帅",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%8E%AB%E6%9E%97%E5%8D%B8%E4%BB%BB%E6%9B%BC%E8%81%94%E4%B8%BB%E5%B8%85",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            30
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时47分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "现代汽车：2026年全球销量目标为416万辆。",
-          "url": "https://flash.jin10.com/detail/20260105145949583800",
+          "title": "玩脱了,哈基米曼波炸场春晚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348678&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E6%9B%BC%E6%B3%A2%E7%82%B8%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "航运数据显示，一艘由雪佛龙(CVX.N)包租、装载委内瑞拉原油的油轮已驶离委内瑞拉水域，正前往美国墨西哥湾沿岸。",
+          "url": "https://flash.jin10.com/detail/20260105232351349800",
           "source": "金十数据",
           "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时51分]"
-        },
-        {
-          "title": "2026款小鹏P7+在欧洲工厂完成试装，1月9日登陆欧洲",
-          "url": "https://wallstreetcn.com/livenews/3030864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 21时41分]"
-        },
-        {
-          "title": "Lucid集团四季度交付5345辆，季环比增长31%。",
-          "url": "https://wallstreetcn.com/livenews/3030922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时52分]"
-        },
-        {
-          "title": "委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）在马斯克旗下社交媒体平台X（原名推特）上感谢美国总统特朗普。 称委国将成为美国在安全与能源方面的盟友。",
-          "url": "https://wallstreetcn.com/livenews/3030956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时48分]"
-        },
-        {
-          "title": "道琼斯工业平均指数（道指）日内涨幅达1.0%，报48865.11点。 成分股雪佛龙涨3.4%，高盛涨3.2%，卡特彼勒涨2.8%，耐克涨2.5%，IBM、亚马逊涨超2.2%，苹果跌0.7%，可口可乐跌0.9%，安进跌1.3%，强生跌2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3030953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时48分]"
-        },
-        {
-          "title": "瑞银集团：将甲骨文(ORCL.N)目标价从325美元下调至280美元。",
-          "url": "https://flash.jin10.com/detail/20260105230155599800",
-          "source": "金十数据",
-          "ranks": [
-            19,
             25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时48分]"
-        },
-        {
-          "title": "赛力斯：12月新能源汽车销量60,981辆，同比增长63.40%；其中赛力斯汽车销量53,733辆，同比增长77.99%。",
-          "url": "https://wallstreetcn.com/livenews/3030773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时20分]"
-        },
-        {
-          "title": "马杜罗乘坐的汽车停在一架直升机旁。",
-          "url": "https://flash.jin10.com/detail/20260105202130762800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "马杜罗戴着手铐走出联邦调查局的车辆，被转移到汽车上。",
-          "url": "https://flash.jin10.com/detail/20260105201749638800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "舜宇光学科技：建议分拆本集团车载相关光学业务并在香港联合交易所有限公司主板独立上市。",
-          "url": "https://wallstreetcn.com/livenews/3030760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "曼联官宣主帅阿莫林下课，如何评价他在曼联的执教经历，怎样评价管理层这一操作？",
-          "url": "https://www.zhihu.com/question/1991571692712063787",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "乘联分会：特斯拉(TSLA.O)2025年12月在中国市场售出97,171辆国产汽车。",
-          "url": "https://flash.jin10.com/detail/20260105164651738800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "雪佛龙占得先机 唯一在委美企或借地缘变局扩大能源版图",
-          "url": "https://flash.jin10.com/detail/20260105182537613800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "小米汽车今年想交付55万辆车要过几关",
-          "url": "https://www.toutiao.com/trending/7591475606379351593/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "瑞银集团：我们预计，到2026年，全球石油需求将增加约120万桶/日，而非欧佩克+供应预计将增加约80万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260105145327050800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "马杜罗今日将在曼哈顿联邦法院出庭。",
-          "url": "https://flash.jin10.com/detail/20260105200546973800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "瑞银集团：在接下来的12个月里，我们预计全球石油市场平衡不会受到任何重大影响。",
-          "url": "https://flash.jin10.com/detail/20260105145234311800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美国法院确认马杜罗将于美东时间5日12时在纽约出庭",
-          "url": "https://wallstreetcn.com/livenews/3030436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "瑞银集团：委内瑞拉的前景仍高度不确定，石油生产的短期风险偏向下行。",
-          "url": "https://flash.jin10.com/detail/20260105145102721800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260105110523508800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "雷军新年首播确认汽车业务降速",
-          "url": "https://www.toutiao.com/trending/7591654215894715914/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美股开盘，道指涨0.19%，标普500指数涨0.48%，纳指涨0.93%。美国石油股走强，雪佛龙(CVX.N)涨6%。台积电(TSM.N)涨3.2%，高盛上调目标价35%。英特尔(INTC.O)涨5.9%，高通(QCOM.O)涨1.06%。",
-          "url": "https://flash.jin10.com/detail/20260105223030751800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "苏宁集团等38家公司重整计划获法院裁定批准",
-          "url": "https://wallstreetcn.com/livenews/3030909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "小米将入局增程赛道 理想问界如何接招",
-          "url": "https://www.toutiao.com/trending/7591490558862822966/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "曼联足球俱乐部",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "00时28分"
         }
       ]
     }
