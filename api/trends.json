@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:40:23.080580+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-01-06T13:25:41.708801+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 12时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 13时25分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -58,8 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 12时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 13时25分]"
         },
         {
           "title": "曼联未来谁来救火",
@@ -91,8 +91,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 12时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 13时25分]"
         },
         {
           "title": "曼联解雇阿莫林是否业余",
@@ -111,6 +111,19 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时27分 ~ 09时45分]"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 13时25分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -156,16 +169,17 @@
           "time_info": "[00时27分 ~ 09时45分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时25分]"
         },
         {
           "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
@@ -174,19 +188,6 @@
           "ranks": [
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时40分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -274,6 +275,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 05时21分]"
+        },
+        {
+          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时25分]"
         },
         {
           "title": "马斯克身家继续“狂飙”",
@@ -439,17 +451,6 @@
           "time_info": "[03时21分 ~ 04时48分]"
         },
         {
-          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时40分]"
-        },
-        {
           "title": "通用汽车四季度美国销售703,001辆，同比下滑6.9%。 四季度美国电动汽车销售25,219辆，同比下滑43%。",
           "url": "https://wallstreetcn.com/livenews/3031033",
           "source": "华尔街见闻-快讯",
@@ -601,6 +602,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
+          "url": "https://wallstreetcn.com/livenews/3031367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "巴菲特为什么清仓了比亚迪？",
+          "url": "https://www.zhihu.com/question/1953387099500815760",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "雪佛龙(CVX.N)现涨5%、埃克森美孚石油(XOM.N)涨2.41%，康菲石油(COP.N)现涨3.05%。消息称美国总统特朗普政府未与埃克森、康菲或雪佛龙就委内瑞拉问题进行过任何会谈。",
