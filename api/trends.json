@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:45:38.593955+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-01-06T11:39:27.725563+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 11时39分]"
         },
         {
           "title": "雷军聊小米汽车试验室",
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 11时39分]"
         },
         {
           "title": "曼联主帅阿莫林下课",
@@ -67,11 +68,12 @@
             2,
             1,
             4,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 11时39分]"
         },
         {
           "title": "曼联未来谁来救火",
@@ -83,11 +85,12 @@
             9,
             19,
             8,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 11时39分]"
         },
         {
           "title": "曼联解雇阿莫林是否业余",
@@ -159,8 +162,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 11时39分]"
+        },
+        {
+          "title": "特斯拉ModelYL首次推出5年0息",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89ModelYL%E9%A6%96%E6%AC%A1%E6%8E%A8%E5%87%BA5%E5%B9%B40%E6%81%AF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "博世预计到下个十年初，其软件和服务业务销售额将超过60亿欧元。",
@@ -172,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260106110538144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
@@ -199,6 +224,30 @@
           "time_info": "05时21分"
         },
         {
+          "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
+          "url": "https://wallstreetcn.com/articles/3762573",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时39分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时39分]"
+        },
+        {
           "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3031093",
           "source": "华尔街见闻-快讯",
@@ -224,15 +273,15 @@
           "time_info": "[03时21分 ~ 05时21分]"
         },
         {
-          "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
-          "url": "https://wallstreetcn.com/articles/3762573",
-          "source": "华尔街见闻",
+          "title": "马斯克身家继续“狂飙”",
+          "url": "https://www.toutiao.com/trending/7592036964472196627/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "11时39分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -324,17 +373,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "通用汽车涨幅扩大至1%，刷新日高，此前发布了美国销售数据。",
@@ -494,13 +532,36 @@
           "time_info": "[05时43分 ~ 06时22分]"
         },
         {
+          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时39分]"
+        },
+        {
+          "title": "特斯拉",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时39分]"
+        },
+        {
           "title": "恒指高开0.59%，报26502.40点；恒生科技指数涨0.79%。腾讯音乐涨超2%，携程、百度、快手、比亚迪股份等涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3031233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -538,6 +599,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "据四位石油行业高管表示，无论是在马杜罗被捕之前还是之后，美国总统特朗普政府都未与埃克森、Conoco或雪佛龙就委内瑞拉问题进行过任何会谈。",
           "url": "https://flash.jin10.com/detail/20260106010915820800",
           "source": "金十数据",
@@ -549,15 +621,26 @@
           "time_info": "01时47分"
         },
         {
-          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
-          "source": "百度热搜",
+          "title": "何小鹏零下20度冬测P7+和G7",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E9%9B%B6%E4%B8%8B20%E5%BA%A6%E5%86%AC%E6%B5%8BP7%2B%E5%92%8CG7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "11时39分"
+        },
+        {
+          "title": "特斯拉推出7年超低息购车",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA7%E5%B9%B4%E8%B6%85%E4%BD%8E%E6%81%AF%E8%B4%AD%E8%BD%A6%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "马斯克：2026将是精彩的一年",
@@ -566,9 +649,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "河南：支持中原出版传媒集团等龙头企业做大做强 深化国有文旅企业改革",
+          "url": "https://wallstreetcn.com/livenews/3031293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "航运数据显示，一艘由雪佛龙(CVX.N)包租、装载委内瑞拉原油的油轮已驶离委内瑞拉水域，正前往美国墨西哥湾沿岸。",
@@ -593,15 +687,26 @@
           "time_info": "01时23分"
         },
         {
-          "title": "特斯拉",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "蔚来公司第100万台量产车下线，李斌称未来将保持每年40%-50%销量增长",
+          "url": "https://wallstreetcn.com/livenews/3031285",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "11时39分"
+        },
+        {
+          "title": "比亚迪超特斯拉 全球销量破百万",
+          "url": "https://www.toutiao.com/trending/7591827728651783686/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     }
