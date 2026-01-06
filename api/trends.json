@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:24:00.847520+08:00",
-  "total_titles_processed": 2194,
+  "generated_at": "2026-01-06T22:50:52.332075+08:00",
+  "total_titles_processed": 2258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时45分 ~ 22时24分]"
+          "appearance_count": 24,
+          "time_info": "[09时45分 ~ 22时50分]"
         },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -124,6 +124,26 @@
           "time_info": "[00时27分 ~ 13时50分]"
         },
         {
+          "title": "巴菲特为什么清仓了比亚迪？",
+          "url": "https://www.zhihu.com/question/1953387099500815760",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            4,
+            3,
+            13,
+            15,
+            10,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[13时25分 ~ 22时50分]"
+        },
+        {
           "title": "曼联解雇阿莫林是否业余",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%A7%A3%E9%9B%87%E9%98%BF%E8%8E%AB%E6%9E%97%E6%98%AF%E5%90%A6%E4%B8%9A%E4%BD%99",
           "source": "bilibili 热搜",
@@ -140,25 +160,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时27分 ~ 09时45分]"
-        },
-        {
-          "title": "巴菲特为什么清仓了比亚迪？",
-          "url": "https://www.zhihu.com/question/1953387099500815760",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            4,
-            3,
-            13,
-            15,
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[13时25分 ~ 22时24分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -178,8 +179,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时27分 ~ 22时24分]"
+          "appearance_count": 44,
+          "time_info": "[00时27分 ~ 22时50分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -300,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "福特汽车2025年销售220万辆车，创2019年以来最佳，增幅6%。 其中，四季度同比增长2.7%，至超过54.52万辆。 四季度总体电动汽车与混合动力车型销售69,887辆，同比下滑9.5%。 四季度电动汽车销售14,513辆，同比锐减51.9%。",
-          "url": "https://wallstreetcn.com/livenews/3031734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2026年01月06日（周二）全球汽车制造商市值变化",
@@ -533,6 +523,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时27分]"
+        },
+        {
+          "title": "福特汽车2025年销售220万辆车，创2019年以来最佳，增幅6%。 其中，四季度同比增长2.7%，至超过54.52万辆。 四季度总体电动汽车与混合动力车型销售69,887辆，同比下滑9.5%。 四季度电动汽车销售14,513辆，同比锐减51.9%。",
+          "url": "https://wallstreetcn.com/livenews/3031734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时50分]"
+        },
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "阿曼政府批准设立阿曼国际金融中心。",
@@ -859,6 +872,18 @@
           "time_info": "[01时47分 ~ 02时33分]"
         },
         {
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时50分]"
+        },
+        {
           "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
           "url": "https://flash.jin10.com/detail/20260106063939900800",
           "source": "金十数据",
@@ -905,17 +930,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 11时39分]"
-        },
-        {
-          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
-          "url": "https://wallstreetcn.com/livenews/3031714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "恒指高开0.59%，报26502.40点；恒生科技指数涨0.79%。腾讯音乐涨超2%，携程、百度、快手、比亚迪股份等涨超1%。",
@@ -1103,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "福特汽车(F.N)：2025年美国汽车总销量为2,204,124辆，第四季度美国汽车总销量为545,216辆。",
+          "url": "https://flash.jin10.com/detail/20260106221538384800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "蔚来公司第100万台量产车下线，李斌称未来将保持每年40%-50%销量增长",
