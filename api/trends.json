@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:25:41.708801+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-06T13:50:03.655458+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 13时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 13时50分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -58,25 +58,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 13时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 13时50分]"
         },
         {
-          "title": "曼联未来谁来救火",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%9C%AA%E6%9D%A5%E8%B0%81%E6%9D%A5%E6%95%91%E7%81%AB",
-          "source": "bilibili 热搜",
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            3,
-            9,
-            19,
-            8,
-            12,
-            14
+            10,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 12时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时21分 ~ 13时50分]"
         },
         {
           "title": "曼联主帅阿莫林下课",
@@ -93,6 +89,24 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时27分 ~ 13时25分]"
+        },
+        {
+          "title": "曼联未来谁来救火",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%9C%AA%E6%9D%A5%E8%B0%81%E6%9D%A5%E6%95%91%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            9,
+            19,
+            8,
+            12,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 13时50分]"
         },
         {
           "title": "曼联解雇阿莫林是否业余",
@@ -113,17 +127,17 @@
           "time_info": "[00时27分 ~ 09时45分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            5,
-            4
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时25分]"
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -169,19 +183,6 @@
           "time_info": "[00时27分 ~ 09时45分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 13时25分]"
-        },
-        {
           "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
           "url": "https://wallstreetcn.com/articles/3762573",
           "source": "华尔街见闻",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时45分 ~ 12时40分]"
+        },
+        {
+          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 13时50分]"
         },
         {
           "title": "特斯拉ModelYL首次推出5年0息",
@@ -275,17 +287,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 05时21分]"
-        },
-        {
-          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 13时25分]"
         },
         {
           "title": "马斯克身家继续“狂飙”",
@@ -499,6 +500,18 @@
           "time_info": "[11时39分 ~ 12时40分]"
         },
         {
+          "title": "巴菲特为什么清仓了比亚迪？",
+          "url": "https://www.zhihu.com/question/1953387099500815760",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 13时50分]"
+        },
+        {
           "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
           "url": "https://flash.jin10.com/detail/20260106011722667800",
           "source": "金十数据",
@@ -559,6 +572,18 @@
           "time_info": "[05时43分 ~ 06时22分]"
         },
         {
+          "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
+          "url": "https://wallstreetcn.com/livenews/3031367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 13时50分]"
+        },
+        {
           "title": "特斯拉",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -602,28 +627,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
-          "url": "https://wallstreetcn.com/livenews/3031367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "巴菲特为什么清仓了比亚迪？",
-          "url": "https://www.zhihu.com/question/1953387099500815760",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
         },
         {
           "title": "雪佛龙(CVX.N)现涨5%、埃克森美孚石油(XOM.N)涨2.41%，康菲石油(COP.N)现涨3.05%。消息称美国总统特朗普政府未与埃克森、康菲或雪佛龙就委内瑞拉问题进行过任何会谈。",
