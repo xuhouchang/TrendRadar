@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T20:45:11.441674+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-01-06T21:38:29.296127+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 85,
+      "match_count": 88,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时45分 ~ 20时45分]"
+          "appearance_count": 21,
+          "time_info": "[09时45分 ~ 21时38分]"
         },
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -153,11 +153,12 @@
             13,
             15,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时25分 ~ 20时45分]"
+          "appearance_count": 17,
+          "time_info": "[13时25分 ~ 21时38分]"
         },
         {
           "title": "红魔换帅,曼联解雇阿莫林",
@@ -172,11 +173,12 @@
             13,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时27分 ~ 20时45分]"
+          "appearance_count": 41,
+          "time_info": "[00时27分 ~ 21时38分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -310,17 +312,6 @@
           "time_info": "11时39分"
         },
         {
-          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
-          "url": "https://wallstreetcn.com/livenews/3031685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
           "url": "https://wallstreetcn.com/livenews/3031068",
           "source": "华尔街见闻-快讯",
@@ -359,17 +350,6 @@
           "time_info": "17时50分"
         },
         {
-          "title": "特朗普说马斯克八成是超级天才",
-          "url": "https://wallstreetcn.com/livenews/3031682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，文远知行、拼多多初步收涨3%，小马智行涨2.6%，美团涨1.9%，理想、腾讯、京东、阿里涨幅不到1%，小鹏、网易则跌超1%，百胜中国跌2.8%，小米跌3%，蔚来跌5.1%。",
           "url": "https://wallstreetcn.com/livenews/3031095",
           "source": "华尔街见闻-快讯",
@@ -390,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "比亚迪去年在欧洲两大电动车市场销量超越特斯拉",
+          "url": "https://wallstreetcn.com/livenews/3031703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "湖南财信金融控股集团增资至约155亿",
@@ -451,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "理想汽车调整产品线",
-          "url": "https://wallstreetcn.com/livenews/3031677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -589,6 +569,18 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
+          "url": "https://wallstreetcn.com/livenews/3031685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时38分]"
+        },
+        {
           "title": "特斯拉中国推出7年低息购车方案",
           "url": "https://www.toutiao.com/trending/7592037373156789823/",
           "source": "今日头条",
@@ -600,6 +592,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时35分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普说马斯克八成是超级天才",
+          "url": "https://wallstreetcn.com/livenews/3031682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时38分]"
         },
         {
           "title": "美国国家公路交通安全管理局：美国大众汽车集团有限公司召回356,649辆美国车辆。通用汽车有限责任公司召回81,177辆美国车辆。",
@@ -707,6 +711,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时33分]"
+        },
+        {
+          "title": "理想汽车调整产品线",
+          "url": "https://wallstreetcn.com/livenews/3031677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时38分]"
         },
         {
           "title": "博主：马斯克的野心正在撕碎科技边界",
@@ -944,6 +960,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "围绕长寿命电池和换电网络 宁德时代与蔚来签署五年战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3031689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "据四位石油行业高管表示，无论是在马杜罗被捕之前还是之后，美国总统特朗普政府都未与埃克森、Conoco或雪佛龙就委内瑞拉问题进行过任何会谈。",
           "url": "https://flash.jin10.com/detail/20260106010915820800",
           "source": "金十数据",
@@ -964,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "美国国际集团首席执行官Zaffino将于年中退休，Andersen被任命为候任CEO。",
+          "url": "https://wallstreetcn.com/livenews/3031687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "特斯拉推出7年超低息购车",
