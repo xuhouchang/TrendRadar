@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:50:21.422353+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-01-06T18:24:43.827017+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "六大车企去年成绩单：比亚迪460万辆销量居首，上汽、吉利斩获两位数增幅",
@@ -68,11 +68,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 17时50分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 18时24分]"
         },
         {
           "title": "曼联主帅阿莫林下课",
@@ -140,8 +141,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时27分 ~ 17时50分]"
+          "appearance_count": 34,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "巴菲特为什么清仓了比亚迪？",
@@ -153,11 +154,12 @@
             4,
             3,
             13,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 17时50分]"
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 18时24分]"
         },
         {
           "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
@@ -165,11 +167,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时45分 ~ 18时24分]"
         },
         {
           "title": "新年第一周连发三款新车 比亚迪欲靠“长续航”稳定插混基本盘？",
@@ -208,11 +211,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 17时50分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 18时24分]"
         },
         {
           "title": "玩脱了,哈基米曼波炸场春晚",
@@ -225,6 +229,32 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时27分 ~ 09时45分]"
+        },
+        {
+          "title": "马斯克宣布 2026 年 Neuralink 将大规模量产，已经有上万人等着「开颅扎针」，你怎么看？",
+          "url": "https://www.zhihu.com/question/1991445531877142706",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 18时24分]"
+        },
+        {
+          "title": "马斯克宣判：奇点就在2026",
+          "url": "https://www.toutiao.com/trending/7591792310195588671/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            18,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时24分]"
         },
         {
           "title": "特斯拉ModelYL首次推出5年0息",
@@ -274,25 +304,13 @@
           "time_info": "[03时21分 ~ 05时21分]"
         },
         {
-          "title": "马斯克宣布 2026 年 Neuralink 将大规模量产，已经有上万人等着「开颅扎针」，你怎么看？",
-          "url": "https://www.zhihu.com/question/1991445531877142706",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时50分]"
-        },
-        {
           "title": "港交所文件显示，截至12月31日，摩根大通在宁德时代H股的多头头寸比例从8.97%降至6.59%。",
           "url": "https://flash.jin10.com/detail/20260106172712088800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -328,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "小米集团于1月6日通过港交所公告披露，当日回购385万股B类普通股，斥资约1.497亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3031602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
@@ -456,19 +485,6 @@
           "time_info": "[16时32分 ~ 17时27分]"
         },
         {
-          "title": "马斯克宣判：奇点就在2026",
-          "url": "https://www.toutiao.com/trending/7591792310195588671/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时50分]"
-        },
-        {
           "title": "1月6日（2026年首个周一），美国投资级债券市场迎来370亿美元供应量。 包括通用汽车、Williams Cos.、法国农业信贷银行瑞银集团在内，20家公司发行了高评级债券。",
           "url": "https://wallstreetcn.com/livenews/3031118",
           "source": "华尔街见闻-快讯",
@@ -566,6 +582,19 @@
           "time_info": "[03时21分 ~ 04时48分]"
         },
         {
+          "title": "在纽约花3000刀雇私人保镖",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E8%8A%B13000%E5%88%80%E9%9B%87%E7%A7%81%E4%BA%BA%E4%BF%9D%E9%95%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时24分]"
+        },
+        {
           "title": "沙特将2月销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价每桶升水0.3美元。",
           "url": "https://flash.jin10.com/detail/20260106024236433800",
           "source": "金十数据",
@@ -636,19 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时54分]"
-        },
-        {
-          "title": "在纽约花3000刀雇私人保镖",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BA%BD%E7%BA%A6%E8%8A%B13000%E5%88%80%E9%9B%87%E7%A7%81%E4%BA%BA%E4%BF%9D%E9%95%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时50分]"
         },
         {
           "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
@@ -912,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "博主：马斯克的野心正在撕碎科技边界",
+          "url": "https://www.toutiao.com/trending/7592169914421480966/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "蔚来公司第100万台量产车下线，李斌称未来将保持每年40%-50%销量增长",
