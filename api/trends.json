@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T04:49:26.358889+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-08T05:21:08.060598+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "太子集团创始人陈志被捕并遣送中国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "媒体：太子集团创始人陈志被捕并遣送中国",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "雷军宣布将推出新一代SU7：预计今年4月上市，10点开启小订",
@@ -51,8 +51,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "雷军回应KOL事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            7,
+            8,
+            29,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "雷军晒超强钢发明专利证书",
@@ -64,23 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
-        },
-        {
-          "title": "雷军回应KOL事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            7,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "雷军回应小米KOL投放争议",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "雷军晒超强钢发明专利证书",
@@ -108,8 +109,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "太子集团创始人陈志被捕并遣送中国",
+          "url": "https://www.cls.cn/detail/2250961",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "雷军回应掉粉20多万",
@@ -124,16 +137,17 @@
           "time_info": "[00时31分 ~ 03时21分]"
         },
         {
-          "title": "太子集团创始人陈志被捕并遣送中国",
-          "url": "https://www.cls.cn/detail/2250961",
-          "source": "财联社热门",
+          "title": "曼联 U18 梯队教练，名宿弗莱彻将接任曼联临时主帅，你认为他会长期执教吗？曼联可能的继任者是谁？",
+          "url": "https://www.zhihu.com/question/1991572573725619008",
+          "source": "知乎",
           "ranks": [
-            12,
-            11
+            20,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时49分]"
+          "time_info": "[01时51分 ~ 05时21分]"
         },
         {
           "title": "在纽约花3000刀雇私人保镖",
@@ -153,19 +167,6 @@
           "time_info": "[00时31分 ~ 04时49分]"
         },
         {
-          "title": "曼联 U18 梯队教练，名宿弗莱彻将接任曼联临时主帅，你认为他会长期执教吗？曼联可能的继任者是谁？",
-          "url": "https://www.zhihu.com/question/1991572573725619008",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时51分 ~ 04时49分]"
-        },
-        {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
           "url": "https://www.cls.cn/detail/2250706",
           "source": "财联社热门",
@@ -177,27 +178,50 @@
           "time_info": "[00时31分 ~ 03时21分]"
         },
         {
+          "title": "周三（1月7日），彭博电动汽车价格回报指数跌0.07%，报3603.72点。 北京时间13:49跌至3588.10点刷新日低，脱离11:25刷新的日高3615.17点，全天呈现出U形走势。",
+          "url": "https://wallstreetcn.com/livenews/3032695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
           "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
           "url": "https://flash.jin10.com/detail/20260108031231662800",
           "source": "金十数据",
           "ranks": [
             5,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 05时21分]"
         },
         {
-          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
-          "url": "https://wallstreetcn.com/livenews/3032674",
+          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3032690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
+          "url": "https://flash.jin10.com/detail/20260108041952628800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "委内瑞拉国家石油公司：该操作采用了与雪佛龙公司类似的方案。",
@@ -210,6 +234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 03时42分]"
+        },
+        {
+          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
+          "url": "https://wallstreetcn.com/livenews/3032674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时21分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
