@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-09T00:59:50.829582+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-01-09T01:36:02.687608+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
-          "url": "https://www.zhihu.com/question/1992352238581063743",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
         {
           "title": "雷军：现在我一听到‘营销’这两个字，都有点恶心",
           "url": "https://wallstreetcn.com/articles/3762792",
@@ -27,19 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
-        {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
         },
         {
           "title": "太子集团创始人陈志已被押解回国",
@@ -49,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
         },
         {
           "title": "电诈头目、太子集团创始人陈志被遣送中国，将对东南亚黑产带来哪些打击？他将面临怎样的判罚？",
@@ -60,8 +37,55 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
+          "url": "https://www.zhihu.com/question/1992352238581063743",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "市场消息：十几位石油巨头将出席特朗普的会晤。埃克森美孚、雪佛龙和康菲石油也将出席此次会晤。",
+          "url": "https://flash.jin10.com/detail/20260109013109016800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "维多能源集团获得美国初步许可，开始就委内瑞拉石油进出口进行谈判",
+          "url": "https://flash.jin10.com/detail/20260109013019744800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
         },
         {
           "title": "一位消息人士表示，维多能源集团尚未收到有关其在委内瑞拉运营的具体许可文件，其中列明了相关条款。",
@@ -70,7 +94,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -81,9 +105,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
+          "url": "https://www.cls.cn/detail/2252338",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
+          "url": "https://www.zhihu.com/question/1990475866191464200",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 01时36分]"
         },
         {
           "title": "海湾双雄公开决裂：沙特强势清场 阿联酋在也门陷入进退维谷",
@@ -92,17 +149,6 @@
           "ranks": [
             8,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
-        {
-          "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
-          "url": "https://www.cls.cn/detail/2252338",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,26 +167,15 @@
           "time_info": "[00时31分 ~ 00时59分]"
         },
         {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
+          "title": "马斯克一句话“引爆”脑机接口",
+          "url": "https://www.toutiao.com/trending/7592923450755255817/",
+          "source": "今日头条",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
-        {
-          "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
-          "url": "https://www.zhihu.com/question/1990475866191464200",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
+          "time_info": "[01时35分 ~ 01时36分]"
         },
         {
           "title": "提醒：白宫新闻秘书Leavitt和美国副总统万斯将于美东时间13:00（北京时间1月9日02:00）举行简报会。",
