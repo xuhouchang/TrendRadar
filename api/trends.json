@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:31:58.794437+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-01-08T17:29:15.079521+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 77,
+      "match_count": 84,
       "titles": [
         {
           "title": "媒体：太子集团创始人陈志被捕并遣送中国",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 16时31分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 17时29分]"
         },
         {
           "title": "太子集团创始人陈志被捕并遣送中国",
@@ -93,6 +93,20 @@
           "time_info": "[00时31分 ~ 07时42分]"
         },
         {
+          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
+          "url": "https://www.zhihu.com/question/1992352238581063743",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 17时29分]"
+        },
+        {
           "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
           "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
           "source": "凤凰网",
@@ -102,24 +116,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时40分 ~ 16时31分]"
-        },
-        {
-          "title": "雷军晒超强钢发明专利证书",
-          "url": "https://www.toutiao.com/trending/7592581602924826163/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            9,
-            8,
-            16,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "雷军回应小米KOL投放争议",
@@ -140,6 +136,25 @@
           "time_info": "[00时31分 ~ 07时42分]"
         },
         {
+          "title": "雷军晒超强钢发明专利证书",
+          "url": "https://www.toutiao.com/trending/7592581602924826163/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            9,
+            8,
+            16,
+            19,
+            20,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 17时29分]"
+        },
+        {
           "title": "太子集团创始人陈志被捕并遣送中国",
           "url": "https://www.cls.cn/detail/2250961",
           "source": "财联社热门",
@@ -152,19 +167,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 09时45分]"
-        },
-        {
-          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
-          "url": "https://www.zhihu.com/question/1992352238581063743",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 16时31分]"
         },
         {
           "title": "雷军晒超强钢发明专利证书",
@@ -216,6 +218,20 @@
           "time_info": "[01时51分 ~ 06时21分]"
         },
         {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时29分]"
+        },
+        {
           "title": "雷军回应掉粉20多万",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8E%89%E7%B2%8920%E5%A4%9A%E4%B8%87%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -244,19 +260,6 @@
           "time_info": "[09时45分 ~ 15时45分]"
         },
         {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时31分]"
-        },
-        {
           "title": "伯恩利2:2曼联",
           "url": "https://www.douyin.com/hot/2360600",
           "source": "抖音",
@@ -271,13 +274,24 @@
           "time_info": "[11时40分 ~ 14时35分]"
         },
         {
+          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
+          "url": "https://www.zhihu.com/question/1992533572259640345",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时29分]"
+        },
+        {
           "title": "芝商所（CME）集团2025年国际平均日成交量达到创纪录的840万份合约，较2024年增长8%。",
           "url": "https://flash.jin10.com/detail/20260108160127919800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -291,6 +305,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "雷军：现在听到营销两个字都有点恶心",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%90%AC%E5%88%B0%E8%90%A5%E9%94%80%E4%B8%A4%E4%B8%AA%E5%AD%97%E9%83%BD%E6%9C%89%E7%82%B9%E6%81%B6%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时35分 ~ 17时29分]"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -326,6 +354,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "跨境赌诈集团头目陈志被押解回国",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E5%A2%83%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE%E9%99%88%E5%BF%97%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "电诈头目、太子集团创始人陈志被遣送中国，将对东南亚黑产带来哪些打击？他将面临怎样的判罚？",
+          "url": "https://www.zhihu.com/question/1992564445281481376",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
+          "title": "太子集团创始人陈志已被押解回国",
+          "url": "https://www.douyin.com/hot/2361072",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
@@ -376,6 +437,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时40分 ~ 14时35分]"
+        },
+        {
+          "title": "广州：以汽车企业应用为牵引 推动自主可控汽车芯片的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3033160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "据业内消息人士透露，雪佛龙(CVX.N)公司正在与美国政府进行谈判，以扩大在委内瑞拉的业务许可范围，并寻求获得向其他买家供应委内瑞拉石油的授权。",
@@ -487,18 +559,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
-          "url": "https://www.zhihu.com/question/1992533572259640345",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -573,20 +634,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 05时43分]"
-        },
-        {
-          "title": "雷军：现在听到营销两个字都有点恶心",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%90%AC%E5%88%B0%E8%90%A5%E9%94%80%E4%B8%A4%E4%B8%AA%E5%AD%97%E9%83%BD%E6%9C%89%E7%82%B9%E6%81%B6%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -805,13 +852,24 @@
           "time_info": "[14时35分 ~ 15时25分]"
         },
         {
+          "title": "1704公里小鹏G7续航长长长长长长长长",
+          "url": "https://s.weibo.com/weibo?q=%231704%E5%85%AC%E9%87%8C%E5%B0%8F%E9%B9%8FG7%E7%BB%AD%E8%88%AA%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
           "url": "https://wallstreetcn.com/livenews/3033101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -869,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "碧桂园地产集团三支债券自1月9日开市起复牌",
+          "url": "https://wallstreetcn.com/livenews/3033136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "雷军说花2个月下决心回应诋毁",
@@ -957,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://wallstreetcn.com/livenews/3033129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "壳牌：预计第四季度综合天然气业务产量为每日93万至97万桶油当量。",
