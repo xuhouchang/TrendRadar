@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-01-09T00:31:35.285736+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-09T00:59:50.829582+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
           "url": "https://www.zhihu.com/question/1992352238581063743",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "海湾双雄公开决裂：沙特强势清场 阿联酋在也门陷入进退维谷",
-          "url": "https://flash.jin10.com/detail/20260108233532479800",
-          "source": "金十数据",
-          "ranks": [
+            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "雷军：现在我一听到‘营销’这两个字，都有点恶心",
@@ -37,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -48,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "太子集团创始人陈志已被押解回国",
@@ -59,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "电诈头目、太子集团创始人陈志被遣送中国，将对东南亚黑产带来哪些打击？他将面临怎样的判罚？",
@@ -70,8 +60,42 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
+        },
+        {
+          "title": "一位消息人士表示，维多能源集团尚未收到有关其在委内瑞拉运营的具体许可文件，其中列明了相关条款。",
+          "url": "https://flash.jin10.com/detail/20260109001949122800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "四位消息人士称，贸易公司维多能源集团已获得美国初步许可，可在最初18个月内就从委内瑞拉进出口石油展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260109001920915800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "海湾双雄公开决裂：沙特强势清场 阿联酋在也门陷入进退维谷",
+          "url": "https://flash.jin10.com/detail/20260108233532479800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
@@ -81,19 +105,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
           "url": "https://wallstreetcn.com/livenews/3033439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -103,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
@@ -114,8 +139,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "提醒：白宫新闻秘书Leavitt和美国副总统万斯将于美东时间13:00（北京时间1月9日02:00）举行简报会。",
