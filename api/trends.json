@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:45:29.613514+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-08T16:31:58.794437+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "媒体：太子集团创始人陈志被捕并遣送中国",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 15时45分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "太子集团创始人陈志被捕并遣送中国",
@@ -93,6 +93,17 @@
           "time_info": "[00时31分 ~ 07时42分]"
         },
         {
+          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
+          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 16时31分]"
+        },
+        {
           "title": "雷军晒超强钢发明专利证书",
           "url": "https://www.toutiao.com/trending/7592581602924826163/",
           "source": "今日头条",
@@ -103,11 +114,12 @@
             8,
             16,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 15时45分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "雷军回应小米KOL投放争议",
@@ -142,15 +154,17 @@
           "time_info": "[00时31分 ~ 09时45分]"
         },
         {
-          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
-          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
-          "source": "凤凰网",
+          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
+          "url": "https://www.zhihu.com/question/1992352238581063743",
+          "source": "知乎",
           "ranks": [
+            2,
+            3,
             4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时40分 ~ 15时45分]"
+          "time_info": "[13时25分 ~ 16时31分]"
         },
         {
           "title": "雷军晒超强钢发明专利证书",
@@ -202,19 +216,6 @@
           "time_info": "[01时51分 ~ 06时21分]"
         },
         {
-          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
-          "url": "https://www.zhihu.com/question/1992352238581063743",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 15时45分]"
-        },
-        {
           "title": "雷军回应掉粉20多万",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%8E%89%E7%B2%8920%E5%A4%9A%E4%B8%87%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -243,6 +244,19 @@
           "time_info": "[09时45分 ~ 15时45分]"
         },
         {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时31分]"
+        },
+        {
           "title": "伯恩利2:2曼联",
           "url": "https://www.douyin.com/hot/2360600",
           "source": "抖音",
@@ -257,16 +271,15 @@
           "time_info": "[11时40分 ~ 14时35分]"
         },
         {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
+          "title": "芝商所（CME）集团2025年国际平均日成交量达到创纪录的840万份合约，较2024年增长8%。",
+          "url": "https://flash.jin10.com/detail/20260108160127919800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "恒指、恒生科技指数跌幅扩大至1%。华虹半导体逆市涨超5%，中芯国际涨超2%；联想集团、快手跌超3%。",
@@ -313,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
-          "url": "https://wallstreetcn.com/livenews/3033081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
@@ -374,17 +376,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时40分 ~ 14时35分]"
-        },
-        {
-          "title": "太子集团创始人被遣送回国，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3033074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "据业内消息人士透露，雪佛龙(CVX.N)公司正在与美国政府进行谈判，以扩大在委内瑞拉的业务许可范围，并寻求获得向其他买家供应委内瑞拉石油的授权。",
@@ -490,6 +481,28 @@
           "time_info": "[05时43分 ~ 06时46分]"
         },
         {
+          "title": "何小鹏：2026年中国和美国将迎来真正的自动驾驶元年",
+          "url": "https://wallstreetcn.com/livenews/3033103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
+          "url": "https://www.zhihu.com/question/1992533572259640345",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "蔚来今年将进军澳大利亚和新西兰市场，蔚来将于3月进入泰国市场。（道琼斯）",
           "url": "https://wallstreetcn.com/livenews/3032969",
           "source": "华尔街见闻-快讯",
@@ -500,6 +513,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 14时35分]"
+        },
+        {
+          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/3033081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时31分]"
         },
         {
           "title": "委内瑞拉国家石油公司：该操作采用了与雪佛龙公司类似的方案。",
@@ -550,6 +575,20 @@
           "time_info": "[05时21分 ~ 05时43分]"
         },
         {
+          "title": "雷军：现在听到营销两个字都有点恶心",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%90%AC%E5%88%B0%E8%90%A5%E9%94%80%E4%B8%A4%E4%B8%AA%E5%AD%97%E9%83%BD%E6%9C%89%E7%82%B9%E6%81%B6%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -561,6 +600,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "太子集团创始人被遣送回国，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3033074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时31分]"
         },
         {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
@@ -671,19 +722,6 @@
           "time_info": "[03时42分 ~ 04时49分]"
         },
         {
-          "title": "雷军：现在听到营销两个字都有点恶心",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E7%8E%B0%E5%9C%A8%E5%90%AC%E5%88%B0%E8%90%A5%E9%94%80%E4%B8%A4%E4%B8%AA%E5%AD%97%E9%83%BD%E6%9C%89%E7%82%B9%E6%81%B6%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 15时45分]"
-        },
-        {
           "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
           "url": "https://flash.jin10.com/detail/20260108114002884800",
           "source": "金十数据",
@@ -744,6 +782,17 @@
           "time_info": "[01时26分 ~ 01时51分]"
         },
         {
+          "title": "新款小鹏P7+自带空间魔法",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BE%E5%B0%8F%E9%B9%8FP7%2B%E8%87%AA%E5%B8%A6%E7%A9%BA%E9%97%B4%E9%AD%94%E6%B3%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时31分]"
+        },
+        {
           "title": "货车底盘挂人行驶上百米",
           "url": "https://www.toutiao.com/trending/7592605740938870847/",
           "source": "今日头条",
@@ -756,13 +805,24 @@
           "time_info": "[14时35分 ~ 15时25分]"
         },
         {
+          "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
+          "url": "https://wallstreetcn.com/livenews/3033101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "壳牌预计第四季石油交易业绩将显著走弱",
           "url": "https://flash.jin10.com/detail/20260108152925970800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -798,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "新款小鹏P7+自带空间魔法",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BE%E5%B0%8F%E9%B9%8FP7%2B%E8%87%AA%E5%B8%A6%E7%A9%BA%E9%97%B4%E9%AD%94%E6%B3%95%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "吉利汽车获L3级自动驾驶道路测试牌照",
@@ -916,7 +965,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
