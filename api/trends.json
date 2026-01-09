@@ -1,852 +1,110 @@
 {
-  "generated_at": "2026-01-09T23:47:54.837876+08:00",
-  "total_titles_processed": 2485,
+  "generated_at": "2026-01-10T00:29:12.638925+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 9,
       "titles": [
         {
-          "title": "雷军：现在我一听到‘营销’这两个字，都有点恶心",
-          "url": "https://wallstreetcn.com/articles/3762792",
-          "source": "华尔街见闻",
+          "title": "马斯克：人类可以实现半永生",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8D%8A%E6%B0%B8%E7%94%9F",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时41分]"
-        },
-        {
-          "title": "电诈头目、太子集团创始人陈志被遣送中国，将对东南亚黑产带来哪些打击？他将面临怎样的判罚？",
-          "url": "https://www.zhihu.com/question/1992564445281481376",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1,
-            3,
-            5,
-            7,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 11时40分]"
-        },
-        {
-          "title": "太子集团创始人陈志已被押解回国",
-          "url": "https://www.douyin.com/hot/2361072",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 09时45分]"
-        },
-        {
-          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
-          "url": "https://www.zhihu.com/question/1992542028232410497",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11,
-            13,
-            14,
-            12,
-            4,
-            5,
-            7,
-            3,
-            2,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时40分 ~ 23时47分]"
-        },
-        {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            11,
-            10,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 16时32分]"
-        },
-        {
-          "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
-          "url": "https://www.zhihu.com/question/1990475866191464200",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12,
-            9,
-            8,
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 09时45分]"
-        },
-        {
-          "title": "解读特斯拉低息政策背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[20时44分 ~ 23时47分]"
-        },
-        {
-          "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
-          "url": "https://www.cls.cn/detail/2252338",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 13时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
           "url": "https://www.toutiao.com/trending/7593161177908379702/",
           "source": "今日头条",
           "ranks": [
-            6,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[21时38分 ~ 23时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "马斯克一句话“引爆”脑机接口",
-          "url": "https://www.toutiao.com/trending/7592923450755255817/",
-          "source": "今日头条",
+          "title": "解读特斯拉低息政策背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            22,
-            8,
-            20,
-            24,
-            28,
-            30,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时35分 ~ 07时41分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
+          "title": "消息人士称，如果力拓集团推进收购，将寻求保留嘉能可的贸易部门。",
+          "url": "https://flash.jin10.com/detail/20260110000320303800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11,
-            16,
-            22,
-            24,
-            26,
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "马斯克：人类可以实现半永生",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8D%8A%E6%B0%B8%E7%94%9F",
-          "source": "百度热搜",
+          "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3034294",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29,
-            4
+            6
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时24分 ~ 23时47分]"
-        },
-        {
-          "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
-          "url": "https://www.zhihu.com/question/1992352238581063743",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
           "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
           "source": "澎湃新闻",
           "ranks": [
-            11,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
+          "url": "https://www.zhihu.com/question/1992542028232410497",
+          "source": "知乎",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时24分 ~ 23时47分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "小米汽车深夜怒怼“绿化带战神”",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%B7%B1%E5%A4%9C%E6%80%92%E6%80%BC%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            26,
-            24,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时24分 ~ 23时47分]"
-        },
-        {
-          "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3033681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "力拓集团与嘉能可的全面合并是正在讨论的选项之一。去年年底，力拓集团与嘉能可的谈判重新启动，目前仍处于初步阶段—。",
-          "url": "https://flash.jin10.com/detail/20260109034644580800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
-          "url": "https://flash.jin10.com/detail/20260109055249345800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "嘉能可与力拓集团重启矿业大项目谈判。嘉能可与力拓集团的交易将打造一家企业价值超过2600亿美元的矿业巨头。",
-          "url": "https://flash.jin10.com/detail/20260109034602290800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "委内瑞拉游戏团队报平安",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B8%B8%E6%88%8F%E5%9B%A2%E9%98%9F%E6%8A%A5%E5%B9%B3%E5%AE%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
-          "url": "https://wallstreetcn.com/livenews/3033919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3034067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "零跑汽车创始人朱江明：预计未来3到5年内中国新能源汽车销售占比会扩大到80-90%",
-          "url": "https://wallstreetcn.com/livenews/3033610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 17时53分]"
-        },
-        {
-          "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
-          "url": "https://wallstreetcn.com/livenews/3033561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 06时47分]"
-        },
-        {
-          "title": "美国石油公司高管们将于美东时间周五14:00（北京时间周六03:00）在白宫会见总统特朗普。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3033580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "通用汽车四季度因裁减电动汽车业务而计提60亿美元。 非电动汽车相关计提大约11亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3033559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时44分 ~ 06时47分]"
-        },
-        {
-          "title": "行业消息人士称，雪佛龙(CVX.N)、维多能源集团及其他石油公司在与美国官员就石油供应问题进行谈判时，正竞相争取出口委内瑞拉原油的交易。",
-          "url": "https://flash.jin10.com/detail/20260109040805532800",
+          "title": "消息人士称，印度信实工业集团正与美国政府磋商，寻求获得进口委内瑞拉原油的许可。",
+          "url": "https://flash.jin10.com/detail/20260109234531071800",
           "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时44分]"
-        },
-        {
-          "title": "行业消息人士称，雪佛龙(CVX.N)正寻求获准出口委内瑞拉国家石油公司PDVSA的自产原油。",
-          "url": "https://flash.jin10.com/detail/20260109040721713800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时44分]"
-        },
-        {
-          "title": "韩国财政部：韩国将探讨加入全面进步跨太平洋伙伴关系协定（CPTPP）的可能性。",
-          "url": "https://flash.jin10.com/detail/20260109130341827800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 14时35分]"
-        },
-        {
-          "title": "市场消息：十几位石油巨头将出席特朗普的会晤。埃克森美孚、雪佛龙和康菲石油也将出席此次会晤。",
-          "url": "https://flash.jin10.com/detail/20260109013109016800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时29分]"
-        },
-        {
-          "title": "港交所文件显示，小米集团(01810.HK)于1月9日以1.513亿港元回购400万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20260109181643650800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时50分]"
-        },
-        {
-          "title": "一位消息人士表示，维多能源集团尚未收到有关其在委内瑞拉运营的具体许可文件，其中列明了相关条款。",
-          "url": "https://flash.jin10.com/detail/20260109001949122800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "嘉能可：各方目前的预期是，任何合并交易都将通过力拓集团收购嘉能可来实现。",
-          "url": "https://flash.jin10.com/detail/20260109040712431800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时44分]"
-        },
-        {
-          "title": "维多能源集团获得美国初步许可，开始就委内瑞拉石油进出口进行谈判",
-          "url": "https://flash.jin10.com/detail/20260109013019744800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时29分]"
-        },
-        {
-          "title": "嘉能可：确认正与力拓集团和力拓有限公司就可能的合并事宜进行初步讨论。",
-          "url": "https://flash.jin10.com/detail/20260109040618349800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时44分]"
-        },
-        {
-          "title": "四位消息人士称，贸易公司维多能源集团已获得美国初步许可，可在最初18个月内就从委内瑞拉进出口石油展开谈判。",
-          "url": "https://flash.jin10.com/detail/20260109001920915800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "特朗普称美军将开始对贩毒集团展开陆地打击",
-          "url": "https://flash.jin10.com/detail/20260109111721300800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "道达尔能源：与黎巴嫩政府达成进入第8区块勘探的许可协议。",
-          "url": "https://flash.jin10.com/detail/20260109180107301800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "嘉能可：证实已与力拓集团展开初步讨论；力拓集团必须在2026年2月5日之前公布要约意向；力拓集团与嘉能可之间可能进行全股票合并。",
-          "url": "https://flash.jin10.com/detail/20260109130843687800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时35分]"
-        },
-        {
-          "title": "小米汽车发文表示，小米YU7连续4个月中大型SUV销量第一。",
-          "url": "https://wallstreetcn.com/livenews/3033865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时47分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.45%。 热门中概股小鹏、网易、阿里巴巴至少跌2.3%，理想、蔚来至多跌1.7%，百度涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3034234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时25分]"
-        },
-        {
-          "title": "海湾双雄公开决裂：沙特强势清场 阿联酋在也门陷入进退维谷",
-          "url": "https://flash.jin10.com/detail/20260108233532479800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
-        {
-          "title": "2025年12月本田在中国的终端汽车销量为66,765辆，同比下降40.3%。",
-          "url": "https://wallstreetcn.com/livenews/3033727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
-        },
-        {
-          "title": "报道：黑石集团寻求26亿美元债务融资，以支持电力业务合并",
-          "url": "https://wallstreetcn.com/livenews/3033525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 05时21分]"
-        },
-        {
-          "title": "中央决定：曲光吉任中国航空集团有限公司总经理。（中航集团官网）",
-          "url": "https://wallstreetcn.com/livenews/3033744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时50分]"
-        },
-        {
-          "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
-          "url": "https://wallstreetcn.com/livenews/3033482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 03时20分]"
-        },
-        {
-          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
-          "url": "https://wallstreetcn.com/livenews/3033439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时59分]"
-        },
-        {
-          "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3033717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时41分]"
-        },
-        {
-          "title": "通富微电：拟定增募资不超过44亿元，用于存储芯片封测产能提升项目、汽车等新兴应用领域封测产能提升项目、晶圆级封测产能提升项目、高性能计算及通信领域封测产能提升项目、补充流动资金及偿还银行贷款。",
-          "url": "https://wallstreetcn.com/livenews/3034057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "市场监管总局：将进一步加快新能源汽车、锂电池和光伏产业相关国家标准研制",
-          "url": "https://wallstreetcn.com/livenews/3033946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时53分]"
-        },
-        {
-          "title": "比亚迪多款在售车型申报激光雷达版本",
-          "url": "https://www.toutiao.com/trending/7592430641078599721/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "马斯克为xAI锁定5台重型燃机",
-          "url": "https://www.toutiao.com/trending/7592115613267705902/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "交运股份：筹划将所持有的乘用车销售与汽车后服务板块、汽车零部件制造与销售服务板块相关资产与控股股东及其关联方持有的文体娱乐业、旅游业相关业务资产进行置换",
-          "url": "https://wallstreetcn.com/livenews/3034041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时42分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3033554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时47分]"
-        },
-        {
-          "title": "通用汽车(GM.N)盘前下跌2%，此前该公司宣布因电动汽车业务下滑计提60亿美元减值。",
-          "url": "https://flash.jin10.com/detail/20260109191438142800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1.1%。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3033554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260109110620187800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "美国最高法院可能就特朗普关税做出判决之前，通用汽车跌超3.1%刷新日低，Affirm Holdings Inc.跌0.9%，迪尔农机Deere & Co.一度跌0.9%，American Eagle Outfitters Inc.一度转跌。 黑石集团Blackstone Inc.涨幅收窄至不足0.3%，卡特彼勒Caterpillar Inc.涨幅从不足0.4%扩大至超过1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3034250",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "瑞穗银行：将通用汽车(GM.N)目标价从90美元上调至100美元。",
-          "url": "https://flash.jin10.com/detail/20260109195232032800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "特朗普将于美东时间上午11点（北京时间晚上12点）在椭圆形办公室会见国务卿鲁比奥；将于美东时间下午1点（北京时间次日凌晨2点）与副总统万斯共进午餐。",
-          "url": "https://flash.jin10.com/detail/20260109104735478800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "提醒：白宫新闻秘书Leavitt和美国副总统万斯将于美东时间13:00（北京时间1月9日02:00）举行简报会。",
-          "url": "https://wallstreetcn.com/livenews/3033432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "瑞银集团：将欧莱雅评级上调至买入，此前为中性评级；目标价从367欧元上调至430欧元。",
-          "url": "https://flash.jin10.com/detail/20260109165252517800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "德国汽车工业协会：南方共同市场协议将成出口增长强心针",
-          "url": "https://flash.jin10.com/detail/20260109194913182800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "小鹏汽车成功注册图灵AI座舱商标",
-          "url": "https://wallstreetcn.com/livenews/3033648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "智利曼托韦德铜矿工会表示，工人拒绝新合同提议，并将继续罢工。",
-          "url": "https://flash.jin10.com/detail/20260109214956317800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "茅台集团董事长陈华：i茅台动态投放，让产品直达消费端，有助于建立良好的渠道生态",
-          "url": "https://wallstreetcn.com/livenews/3034167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
-          "url": "https://wallstreetcn.com/livenews/3033420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "00时29分"
         }
       ]
     }
