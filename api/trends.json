@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T13:50:25.282543+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-01-09T14:35:22.960694+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 13时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 14时35分]"
         },
         {
           "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
@@ -105,11 +105,12 @@
             10,
             11,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 13时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 14时35分]"
         },
         {
           "title": "马斯克一句话“引爆”脑机接口",
@@ -204,17 +205,6 @@
           "time_info": "[11时40分 ~ 12时41分]"
         },
         {
-          "title": "嘉能可：证实已与力拓集团展开初步讨论；力拓集团必须在2026年2月5日之前公布要约意向；力拓集团与嘉能可之间可能进行全股票合并。",
-          "url": "https://flash.jin10.com/detail/20260109130843687800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "零跑汽车创始人朱江明：预计未来3到5年内中国新能源汽车销售占比会扩大到80-90%",
           "url": "https://wallstreetcn.com/livenews/3033610",
           "source": "华尔街见闻-快讯",
@@ -288,6 +278,19 @@
           "time_info": "[04时48分 ~ 05时44分]"
         },
         {
+          "title": "韩国财政部：韩国将探讨加入全面进步跨太平洋伙伴关系协定（CPTPP）的可能性。",
+          "url": "https://flash.jin10.com/detail/20260109130341827800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 14时35分]"
+        },
+        {
           "title": "市场消息：十几位石油巨头将出席特朗普的会晤。埃克森美孚、雪佛龙和康菲石油也将出席此次会晤。",
           "url": "https://flash.jin10.com/detail/20260109013109016800",
           "source": "金十数据",
@@ -349,18 +352,6 @@
           "time_info": "[04时48分 ~ 05时44分]"
         },
         {
-          "title": "韩国财政部：韩国将探讨加入全面进步跨太平洋伙伴关系协定（CPTPP）的可能性。",
-          "url": "https://flash.jin10.com/detail/20260109130341827800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时50分]"
-        },
-        {
           "title": "四位消息人士称，贸易公司维多能源集团已获得美国初步许可，可在最初18个月内就从委内瑞拉进出口石油展开谈判。",
           "url": "https://flash.jin10.com/detail/20260109001920915800",
           "source": "金十数据",
@@ -381,6 +372,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "嘉能可：证实已与力拓集团展开初步讨论；力拓集团必须在2026年2月5日之前公布要约意向；力拓集团与嘉能可之间可能进行全股票合并。",
+          "url": "https://flash.jin10.com/detail/20260109130843687800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时35分]"
         },
         {
           "title": "海湾双雄公开决裂：沙特强势清场 阿联酋在也门陷入进退维谷",
