@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:42:27.815269+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-01-09T20:44:54.624866+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "雷军：现在我一听到‘营销’这两个字，都有点恶心",
@@ -97,11 +97,12 @@
             4,
             5,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时40分 ~ 19时42分]"
+          "appearance_count": 17,
+          "time_info": "[11时40分 ~ 20时44分]"
         },
         {
           "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
@@ -247,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 19时42分]"
+        },
+        {
+          "title": "解读特斯拉低息政策背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "零跑汽车创始人朱江明：预计未来3到5年内中国新能源汽车销售占比会扩大到80-90%",
@@ -635,7 +647,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -660,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "瑞穗银行：将通用汽车(GM.N)目标价从90美元上调至100美元。",
+          "url": "https://flash.jin10.com/detail/20260109195232032800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "特朗普将于美东时间上午11点（北京时间晚上12点）在椭圆形办公室会见国务卿鲁比奥；将于美东时间下午1点（北京时间次日凌晨2点）与副总统万斯共进午餐。",
@@ -693,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "德国汽车工业协会：南方共同市场协议将成出口增长强心针",
+          "url": "https://flash.jin10.com/detail/20260109194913182800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
