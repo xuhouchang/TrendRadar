@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:32:06.359229+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-01-09T17:28:54.785581+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "雷军：现在我一听到‘营销’这两个字，都有点恶心",
@@ -140,11 +140,12 @@
             19,
             11,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 17时28分]"
         },
         {
           "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
@@ -228,7 +229,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -475,6 +476,18 @@
           "time_info": "[12时41分 ~ 13时50分]"
         },
         {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时28分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -514,17 +527,6 @@
           "title": "比亚迪多款在售车型申报激光雷达版本",
           "url": "https://www.toutiao.com/trending/7592430641078599721/",
           "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
-          "source": "澎湃新闻",
           "ranks": [
             20
           ],
@@ -577,6 +579,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "市场监管总局：将进一步加快新能源汽车、锂电池和光伏产业相关国家标准研制",
+          "url": "https://wallstreetcn.com/livenews/3033946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "提醒：白宫新闻秘书Leavitt和美国副总统万斯将于美东时间13:00（北京时间1月9日02:00）举行简报会。",
           "url": "https://wallstreetcn.com/livenews/3033432",
           "source": "华尔街见闻-快讯",
@@ -586,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "瑞银集团：将欧莱雅评级上调至买入，此前为中性评级；目标价从367欧元上调至430欧元。",
+          "url": "https://flash.jin10.com/detail/20260109165252517800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
