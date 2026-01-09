@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T23:25:06.501846+08:00",
-  "total_titles_processed": 2426,
+  "generated_at": "2026-01-09T23:47:54.837876+08:00",
+  "total_titles_processed": 2485,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时40分 ~ 23时25分]"
+          "appearance_count": 24,
+          "time_info": "[11时40分 ~ 23时47分]"
         },
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -107,6 +107,18 @@
           "time_info": "[00时31分 ~ 09时45分]"
         },
         {
+          "title": "解读特斯拉低息政策背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时44分 ~ 23时47分]"
+        },
+        {
           "title": "64亿元!平安起诉华夏控股及王文学 华夏幸福预重整再添变数",
           "url": "https://www.cls.cn/detail/2252338",
           "source": "财联社热门",
@@ -121,16 +133,16 @@
           "time_info": "[00时31分 ~ 13时26分]"
         },
         {
-          "title": "解读特斯拉低息政策背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "马斯克：人类可以实现半永生",
+          "url": "https://www.toutiao.com/trending/7593161177908379702/",
+          "source": "今日头条",
           "ranks": [
             6,
             7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[20时44分 ~ 23时25分]"
+          "time_info": "[21时38分 ~ 23时47分]"
         },
         {
           "title": "马斯克一句话“引爆”脑机接口",
@@ -168,18 +180,6 @@
         },
         {
           "title": "马斯克：人类可以实现半永生",
-          "url": "https://www.toutiao.com/trending/7593161177908379702/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时38分 ~ 23时25分]"
-        },
-        {
-          "title": "马斯克：人类可以实现半永生",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E5%8D%8A%E6%B0%B8%E7%94%9F",
           "source": "百度热搜",
           "ranks": [
@@ -187,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时24分 ~ 23时25分]"
+          "appearance_count": 6,
+          "time_info": "[22时24分 ~ 23时47分]"
         },
         {
           "title": "如何评价雷军 2026.1.7 日的直播，释放了哪些产品和公关信息？",
@@ -202,6 +202,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时36分]"
+        },
+        {
+          "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时24分 ~ 23时47分]"
+        },
+        {
+          "title": "小米汽车深夜怒怼“绿化带战神”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%B7%B1%E5%A4%9C%E6%80%92%E6%80%BC%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时24分 ~ 23时47分]"
         },
         {
           "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
@@ -299,18 +325,6 @@
           "time_info": "07时41分"
         },
         {
-          "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时24分 ~ 23时25分]"
-        },
-        {
           "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
           "source": "澎湃新闻",
@@ -321,19 +335,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时31分 ~ 17时53分]"
-        },
-        {
-          "title": "小米汽车深夜怒怼“绿化带战神”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%B7%B1%E5%A4%9C%E6%80%92%E6%80%BC%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时24分 ~ 23时25分]"
         },
         {
           "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
@@ -744,7 +745,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时25分"
         },
