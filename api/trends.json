@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:42:13.139818+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-01-10T04:25:59.636988+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "解读特斯拉低息政策背后",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 03时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -66,17 +66,6 @@
           "time_info": "[00时28分 ~ 03时42分]"
         },
         {
-          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
-          "url": "https://flash.jin10.com/detail/20260110031815505800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3034294",
           "source": "华尔街见闻-快讯",
@@ -88,6 +77,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时48分]"
+        },
+        {
+          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
+          "url": "https://flash.jin10.com/detail/20260110031815505800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时25分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -115,6 +116,19 @@
           "time_info": "[00时29分 ~ 00时57分]"
         },
         {
+          "title": "从2026年车型年开始，斯泰兰蒂斯集团Stellantis NV将在北美逐步淘汰混合动力PHEV车型。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3034353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
           "title": "消息人士称，印度信实工业集团正与美国政府磋商，寻求获得进口委内瑞拉原油的许可。",
           "url": "https://flash.jin10.com/detail/20260109234531071800",
           "source": "金十数据",
@@ -136,18 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 01时48分]"
-        },
-        {
-          "title": "从2026年车型年开始，斯泰兰蒂斯集团Stellantis NV将在北美逐步淘汰混合动力PHEV车型。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3034353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时42分]"
         },
         {
           "title": "美国加州州长提议为电动汽车税收减免提供2亿美元新资金。",
