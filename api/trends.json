@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T18:24:10.539361+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-01-09T18:50:10.685759+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
@@ -113,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时40分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 18时50分]"
         },
         {
           "title": "马斯克一句话“引爆”脑机接口",
@@ -162,17 +162,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时36分]"
-        },
-        {
-          "title": "港交所文件显示，小米集团(01810.HK)于1月9日以1.513亿港元回购400万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20260109181643650800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
@@ -358,6 +347,18 @@
           "time_info": "[01时36分 ~ 02时29分]"
         },
         {
+          "title": "港交所文件显示，小米集团(01810.HK)于1月9日以1.513亿港元回购400万股B类股份。",
+          "url": "https://flash.jin10.com/detail/20260109181643650800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时50分]"
+        },
+        {
           "title": "一位消息人士表示，维多能源集团尚未收到有关其在委内瑞拉运营的具体许可文件，其中列明了相关条款。",
           "url": "https://flash.jin10.com/detail/20260109001949122800",
           "source": "金十数据",
@@ -435,7 +436,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
