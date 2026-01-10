@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T19:18:24.200519+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-01-10T19:39:48.736534+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
             17,
             12,
             29,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时28分 ~ 19时18分]"
+          "appearance_count": 38,
+          "time_info": "[00时28分 ~ 19时39分]"
         },
         {
           "title": "雷军称，对小米YU7冬季表现有足够信心。",
@@ -132,6 +133,22 @@
           "time_info": "[14时31分 ~ 17时42分]"
         },
         {
+          "title": "光谷创投集团今日揭牌",
+          "url": "https://wallstreetcn.com/livenews/3034519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            8,
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 19时39分]"
+        },
+        {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
           "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
           "source": "澎湃新闻",
@@ -177,6 +194,23 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
+          "title": "小米CEO雷军：下个阶段会加大YU7推广。",
+          "url": "https://wallstreetcn.com/livenews/3034509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            14,
+            18,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 19时39分]"
+        },
+        {
           "title": "不知道 我的身材很曼妙",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%9F%A5%E9%81%93%20%E6%88%91%E7%9A%84%E8%BA%AB%E6%9D%90%E5%BE%88%E6%9B%BC%E5%A6%99&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -191,21 +225,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时31分 ~ 17时42分]"
-        },
-        {
-          "title": "光谷创投集团今日揭牌",
-          "url": "https://wallstreetcn.com/livenews/3034519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            8,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "埃克森美孚石油(XOM.N)高管：我们可以在未来几周内开始行动。",
@@ -244,6 +263,22 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
+          "title": "雷军：特斯拉确实强，但并非不可战胜",
+          "url": "https://wallstreetcn.com/livenews/3034514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            13,
+            20,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 19时39分]"
+        },
+        {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
           "url": "https://flash.jin10.com/detail/20260110102018762800",
           "source": "金十数据",
@@ -261,35 +296,19 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
-          "title": "小米CEO雷军：下个阶段会加大YU7推广。",
-          "url": "https://wallstreetcn.com/livenews/3034509",
+          "title": "本田汽车将向包括Rohm在内的芯片制造商采购汽车半导体，以弥补安世半导体短缺的供应。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034518",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12,
-            14,
-            18,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 19时18分]"
-        },
-        {
-          "title": "雷军：特斯拉确实强，但并非不可战胜",
-          "url": "https://wallstreetcn.com/livenews/3034514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
+            5,
             9,
-            13,
+            16,
             20,
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时28分 ~ 19时18分]"
+          "time_info": "[16时50分 ~ 19时39分]"
         },
         {
           "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
@@ -307,20 +326,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时25分 ~ 15时20分]"
-        },
-        {
-          "title": "本田汽车将向包括Rohm在内的芯片制造商采购汽车半导体，以弥补安世半导体短缺的供应。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3034518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时18分]"
         },
         {
           "title": "美国叙利亚问题特使：会见了约旦副首相兼外交和侨民事务部长艾曼·萨法迪，萨法迪部长和我在持续合作的背景下讨论了阿拉伯叙利亚共和国的最新事态发展。",
@@ -367,6 +372,19 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
+          "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260110174003026800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 19时39分]"
+        },
+        {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
           "url": "https://wallstreetcn.com/livenews/3034455",
           "source": "华尔街见闻-快讯",
@@ -400,19 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        },
-        {
-          "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260110174003026800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
@@ -554,6 +559,18 @@
           "time_info": "[04时46分 ~ 05时21分]"
         },
         {
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时39分]"
+        },
+        {
           "title": "马斯克：白领劳动力将最先消失",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
           "source": "百度热搜",
@@ -613,17 +630,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 01时48分]"
-        },
-        {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时18分]"
         },
         {
           "title": "美国加州州长提议为电动汽车税收减免提供2亿美元新资金。",
