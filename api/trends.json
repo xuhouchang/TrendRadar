@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T03:38:24.378463+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-01-11T04:22:48.749196+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "王曼昱3:4韩莹",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "WTT多哈冠军赛女单王曼昱王艺迪出局",
@@ -44,11 +44,12 @@
             30,
             18,
             28,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
@@ -73,8 +74,67 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
+          "url": "https://flash.jin10.com/detail/20260110214003614800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "王曼昱3比4首败韩莹",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            19,
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
+          "url": "https://wallstreetcn.com/livenews/3034552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://wallstreetcn.com/livenews/3034548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://flash.jin10.com/detail/20260110201110322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时22分]"
         },
         {
           "title": "比亚迪唐9系汉9系旗舰车型官宣",
@@ -89,64 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 02时31分]"
-        },
-        {
-          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
-          "url": "https://flash.jin10.com/detail/20260110214003614800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
-        },
-        {
-          "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
-          "url": "https://wallstreetcn.com/livenews/3034552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
-        },
-        {
-          "title": "王曼昱3比4首败韩莹",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
-        },
-        {
-          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
-          "url": "https://wallstreetcn.com/livenews/3034548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
-        },
-        {
-          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
-          "url": "https://flash.jin10.com/detail/20260110201110322800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
         },
         {
           "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
