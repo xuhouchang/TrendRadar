@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T02:53:32.919753+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-01-11T03:17:07.135960+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "王曼昱3:4韩莹",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "WTT多哈冠军赛女单王曼昱王艺迪出局",
@@ -43,11 +43,37 @@
             10,
             30,
             18,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "比亚迪唐9系汉9系旗舰车型官宣",
@@ -64,45 +90,6 @@
           "time_info": "[00时25分 ~ 02时31分]"
         },
         {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时53分]"
-        },
-        {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 02时53分]"
-        },
-        {
-          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1993417392919897961",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 01时42分]"
-        },
-        {
           "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
           "url": "https://flash.jin10.com/detail/20260110214003614800",
           "source": "金十数据",
@@ -110,8 +97,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
@@ -121,8 +108,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "王曼昱3比4首败韩莹",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
@@ -132,8 +133,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
@@ -143,16 +144,17 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
-          "title": "王曼昱3比4首败韩莹",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
-          "source": "百度热搜",
+          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993417392919897961",
+          "source": "知乎",
           "ranks": [
-            27,
-            23,
+            6,
+            9,
+            12,
             19
           ],
           "is_new": false,
