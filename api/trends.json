@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T07:42:59.153775+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-01-10T09:42:42.656556+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "马斯克：人类可以实现半永生",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 07时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 09时42分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 07时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 09时42分]"
         },
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -123,11 +124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时42分]"
         },
         {
           "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
@@ -141,6 +143,17 @@
           "time_info": "[05时21分 ~ 07时42分]"
         },
         {
+          "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
+          "url": "https://wallstreetcn.com/livenews/3034467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3034294",
           "source": "华尔街见闻-快讯",
@@ -152,6 +165,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时48分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
+          "url": "https://wallstreetcn.com/livenews/3034442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 09时42分]"
         },
         {
           "title": "美国总统特朗普告诉埃克森美孚：我们希望（在委内瑞拉的投资具有）速度和质量。",
@@ -215,19 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 03时42分]"
-        },
-        {
-          "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
-          "url": "https://wallstreetcn.com/livenews/3034442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 07时42分]"
         },
         {
           "title": "消息人士称，如果力拓集团推进收购，将寻求保留嘉能可的贸易部门。",
@@ -381,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国财长贝森特：周一的七国集团+财长会议将包括澳大利亚；印度也受邀参加。",
+          "url": "https://flash.jin10.com/detail/20260110082227487800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "欧元集团披露：六人竞争欧洲央行副行长职位",
