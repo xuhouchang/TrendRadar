@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T11:25:18.093074+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-10T12:09:44.213438+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "马斯克：人类可以实现半永生",
@@ -37,11 +37,12 @@
           "ranks": [
             6,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 11时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 12时09分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -52,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 11时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 12时09分]"
         },
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -119,6 +120,30 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
+          "title": "知名对冲基金经理比尔·阿克曼：如果信用卡发卡机构无法收取足以弥补损失并获得充足股本回报的费率，它们就会为消费者注销信用卡。",
+          "url": "https://flash.jin10.com/detail/20260110102208054800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时09分]"
+        },
+        {
+          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
+          "url": "https://flash.jin10.com/detail/20260110102018762800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时09分]"
+        },
+        {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
           "url": "https://wallstreetcn.com/livenews/3034455",
           "source": "华尔街见闻-快讯",
@@ -143,15 +168,26 @@
           "time_info": "[05时21分 ~ 07时42分]"
         },
         {
-          "title": "知名对冲基金经理比尔·阿克曼：如果信用卡发卡机构无法收取足以弥补损失并获得充足股本回报的费率，它们就会为消费者注销信用卡。",
-          "url": "https://flash.jin10.com/detail/20260110102208054800",
-          "source": "金十数据",
+          "title": "问界M7全系累计交付突破40万台",
+          "url": "https://wallstreetcn.com/livenews/3034490",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "12时09分"
+        },
+        {
+          "title": "三个关键词看民营经济活力迸发",
+          "url": "https://www.toutiao.com/trending/7593487553915895859/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
@@ -165,17 +201,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时48分]"
-        },
-        {
-          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
-          "url": "https://flash.jin10.com/detail/20260110102018762800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
@@ -205,6 +230,19 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
+          "url": "https://wallstreetcn.com/livenews/3034467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 12时09分]"
+        },
+        {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3034417",
           "source": "华尔街见闻-快讯",
@@ -228,29 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 04时25分]"
-        },
-        {
-          "title": "美国财长贝森特表示，澳大利亚及其他几个国家将参加他周一在华盛顿主持的七国集团（G7）发达经济体财长会议，共同讨论关键矿产问题；印度也受邀参加此次会议。",
-          "url": "https://wallstreetcn.com/livenews/3034467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时25分]"
-        },
-        {
-          "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/3034478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "埃克森美孚CEO：委内瑞拉境内的业务需要（特朗普政府提供武装）保护。 本公司在委内瑞拉的业务需要双倍保护。 公司准备在委内瑞拉部署一个地面（武装）团队。 公司能在数周内于委内瑞拉启动。",
@@ -314,6 +329,18 @@
           "time_info": "[04时46分 ~ 05时21分]"
         },
         {
+          "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3034478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时09分]"
+        },
+        {
           "title": "从2026年车型年开始，斯泰兰蒂斯集团Stellantis NV将在北美逐步淘汰混合动力PHEV车型。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3034353",
           "source": "华尔街见闻-快讯",
@@ -327,6 +354,31 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "美国财长贝森特：周一的七国集团+财长会议将包括澳大利亚；印度也受邀参加。",
+          "url": "https://flash.jin10.com/detail/20260110082227487800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 12时09分]"
+        },
+        {
+          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
+          "url": "https://wallstreetcn.com/livenews/3034477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时09分]"
+        },
+        {
           "title": "消息人士称，印度信实工业集团正与美国政府磋商，寻求获得进口委内瑞拉原油的许可。",
           "url": "https://flash.jin10.com/detail/20260109234531071800",
           "source": "金十数据",
@@ -337,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时57分]"
+        },
+        {
+          "title": "马斯克：白领劳动力将最先消失",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时09分]"
         },
         {
           "title": "雪佛龙或将从委内瑞拉石油中获得每年7亿美元的收益",
@@ -386,18 +450,6 @@
           "time_info": "[05时21分 ~ 05时43分]"
         },
         {
-          "title": "美国财长贝森特：周一的七国集团+财长会议将包括澳大利亚；印度也受邀参加。",
-          "url": "https://flash.jin10.com/detail/20260110082227487800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时25分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数收跌1.30%，报7695.62点，本周累计下跌2.09%，1月5-6日冲高回落。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.56%，XtrackersHarvest中证50（ASHS）收涨2.73%。 中概互联网指数ETF（KWEB）收跌0.25%，中国科技指数ETF（CQQQ）收涨1.00%。",
           "url": "https://wallstreetcn.com/livenews/3034407",
           "source": "华尔街见闻-快讯",
@@ -419,17 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 00时29分]"
-        },
-        {
-          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
-          "url": "https://wallstreetcn.com/livenews/3034477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
@@ -463,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "马斯克：白领劳动力将最先消失",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     }
