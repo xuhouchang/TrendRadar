@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T19:39:48.736534+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-01-10T20:40:27.975985+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 66,
       "titles": [
         {
           "title": "三个关键词看民营经济活力迸发",
@@ -98,6 +98,23 @@
           "time_info": "[14时55分 ~ 18时45分]"
         },
         {
+          "title": "光谷创投集团今日揭牌",
+          "url": "https://wallstreetcn.com/livenews/3034519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            8,
+            15,
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 20时40分]"
+        },
+        {
           "title": "问界M7全系累计交付突破40万台",
           "url": "https://wallstreetcn.com/livenews/3034490",
           "source": "华尔街见闻-快讯",
@@ -131,22 +148,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时31分 ~ 17时42分]"
-        },
-        {
-          "title": "光谷创投集团今日揭牌",
-          "url": "https://wallstreetcn.com/livenews/3034519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            8,
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 19时39分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -251,6 +252,22 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
+          "title": "本田汽车将向包括Rohm在内的芯片制造商采购汽车半导体，以弥补安世半导体短缺的供应。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            16,
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 20时40分]"
+        },
+        {
           "title": "埃克森美孚石油(XOM.N)高管：委内瑞拉面临的挑战在于资源开发。",
           "url": "https://flash.jin10.com/detail/20260110043514198800",
           "source": "金十数据",
@@ -296,21 +313,6 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
-          "title": "本田汽车将向包括Rohm在内的芯片制造商采购汽车半导体，以弥补安世半导体短缺的供应。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3034518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            16,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 19时39分]"
-        },
-        {
           "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
           "url": "https://wallstreetcn.com/livenews/3034478",
           "source": "华尔街见闻-快讯",
@@ -344,6 +346,20 @@
           "time_info": "[14时31分 ~ 16时50分]"
         },
         {
+          "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260110174003026800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时40分]"
+        },
+        {
           "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
           "url": "https://wallstreetcn.com/livenews/3034477",
           "source": "华尔街见闻-快讯",
@@ -372,19 +388,6 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
-          "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260110174003026800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时39分]"
-        },
-        {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
           "url": "https://wallstreetcn.com/livenews/3034455",
           "source": "华尔街见闻-快讯",
@@ -409,6 +412,28 @@
           "time_info": "[05时21分 ~ 07时42分]"
         },
         {
+          "title": "王曼昱3比4韩莹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%9F%A9%E8%8E%B9%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://flash.jin10.com/detail/20260110201110322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "警察节致敬平安守护者",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E8%8A%82%E8%87%B4%E6%95%AC%E5%B9%B3%E5%AE%89%E5%AE%88%E6%8A%A4%E8%80%85%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -418,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://wallstreetcn.com/livenews/3034548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
@@ -433,6 +469,17 @@
           "time_info": "[00时29分 ~ 01时48分]"
         },
         {
+          "title": "王曼昱vs韩莹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E9%9F%A9%E8%8E%B9%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
           "url": "https://wallstreetcn.com/livenews/3034442",
           "source": "华尔街见闻-快讯",
@@ -445,6 +492,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时46分 ~ 09时42分]"
+        },
+        {
+          "title": "马斯克抛出对AI时代三大预言靠谱吗",
+          "url": "https://www.toutiao.com/trending/7593676279396699689/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美国总统特朗普告诉埃克森美孚：我们希望（在委内瑞拉的投资具有）速度和质量。",
@@ -471,6 +529,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 12时09分]"
+        },
+        {
+          "title": "王曼昱3-4不敌韩莹无缘四强",
+          "url": "https://www.toutiao.com/trending/7593704915344707123/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "王曼昱3比4首败韩莹",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
@@ -535,6 +615,19 @@
           "time_info": "[00时29分 ~ 00时57分]"
         },
         {
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时40分]"
+        },
+        {
           "title": "米其林拉面店芝麻两毛一颗？餐厅回应",
           "url": "https://www.baidu.com/s?wd=%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8B%89%E9%9D%A2%E5%BA%97%E8%8A%9D%E9%BA%BB%E4%B8%A4%E6%AF%9B%E4%B8%80%E9%A2%97%EF%BC%9F%E9%A4%90%E5%8E%85%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -557,18 +650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时21分]"
-        },
-        {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时39分]"
         },
         {
           "title": "马斯克：白领劳动力将最先消失",
@@ -724,6 +805,28 @@
           "time_info": "05时21分"
         },
         {
+          "title": "问界M7增程长续航版预售29.98万起",
+          "url": "https://www.toutiao.com/trending/7593189830688034346/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "王曼昱赛后自评",
+          "url": "https://www.douyin.com/hot/2363072",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "欧元集团披露：六人竞争欧洲央行副行长职位",
           "url": "https://wallstreetcn.com/livenews/3034327",
           "source": "华尔街见闻-快讯",
@@ -755,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "王曼昱暂停",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%9A%82%E5%81%9C&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
