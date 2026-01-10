@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:20:00.088541+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2026-01-10T22:43:34.461222+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -150,6 +150,34 @@
           "time_info": "[14时31分 ~ 17时42分]"
         },
         {
+          "title": "王曼昱3比4韩莹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%9F%A9%E8%8E%B9%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 22时43分]"
+        },
+        {
+          "title": "王曼昱3-4不敌韩莹无缘四强",
+          "url": "https://www.toutiao.com/trending/7593704915344707123/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 22时43分]"
+        },
+        {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
           "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
           "source": "澎湃新闻",
@@ -195,6 +223,17 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
+          "title": "爆冷!王曼昱不敌德国42岁老将",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348956&amp;topic_name=%E7%88%86%E5%86%B7%21%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%8D%E6%95%8C%E5%BE%B7%E5%9B%BD42%E5%B2%81%E8%80%81%E5%B0%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 22时43分]"
+        },
+        {
           "title": "小米CEO雷军：下个阶段会加大YU7推广。",
           "url": "https://wallstreetcn.com/livenews/3034509",
           "source": "华尔街见闻-快讯",
@@ -226,18 +265,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时31分 ~ 17时42分]"
-        },
-        {
-          "title": "王曼昱3比4韩莹",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%9F%A9%E8%8E%B9%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "埃克森美孚石油(XOM.N)高管：我们可以在未来几周内开始行动。",
@@ -325,29 +352,17 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
-          "title": "王曼昱3-4不敌韩莹无缘四强",
-          "url": "https://www.toutiao.com/trending/7593704915344707123/",
-          "source": "今日头条",
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            5,
-            4,
-            6
+            15,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时19分]"
-        },
-        {
-          "title": "爆冷!王曼昱不敌德国42岁老将",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348956&amp;topic_name=%E7%88%86%E5%86%B7%21%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%8D%E6%95%8C%E5%BE%B7%E5%9B%BD42%E5%B2%81%E8%80%81%E5%B0%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[18时45分 ~ 22时43分]"
         },
         {
           "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
@@ -367,19 +382,6 @@
           "time_info": "[11时25分 ~ 15时20分]"
         },
         {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时45分 ~ 22时19分]"
-        },
-        {
           "title": "美国叙利亚问题特使：会见了约旦副首相兼外交和侨民事务部长艾曼·萨法迪，萨法迪部长和我在持续合作的背景下讨论了阿拉伯叙利亚共和国的最新事态发展。",
           "url": "https://flash.jin10.com/detail/20260110140309135800",
           "source": "金十数据",
@@ -394,6 +396,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时31分 ~ 16时50分]"
+        },
+        {
+          "title": "王曼昱3比4首败韩莹",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 22时43分]"
+        },
+        {
+          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993417392919897961",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 22时43分]"
         },
         {
           "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
@@ -411,17 +440,32 @@
           "time_info": "[18时21分 ~ 21时30分]"
         },
         {
-          "title": "王曼昱3比4首败韩莹",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
-          "source": "百度热搜",
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://wallstreetcn.com/livenews/3034548",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
+            4,
             7,
-            20
+            8,
+            14,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "time_info": "[20时40分 ~ 22时43分]"
+        },
+        {
+          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
+          "url": "https://flash.jin10.com/detail/20260110214003614800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 22时43分]"
         },
         {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
@@ -430,25 +474,12 @@
           "ranks": [
             3,
             4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时30分 ~ 22时19分]"
-        },
-        {
-          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
-          "url": "https://wallstreetcn.com/livenews/3034548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            8,
+            10,
             14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "time_info": "[21时30分 ~ 22时43分]"
         },
         {
           "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
@@ -479,29 +510,19 @@
           "time_info": "[04时46分 ~ 07时42分]"
         },
         {
-          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1993417392919897961",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
-          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
-          "url": "https://flash.jin10.com/detail/20260110214003614800",
+          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
+          "url": "https://flash.jin10.com/detail/20260110201110322800",
           "source": "金十数据",
           "ranks": [
-            1,
-            5
+            2,
+            8,
+            12,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 22时43分]"
         },
         {
           "title": "王曼昱无缘多哈冠军赛四强",
@@ -513,20 +534,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时29分 ~ 21时48分]"
-        },
-        {
-          "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
-          "url": "https://flash.jin10.com/detail/20260110201110322800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
@@ -586,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 22时43分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
@@ -670,7 +688,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -712,15 +730,17 @@
           "time_info": "[00时29分 ~ 00时57分]"
         },
         {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
+          "title": "问界M7增程长续航版预售29.98万起",
+          "url": "https://www.toutiao.com/trending/7593189830688034346/",
+          "source": "今日头条",
           "ranks": [
-            13
+            19,
+            24,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时29分 ~ 22时19分]"
+          "time_info": "[20时40分 ~ 22时43分]"
         },
         {
           "title": "米其林拉面店芝麻两毛一颗？餐厅回应",
@@ -745,6 +765,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时21分]"
+        },
+        {
+          "title": "王曼昱3:4韩莹",
+          "url": "https://www.douyin.com/hot/2363683",
+          "source": "抖音",
+          "ranks": [
+            12,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 22时43分]"
         },
         {
           "title": "马斯克：白领劳动力将最先消失",
@@ -772,18 +805,6 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
-          "title": "问界M7增程长续航版预售29.98万起",
-          "url": "https://www.toutiao.com/trending/7593189830688034346/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时30分]"
-        },
-        {
           "title": "美国财长贝森特：周一的七国集团+财长会议将包括澳大利亚；印度也受邀参加。",
           "url": "https://flash.jin10.com/detail/20260110082227487800",
           "source": "金十数据",
@@ -795,18 +816,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 12时09分]"
-        },
-        {
-          "title": "王曼昱3:4韩莹",
-          "url": "https://www.douyin.com/hot/2363683",
-          "source": "抖音",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 22时19分]"
         },
         {
           "title": "消息人士称，印度信实工业集团正与美国政府磋商，寻求获得进口委内瑞拉原油的许可。",
