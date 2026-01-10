@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-11T00:25:51.086212+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T00:49:20.297960+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 12,
       "titles": [
-        {
-          "title": "王曼昱3:4韩莹",
-          "url": "https://www.douyin.com/hot/2363683",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
         {
           "title": "爆冷!王曼昱不敌德国42岁老将",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348956&amp;topic_name=%E7%88%86%E5%86%B7%21%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%8D%E6%95%8C%E5%BE%B7%E5%9B%BD42%E5%B2%81%E8%80%81%E5%B0%86",
@@ -26,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1993417392919897961",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "比亚迪唐9系汉9系旗舰车型官宣",
@@ -48,41 +26,80 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
+        },
+        {
+          "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993417392919897961",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
+        },
+        {
+          "title": "王曼昱3:4韩莹",
+          "url": "https://www.douyin.com/hot/2363683",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "WTT多哈冠军赛女单王曼昱王艺迪出局",
           "url": "https://www.toutiao.com/trending/7593419062979674131/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
+        },
+        {
+          "title": "王曼昱3比4首败韩莹",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
@@ -92,8 +109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
@@ -103,8 +120,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
@@ -114,8 +131,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时49分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
@@ -125,19 +142,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "王曼昱3比4首败韩莹",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%944%E9%A6%96%E8%B4%A5%E9%9F%A9%E8%8E%B9",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时49分]"
         }
       ]
     }
