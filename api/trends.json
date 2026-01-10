@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:22:23.007720+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-01-10T13:45:40.020350+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             7,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 13时45分]"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 13时45分]"
         },
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -116,8 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 13时45分]"
         },
         {
           "title": "知名对冲基金经理比尔·阿克曼：如果信用卡发卡机构无法收取足以弥补损失并获得充足股本回报的费率，它们就会为消费者注销信用卡。",
@@ -130,20 +131,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时22分]"
-        },
-        {
-          "title": "雪佛龙高管表示，公司致力于继续在委内瑞拉石油领域进行投资。",
-          "url": "https://flash.jin10.com/detail/20260110042941372800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时46分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时45分]"
         },
         {
           "title": "问界M7全系累计交付突破40万台",
@@ -155,8 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 13时45分]"
         },
         {
           "title": "小米汽车：新一代SU7将全系搭载小米超级电机V6s Plus",
@@ -165,9 +154,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时45分]"
         },
         {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
@@ -180,8 +169,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时45分]"
+        },
+        {
+          "title": "雪佛龙高管表示，公司致力于继续在委内瑞拉石油领域进行投资。",
+          "url": "https://flash.jin10.com/detail/20260110042941372800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时46分 ~ 07时42分]"
         },
         {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
@@ -208,6 +209,20 @@
           "time_info": "[05时21分 ~ 07时42分]"
         },
         {
+          "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
+          "url": "https://wallstreetcn.com/livenews/3034478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时45分]"
+        },
+        {
           "title": "波兰铜业集团公司（KGHM）涨6.2%，创最近15周最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3034294",
           "source": "华尔街见闻-快讯",
@@ -219,6 +234,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 01时48分]"
+        },
+        {
+          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
+          "url": "https://wallstreetcn.com/livenews/3034477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 13时45分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
@@ -233,20 +262,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时46分 ~ 09时42分]"
-        },
-        {
-          "title": "中国再生资源开发集团有限公司党委书记、董事长、总经理邢宏伟接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/3034478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时22分]"
         },
         {
           "title": "美国总统特朗普告诉埃克森美孚：我们希望（在委内瑞拉的投资具有）速度和质量。",
@@ -335,20 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时57分]"
-        },
-        {
-          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
-          "url": "https://wallstreetcn.com/livenews/3034477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时22分]"
         },
         {
           "title": "米其林拉面店芝麻两毛一颗？餐厅回应",
@@ -534,7 +535,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
