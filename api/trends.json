@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:31:58.388689+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-01-11T21:50:06.710562+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,22 @@
           "time_info": "[06时44分 ~ 21时31分]"
         },
         {
+          "title": "2026开年有多忙？上海给出三个关键词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358904",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[13时48分 ~ 21时50分]"
+        },
+        {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
           "url": "https://wallstreetcn.com/articles/3763028",
           "source": "华尔街见闻",
@@ -34,23 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时51分 ~ 21时31分]"
-        },
-        {
-          "title": "2026开年有多忙？上海给出三个关键词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358904",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时48分 ~ 21时31分]"
+          "appearance_count": 25,
+          "time_info": "[11时51分 ~ 21时50分]"
         },
         {
           "title": "超 20 家车企卷入降价促销潮，特斯拉 0 息购，比亚迪下探至 8 万区间，如何看待这一现象？",
@@ -67,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时51分 ~ 21时31分]"
+          "appearance_count": 25,
+          "time_info": "[11时51分 ~ 21时50分]"
         },
         {
           "title": "爆冷!王曼昱不敌德国42岁老将",
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时25分 ~ 21时31分]"
+          "appearance_count": 46,
+          "time_info": "[00时25分 ~ 21时50分]"
         },
         {
           "title": "曼城10-1埃克塞特城",
@@ -131,11 +132,12 @@
             24,
             18,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时48分 ~ 19时39分]"
+          "appearance_count": 20,
+          "time_info": "[13时48分 ~ 21时50分]"
         },
         {
           "title": "WTT多哈冠军赛女单王曼昱王艺迪出局",
