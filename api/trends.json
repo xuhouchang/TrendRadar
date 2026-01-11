@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-11T07:41:37.395144+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-11T09:54:18.950554+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "爆冷!王曼昱不敌德国42岁老将",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348956&amp;topic_name=%E7%88%86%E5%86%B7%21%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%8D%E6%95%8C%E5%BE%B7%E5%9B%BD42%E5%B2%81%E8%80%81%E5%B0%86",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 09时54分]"
         },
         {
           "title": "王曼昱3:4韩莹",
@@ -46,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 09时54分]"
         },
         {
           "title": "WTT多哈冠军赛女单王曼昱王艺迪出局",
@@ -92,11 +93,12 @@
             16,
             17,
             18,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 07时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 09时54分]"
         },
         {
           "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
@@ -162,39 +164,30 @@
           "time_info": "[00时25分 ~ 07时41分]"
         },
         {
-          "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
-          "url": "https://wallstreetcn.com/livenews/3034576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时41分]"
-        },
-        {
-          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
-          "url": "https://wallstreetcn.com/livenews/3034579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时41分]"
-        },
-        {
           "title": "柬政府确认：柬国王颁令撤销太子集团创始人陈志柬埔寨国籍",
           "url": "https://m.thepaper.cn/newsDetail_forward_32359856",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时41分]"
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时54分]"
+        },
+        {
+          "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
+          "url": "https://wallstreetcn.com/livenews/3034576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时54分]"
         },
         {
           "title": "WTT 多哈冠军赛，王曼昱 3-4 不敌韩莹，无缘女单四强，如何评价本场比赛？",
@@ -211,26 +204,84 @@
           "time_info": "[00时25分 ~ 01时42分]"
         },
         {
-          "title": "马斯克：推特将在七天内开源其算法",
-          "url": "https://wallstreetcn.com/livenews/3034577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时41分]"
-        },
-        {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
           "url": "https://wallstreetcn.com/articles/3763006",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时54分]"
+        },
+        {
+          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
+          "url": "https://wallstreetcn.com/livenews/3034579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时54分]"
+        },
+        {
+          "title": "马斯克：推特将在七天内开源其算法",
+          "url": "https://wallstreetcn.com/livenews/3034577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时54分]"
+        },
+        {
+          "title": "全球首次！印尼暂时封禁马斯克旗下AI",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3034587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "蒯曼战胜长崎美柚",
+          "url": "https://www.douyin.com/hot/2363891",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "美国财长贝森特：雪佛龙在委内瑞拉已经营多年，预计其（投资）承诺将大幅增加。",
+          "url": "https://flash.jin10.com/detail/20260111082334683800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
