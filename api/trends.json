@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T22:43:59.498098+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-01-11T23:20:47.724549+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[13时48分 ~ 22时43分]"
+          "appearance_count": 25,
+          "time_info": "[13时48分 ~ 23时20分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -48,11 +48,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时51分 ~ 22时43分]"
+          "appearance_count": 28,
+          "time_info": "[11时51分 ~ 23时20分]"
         },
         {
           "title": "超 20 家车企卷入降价促销潮，特斯拉 0 息购，比亚迪下探至 8 万区间，如何看待这一现象？",
@@ -66,11 +67,12 @@
             5,
             4,
             2,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时51分 ~ 22时43分]"
+          "appearance_count": 28,
+          "time_info": "[11时51分 ~ 23时20分]"
         },
         {
           "title": "爆冷!王曼昱不敌德国42岁老将",
@@ -118,8 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时25分 ~ 22时43分]"
+          "appearance_count": 49,
+          "time_info": "[00时25分 ~ 23时20分]"
         },
         {
           "title": "曼城10-1埃克塞特城",
@@ -573,6 +575,19 @@
           "time_info": "[11时51分 ~ 13时26分]"
         },
         {
+          "title": "2026 年 WTT 多哈冠军赛女单半决赛，蒯曼 0:4 不敌老将陈幸同止步四强，怎么评价这一场比赛？",
+          "url": "https://www.zhihu.com/question/1993756869869737088",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
           "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
           "url": "https://wallstreetcn.com/livenews/3034676",
           "source": "华尔街见闻-快讯",
@@ -610,6 +625,18 @@
           "time_info": "[15时21分 ~ 16时28分]"
         },
         {
+          "title": "交运股份筹划重大资产置换：控股股东久事集团拟注入F1中国大奖赛等文体资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363070",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
           "title": "UP主韩服排位遇疑似马斯克AI账号",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9F%A9%E6%9C%8D%E6%8E%92%E4%BD%8D%E9%81%87%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
           "source": "bilibili 热搜",
@@ -621,18 +648,6 @@
           "time_info": "[18时21分 ~ 18时22分]"
         },
         {
-          "title": "2026 年 WTT 多哈冠军赛女单半决赛，蒯曼 0:4 不敌老将陈幸同止步四强，怎么评价这一场比赛？",
-          "url": "https://www.zhihu.com/question/1993756869869737088",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时43分]"
-        },
-        {
           "title": "陈幸同4-0横扫蒯曼",
           "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%B9%B8%E5%90%8C4-0%E6%A8%AA%E6%89%AB%E8%92%AF%E6%9B%BC",
           "source": "百度热搜",
@@ -642,18 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "交运股份筹划重大资产置换：控股股东久事集团拟注入F1中国大奖赛等文体资产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32363070",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时43分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
