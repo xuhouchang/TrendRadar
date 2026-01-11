@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:39:47.485683+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-01-11T20:41:35.132674+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[06时44分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[06时44分 ~ 20时41分]"
+        },
+        {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[11时51分 ~ 20时41分]"
         },
         {
           "title": "2026开年有多忙？上海给出三个关键词",
@@ -34,22 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时48分 ~ 19时39分]"
-        },
-        {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时51分 ~ 19时39分]"
+          "appearance_count": 19,
+          "time_info": "[13时48分 ~ 20时41分]"
         },
         {
           "title": "超 20 家车企卷入降价促销潮，特斯拉 0 息购，比亚迪下探至 8 万区间，如何看待这一现象？",
@@ -65,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时51分 ~ 19时39分]"
+          "appearance_count": 22,
+          "time_info": "[11时51分 ~ 20时41分]"
         },
         {
           "title": "爆冷!王曼昱不敌德国42岁老将",
@@ -81,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时25分 ~ 19时39分]"
+          "appearance_count": 43,
+          "time_info": "[00时25分 ~ 20时41分]"
         },
         {
           "title": "王曼昱3:4韩莹",
@@ -114,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时25分 ~ 19时39分]"
+          "appearance_count": 43,
+          "time_info": "[00时25分 ~ 20时41分]"
         },
         {
           "title": "曼城10-1埃克塞特城",
