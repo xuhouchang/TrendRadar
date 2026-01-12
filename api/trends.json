@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T00:28:33.025589+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-13T00:56:32.993337+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1993482665018544393",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
           "url": "https://www.cls.cn/detail/2254799",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -37,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -48,19 +50,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
           "url": "https://wallstreetcn.com/livenews/3035444",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "张雨绮 我的身材很曼妙",
@@ -70,19 +73,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时56分]"
         }
       ]
     }
