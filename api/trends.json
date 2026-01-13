@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:54:32.360805+08:00",
-  "total_titles_processed": 2276,
+  "generated_at": "2026-01-13T23:26:42.070546+08:00",
+  "total_titles_processed": 2345,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时28分 ~ 22时54分]"
+          "appearance_count": 12,
+          "time_info": "[17时28分 ~ 23时26分]"
         },
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -72,8 +72,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时25分 ~ 22时54分]"
+          "appearance_count": 16,
+          "time_info": "[15时25分 ~ 23时26分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时51分 ~ 23时26分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -100,22 +114,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时28分 ~ 22时54分]"
-        },
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时51分 ~ 22时54分]"
+          "appearance_count": 12,
+          "time_info": "[17时28分 ~ 23时26分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -166,8 +166,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时28分 ~ 22时54分]"
+          "appearance_count": 12,
+          "time_info": "[17时28分 ~ 23时26分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -235,6 +235,21 @@
           "time_info": "[12时59分 ~ 15时46分]"
         },
         {
+          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
+          "url": "https://www.zhihu.com/question/667028399",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            16,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时51分 ~ 23时26分]"
+        },
+        {
           "title": "外交部回应七国集团将减少对华稀土依赖",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%B0%86%E5%87%8F%E5%B0%91%E5%AF%B9%E5%8D%8E%E7%A8%80%E5%9C%9F%E4%BE%9D%E8%B5%96%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -257,20 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
-        },
-        {
-          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
-          "url": "https://www.zhihu.com/question/667028399",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时51分 ~ 22时54分]"
         },
         {
           "title": "澳大利亚1月西太平洋/墨尔本消费者信心指数 92.9，前值94.5。",
@@ -825,6 +826,17 @@
           "time_info": "[18时51分 ~ 19时21分]"
         },
         {
+          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
+          "url": "https://www.zhihu.com/question/1994407929697236628",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时26分]"
+        },
+        {
           "title": "朱颜曼滋任彬离婚搭子对抗路夫妻",
           "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E9%A2%9C%E6%9B%BC%E6%BB%8B%E4%BB%BB%E5%BD%AC%E7%A6%BB%E5%A9%9A%E6%90%AD%E5%AD%90%E5%AF%B9%E6%8A%97%E8%B7%AF%E5%A4%AB%E5%A6%BB&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -955,17 +967,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
-        },
-        {
-          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
-          "url": "https://www.zhihu.com/question/1994407929697236628",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "法国财政部长：在与美国及其二十国集团主席国身份协调下，七国集团主席国任期也将重点关注全球宏观失衡问题。",
