@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-14T02:33:20.477382+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-14T03:21:03.932079+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 15,
       "titles": [
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
-        },
         {
           "title": "技术拆解疑似马斯克AI账号",
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
@@ -28,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
@@ -51,8 +52,46 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
+          "url": "https://www.zhihu.com/question/1994407929697236628",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
+          "url": "https://www.zhihu.com/question/667028399",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "不知道喜欢的女明星很曼妙",
+          "url": "https://www.douyin.com/hot/2366464",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -66,64 +105,6 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
-          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
-          "url": "https://flash.jin10.com/detail/20260114020620908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "联合国特使就也门问题与胡塞武装及阿曼官员会谈",
-          "url": "https://flash.jin10.com/detail/20260114020520520800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
-          "url": "https://www.zhihu.com/question/1994407929697236628",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
-        },
-        {
-          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
-          "url": "https://www.zhihu.com/question/667028399",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
-        },
-        {
-          "title": "不知道喜欢的女明星很曼妙",
-          "url": "https://www.douyin.com/hot/2366464",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时33分]"
-        },
-        {
           "title": "市场消息：摩根大通和花旗集团正就为阿根廷一项价值10亿美元的管道项目提供融资进行谈判。",
           "url": "https://flash.jin10.com/detail/20260114014123686800",
           "source": "金十数据",
@@ -134,6 +115,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 02时33分]"
+        },
+        {
+          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
+          "url": "https://flash.jin10.com/detail/20260114020620908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时21分]"
+        },
+        {
+          "title": "联合国特使就也门问题与胡塞武装及阿曼官员会谈",
+          "url": "https://flash.jin10.com/detail/20260114020520520800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
