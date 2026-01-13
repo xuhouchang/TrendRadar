@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:22:48.881937+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-01-14T06:48:09.977046+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时48分]"
         },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时48分]"
         },
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -53,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时48分]"
         },
         {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
@@ -69,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时48分]"
         },
         {
           "title": "不知道喜欢的女明星很曼妙",
@@ -78,11 +79,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时48分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -96,17 +98,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 03时40分]"
-        },
-        {
-          "title": "消息人士：雪佛龙(CVX.N)正考虑让其位于得克萨斯州和密西西比州的炼油厂加工委内瑞拉原油。",
-          "url": "https://flash.jin10.com/detail/20260114061205231800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -169,6 +160,18 @@
           "time_info": "[01时52分 ~ 02时33分]"
         },
         {
+          "title": "消息人士：雪佛龙(CVX.N)正考虑让其位于得克萨斯州和密西西比州的炼油厂加工委内瑞拉原油。",
+          "url": "https://flash.jin10.com/detail/20260114061205231800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 06时48分]"
+        },
+        {
           "title": "周二（1月13日），彭博电动汽车价格回报指数涨0.28%，报3619.10点，亚太早盘持续走高，北京时间13:00过后逐步回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3036403",
           "source": "华尔街见闻-快讯",
@@ -193,6 +196,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 02时33分]"
+        },
+        {
+          "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
+          "url": "https://www.cls.cn/detail/2256694",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 06时48分]"
         },
         {
           "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
@@ -240,17 +255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
-          "url": "https://www.cls.cn/detail/2256694",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "容百科技：收到上交所问询函，要求核实并补充披露与宁德时代合作相关事项",
