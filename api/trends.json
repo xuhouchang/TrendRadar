@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:21:03.932079+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-14T03:40:39.600398+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
@@ -65,8 +65,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -78,8 +78,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "不知道喜欢的女明星很曼妙",
@@ -90,8 +90,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时40分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -105,18 +105,6 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
-          "title": "市场消息：摩根大通和花旗集团正就为阿根廷一项价值10亿美元的管道项目提供融资进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260114014123686800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时33分]"
-        },
-        {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
           "url": "https://flash.jin10.com/detail/20260114020620908800",
           "source": "金十数据",
@@ -125,8 +113,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 03时40分]"
         },
         {
           "title": "联合国特使就也门问题与胡塞武装及阿曼官员会谈",
@@ -137,8 +125,20 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 03时40分]"
+        },
+        {
+          "title": "市场消息：摩根大通和花旗集团正就为阿根廷一项价值10亿美元的管道项目提供融资进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260114014123686800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时21分]"
+          "time_info": "[01时52分 ~ 02时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
