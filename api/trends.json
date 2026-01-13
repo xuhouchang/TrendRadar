@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T15:25:45.819598+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-01-13T15:46:20.997250+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时40分 ~ 15时46分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -99,8 +99,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时28分 ~ 15时25分]"
+          "appearance_count": 29,
+          "time_info": "[00时28分 ~ 15时46分]"
         },
         {
           "title": "张雨绮 我的身材很曼妙",
@@ -122,6 +122,19 @@
           "time_info": "[00时28分 ~ 07时40分]"
         },
         {
+          "title": "新能源汽车的电池寿命有多久？",
+          "url": "https://www.zhihu.com/question/1887877649495479265",
+          "source": "知乎",
+          "ranks": [
+            7,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 15时46分]"
+        },
+        {
           "title": "曼联足总杯惨遭淘汰",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E8%B6%B3%E6%80%BB%E6%9D%AF%E6%83%A8%E9%81%AD%E6%B7%98%E6%B1%B0",
           "source": "bilibili 热搜",
@@ -135,19 +148,6 @@
           "time_info": "[01时45分 ~ 07时40分]"
         },
         {
-          "title": "新能源汽车的电池寿命有多久？",
-          "url": "https://www.zhihu.com/question/1887877649495479265",
-          "source": "知乎",
-          "ranks": [
-            7,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 15时25分]"
-        },
-        {
           "title": "如何看待马斯克AI预言",
           "url": "https://www.douyin.com/hot/2366116",
           "source": "抖音",
@@ -157,8 +157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 15时46分]"
         },
         {
           "title": "澳大利亚1月西太平洋/墨尔本消费者信心指数 92.9，前值94.5。",
@@ -235,7 +235,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -312,7 +312,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -503,6 +503,18 @@
           "time_info": "[03时21分 ~ 03时42分]"
         },
         {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时46分]"
+        },
+        {
           "title": "德国财政部长：七国集团关于稀土的会议后仍有许多悬而未决的问题。",
           "url": "https://flash.jin10.com/detail/20260113021539678800",
           "source": "金十数据",
@@ -554,7 +566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -576,7 +588,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -590,17 +602,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     }
