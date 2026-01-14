@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T19:44:55.587131+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-01-14T20:47:28.290850+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[11时48分 ~ 18时52分]"
         },
         {
+          "title": "中国汽车产销量再创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 20时47分]"
+        },
+        {
           "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
           "url": "https://m.thepaper.cn/newsDetail_forward_32374485",
           "source": "澎湃新闻",
@@ -33,17 +44,6 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时32分 ~ 15时26分]"
-        },
-        {
-          "title": "中国汽车产销量再创历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 19时44分]"
         },
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -115,11 +115,12 @@
             12,
             9,
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时35分 ~ 19时44分]"
+          "appearance_count": 13,
+          "time_info": "[14时35分 ~ 20时47分]"
         },
         {
           "title": "不知道喜欢的女明星很曼妙",
@@ -134,6 +135,22 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时32分 ~ 13时50分]"
+        },
+        {
+          "title": "张小泉集团破产重组的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            12,
+            24,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 20时47分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -164,19 +181,17 @@
           "time_info": "[06时22分 ~ 11时48分]"
         },
         {
-          "title": "张小泉集团破产重组的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "市场监管总局依法对携程集团有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            19,
-            12,
-            24,
-            25
+            16,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 20时47分]"
         },
         {
           "title": "特朗普参观汽车工厂遭工人辱骂",
@@ -233,19 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "市场监管总局依法对携程集团有限公司立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 19时44分]"
         },
         {
           "title": "上海：鼓励社会资本积极投向智能网联汽车及关键零部件初创企业",
@@ -446,7 +448,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -575,7 +577,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
