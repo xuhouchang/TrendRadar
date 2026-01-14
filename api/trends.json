@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:26:08.876845+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-01-14T18:52:52.686797+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 18时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 18时52分]"
         },
         {
           "title": "原上海电气（集团）总公司党委书记、董事长郑建华被判死缓",
@@ -79,6 +79,17 @@
           "time_info": "[00时32分 ~ 12时47分]"
         },
         {
+          "title": "中国汽车产销量再创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 18时52分]"
+        },
+        {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
           "url": "https://www.zhihu.com/question/1994407929697236628",
           "source": "知乎",
@@ -96,15 +107,19 @@
           "time_info": "[00时32分 ~ 09时49分]"
         },
         {
-          "title": "中国汽车产销量再创历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
           "ranks": [
-            3
+            17,
+            12,
+            9,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[14时35分 ~ 18时52分]"
         },
         {
           "title": "不知道喜欢的女明星很曼妙",
@@ -119,21 +134,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时32分 ~ 13时50分]"
-        },
-        {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            9,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 18时26分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -164,6 +164,20 @@
           "time_info": "[06时22分 ~ 11时48分]"
         },
         {
+          "title": "张小泉集团破产重组的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普参观汽车工厂遭工人辱骂",
           "url": "https://www.douyin.com/hot/2367043",
           "source": "抖音",
@@ -185,19 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时41分]"
-        },
-        {
-          "title": "张小泉集团破产重组的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 18时26分]"
         },
         {
           "title": "【阿里云2026年目标：拿下中国AI云市场增量的80%】“阿里云的目标是拿下2026年中国AI云市场增量的80%。” 阿里云智能集团资深副总裁、公共云事业部总裁刘伟光说，但是下一年增量的10%都会大于上一年的全量。所以过去取得了什么成绩并不重要，变化才刚刚开始。（晚点LatePost）",
@@ -442,11 +443,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时52分]"
         },
         {
           "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
