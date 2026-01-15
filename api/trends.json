@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T06:48:07.324554+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-01-16T07:22:00.636884+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 06时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "雷军聊新一代小米SU7",
@@ -30,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 06时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -41,8 +41,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 06时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 07时22分]"
         },
         {
           "title": "周四（1月15日），彭博电动汽车价格回报指数涨0.17%，报3620.86点。 北京时间09:30微幅转跌，刷新日低至3614.20点，随后拉升至3656.05点刷新日高，日内大部分时间持稳于3635点附近。",
@@ -72,6 +72,18 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "飞行汽车真的来了吗",
+          "url": "https://www.toutiao.com/trending/7595469872146992650/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时46分 ~ 07时22分]"
+        },
+        {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
           "url": "https://flash.jin10.com/detail/20260116002253912800",
           "source": "金十数据",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 04时49分]"
-        },
-        {
-          "title": "飞行汽车真的来了吗",
-          "url": "https://www.toutiao.com/trending/7595469872146992650/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 04时26分]"
         },
         {
           "title": "电动汽车市场遇冷，福特汽车与比亚迪洽谈混合动力汽车电池合作",
