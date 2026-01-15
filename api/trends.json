@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T05:45:08.354118+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-01-16T06:22:42.855598+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 05时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "雷军聊新一代小米SU7",
@@ -26,11 +26,12 @@
             7,
             6,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 05时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -40,8 +41,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 05时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "周四（1月15日），彭博电动汽车价格回报指数涨0.17%，报3620.86点。 北京时间09:30微幅转跌，刷新日低至3614.20点，随后拉升至3656.05点刷新日高，日内大部分时间持稳于3635点附近。",
@@ -49,11 +50,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "卡里克能否拯救曼联? 他会带来怎样的足球哲学?",
+          "url": "https://www.zhihu.com/question/1994871137008628571",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
@@ -65,18 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "卡里克能否拯救曼联? 他会带来怎样的足球哲学?",
-          "url": "https://www.zhihu.com/question/1994871137008628571",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时22分 ~ 05时45分]"
         },
         {
           "title": "花旗：将理想汽车(LI.O)目标价从20.2美元下调至18.5美元，维持中性评级。",
