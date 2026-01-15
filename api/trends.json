@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T04:26:13.367742+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-01-16T04:49:20.248943+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时49分]"
         },
         {
           "title": "雷军聊新一代小米SU7",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时49分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -40,19 +40,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时26分]"
-        },
-        {
-          "title": "花旗：将理想汽车(LI.O)目标价从20.2美元下调至18.5美元，维持中性评级。",
-          "url": "https://flash.jin10.com/detail/20260116040036498800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时49分]"
         },
         {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
@@ -64,6 +53,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "花旗：将理想汽车(LI.O)目标价从20.2美元下调至18.5美元，维持中性评级。",
+          "url": "https://flash.jin10.com/detail/20260116040036498800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 04时49分]"
         },
         {
           "title": "飞行汽车真的来了吗",
