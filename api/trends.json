@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T12:41:34.622805+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-01-15T13:27:15.414044+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 13时27分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -63,6 +63,18 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时31分 ~ 09时44分]"
+        },
+        {
+          "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1994787682136642370",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时27分]"
         },
         {
           "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1994787682136642370",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
@@ -209,6 +210,18 @@
           "time_info": "[05时45分 ~ 06时23分]"
         },
         {
+          "title": "雷军：1月15日晚8点直播 再聊新一代SU7",
+          "url": "https://wallstreetcn.com/livenews/3037519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时27分]"
+        },
+        {
           "title": "G7声明：七国集团仍准备在伊朗继续压制抗议活动时实施额外限制措施。",
           "url": "https://flash.jin10.com/detail/20260115024535202800",
           "source": "金十数据",
@@ -240,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时41分]"
-        },
-        {
-          "title": "雷军：1月15日晚8点直播 再聊新一代SU7",
-          "url": "https://wallstreetcn.com/livenews/3037519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         },
         {
           "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
