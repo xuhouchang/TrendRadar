@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T00:57:30.313444+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-01-17T01:27:18.064449+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32397982",
           "source": "澎湃新闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
-        },
-        {
-          "title": "鲍曼逆势高唱降息调 分析师称其未来或是关键一票",
-          "url": "https://flash.jin10.com/detail/20260117001630506800",
-          "source": "金十数据",
-          "ranks": [
+            9,
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "鲍曼聚焦潜在裁员风险 呼吁切勿释放暂停降息信号",
-          "url": "https://flash.jin10.com/detail/20260117001306579800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
@@ -46,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：潜在通胀水平更接近美联储2%的目标。",
@@ -58,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：工资增长与2%的通胀率相符。",
@@ -70,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：除非需求改善，企业可能会开始裁员。",
@@ -82,11 +64,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
@@ -94,11 +77,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：预计经济将“稳健”增长、通胀下降以及就业市场趋于稳定。",
@@ -106,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：对劳动力市场的脆弱性感到担忧。",
@@ -118,11 +103,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -132,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
         },
         {
           "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
@@ -143,8 +129,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -154,8 +140,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -165,8 +151,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -177,8 +163,32 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 00时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时27分]"
+        },
+        {
+          "title": "鲍曼逆势高唱降息调 分析师称其未来或是关键一票",
+          "url": "https://flash.jin10.com/detail/20260117001630506800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时27分]"
+        },
+        {
+          "title": "鲍曼聚焦潜在裁员风险 呼吁切勿释放暂停降息信号",
+          "url": "https://flash.jin10.com/detail/20260117001306579800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：随着关税影响减弱，通胀压力正在缓解。",
@@ -186,11 +196,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：货币政策目前“适度收紧”。",
@@ -198,11 +209,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：鉴于当前风险，美联储不应释放暂停降息周期的信号，美联储应随时准备再次降息。",
@@ -210,11 +222,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：美联储的政策制定应着眼未来，并以预测为驱动。",
@@ -222,11 +235,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：美联储在降低通胀方面取得了相当大的进展。",
@@ -234,11 +248,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼将于十分钟后就经济前景和货币政策发表讲话。",
