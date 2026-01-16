@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:51:18.298317+08:00",
-  "total_titles_processed": 2209,
+  "generated_at": "2026-01-16T23:25:17.044248+08:00",
+  "total_titles_processed": 2267,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
             12,
             9,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时25分 ~ 22时51分]"
+          "appearance_count": 18,
+          "time_info": "[15时25分 ~ 23时25分]"
         },
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -100,11 +101,12 @@
           "ranks": [
             16,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时24分 ~ 22时51分]"
+          "appearance_count": 12,
+          "time_info": "[18时24分 ~ 23时25分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -119,8 +121,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时26分 ~ 22时51分]"
+          "appearance_count": 21,
+          "time_info": "[13时26分 ~ 23时25分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -143,8 +145,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时42分 ~ 22时51分]"
+          "appearance_count": 8,
+          "time_info": "[19时42分 ~ 23时25分]"
         },
         {
           "title": "重夺汽车第一城 西部大佬杀回来了",
@@ -448,6 +450,18 @@
           "time_info": "[02时37分 ~ 03时25分]"
         },
         {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 23时25分]"
+        },
+        {
           "title": "陈垣宇蒯曼3比0林钟勋申裕斌",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9E%A3%E5%AE%87%E8%92%AF%E6%9B%BC3%E6%AF%940%E6%9E%97%E9%92%9F%E5%8B%8B%E7%94%B3%E8%A3%95%E6%96%8C%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -611,17 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
-        },
-        {
-          "title": "涉及中国电动汽车 卡尼宣布大消息",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         }
       ]
     }
