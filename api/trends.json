@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T23:25:17.044248+08:00",
-  "total_titles_processed": 2267,
+  "generated_at": "2026-01-16T23:48:08.127363+08:00",
+  "total_titles_processed": 2331,
   "failed_sources": [],
   "trends": [
     {
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时24分 ~ 23时25分]"
+          "appearance_count": 14,
+          "time_info": "[18时24分 ~ 23时48分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -121,19 +121,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[13时26分 ~ 23时25分]"
-        },
-        {
-          "title": "雷军：新一代小米SU7将提供9款配色",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%B0%86%E6%8F%90%E4%BE%9B9%E6%AC%BE%E9%85%8D%E8%89%B2",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 07时43分]"
+          "appearance_count": 23,
+          "time_info": "[13时26分 ~ 23时48分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -145,8 +134,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时42分 ~ 23时25分]"
+          "appearance_count": 10,
+          "time_info": "[19时42分 ~ 23时48分]"
+        },
+        {
+          "title": "雷军：新一代小米SU7将提供9款配色",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%B0%86%E6%8F%90%E4%BE%9B9%E6%AC%BE%E9%85%8D%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 07时43分]"
         },
         {
           "title": "重夺汽车第一城 西部大佬杀回来了",
@@ -354,6 +354,19 @@
           "time_info": "[18时24分 ~ 19时20分]"
         },
         {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时48分]"
+        },
+        {
           "title": "整治汽车行业网络乱象！第三批典型案例曝光",
           "url": "https://wallstreetcn.com/livenews/3038731",
           "source": "华尔街见闻-快讯",
@@ -448,18 +461,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时25分]"
-        },
-        {
-          "title": "涉及中国电动汽车 卡尼宣布大消息",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 23时25分]"
         },
         {
           "title": "陈垣宇蒯曼3比0林钟勋申裕斌",
