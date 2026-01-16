@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:20:42.775210+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-17T03:39:23.368112+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时39分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时39分]"
         },
         {
           "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时39分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -50,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时39分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -61,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 03时39分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -277,7 +278,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
