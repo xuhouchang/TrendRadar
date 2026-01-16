@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T04:44:25.424493+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-17T05:22:05.418285+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
@@ -28,22 +28,24 @@
             14,
             13,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
           "url": "https://www.cls.cn/detail/2260606",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -53,8 +55,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 04时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -64,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 04时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -78,6 +80,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "【特朗普称他“说服了自己”暂缓对伊朗采取军事行动】1月16日，美国总统唐纳德·特朗普在白宫表示，他“说服了自己”暂缓对伊朗采取军事行动。 当天在特朗普启程前往佛罗里达州之前，有记者在白宫向特朗普提问，是否是沙特、卡塔尔和阿曼领导人的劝说致使其放弃打击伊朗。特朗普随后回答道：“没有人说服我，是我自己说服了我自己。” 有消息人士15日透露，美国总统特朗普暂缓就军事打击伊朗作出决定。特朗普的顾问们告诉他，大规模军事打击不大可能在伊朗实现政权更迭，反而可能引发更大规模冲突，应观察伊朗国内局势再做决定。有美国和以色列消息人士称，以总理内塔尼亚胡14日同特朗普通电话，希望美推迟决定对伊朗采取行动，从而给以方更多时间准备应对伊朗可能的报复。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3039016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
+          "url": "https://wallstreetcn.com/livenews/3039015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
@@ -285,6 +309,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时27分]"
+        },
+        {
+          "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3039006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.1%，本周累涨0.4%，整体“高开”低走。 热门中概股里，小米初步收跌3.5%，阿里跌3%，美团跌2%，腾讯、京东、理想跌超1%，拼多多跌0.6%，网易涨1.3%，蔚来涨1.4%，文远知行涨1.5%，华住涨1.9%，小马智行涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3039004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         },
         {
           "title": "美联储理事鲍曼将于十分钟后就经济前景和货币政策发表讲话。",
