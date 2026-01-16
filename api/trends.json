@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T03:39:23.368112+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-01-17T04:22:57.494119+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -16,8 +16,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 04时22分]"
+        },
+        {
+          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
+          "url": "https://www.zhihu.com/question/1995163992667222440",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 04时22分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -27,21 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时39分]"
-        },
-        {
-          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
-          "url": "https://www.zhihu.com/question/1995163992667222440",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 04时22分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -51,8 +52,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 04时22分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 03时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 04时22分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "消息人士：壳牌和三菱公司正探讨出售其在加拿大液化天然气项目中股权的潜在方案。三菱已聘请加拿大皇家银行资本市场，以在今年晚些时候研究涉及其持股的可能出售事宜。消息人士称，壳牌最近几周已将其在液化天然气加拿大项目中高达75%的股权出售给买家。",
+          "url": "https://flash.jin10.com/detail/20260117032754867800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
