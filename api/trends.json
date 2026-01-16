@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T15:46:20.385409+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-01-16T16:31:43.439599+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 15时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 16时31分]"
         },
         {
           "title": "飞行汽车真的来了吗",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 16时31分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -93,6 +93,17 @@
           "time_info": "[11时40分 ~ 15时46分]"
         },
         {
+          "title": "2025中国汽车驶出增长新动能",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%A9%B6%E5%87%BA%E5%A2%9E%E9%95%BF%E6%96%B0%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时31分]"
+        },
+        {
           "title": "马斯克旗下Grok AI遭日本调查",
           "url": "https://flash.jin10.com/detail/20260116132742753800",
           "source": "金十数据",
@@ -119,15 +130,18 @@
           "time_info": "[05时23分 ~ 06时48分]"
         },
         {
-          "title": "2025中国汽车驶出增长新动能",
-          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%A9%B6%E5%87%BA%E5%A2%9E%E9%95%BF%E6%96%B0%E5%8A%A8%E8%83%BD",
-          "source": "百度热搜",
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
           "ranks": [
-            3
+            13,
+            17,
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时31分]"
         },
         {
           "title": "马斯克明确要每年生产1万艘星舰飞船 商业航天中长期成长空间巨大",
@@ -141,20 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时49分 ~ 15时46分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时46分]"
         },
         {
           "title": "卡里克能否拯救曼联? 他会带来怎样的足球哲学?",
@@ -263,6 +263,18 @@
           "time_info": "[13时26分 ~ 13时49分]"
         },
         {
+          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
+          "url": "https://www.zhihu.com/question/1994725124583215822",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时31分]"
+        },
+        {
           "title": "张小泉集团破产重组的背后",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -285,18 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时37分]"
-        },
-        {
-          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
-          "url": "https://www.zhihu.com/question/1994725124583215822",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时46分]"
         },
         {
           "title": "比亚迪ADR上涨4.3%，此前《华尔街日报》报道称，这家电动汽车制造商正就向福特销售混合动力车电池进行谈判。 据报道，该协议可能涉及福特仅为其美国境外工厂购买电池。 福特股价一度冲至盘中高点，此后涨幅收窄至0.1%。",
