@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T01:27:18.064449+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-17T01:49:10.906138+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,65 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "涉中国电动汽车，卡尼宣布大消息",
+          "url": "https://www.cls.cn/detail/2260606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
+          "url": "https://www.zhihu.com/question/1995163992667222440",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
+          "url": "https://www.zhihu.com/question/1995479907795501970",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
+        },
+        {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 01时49分]"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
@@ -26,11 +83,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时49分]"
         },
         {
           "title": "美联储理事鲍曼：潜在通胀水平更接近美联储2%的目标。",
@@ -85,6 +143,19 @@
           "time_info": "[00时30分 ~ 01时27分]"
         },
         {
+          "title": "鲍曼逆势高唱降息调 分析师称其未来或是关键一票",
+          "url": "https://flash.jin10.com/detail/20260117001630506800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时49分]"
+        },
+        {
           "title": "美联储理事鲍曼：预计经济将“稳健”增长、通胀下降以及就业市场趋于稳定。",
           "url": "https://flash.jin10.com/detail/20260117000151421800",
           "source": "金十数据",
@@ -98,6 +169,19 @@
           "time_info": "[00时30分 ~ 01时27分]"
         },
         {
+          "title": "鲍曼聚焦潜在裁员风险 呼吁切勿释放暂停降息信号",
+          "url": "https://flash.jin10.com/detail/20260117001306579800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时49分]"
+        },
+        {
           "title": "美联储理事鲍曼：对劳动力市场的脆弱性感到担忧。",
           "url": "https://flash.jin10.com/detail/20260117000139304800",
           "source": "金十数据",
@@ -109,86 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时27分]"
-        },
-        {
-          "title": "涉中国电动汽车，卡尼宣布大消息",
-          "url": "https://www.cls.cn/detail/2260606",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
-          "url": "https://www.zhihu.com/question/1995163992667222440",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
-          "url": "https://www.zhihu.com/question/1995479907795501970",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "涉及中国电动汽车 卡尼宣布大消息",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时27分]"
-        },
-        {
-          "title": "鲍曼逆势高唱降息调 分析师称其未来或是关键一票",
-          "url": "https://flash.jin10.com/detail/20260117001630506800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
-        },
-        {
-          "title": "鲍曼聚焦潜在裁员风险 呼吁切勿释放暂停降息信号",
-          "url": "https://flash.jin10.com/detail/20260117001306579800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
         },
         {
           "title": "美联储理事鲍曼：随着关税影响减弱，通胀压力正在缓解。",
