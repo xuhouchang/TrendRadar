@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T19:18:12.939844+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-01-17T19:39:30.619871+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -30,11 +30,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时44分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[13时44分 ~ 19时39分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
@@ -50,11 +51,12 @@
             14,
             16,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 19时39分]"
         },
         {
           "title": "小鹏汽车：小鹏充电2026年第1和2周新增超充站53座，其中S5超快充站5座，S4超快充站37座，超快充站10座，超充站1座。",
@@ -159,6 +161,19 @@
           "time_info": "[17时42分 ~ 18时45分]"
         },
         {
+          "title": "国乒女将蒯曼0-3不敌日本选手",
+          "url": "https://www.toutiao.com/trending/7596250548332924452/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 19时39分]"
+        },
+        {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
           "url": "https://flash.jin10.com/detail/20260117142340959800",
           "source": "金十数据",
@@ -219,16 +234,15 @@
           "time_info": "[09时41分 ~ 13时45分]"
         },
         {
-          "title": "国乒女将蒯曼0-3不敌日本选手",
-          "url": "https://www.toutiao.com/trending/7596250548332924452/",
-          "source": "今日头条",
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            20
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -255,6 +269,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 07时42分]"
+        },
+        {
+          "title": "土耳其计划于今年恢复从土库曼斯坦进口天然气",
+          "url": "https://flash.jin10.com/detail/20260117172307027800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 19时39分]"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
@@ -361,19 +388,6 @@
           "time_info": "[00时57分 ~ 01时49分]"
         },
         {
-          "title": "土耳其计划于今年恢复从土库曼斯坦进口天然气",
-          "url": "https://flash.jin10.com/detail/20260117172307027800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
           "title": "美联储理事鲍曼：预计经济将“稳健”增长、通胀下降以及就业市场趋于稳定。",
           "url": "https://flash.jin10.com/detail/20260117000151421800",
           "source": "金十数据",
@@ -425,6 +439,19 @@
           "time_info": "[00时30分 ~ 01时27分]"
         },
         {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时39分]"
+        },
+        {
           "title": "不知道我的舞步很曼妙",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E8%88%9E%E6%AD%A5%E5%BE%88%E6%9B%BC%E5%A6%99",
           "source": "bilibili 热搜",
@@ -436,18 +463,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 13时45分]"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时18分]"
         },
         {
           "title": "美联储理事鲍曼：随着关税影响减弱，通胀压力正在缓解。",
