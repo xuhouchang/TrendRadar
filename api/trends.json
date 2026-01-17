@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T21:48:19.779662+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-01-17T22:20:01.690237+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -31,11 +31,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[13时44分 ~ 21时48分]"
+          "appearance_count": 21,
+          "time_info": "[13时44分 ~ 22时20分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
@@ -181,11 +182,25 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
+          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260117202600571800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时48分]"
+          "time_info": "[21时29分 ~ 22时20分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -194,11 +209,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -207,11 +223,12 @@
           "ranks": [
             3,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
@@ -226,18 +243,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时20分 ~ 17时42分]"
-        },
-        {
-          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260117202600571800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时48分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -255,6 +260,20 @@
           "time_info": "[06时46分 ~ 11时23分]"
         },
         {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "土耳其计划于今年恢复从土库曼斯坦进口天然气",
           "url": "https://flash.jin10.com/detail/20260117172307027800",
           "source": "金十数据",
@@ -268,6 +287,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时21分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗谴责七国集团干涉伊朗内政",
+          "url": "https://wallstreetcn.com/livenews/3039124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 22时20分]"
         },
         {
           "title": "厄瓜多尔准备实施2019年以来首次在国际债务市场融资，已经为了向投资者路演而聘请了美国银行证券和花旗集团。",
@@ -285,19 +319,6 @@
           "time_info": "[07时21分 ~ 12时08分]"
         },
         {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时48分]"
-        },
-        {
           "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
           "url": "https://flash.jin10.com/detail/20260117081100497800",
           "source": "金十数据",
@@ -312,20 +333,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 13时45分]"
-        },
-        {
-          "title": "伊朗谴责七国集团干涉伊朗内政",
-          "url": "https://wallstreetcn.com/livenews/3039124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时39分 ~ 21时48分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -646,6 +653,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "曼联vs曼城",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94vs%E6%9B%BC%E5%9F%8E&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "美联储理事鲍曼将于十分钟后就经济前景和货币政策发表讲话。",
