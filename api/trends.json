@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:50:26.052750+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-17T17:21:18.641583+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时29分 ~ 13时21分]"
+        },
+        {
+          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
+          "url": "https://wallstreetcn.com/articles/3763508",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 17时21分]"
         },
         {
           "title": "小鹏汽车：小鹏充电2026年第1和2周新增超充站53座，其中S5超快充站5座，S4超快充站37座，超快充站10座，超充站1座。",
@@ -57,20 +71,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 07时42分]"
-        },
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时44分 ~ 16时50分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -135,11 +135,12 @@
             5,
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -200,6 +201,20 @@
           "time_info": "[00时29分 ~ 01时49分]"
         },
         {
+          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
+          "url": "https://flash.jin10.com/detail/20260117142340959800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
           "title": "长城汽车总裁称“打死不做增程”",
           "url": "https://www.toutiao.com/trending/7595123094018392105/",
           "source": "今日头条",
@@ -212,19 +227,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 07时42分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
-          "url": "https://flash.jin10.com/detail/20260117142340959800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 16时50分]"
         },
         {
           "title": "理事鲍曼：美联储应准备好针对依然脆弱的就业市场降息",
@@ -535,7 +537,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         }
