@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T12:42:59.310433+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-01-18T13:24:34.815768+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 13时24分]"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时24分]"
         },
         {
           "title": "曼联换帅后本赛季能夺冠吗",
@@ -135,17 +146,6 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
-          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
-          "url": "https://wallstreetcn.com/articles/3763519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时42分]"
-        },
-        {
           "title": "2526 赛季英超联赛英超第 22 轮曼联 2:0 曼城，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1995956944398201373",
           "source": "知乎",
@@ -157,17 +157,6 @@
           "time_info": "[00时24分 ~ 02时52分]"
         },
         {
-          "title": "百大视角看汽车区发展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B1%BD%E8%BD%A6%E5%8C%BA%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "雷军送花圈悼念聂卫平",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E9%80%81%E8%8A%B1%E5%9C%88%E6%82%BC%E5%BF%B5%E8%81%82%E5%8D%AB%E5%B9%B3",
           "source": "百度热搜",
@@ -175,8 +164,31 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时24分]"
+        },
+        {
+          "title": "百大视角看汽车区发展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B1%BD%E8%BD%A6%E5%8C%BA%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时24分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时24分]"
         },
         {
           "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
@@ -201,24 +213,13 @@
           "time_info": "[11时46分 ~ 11时47分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "问界 M9 拿下年度 50 万级 SUV 销冠，将对高端豪华汽车市场带来什么影响？",
           "url": "https://www.zhihu.com/question/1995435058304133023",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
