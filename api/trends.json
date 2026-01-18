@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T13:24:34.815768+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-01-18T13:47:24.175493+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,20 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时24分 ~ 09时53分]"
+        },
+        {
+          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
+          "url": "https://www.zhihu.com/question/1995538757940707758",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 13时47分]"
         },
         {
           "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
@@ -109,19 +123,6 @@
           "time_info": "[00时24分 ~ 06时44分]"
         },
         {
-          "title": "特斯拉与小米 YU7 均推出 7 年低息购车政策，对车企自身和竞争对手有何影响？消费者应如何「算账」？",
-          "url": "https://www.zhihu.com/question/1995538757940707758",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时24分]"
-        },
-        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
@@ -164,8 +165,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 13时47分]"
         },
         {
           "title": "百大视角看汽车区发展",
@@ -187,8 +188,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时47分]"
         },
         {
           "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
