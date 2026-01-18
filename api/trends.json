@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:38:57.676034+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-01-19T04:23:20.499809+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "雷军：新一代SU7已经开始小订。",
@@ -43,8 +43,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 03时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -53,11 +53,12 @@
           "ranks": [
             26,
             30,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     }
