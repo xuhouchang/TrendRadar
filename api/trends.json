@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:19:39.904934+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-01-18T22:42:52.370990+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
             26,
             27,
             17,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 21时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 22时42分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -102,8 +103,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时42分 ~ 22时19分]"
+          "appearance_count": 22,
+          "time_info": "[12时42分 ~ 22时42分]"
         },
         {
           "title": "雷军送花圈悼念聂卫平",
@@ -187,6 +188,17 @@
           "time_info": "[00时24分 ~ 06时44分]"
         },
         {
+          "title": "中国汽车业拿下两个连续全球第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 22时42分]"
+        },
+        {
           "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
           "url": "https://flash.jin10.com/detail/20260118140641430800",
           "source": "金十数据",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时32分 ~ 17时22分]"
-        },
-        {
-          "title": "中国汽车业拿下两个连续全球第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时19分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -333,6 +334,18 @@
           "time_info": "[09时52分 ~ 09时53分]"
         },
         {
+          "title": "电动汽车电池寿命可达13年",
+          "url": "https://www.toutiao.com/trending/7595857346012233734/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 22时42分]"
+        },
+        {
           "title": "雷军送花圈悼念聂卫平",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E9%80%81%E8%8A%B1%E5%9C%88%E6%82%BC%E5%BF%B5%E8%81%82%E5%8D%AB%E5%B9%B3%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -364,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "电动汽车电池寿命可达13年",
-          "url": "https://www.toutiao.com/trending/7595857346012233734/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         }
       ]
     }
