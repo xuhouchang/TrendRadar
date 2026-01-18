@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T23:20:45.981888+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-01-18T23:42:26.500801+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,17 @@
           "time_info": "[14时32分 ~ 18时45分]"
         },
         {
+          "title": "中国汽车业拿下两个连续全球第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时29分 ~ 23时42分]"
+        },
+        {
           "title": "百大视角看汽车区发展",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B1%BD%E8%BD%A6%E5%8C%BA%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
@@ -91,8 +102,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 23时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时42分 ~ 23时42分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -188,17 +199,6 @@
           "time_info": "[00时24分 ~ 06时44分]"
         },
         {
-          "title": "中国汽车业拿下两个连续全球第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时29分 ~ 23时20分]"
-        },
-        {
           "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
           "url": "https://flash.jin10.com/detail/20260118140641430800",
           "source": "金十数据",
@@ -223,6 +223,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时46分 ~ 13时24分]"
+        },
+        {
+          "title": "雷军：新一代SU7已经开始小订。",
+          "url": "https://wallstreetcn.com/livenews/3039283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时42分]"
         },
         {
           "title": "曼联换帅后本赛季能夺冠吗",
@@ -268,6 +279,17 @@
           "time_info": "[17时44分 ~ 19时39分]"
         },
         {
+          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
+          "url": "https://flash.jin10.com/detail/20260118224930026800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时42分]"
+        },
+        {
           "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
           "url": "https://flash.jin10.com/detail/20260118153712985800",
           "source": "金十数据",
@@ -281,17 +303,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
-          "title": "雷军：新一代SU7已经开始小订。",
-          "url": "https://wallstreetcn.com/livenews/3039283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
         },
         {
           "title": "2526 赛季英超联赛英超第 22 轮曼联 2:0 曼城，如何评价这场比赛？",
@@ -318,17 +329,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时17分 ~ 21时48分]"
-        },
-        {
-          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
-          "url": "https://flash.jin10.com/detail/20260118224930026800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
