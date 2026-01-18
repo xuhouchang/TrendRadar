@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:48:36.121343+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-01-18T22:19:39.904934+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -102,8 +102,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时42分 ~ 21时48分]"
+          "appearance_count": 21,
+          "time_info": "[12时42分 ~ 22时19分]"
         },
         {
           "title": "雷军送花圈悼念聂卫平",
@@ -202,6 +202,17 @@
           "time_info": "[14时32分 ~ 17时22分]"
         },
         {
+          "title": "中国汽车业拿下两个连续全球第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时19分]"
+        },
+        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
@@ -254,17 +265,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时44分 ~ 19时39分]"
-        },
-        {
-          "title": "中国汽车业拿下两个连续全球第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%8B%BF%E4%B8%8B%E4%B8%A4%E4%B8%AA%E8%BF%9E%E7%BB%AD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时48分]"
         },
         {
           "title": "雪人集团：股票连续两日收盘价跌幅偏离值累计超20% 属异常波动",
