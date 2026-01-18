@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T00:25:50.029881+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T00:48:32.500494+08:00",
+  "total_titles_processed": 337,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3039283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时48分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
