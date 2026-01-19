@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T20:51:35.210599+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2026-01-19T21:46:15.027974+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时50分 ~ 20时51分]"
+          "appearance_count": 20,
+          "time_info": "[09时50分 ~ 21时46分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -114,11 +114,12 @@
             5,
             24,
             19,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "中核集团原总经理顾军被查",
@@ -129,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "美国国家公路交通安全管理局：针对约597,571辆通用汽车在召回维修后仍出现发动机故障的问题启动召回查询。",
@@ -369,7 +370,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -380,7 +381,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -435,7 +436,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
