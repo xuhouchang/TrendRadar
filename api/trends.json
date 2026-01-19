@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:51:49.980543+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-01-19T16:34:20.190698+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 15时51分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 16时34分]"
         },
         {
           "title": "雷军：新一代SU7已经开始小订。",
@@ -50,6 +50,19 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 16时34分]"
+        },
+        {
           "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
           "url": "https://flash.jin10.com/detail/20260118224930026800",
           "source": "金十数据",
@@ -62,19 +75,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时25分 ~ 05时41分]"
-        },
-        {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时51分 ~ 15时51分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -103,6 +103,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "大众汽车、宝马和梅赛德斯-奔驰集团欧股下跌3%至6%。",
+          "url": "https://flash.jin10.com/detail/20260119160509651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "德商银行、德意志银和瑞银集团欧股盘初分别下跌2.6%、2.1%和1.6%。",
+          "url": "https://flash.jin10.com/detail/20260119160449727800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
           "url": "https://flash.jin10.com/detail/20260119125355949800",
           "source": "金十数据",
@@ -112,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "法国汽车零部件供应商佛瑞亚、法雷奥和OPmobility 股价下跌3.1%至3.8%。",
+          "url": "https://flash.jin10.com/detail/20260119160420016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "金十图示：2026年01月19日（周一）全球汽车制造商市值变化",
@@ -125,16 +158,40 @@
           "time_info": "11时51分"
         },
         {
+          "title": "欧股集体低开，汽车股跌幅居前",
+          "url": "https://wallstreetcn.com/livenews/3039626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "波兰军队正考虑禁止中国电动汽车进入军事基地？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3039605",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时34分]"
+        },
+        {
+          "title": "马斯克：特斯拉将重启Dojo 3项目",
+          "url": "https://www.toutiao.com/trending/7596908680889516051/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时51分]"
+          "time_info": "[15时51分 ~ 16时34分]"
         },
         {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
@@ -161,6 +218,17 @@
           "time_info": "[12时53分 ~ 13时32分]"
         },
         {
+          "title": "法国奢侈品集团爱马仕、路威酩轩（LVMH）和开云集团开盘下跌2.5%至4%。",
+          "url": "https://flash.jin10.com/detail/20260119160205648800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "韩国现代汽车股价继续上涨，最新报48万韩元，涨幅达16%。",
           "url": "https://flash.jin10.com/detail/20260119105637420800",
           "source": "金十数据",
@@ -181,17 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
-        },
-        {
-          "title": "马斯克：特斯拉将重启Dojo 3项目",
-          "url": "https://www.toutiao.com/trending/7596908680889516051/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "大众汽车、保时捷、宝马以及梅赛德斯-奔驰在德国电子证券交易平台Tradegate交易中均下跌约3%。",
