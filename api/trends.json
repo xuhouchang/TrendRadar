@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:21:44.449530+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-01-20T07:43:54.140817+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 07时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
@@ -36,6 +36,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时33分 ~ 05时43分]"
+        },
+        {
+          "title": "鸿蒙智行回应重庆一台尊界S800起火",
+          "url": "https://www.toutiao.com/trending/7595912986172276778/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 07时43分]"
         },
         {
           "title": "欧盟官员、希腊财政部长Kyriakos Pierrakakis：我们需要重拾可持续的增长。 欧元集团（即欧元区财长们）支持Boris Vujcic接任欧洲央行副行长。 欧元集团并没有讨论格陵兰问题。 格陵兰的主权（归属）必须得到尊重。",
@@ -76,17 +90,17 @@
           "time_info": "[05时21分 ~ 07时21分]"
         },
         {
-          "title": "鸿蒙智行回应重庆一台尊界S800起火",
-          "url": "https://www.toutiao.com/trending/7595912986172276778/",
-          "source": "今日头条",
+          "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
+          "url": "https://wallstreetcn.com/articles/3763614",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            20,
-            7
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 07时43分]"
         },
         {
           "title": "欧元集团主席皮埃拉卡基斯：欧元集团没有讨论格陵兰问题；格陵兰的主权必须得到尊重。",
@@ -101,16 +115,17 @@
           "time_info": "[03时20分 ~ 04时47分]"
         },
         {
-          "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
-          "url": "https://wallstreetcn.com/articles/3763614",
-          "source": "华尔街见闻",
+          "title": "必和必拓(BHP.N)上调了2026财年集团铜、埃斯孔迪达和安塔米纳矿的产量指引。",
+          "url": "https://flash.jin10.com/detail/20260120060121397800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5,
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时21分]"
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 07时43分]"
         },
         {
           "title": "李稻葵：马斯克的预言是“AI乌托邦”",
@@ -123,29 +138,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时50分 ~ 06时47分]"
-        },
-        {
-          "title": "必和必拓(BHP.N)上调了2026财年集团铜、埃斯孔迪达和安塔米纳矿的产量指引。",
-          "url": "https://flash.jin10.com/detail/20260120060121397800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "雷诺汽车将助力法国发展无人机产业",
-          "url": "https://flash.jin10.com/detail/20260120063627017800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "匈牙利石油和天然气有限公司：正与阿联酋石油集团ADNOC就其作为少数股东加入NIS股东行列进行谈判，同时本公司将保留对NIS的多数股权和控制权。",
@@ -171,6 +163,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 04时47分]"
+        },
+        {
+          "title": "雷诺汽车将助力法国发展无人机产业",
+          "url": "https://flash.jin10.com/detail/20260120063627017800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时43分]"
         },
         {
           "title": "中核集团原总经理顾军被查",
