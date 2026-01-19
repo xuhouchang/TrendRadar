@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:34:20.190698+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-01-19T17:35:44.169979+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -27,8 +27,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 16时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 17时35分]"
+        },
+        {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 17时35分]"
         },
         {
           "title": "雷军：新一代SU7已经开始小订。",
@@ -48,19 +62,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 16时34分]"
         },
         {
           "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
@@ -109,7 +110,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -120,7 +121,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -142,9 +143,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "中国贸促会会长任鸿斌会见智利智美集团董事长贝尔纳多・拉腊因一行",
+          "url": "https://wallstreetcn.com/livenews/3039663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "金十图示：2026年01月19日（周一）全球汽车制造商市值变化",
@@ -164,9 +176,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "四川航空集团原董事长石祖义被查",
+          "url": "https://wallstreetcn.com/livenews/3039662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "波兰军队正考虑禁止中国电动汽车进入军事基地？外交部回应",
@@ -218,13 +241,24 @@
           "time_info": "[12时53分 ~ 13时32分]"
         },
         {
+          "title": "德国环境部：将在电动汽车补贴计划中纳入配备增程器的电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260119170040144800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "法国奢侈品集团爱马仕、路威酩轩（LVMH）和开云集团开盘下跌2.5%至4%。",
           "url": "https://flash.jin10.com/detail/20260119160205648800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -251,6 +285,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "小鹏X9在2025年12月交付5424台，90后占比近六成",
+          "url": "https://wallstreetcn.com/livenews/3039653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "大众汽车、保时捷、宝马以及梅赛德斯-奔驰在德国电子证券交易平台Tradegate交易中均下跌约3%。",
           "url": "https://flash.jin10.com/detail/20260119143820070800",
           "source": "金十数据",
@@ -262,6 +307,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "江西铜业：与中国兵工物资集团有限公司签订《合作框架协议》，协议主要涉及阴极铜、粗铜、电解镍等产品的购销。",
+          "url": "https://wallstreetcn.com/livenews/3039650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "贝伦贝格：将梅赛德斯-奔驰集团目标价从60欧元上调至63欧元。将宝马评级从买入下调至持有。",
           "url": "https://flash.jin10.com/detail/20260119140255332800",
           "source": "金十数据",
@@ -271,6 +327,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "欧洲汽车股、奢侈品股下跌 受特朗普最新关税威胁影响",
+          "url": "https://wallstreetcn.com/livenews/3039643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
+          "url": "https://wallstreetcn.com/livenews/3039638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     }
