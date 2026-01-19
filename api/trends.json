@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T03:41:32.228151+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-20T04:25:21.661081+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "货车碰撞多辆汽车 中山警方通报",
@@ -33,26 +33,17 @@
           "time_info": "[00时31分 ~ 01时29分]"
         },
         {
-          "title": "欧元集团主席皮埃拉卡基斯：欧元集团没有讨论格陵兰问题；格陵兰的主权必须得到尊重。",
-          "url": "https://flash.jin10.com/detail/20260120024856369800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时41分]"
-        },
-        {
-          "title": "欧盟官员、希腊财政部长Kyriakos Pierrakakis：我们需要重拾可持续的增长。 欧元集团（即欧元区财长们）支持Boris Vujcic接任欧洲央行副行长。 欧元集团并没有讨论格陵兰问题。 格陵兰的主权（归属）必须得到尊重。",
-          "url": "https://wallstreetcn.com/livenews/3039894",
+          "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
+          "url": "https://wallstreetcn.com/livenews/3039888",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3,
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时33分 ~ 04时25分]"
         },
         {
           "title": "李稻葵：马斯克的预言是“AI乌托邦”",
@@ -66,16 +57,28 @@
           "time_info": "01时50分"
         },
         {
-          "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
-          "url": "https://wallstreetcn.com/livenews/3039888",
-          "source": "华尔街见闻-快讯",
+          "title": "欧元集团主席皮埃拉卡基斯：欧元集团没有讨论格陵兰问题；格陵兰的主权必须得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260120024856369800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            11
+            4,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时33分 ~ 03时41分]"
+          "time_info": "[03时20分 ~ 04时25分]"
+        },
+        {
+          "title": "欧盟官员、希腊财政部长Kyriakos Pierrakakis：我们需要重拾可持续的增长。 欧元集团（即欧元区财长们）支持Boris Vujcic接任欧洲央行副行长。 欧元集团并没有讨论格陵兰问题。 格陵兰的主权（归属）必须得到尊重。",
+          "url": "https://wallstreetcn.com/livenews/3039894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时25分]"
         },
         {
           "title": "匈牙利石油和天然气有限公司：正与阿联酋石油集团ADNOC就其作为少数股东加入NIS股东行列进行谈判，同时本公司将保留对NIS的多数股权和控制权。",
@@ -95,22 +98,24 @@
           "url": "https://flash.jin10.com/detail/20260120023232001800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时25分]"
         },
         {
           "title": "鸿蒙智行回应重庆一台尊界S800起火",
           "url": "https://www.toutiao.com/trending/7595912986172276778/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 04时25分]"
         }
       ]
     }
