@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T07:23:18.561509+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-01-21T07:45:34.233794+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 07时45分]"
         },
         {
           "title": "南京一车主回应雪天把汽车开上墙",
@@ -88,6 +88,19 @@
           "time_info": "[05时22分 ~ 06时45分]"
         },
         {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3040693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时45分]"
+        },
+        {
           "title": "瑞银CEO Ermotti：瑞银集团也在考虑外部CEO候选人。",
           "url": "https://flash.jin10.com/detail/20260121014224591800",
           "source": "金十数据",
@@ -100,17 +113,16 @@
           "time_info": "[01时56分 ~ 02时39分]"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
-          "url": "https://wallstreetcn.com/livenews/3040693",
-          "source": "华尔街见闻-快讯",
+          "title": "力拓(RIO.N)：全球电动汽车销量的快速增长增强了对锂行业的信心。",
+          "url": "https://flash.jin10.com/detail/20260121053947822800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            15,
-            28
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.45%，报7608.38点。 热门中概股里，小马智行初步收跌6.4%，小米跌5%，文远知行跌4.4%，比亚迪、小鹏、腾讯跌超3%，百度涨超0.3%。 ETF中，中国科技指数ETF（CQQQ）收跌2.87%，中概互联网指数ETF（KWEB）收跌2.07%。 XtrackersHarvest中证50（ASHS）收跌0.48%，德银嘉实沪深300指数ETF（ASHR）收跌0.24%。",
@@ -148,18 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "力拓(RIO.N)：全球电动汽车销量的快速增长增强了对锂行业的信心。",
-          "url": "https://flash.jin10.com/detail/20260121053947822800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
