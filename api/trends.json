@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T13:29:58.405678+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-20T13:55:53.290856+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时47分 ~ 13时29分]"
+          "appearance_count": 10,
+          "time_info": "[06时47分 ~ 13时55分]"
         },
         {
           "title": "中核集团原总经理顾军被查",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时55分]"
         },
         {
           "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
@@ -128,15 +128,15 @@
           "time_info": "[03时20分 ~ 04时47分]"
         },
         {
-          "title": "杰富瑞：将埃克森美孚石油(XOM.N)目标价从148美元上调至149美元。",
-          "url": "https://flash.jin10.com/detail/20260120130209109800",
+          "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
+          "url": "https://flash.jin10.com/detail/20260120133012767800",
           "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "13时55分"
         },
         {
           "title": "必和必拓(BHP.N)上调了2026财年集团铜、埃斯孔迪达和安塔米纳矿的产量指引。",
@@ -173,6 +173,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "杰富瑞：将埃克森美孚石油(XOM.N)目标价从148美元上调至149美元。",
+          "url": "https://flash.jin10.com/detail/20260120130209109800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时55分]"
         },
         {
           "title": "匈牙利石油和天然气有限公司：正与阿联酋石油集团ADNOC就其作为少数股东加入NIS股东行列进行谈判，同时本公司将保留对NIS的多数股权和控制权。",
