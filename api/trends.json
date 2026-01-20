@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:52:06.547107+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2026-01-20T21:48:21.482062+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
@@ -34,11 +34,12 @@
             9,
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时44分 ~ 20时52分]"
+          "appearance_count": 18,
+          "time_info": "[11时44分 ~ 21时48分]"
         },
         {
           "title": "中核集团原总经理顾军被查",
@@ -66,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 21时48分]"
         },
         {
           "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
@@ -83,6 +84,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时33分 ~ 05时43分]"
+        },
+        {
+          "title": "南京一车主回应雪天把汽车开上墙",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%9B%AA%E5%A4%A9%E6%8A%8A%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%8A%E5%A2%99",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时48分]"
         },
         {
           "title": "鸿蒙智行回应重庆一台尊界S800起火",
@@ -135,17 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时21分 ~ 07时21分]"
-        },
-        {
-          "title": "南京一车主回应雪天把汽车开上墙",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%9B%AA%E5%A4%A9%E6%8A%8A%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%8A%E5%A2%99",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "道达尔能源：预计第四季度各业务板块的现金流将与去年持平。",
@@ -299,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时37分]"
+        },
+        {
+          "title": "马斯克财富暴涨至近8000亿美元",
+          "url": "https://www.toutiao.com/trending/7596876333710360586/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "港交所文件显示：渣打集团于1月19日在其他交易所回购了总计527,072股股份，耗资990万英镑。",
@@ -460,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "法国总统马克龙：我们希望恢复七国集团，使其能够提出合作性解决方案。",
+          "url": "https://flash.jin10.com/detail/20260120212035857800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     }
