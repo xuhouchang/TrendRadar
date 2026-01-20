@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:37:42.197030+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-01-20T15:28:47.630488+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
@@ -16,11 +16,12 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时47分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[06时47分 ~ 15时28分]"
         },
         {
           "title": "馋丫头白嫖85顿米其林掏空男方",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 15时28分]"
         },
         {
           "title": "中核集团原总经理顾军被查",
@@ -142,6 +143,17 @@
           "time_info": "[06时22分 ~ 07时43分]"
         },
         {
+          "title": "道达尔能源：预计第四季度各业务板块的现金流将与去年持平。",
+          "url": "https://flash.jin10.com/detail/20260120151824196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "李稻葵：马斯克的预言是“AI乌托邦”",
           "url": "https://www.toutiao.com/trending/7596717546255581227/",
           "source": "今日头条",
@@ -160,9 +172,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "道达尔能源：预计第四季度的油气产量同比增幅将接近5%。",
+          "url": "https://flash.jin10.com/detail/20260120151752414800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "A股AI应用端早盘反弹，浙文互联一字涨停，天地在线2连板，流金科技、蓝色光标、巨人网络、天龙集团跟涨。",
@@ -176,6 +199,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "道达尔能源：第四季度平均天然气价格为每百万英热单位5.11美元，去年同期为每百万英热单位6.26美元。",
+          "url": "https://flash.jin10.com/detail/20260120151738333800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "杰富瑞：将埃克森美孚石油(XOM.N)目标价从148美元上调至149美元。",
           "url": "https://flash.jin10.com/detail/20260120130209109800",
           "source": "金十数据",
@@ -186,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时55分]"
+        },
+        {
+          "title": "道达尔能源：第四季度布伦特原油平均价格为每桶63.7美元，而去年同期为每桶74.7美元。",
+          "url": "https://flash.jin10.com/detail/20260120151728287800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "匈牙利石油和天然气有限公司：正与阿联酋石油集团ADNOC就其作为少数股东加入NIS股东行列进行谈判，同时本公司将保留对NIS的多数股权和控制权。",
@@ -315,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "壳牌(SHEL.N)：项目与技术总裁罗宾·穆尔代克将卸任。",
+          "url": "https://flash.jin10.com/detail/20260120150944352800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
