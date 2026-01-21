@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T03:51:55.563471+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-01-22T04:31:43.203417+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时31分]"
         },
         {
           "title": "托克集团（Trafigura Group）与维多集团（Vitol Group）正准备将约1200万桶委内瑞拉原油装上油轮。这两家公司已租用了一支船队，并在加勒比地区预留了存储空间，以履行美国政府的合同。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3041482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 04时31分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
