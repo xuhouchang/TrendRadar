@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T11:45:00.639225+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-01-21T12:45:19.696365+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,43 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时45分]"
+        },
+        {
           "title": "馋丫头白嫖85顿米其林掏空男方",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349381&amp;topic_name=%E9%A6%8B%E4%B8%AB%E5%A4%B4%E7%99%BD%E5%AB%9685%E9%A1%BF%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8E%8F%E7%A9%BA%E7%94%B7%E6%96%B9",
           "source": "贴吧",
           "ranks": [
             16,
             17,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 11时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 12时45分]"
+        },
+        {
+          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
+          "url": "https://www.cls.cn/detail/2264274",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 12时45分]"
         },
         {
           "title": "南京一车主回应雪天把汽车开上墙",
@@ -36,30 +62,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时23分]"
-        },
-        {
-          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
-          "url": "https://www.cls.cn/detail/2264320",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时45分]"
-        },
-        {
-          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
-          "url": "https://www.cls.cn/detail/2264274",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 11时45分]"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -284,7 +286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -295,7 +297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -306,7 +308,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -317,7 +319,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
