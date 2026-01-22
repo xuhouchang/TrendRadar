@@ -1,397 +1,99 @@
 {
-  "generated_at": "2026-01-22T23:41:15.062826+08:00",
-  "total_titles_processed": 2307,
+  "generated_at": "2026-01-23T00:36:46.792207+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 18,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
           "url": "https://www.cls.cn/detail/2266641",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时24分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "殖人天塌了,马斯克亲证斩杀线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349535&amp;topic_name=%E6%AE%96%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BA%B2%E8%AF%81%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "贴吧",
+          "title": "马斯克旗下SpaceX的IPO已经吸引到四家（承销/簿记）银行。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3042189",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4,
-            5,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时28分 ~ 18时56分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "马斯克据悉希望在7月前让SpaceX上市 力争率先实现数据中心上太空",
-          "url": "https://www.cls.cn/detail/2265712",
-          "source": "财联社热门",
+          "title": "据英国金融时报：埃隆·马斯克的太空探索技术公司为上市选定4家银行。",
+          "url": "https://flash.jin10.com/detail/20260123000320208800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 14时36分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3042187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "质疑公牛集团广告语存误导被起诉索赔420万，涉事公司已提起反诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440110",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19,
-            18,
-            15,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时36分 ~ 23时41分]"
-        },
-        {
-          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2265774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 15时29分]"
-        },
-        {
-          "title": "风暴中的西贝完成A轮融资，新荣记张勇、蚂蚁集团前CEO胡晓明加持",
-          "url": "https://www.cls.cn/detail/2265224",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 06时26分]"
-        },
-        {
-          "title": "反正张极的歌声很曼妙",
-          "url": "https://www.douyin.com/hot/2375654",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            26,
-            21,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时49分 ~ 19时46分]"
-        },
-        {
-          "title": "xAI工程师因泄密被马斯克解雇",
-          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 13时55分]"
-        },
-        {
-          "title": "韩国现代汽车工会：未经同意，我们绝不允许现代部署人形机器人。",
-          "url": "https://flash.jin10.com/detail/20260122142306502800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "美国汽车交易平台TrueCar创始人：关税将推高价格并减少供应。更长的汽车贷款对汽车行业来说是个问题。",
-          "url": "https://flash.jin10.com/detail/20260122072023771800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "小米集团宣布最高25亿港元的自动股份回购计划",
-          "url": "https://wallstreetcn.com/livenews/3041986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时24分]"
-        },
-        {
-          "title": "恒指高开0.62%，报26750.51点；恒生科技指数涨0.85%。百度、金蝶国际涨超3%，蔚来、华虹半导体涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3041638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "真我Neo8发布 真我将于2026年4月接入OPPO售后体系",
-          "url": "https://wallstreetcn.com/livenews/3042067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "乌克兰军方：已袭击了俄罗斯的塔曼涅夫特加斯石油终端。",
-          "url": "https://flash.jin10.com/detail/20260122190627674800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "00时36分"
         },
         {
-          "title": "乌克兰的谈判员们在达沃斯会见贝莱德集团（高管）和美国外交官们。",
-          "url": "https://wallstreetcn.com/livenews/3041541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20260122063100035800",
+          "title": "马斯克：预测到2030年，人工智能将比全人类加起来更聪明。",
+          "url": "https://flash.jin10.com/detail/20260123000133805800",
           "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时48分]"
-        },
-        {
-          "title": "中核集团：2026年要积极扩大有效投资 着力构建能力强健的核燃料循环产业",
-          "url": "https://wallstreetcn.com/livenews/3041794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时36分]"
-        },
-        {
-          "title": "蒯曼妹妹蒯捷入选国少集训队",
-          "url": "https://www.douyin.com/hot/2375862",
-          "source": "抖音",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "00时36分"
         },
         {
-          "title": "托克集团（Trafigura Group）与维多集团（Vitol Group）正准备将约1200万桶委内瑞拉原油装上油轮。这两家公司已租用了一支船队，并在加勒比地区预留了存储空间，以履行美国政府的合同。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3041482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 04时59分]"
-        },
-        {
-          "title": "周三（1月21日），彭博电动汽车价格回报指数涨1.18%，报3623.41点，全天持续走高。 成分股Lucid集团涨超17%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3041522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 06时54分]"
-        },
-        {
-          "title": "玲珑轮胎：终止发行H股股票并在香港联合交易所有限公司上市。",
-          "url": "https://wallstreetcn.com/livenews/3041882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 16时33分]"
-        },
-        {
-          "title": "万科回应起诉万达案进展：目前是依法查封冻结了万达集团股权资产，能否法拍变现存在不确定性",
-          "url": "https://wallstreetcn.com/livenews/3041860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时51分]"
-        },
-        {
-          "title": "马斯克将于周四在达沃斯讲话",
-          "url": "https://wallstreetcn.com/livenews/3041908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时33分]"
-        },
-        {
-          "title": "A股可控核聚变板块震荡走高，浙富控股午后涨停，雪人集团、西部材料此前封板，中国核建、哈焊华通、王子新材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3041785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时36分]"
-        },
-        {
-          "title": "天津交易集团组建成立",
-          "url": "https://wallstreetcn.com/livenews/3042009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时46分]"
-        },
-        {
-          "title": "软银集团股价继续上涨，目前上涨12%。日本芯片相关股票延续涨势，铠侠控股上涨10%，SCREEN控股上涨9.9%。",
-          "url": "https://flash.jin10.com/detail/20260122133023909800",
+          "title": "马斯克：太空太阳能人工智能数据中心是显而易见的选择。",
+          "url": "https://flash.jin10.com/detail/20260123000117117800",
           "source": "金十数据",
           "ranks": [
-            9,
-            22
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时36分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "港交所文件显示：小米集团1月22日回购570万股B类股，耗资2.007亿港元。",
-          "url": "https://flash.jin10.com/detail/20260122180914807800",
+          "title": "马斯克：部署人工智能成本最低的地方在太空。",
+          "url": "https://flash.jin10.com/detail/20260123000035628800",
           "source": "金十数据",
           "ranks": [
-            9,
-            29
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时56分]"
-        },
-        {
-          "title": "科兴甲肝疫苗独家中标阿曼两年订单",
-          "url": "https://wallstreetcn.com/livenews/3041781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时36分]"
-        },
-        {
-          "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
-          "url": "https://flash.jin10.com/detail/20260122063934524800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时48分]"
-        },
-        {
-          "title": "欧洲汽车行业拒绝签署“欧洲制造”倡议",
-          "url": "https://flash.jin10.com/detail/20260122132315009800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时36分]"
-        },
-        {
-          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
-          "url": "https://www.cls.cn/detail/2265088",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时55分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
@@ -401,174 +103,107 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "你知道哪些汽车上的「偷工减料」？",
-          "url": "https://www.zhihu.com/question/1994757151827199913",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时49分]"
-        },
-        {
-          "title": "德国大众汽车初步预计2025年汽车净现金流大约60亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3041453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时27分]"
-        },
-        {
-          "title": "宁德时代：率先推出量产轻商钠离子电池",
-          "url": "https://wallstreetcn.com/livenews/3041956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时56分]"
-        },
-        {
-          "title": "据日经新闻：丰田及其他日本汽车制造商将共享芯片数据，以应对日益加剧的供应风险。",
-          "url": "https://flash.jin10.com/detail/20260122002018855800",
+          "title": "马斯克：今年我们希望证明星舰具备完全可重复使用性。",
+          "url": "https://flash.jin10.com/detail/20260122235858420800",
           "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "00时36分"
         },
         {
-          "title": "金十图示：2026年01月22日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260122110535432800",
+          "title": "马斯克：希望在下个月前在欧洲获得完全自动驾驶的批准。",
+          "url": "https://flash.jin10.com/detail/20260122235705464800",
           "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "00时36分"
         },
         {
-          "title": "1月份迄今，投资者已经向贝莱德集团旗下新兴市场基金iShares Core MSCI Emerging Markets ETF注入大约60亿美元资金，有望创2012年以来最大单月流入规模、并打破2025年11月所创历史最高纪录。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3042129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "伊朗克尔曼省发生4.4级地震",
-          "url": "https://wallstreetcn.com/livenews/3041799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "吉利汽车计划到2030年实现年销量650万辆。 吉利表示其目标是到2030年实现年销售额1万亿元人民币。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3041921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "贝莱德集团CEO Larry Fink：人工智能（AI）并不存在泡沫，强调开发AI所需的投资规模。",
-          "url": "https://wallstreetcn.com/livenews/3042127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "欧股汽车股上涨，宝马、保时捷股份、梅赛德斯-奔驰股价上涨2.4%至3.7%。",
-          "url": "https://flash.jin10.com/detail/20260122161150187800",
+          "title": "马斯克：Optimus机器人今年将执行更复杂的任务。",
+          "url": "https://flash.jin10.com/detail/20260122235458504800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "00时36分"
         },
         {
-          "title": "育碧集团仍在考虑潜在的资产剥离。",
-          "url": "https://flash.jin10.com/detail/20260122004605045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "大众汽车在初步财年净现金流公布后股价盘前上涨4.4%。",
-          "url": "https://flash.jin10.com/detail/20260122144647711800",
+          "title": "马斯克讲话之际，特斯拉(TSLA.O)上涨1.8%，创盘中新高。马斯克表示，到明年年底将向公众出售人形机器人。",
+          "url": "https://flash.jin10.com/detail/20260122235433792800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "00时36分"
         },
         {
-          "title": "比亚迪起诉汽车博主获赔201万",
-          "url": "https://www.toutiao.com/trending/7598033832219557926/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "市场消息：迪拜已将4月份官方原油价格对阿曼期货的贴水设定为每桶30美分。",
-          "url": "https://flash.jin10.com/detail/20260122184341616800",
+          "title": "马斯克：今年年底前，美国境内的机器人出租车服务将非常、非常普及。",
+          "url": "https://flash.jin10.com/detail/20260122235416206800",
           "source": "金十数据",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "00时36分"
         },
         {
-          "title": "大众汽车股价在汽车部门初步全年净现金流公布后上涨5.2%。",
-          "url": "https://flash.jin10.com/detail/20260122160343971800",
+          "title": "马斯克：我们认为下个月将在欧洲获得全自动驾驶（FSD）的审批。",
+          "url": "https://flash.jin10.com/detail/20260122235338741800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "马斯克：到明年年底，我们将向公众出售人形机器人。",
+          "url": "https://flash.jin10.com/detail/20260122235219610800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "00时36分"
+        },
+        {
+          "title": "马斯克：SpaceX和特斯拉正在提升太阳能产能，目标是每年达到100GW。",
+          "url": "https://flash.jin10.com/detail/20260122235157881800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "马斯克：美国的太阳能关税壁垒极高，壁垒人为推高了部署太阳能的经济成本。",
+          "url": "https://flash.jin10.com/detail/20260122234957799800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
