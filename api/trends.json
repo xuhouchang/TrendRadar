@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T20:51:24.462667+08:00",
-  "total_titles_processed": 2020,
+  "generated_at": "2026-01-22T21:48:15.009954+08:00",
+  "total_titles_processed": 2119,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,21 @@
           "time_info": "[00时47分 ~ 06时26分]"
         },
         {
+          "title": "质疑公牛集团广告语存误导被起诉索赔420万，涉事公司已提起反诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440110",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 21时48分]"
+        },
+        {
           "title": "反正张极的歌声很曼妙",
           "url": "https://www.douyin.com/hot/2375654",
           "source": "抖音",
@@ -77,6 +92,20 @@
           "time_info": "[09时49分 ~ 19时46分]"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 21时48分]"
+        },
+        {
           "title": "xAI工程师因泄密被马斯克解雇",
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
@@ -88,33 +117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时49分 ~ 13时55分]"
-        },
-        {
-          "title": "质疑公牛集团广告语存误导被起诉索赔420万，涉事公司已提起反诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440110",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 20时51分]"
-        },
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 20时51分]"
         },
         {
           "title": "韩国现代汽车工会：未经同意，我们绝不允许现代部署人形机器人。",
@@ -168,7 +170,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -228,7 +230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
