@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:56:08.014419+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-01-22T19:24:27.077381+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "殖人天塌了,马斯克亲证斩杀线",
@@ -72,8 +72,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 18时56分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 19时24分]"
         },
         {
           "title": "xAI工程师因泄密被马斯克解雇",
@@ -89,15 +89,17 @@
           "time_info": "[11时49分 ~ 13时55分]"
         },
         {
-          "title": "小米集团宣布最高25亿港元的自动股份回购计划",
-          "url": "https://wallstreetcn.com/livenews/3041986",
-          "source": "华尔街见闻-快讯",
+          "title": "质疑公牛集团广告语存误导被起诉索赔420万，涉事公司已提起反诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440110",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            20,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 19时24分]"
         },
         {
           "title": "韩国现代汽车工会：未经同意，我们绝不允许现代部署人形机器人。",
@@ -111,6 +113,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国汽车交易平台TrueCar创始人：关税将推高价格并减少供应。更长的汽车贷款对汽车行业来说是个问题。",
           "url": "https://flash.jin10.com/detail/20260122072023771800",
           "source": "金十数据",
@@ -122,16 +135,27 @@
           "time_info": "07时48分"
         },
         {
-          "title": "质疑公牛集团广告语存误导被起诉索赔420万，涉事公司已提起反诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440110",
-          "source": "澎湃新闻",
+          "title": "小米集团宣布最高25亿港元的自动股份回购计划",
+          "url": "https://wallstreetcn.com/livenews/3041986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
+            5,
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时24分]"
+        },
+        {
+          "title": "天津交易集团组建成立",
+          "url": "https://wallstreetcn.com/livenews/3042009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "恒指高开0.62%，报26750.51点；恒生科技指数涨0.85%。百度、金蝶国际涨超3%，蔚来、华虹半导体涨超2%。",
@@ -143,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "乌克兰军方：已袭击了俄罗斯的塔曼涅夫特加斯石油终端。",
+          "url": "https://flash.jin10.com/detail/20260122190627674800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "乌克兰的谈判员们在达沃斯会见贝莱德集团（高管）和美国外交官们。",
@@ -448,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "市场消息：迪拜已将4月份官方原油价格对阿曼期货的贴水设定为每桶30美分。",
+          "url": "https://flash.jin10.com/detail/20260122184341616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "大众汽车股价在汽车部门初步全年净现金流公布后上涨5.2%。",
