@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T12:49:52.712055+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-22T13:29:21.127526+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时29分]"
         },
         {
           "title": "xAI工程师因泄密被马斯克解雇",
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时29分]"
         },
         {
           "title": "美国汽车交易平台TrueCar创始人：关税将推高价格并减少供应。更长的汽车贷款对汽车行业来说是个问题。",
@@ -52,6 +53,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2265774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时29分]"
         },
         {
           "title": "恒指高开0.62%，报26750.51点；恒生科技指数涨0.85%。百度、金蝶国际涨超3%，蔚来、华虹半导体涨超2%。",
@@ -117,17 +131,18 @@
           "time_info": "[05时35分 ~ 06时54分]"
         },
         {
-          "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2265774",
-          "source": "财联社热门",
+          "title": "反正张极的歌声很曼妙",
+          "url": "https://www.douyin.com/hot/2375654",
+          "source": "抖音",
           "ranks": [
-            13,
-            11,
-            10
+            28,
+            29,
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时29分]"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -140,19 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时48分]"
-        },
-        {
-          "title": "反正张极的歌声很曼妙",
-          "url": "https://www.douyin.com/hot/2375654",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时49分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
