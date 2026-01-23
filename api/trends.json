@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T17:31:50.309115+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-01-23T17:54:44.321754+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时36分 ~ 07时44分]"
+        },
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 17时54分]"
         },
         {
           "title": "小米用户称天冷前轮转向会发出「咯噔」声，官方称是正常现象，车企口中的「阿克曼角」现象到底是怎么回事？",
@@ -36,18 +48,6 @@
           "time_info": "[02时35分 ~ 12时43分]"
         },
         {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时31分]"
-        },
-        {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
           "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
@@ -57,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 17时54分]"
         },
         {
           "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时43分 ~ 17时54分]"
         },
         {
           "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
@@ -100,6 +100,20 @@
           "time_info": "[00时36分 ~ 11时43分]"
         },
         {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 17时54分]"
+        },
+        {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
           "url": "https://www.cls.cn/detail/2266699",
           "source": "财联社热门",
@@ -112,20 +126,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时36分 ~ 07时44分]"
-        },
-        {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 17时31分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -170,6 +170,18 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
+          "title": "比亚迪起诉自媒体姚十八胜诉，获赔 201 万，如何看待用极端测试恶意抹黑车企的行为？",
+          "url": "https://www.zhihu.com/question/1997735046166099243",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时54分]"
+        },
+        {
           "title": "重庆“收复”汽车第一城",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E2%80%9C%E6%94%B6%E5%A4%8D%E2%80%9D%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E5%9F%8E",
           "source": "百度热搜",
@@ -183,16 +195,16 @@
           "time_info": "[04时54分 ~ 06时50分]"
         },
         {
-          "title": "比亚迪起诉自媒体姚十八胜诉，获赔 201 万，如何看待用极端测试恶意抹黑车企的行为？",
-          "url": "https://www.zhihu.com/question/1997735046166099243",
-          "source": "知乎",
+          "title": "马斯克：星舰今年目标完全复用 进入太空成本将只有目前的1%！",
+          "url": "https://www.cls.cn/detail/2267732",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时31分]"
+          "time_info": "[17时31分 ~ 17时54分]"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -335,17 +347,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时35分 ~ 04时29分]"
-        },
-        {
-          "title": "马斯克：星舰今年目标完全复用 进入太空成本将只有目前的1%！",
-          "url": "https://www.cls.cn/detail/2267732",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
@@ -553,6 +554,18 @@
           "time_info": "[03时26分 ~ 04时29分]"
         },
         {
+          "title": "【招商银行：2025年净利润1501.81亿元，同比增长1.21%】招商银行公告，2025年，本集团实现营业收入3375.32亿元，同比增加0.44亿元，增幅0.01%；利润总额1789.93亿元，同比增加3.41亿元，增幅0.19%；归属于本行股东的净利润1501.81亿元，同比增加17.9亿元，增幅1.21%。",
+          "url": "https://wallstreetcn.com/livenews/3042790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时54分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜Meta收涨超5.6%，特斯拉涨超4.1%",
           "url": "https://wallstreetcn.com/livenews/3042301",
           "source": "华尔街见闻-快讯",
@@ -633,17 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "【招商银行：2025年净利润1501.81亿元，同比增长1.21%】招商银行公告，2025年，本集团实现营业收入3375.32亿元，同比增加0.44亿元，增幅0.01%；利润总额1789.93亿元，同比增加3.41亿元，增幅0.19%；归属于本行股东的净利润1501.81亿元，同比增加17.9亿元，增幅1.21%。",
-          "url": "https://wallstreetcn.com/livenews/3042790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "理想汽车将关闭一些不赚钱门店",
