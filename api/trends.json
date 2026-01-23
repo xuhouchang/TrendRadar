@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:28:28.990475+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-01-23T13:52:34.628405+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时52分]"
         },
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -84,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时52分]"
         },
         {
           "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
@@ -95,8 +95,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时52分]"
+        },
+        {
+          "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
+          "url": "https://www.zhihu.com/question/1989049181910869388",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时52分]"
+        },
+        {
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时52分]"
         },
         {
           "title": "重庆“收复”汽车第一城",
@@ -112,27 +136,18 @@
           "time_info": "[04时54分 ~ 06时50分]"
         },
         {
-          "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
-          "url": "https://www.zhihu.com/question/1989049181910869388",
-          "source": "知乎",
+          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
+          "url": "https://www.cls.cn/detail/2267117",
+          "source": "财联社热门",
           "ranks": [
+            12,
+            10,
             9,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
-          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时52分]"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -195,6 +210,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "中农集团与加拿大钾肥公司举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3042590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "马斯克意外亮相达沃斯 冬季风暴继续推高天然气价格 | 今夜看点",
           "url": "https://www.cls.cn/detail/2266926",
           "source": "财联社热门",
@@ -250,19 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
-          "url": "https://www.cls.cn/detail/2267117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 13时28分]"
         },
         {
           "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
@@ -328,17 +341,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "马斯克回应地球上有外星人",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%9C%B0%E7%90%83%E4%B8%8A%E6%9C%89%E5%A4%96%E6%98%9F%E4%BA%BA%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "李柯：比亚迪在海外产品力太强了",
           "url": "https://www.toutiao.com/trending/7597768277716369462/",
           "source": "今日头条",
@@ -348,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "第72集团军32名高级军士晋升军衔",
+          "url": "https://www.toutiao.com/trending/7597985591355621419/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "马斯克：预测到2030年，人工智能将比全人类加起来更聪明。",
@@ -384,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时57分]"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "马斯克：太空太阳能人工智能数据中心是显而易见的选择。",
@@ -433,6 +457,30 @@
           "time_info": "[05时48分 ~ 06时23分]"
         },
         {
+          "title": "马斯克回应地球上有外星人",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%9C%B0%E7%90%83%E4%B8%8A%E6%9C%89%E5%A4%96%E6%98%9F%E4%BA%BA%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时52分]"
+        },
+        {
+          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
+          "url": "https://www.cls.cn/detail/2267195",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时52分]"
+        },
+        {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
           "url": "https://flash.jin10.com/detail/20260123023731211800",
           "source": "金十数据",
@@ -459,17 +507,6 @@
           "time_info": "[03时26分 ~ 04时29分]"
         },
         {
-          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
-          "url": "https://www.cls.cn/detail/2267195",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时28分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜Meta收涨超5.6%，特斯拉涨超4.1%",
           "url": "https://wallstreetcn.com/livenews/3042301",
           "source": "华尔街见闻-快讯",
@@ -480,6 +517,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时23分]"
+        },
+        {
+          "title": "生态环境部部长黄润秋：持续加大绿色采购力度，鼓励汽车、家电等传统消费品以旧换新",
+          "url": "https://wallstreetcn.com/livenews/3042565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时52分]"
         },
         {
           "title": "马斯克：特斯拉人形机器人预计2027年底向公众销售",
@@ -551,17 +600,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "生态环境部部长黄润秋：持续加大绿色采购力度，鼓励汽车、家电等传统消费品以旧换新",
-          "url": "https://wallstreetcn.com/livenews/3042565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "马斯克：随着功能提升，FSD订阅价格将会上涨。Cybercab生产将于四月开始。",
           "url": "https://flash.jin10.com/detail/20260123113614864800",
           "source": "金十数据",
@@ -579,7 +617,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
