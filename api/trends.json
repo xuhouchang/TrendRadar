@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T23:27:03.467833+08:00",
-  "total_titles_processed": 2464,
+  "generated_at": "2026-01-23T23:51:05.202330+08:00",
+  "total_titles_processed": 2497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 88,
+      "match_count": 89,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时43分 ~ 23时27分]"
+          "appearance_count": 25,
+          "time_info": "[11时43分 ~ 23时51分]"
         },
         {
           "title": "比亚迪起诉自媒体姚十八胜诉，获赔 201 万，如何看待用极端测试恶意抹黑车企的行为？",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时31分 ~ 23时27分]"
+          "appearance_count": 18,
+          "time_info": "[16时31分 ~ 23时51分]"
         },
         {
           "title": "马斯克：星舰今年目标完全复用 进入太空成本将只有目前的1%！",
@@ -116,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时52分 ~ 23时27分]"
+          "appearance_count": 13,
+          "time_info": "[18时52分 ~ 23时51分]"
         },
         {
           "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
@@ -130,11 +130,12 @@
             10,
             8,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时43分 ~ 22时26分]"
+          "appearance_count": 22,
+          "time_info": "[11时43分 ~ 23时51分]"
         },
         {
           "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
@@ -204,6 +205,20 @@
           "time_info": "[12时43分 ~ 16时31分]"
         },
         {
+          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时48分 ~ 23时51分]"
+        },
+        {
           "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
           "url": "https://www.cls.cn/detail/2267117",
           "source": "财联社热门",
@@ -229,6 +244,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时54分 ~ 06时50分]"
+        },
+        {
+          "title": "瑞士财政部长：资本规则对瑞银集团无不利影响。",
+          "url": "https://flash.jin10.com/detail/20260123233858068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -267,20 +293,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时28分]"
-        },
-        {
-          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时48分 ~ 23时27分]"
         },
         {
           "title": "奇瑞汽车股份有限公司召回部分奇瑞牌探索06、全新瑞虎7 1.6T车型",
@@ -900,7 +912,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时27分"
         },
@@ -922,7 +934,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时27分"
         },
