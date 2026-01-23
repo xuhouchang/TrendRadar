@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T15:26:37.051534+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-01-23T15:47:38.768274+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,54 @@
           "time_info": "[00时36分 ~ 11时43分]"
         },
         {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时47分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时47分]"
+        },
+        {
+          "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
+          "url": "https://www.zhihu.com/question/1989049181910869388",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时47分]"
+        },
+        {
+          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 15时47分]"
+        },
+        {
           "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
           "url": "https://www.cls.cn/detail/2266699",
           "source": "财联社热门",
@@ -62,30 +110,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时36分 ~ 07时44分]"
-        },
-        {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时26分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时26分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -101,28 +125,33 @@
           "time_info": "[07时44分 ~ 14时36分]"
         },
         {
-          "title": "宁德时代宣布 2026 年大规模应用钠电池，这意味着动力电池产业将发生哪些变革？",
-          "url": "https://www.zhihu.com/question/1989049181910869388",
-          "source": "知乎",
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            7
+            10,
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时47分]"
         },
         {
-          "title": "马斯克：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://news.ifeng.com/c/8q8vzmQpQIS",
-          "source": "凤凰网",
+          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
+          "url": "https://www.cls.cn/detail/2267195",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            12,
+            10,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时26分]"
+          "time_info": "[12时43分 ~ 15时47分]"
         },
         {
           "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
@@ -139,19 +168,6 @@
           "time_info": "[11时43分 ~ 14时36分]"
         },
         {
-          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
-          "url": "https://www.cls.cn/detail/2267470",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时26分]"
-        },
-        {
           "title": "重庆“收复”汽车第一城",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E2%80%9C%E6%94%B6%E5%A4%8D%E2%80%9D%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E5%9F%8E",
           "source": "百度热搜",
@@ -163,20 +179,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时54分 ~ 06时50分]"
-        },
-        {
-          "title": "马斯克达沃斯震撼发言：人类终将找到逆转衰老之法！",
-          "url": "https://www.cls.cn/detail/2267195",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时26分]"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -370,17 +372,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "第72集团军32名高级军士晋升军衔",
-          "url": "https://www.toutiao.com/trending/7597985591355621419/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "马斯克：预测到2030年，人工智能将比全人类加起来更聪明。",
           "url": "https://flash.jin10.com/detail/20260123000133805800",
           "source": "金十数据",
@@ -486,6 +477,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 13时52分]"
+        },
+        {
+          "title": "第72集团军32名高级军士晋升军衔",
+          "url": "https://www.toutiao.com/trending/7597985591355621419/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 15时47分]"
         },
         {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
