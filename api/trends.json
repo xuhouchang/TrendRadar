@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:44:47.851592+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-01-25T23:21:33.662617+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -156,11 +156,12 @@
             1,
             5,
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时44分]"
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时21分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -183,11 +184,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时44分]"
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时21分]"
         },
         {
           "title": "蔚来乐道：本月内将完成超8000块电池增投目标",
@@ -211,22 +213,24 @@
             1,
             9,
             16,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时44分]"
+          "appearance_count": 6,
+          "time_info": "[19时40分 ~ 23时21分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
           "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时44分]"
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "女子买60克黄金轮胎手镯后悔买晚了",
@@ -256,16 +260,30 @@
           "time_info": "[07时20分 ~ 11时55分]"
         },
         {
+          "title": "阿森纳vs曼联",
+          "url": "https://www.douyin.com/hot/2379433",
+          "source": "抖音",
+          "ranks": [
+            5,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
           "url": "https://flash.jin10.com/detail/20260125203014022800",
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时33分 ~ 22时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时21分]"
         },
         {
           "title": "雷军回应下架熔岩橙配色",
@@ -277,18 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "阿森纳vs曼联",
-          "url": "https://www.douyin.com/hot/2379433",
-          "source": "抖音",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时44分]"
         },
         {
           "title": "林允方报平安",
