@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:44:42.094467+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-01-25T18:22:57.027621+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 18时22分]"
         },
         {
           "title": "青山集团：全球“镍矿和不锈钢老大”进军铝业和电池",
@@ -42,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时55分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[09时55分 ~ 18时22分]"
         },
         {
           "title": "UP主解读马斯克末日预言",
@@ -74,11 +75,12 @@
             17,
             21,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 17时44分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 18时22分]"
         },
         {
           "title": "利比亚与道达尔、康菲石油签署协议，希望借机提升石油产能",
@@ -163,11 +165,12 @@
           "url": "https://flash.jin10.com/detail/20260125164107511800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时22分]"
         },
         {
           "title": "女子买60克黄金轮胎手镯后悔买晚了",
