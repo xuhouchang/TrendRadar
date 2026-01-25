@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T01:19:17.285479+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-01-26T01:43:24.147670+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 01时43分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "time_info": "[00时26分 ~ 01时43分]"
         },
         {
           "title": "印度与欧盟达成协议 将汽车进口关税从最高110%下调至40%",
@@ -27,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
@@ -38,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "“海湾安全-4”联合安全演习在卡塔尔举行",
@@ -49,20 +62,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
-        },
-        {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.toutiao.com/trending/7599142490826096646/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 00时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时43分]"
         },
         {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
@@ -72,8 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 01时43分]"
         }
       ]
     }
