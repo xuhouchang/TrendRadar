@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T06:21:28.581871+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-01-26T06:46:16.095135+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 06时46分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            6,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 06时46分]"
         },
         {
           "title": "阿森纳vs曼联",
@@ -48,6 +63,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "2526 赛季英超联赛英超第 23 轮阿森纳 2:3 曼联，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1998916083571254868",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            12,
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时18分 ~ 06时46分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
@@ -89,46 +120,17 @@
           "time_info": "[00时27分 ~ 04时46分]"
         },
         {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.toutiao.com/trending/7599142490826096646/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            20,
-            6,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "2526 赛季英超联赛英超第 23 轮阿森纳 2:3 曼联，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1998916083571254868",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            12,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时18分 ~ 06时21分]"
-        },
-        {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
           "url": "https://flash.jin10.com/detail/20260126051356994800",
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时46分]"
         },
         {
           "title": "佘诗曼谈及不婚原因",
@@ -137,9 +139,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 06时46分]"
         }
       ]
     }
