@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T07:21:31.790800+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-01-26T07:43:20.951176+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 07时43分]"
         },
         {
           "title": "阿森纳vs曼联",
@@ -36,8 +36,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时55分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[02时55分 ~ 07时43分]"
         },
         {
           "title": "阿森纳vs曼联",
@@ -79,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时18分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[03时18分 ~ 07时43分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
@@ -142,9 +142,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时43分]"
         },
         {
           "title": "佘诗曼谈及不婚原因",
@@ -155,8 +155,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 07时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 07时43分]"
         },
         {
           "title": "阿森纳2比3曼联",
@@ -165,9 +165,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时43分]"
         }
       ]
     }
