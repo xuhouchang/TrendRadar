@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:45:46.200129+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-01-27T04:28:42.484580+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "红魔觉醒,曼联3-2绝杀阿森纳",
@@ -31,8 +31,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "佘诗曼公布遗嘱细节",
@@ -41,11 +41,12 @@
           "ranks": [
             26,
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第五个交易日走高，报392.95点，创2025年2月26日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨7.5%，在一众北欧个股里领跑。",
@@ -92,7 +93,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         }
