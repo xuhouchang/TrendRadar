@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T22:58:19.747445+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2026-01-26T23:35:24.027791+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             10,
             15,
             19,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时55分 ~ 22时29分]"
+          "appearance_count": 18,
+          "time_info": "[09时55分 ~ 23时35分]"
         },
         {
           "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
@@ -113,11 +114,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时58分 ~ 22时58分]"
+          "appearance_count": 22,
+          "time_info": "[11时58分 ~ 23时35分]"
         },
         {
           "title": "深度解析曼联客胜阿森纳",
@@ -243,11 +245,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时35分 ~ 22时58分]"
+          "appearance_count": 12,
+          "time_info": "[17时35分 ~ 23时35分]"
         },
         {
           "title": "iPhone 4S在拼多多卖爆",
@@ -262,8 +265,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 22时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 23时35分]"
         },
         {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
@@ -520,7 +523,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时58分"
         },
