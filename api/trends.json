@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T01:55:58.122118+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-27T02:37:22.326315+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
           "title": "iPhone 4S在拼多多卖爆",
@@ -26,11 +27,12 @@
           "ranks": [
             26,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "红魔觉醒,曼联3-2绝杀阿森纳",
@@ -40,8 +42,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "佘诗曼公布遗嘱细节",
@@ -51,8 +53,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.25%，报609.86点，成分股彪马涨17%，波兰铜业集团公司涨超8%表现第二。 欧元区STOXX 50指数初步收涨0.21%，报5960.91点。 富时泛欧绩优300指数初步收涨0.27%，报2429.88点。",
@@ -60,22 +62,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时37分]"
         },
         {
           "title": "电影惊蛰无声全员走路很曼妙",
           "url": "https://www.douyin.com/hot/2379761",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         }
       ]
     }
