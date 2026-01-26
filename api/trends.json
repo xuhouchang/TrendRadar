@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-26T13:38:34.151018+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-01-26T14:38:18.911900+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 29,
       "titles": [
+        {
+          "title": "曼联3:2送阿森纳主场首败",
+          "url": "https://www.douyin.com/hot/2379433",
+          "source": "抖音",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时38分]"
+        },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
@@ -53,17 +66,15 @@
           "time_info": "[00时26分 ~ 06时46分]"
         },
         {
-          "title": "曼联3:2送阿森纳主场首败",
-          "url": "https://www.douyin.com/hot/2379433",
-          "source": "抖音",
+          "title": "曼联3-2阿森纳",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E9%98%BF%E6%A3%AE%E7%BA%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            6,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时38分]"
         },
         {
           "title": "印度与欧盟达成协议 将汽车进口关税从最高110%下调至40%",
@@ -123,6 +134,19 @@
           "time_info": "[00时27分 ~ 05时42分]"
         },
         {
+          "title": "佘诗曼谈及不婚原因",
+          "url": "https://www.douyin.com/hot/2378199",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时21分 ~ 14时38分]"
+        },
+        {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
           "url": "https://flash.jin10.com/detail/20260125203014022800",
           "source": "金十数据",
@@ -135,39 +159,16 @@
           "time_info": "[00时27分 ~ 04时46分]"
         },
         {
-          "title": "曼联3-2阿森纳",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E9%98%BF%E6%A3%AE%E7%BA%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时38分]"
-        },
-        {
-          "title": "佘诗曼谈及不婚原因",
-          "url": "https://www.douyin.com/hot/2378199",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时21分 ~ 13时38分]"
-        },
-        {
           "title": "红魔觉醒,曼联3-2绝杀阿森纳",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349655&amp;topic_name=%E7%BA%A2%E9%AD%94%E8%A7%89%E9%86%92%2C%E6%9B%BC%E8%81%943-2%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 14时38分]"
         },
         {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
@@ -182,6 +183,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时42分 ~ 07时21分]"
+        },
+        {
+          "title": "电影惊蛰无声全员走路很曼妙",
+          "url": "https://www.douyin.com/hot/2379761",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 14时38分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -216,19 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时38分]"
-        },
-        {
-          "title": "电影惊蛰无声全员走路很曼妙",
-          "url": "https://www.douyin.com/hot/2379761",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时38分]"
         },
         {
           "title": "深度解析曼联客胜阿森纳",
@@ -292,6 +294,18 @@
           "time_info": "[11时58分 ~ 12时59分]"
         },
         {
+          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
+          "url": "https://www.zhihu.com/question/1914725893487689909",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 14时38分]"
+        },
+        {
           "title": "为线控转向划定安全边界 汽车转向强制性国标发布",
           "url": "https://wallstreetcn.com/livenews/3043634",
           "source": "华尔街见闻-快讯",
@@ -315,6 +329,18 @@
           "time_info": "[07时21分 ~ 07时43分]"
         },
         {
+          "title": "不知道 肖战的比例很曼妙",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%9F%A5%E9%81%93%20%E8%82%96%E6%88%98%E7%9A%84%E6%AF%94%E4%BE%8B%E5%BE%88%E6%9B%BC%E5%A6%99&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 14时38分]"
+        },
+        {
           "title": "光伏概念股延续涨势，钧达股份3连板，协鑫集成、双良节能2连板，东方日升涨超15%，消息面上，马斯克表示，SpaceX与特斯拉正同步推进太阳能产能提升，目标在未来三年内实现每年100GW的太阳能制造能力。",
           "url": "https://wallstreetcn.com/livenews/3043540",
           "source": "华尔街见闻-快讯",
@@ -324,17 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
-          "url": "https://www.zhihu.com/question/1914725893487689909",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
@@ -354,18 +369,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "不知道 肖战的比例很曼妙",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%9F%A5%E9%81%93%20%E8%82%96%E6%88%98%E7%9A%84%E6%AF%94%E4%BE%8B%E5%BE%88%E6%9B%BC%E5%A6%99&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
