@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T18:27:49.323466+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-26T18:54:27.906200+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "曼联3-2阿森纳",
@@ -35,6 +35,22 @@
           "time_info": "[07时21分 ~ 15时50分]"
         },
         {
+          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
+          "url": "https://www.zhihu.com/question/1914725893487689909",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            4,
+            3,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时38分 ~ 18时54分]"
+        },
+        {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
           "source": "今日头条",
@@ -51,22 +67,6 @@
           "time_info": "[00时26分 ~ 07时43分]"
         },
         {
-          "title": "理性讨论，假如吉利抄比亚迪抄成了新能源第一，能说明什么？会有什么后果？",
-          "url": "https://www.zhihu.com/question/1914725893487689909",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            4,
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 18时27分]"
-        },
-        {
           "title": "红魔觉醒,曼联3-2绝杀阿森纳",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349655&amp;topic_name=%E7%BA%A2%E9%AD%94%E8%A7%89%E9%86%92%2C%E6%9B%BC%E8%81%943-2%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3",
           "source": "贴吧",
@@ -79,8 +79,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时58分 ~ 18时54分]"
         },
         {
           "title": "阿森纳vs曼联",
@@ -182,11 +182,12 @@
             20,
             17,
             21,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[11时58分 ~ 18时54分]"
         },
         {
           "title": "“海湾安全-4”联合安全演习在卡塔尔举行",
@@ -310,6 +311,19 @@
           "time_info": "09时55分"
         },
         {
+          "title": "iPhone 4S在拼多多卖爆",
+          "url": "https://www.toutiao.com/trending/7599175124324237321/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时54分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260126110721943800",
           "source": "金十数据",
@@ -319,18 +333,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
-        },
-        {
-          "title": "iPhone 4S在拼多多卖爆",
-          "url": "https://www.toutiao.com/trending/7599175124324237321/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时27分]"
         },
         {
           "title": "现代汽车：正在评估一系列合作机会，包括在氢能领域开展潜在合作，并充分利用加拿大的优势。",
@@ -379,6 +381,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 12时59分]"
+        },
+        {
+          "title": "佘诗曼公布遗嘱细节",
+          "url": "https://www.douyin.com/hot/2380244",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时54分]"
         },
         {
           "title": "国家税务总局：2025年新能源汽车消费热度持续上升",
@@ -440,18 +454,6 @@
           "time_info": "[13时38分 ~ 14时38分]"
         },
         {
-          "title": "佘诗曼公布遗嘱细节",
-          "url": "https://www.douyin.com/hot/2380244",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时27分]"
-        },
-        {
           "title": "光伏概念股延续涨势，钧达股份3连板，协鑫集成、双良节能2连板，东方日升涨超15%，消息面上，马斯克表示，SpaceX与特斯拉正同步推进太阳能产能提升，目标在未来三年内实现每年100GW的太阳能制造能力。",
           "url": "https://wallstreetcn.com/livenews/3043540",
           "source": "华尔街见闻-快讯",
@@ -461,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "康普顿：终止筹划本次重大事项，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3043915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
