@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:34:10.796149+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-01-27T18:28:56.213831+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -69,6 +69,19 @@
           "time_info": "[15时28分 ~ 17时34分]"
         },
         {
+          "title": "开回去太累 12306托运汽车订单火爆",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时28分]"
+        },
+        {
           "title": "汽车爱好者打卡“长春第一冰锅”漂移绕圈，运营方：设计角度不会翻车",
           "url": "https://m.thepaper.cn/newsDetail_forward_32465091",
           "source": "澎湃新闻",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
-        },
-        {
-          "title": "开回去太累 12306托运汽车订单火爆",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时34分]"
         },
         {
           "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
