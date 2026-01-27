@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T07:23:26.158165+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-01-28T07:46:06.316553+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 07时46分]"
         },
         {
           "title": "iPhone4S为何突然迎来第二春",
@@ -38,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时38分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[01时38分 ~ 07时46分]"
         },
         {
           "title": "孙颖莎王曼昱蒯曼聚餐",
@@ -68,8 +68,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 07时46分]"
+        },
+        {
+          "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
+          "url": "https://wallstreetcn.com/livenews/3045037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时46分]"
         },
         {
           "title": "LVMH集团四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。四季度营收227.2亿欧元，分析师预期225.9亿欧元。",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时19分 ~ 06时47分]"
-        },
-        {
-          "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
-          "url": "https://wallstreetcn.com/livenews/3045037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
