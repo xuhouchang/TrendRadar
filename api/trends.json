@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:49:10.261495+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-01-27T12:48:21.390363+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
           "ranks": [
             22,
             23,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 11时49分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 12时48分]"
         },
         {
           "title": "佘诗曼公布遗嘱细节",
@@ -131,7 +132,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -241,7 +242,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -252,7 +253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
