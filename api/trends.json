@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:19:30.021144+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-01-28T05:43:30.592833+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,22 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 05时43分]"
+        },
+        {
+          "title": "iPhone4S为何突然迎来第二春",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone4S%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%BA%8C%E6%98%A5%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "time_info": "[01时38分 ~ 05时43分]"
         },
         {
           "title": "孙颖莎王曼昱蒯曼聚餐",
@@ -36,22 +50,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 05时19分]"
-        },
-        {
-          "title": "iPhone4S为何突然迎来第二春",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone4S%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%BA%8C%E6%98%A5%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 05时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 05时43分]"
         },
         {
           "title": "女子买100克黄金轮胎手镯赚4万多",
@@ -63,8 +63,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "LVMH集团四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。四季度营收227.2亿欧元，分析师预期225.9亿欧元。",
@@ -78,6 +78,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3044986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 05时43分]"
+        },
+        {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3044876",
           "source": "华尔街见闻-快讯",
@@ -89,15 +100,17 @@
           "time_info": "00时32分"
         },
         {
-          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3044986",
+          "title": "花旗集团策略师Daniel Tobon：仍然认为在下个月选举临近之际，日元存在再次走弱的风险。 如果我看到本土资金开始转向买入日本国债，那将是更强的信号，表明现在是买入日元的时候，因为这会开始缓解财政方面的担忧。 这可能在选举之后很快发生，也可能要更久以后才会出现。",
+          "url": "https://wallstreetcn.com/livenews/3044964",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1,
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 05时43分]"
         },
         {
           "title": "受益于电动汽车增长，欧洲汽车销量连续第三年上升",
@@ -112,19 +125,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 04时48分]"
-        },
-        {
-          "title": "花旗集团策略师Daniel Tobon：仍然认为在下个月选举临近之际，日元存在再次走弱的风险。 如果我看到本土资金开始转向买入日本国债，那将是更强的信号，表明现在是买入日元的时候，因为这会开始缓解财政方面的担忧。 这可能在选举之后很快发生，也可能要更久以后才会出现。",
-          "url": "https://wallstreetcn.com/livenews/3044964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 05时19分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.6%，连续第六个交易日走高，报395.00点，至少创一年来收盘新高。 在十个板块中，北欧金融板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨4.1%，在一众北欧个股里领跑。",
@@ -228,7 +228,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
