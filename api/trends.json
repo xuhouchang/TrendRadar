@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:24:11.567019+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-01-28T06:47:22.949985+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             8,
             16,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 06时47分]"
         },
         {
           "title": "iPhone4S为何突然迎来第二春",
@@ -31,11 +32,12 @@
             16,
             14,
             15,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时38分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时38分 ~ 06时47分]"
         },
         {
           "title": "孙颖莎王曼昱蒯曼聚餐",
@@ -50,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 06时47分]"
         },
         {
           "title": "女子买100克黄金轮胎手镯赚4万多",
@@ -64,8 +66,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 06时47分]"
         },
         {
           "title": "LVMH集团四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。四季度营收227.2亿欧元，分析师预期225.9亿欧元。",
@@ -77,6 +79,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3044986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 06时47分]"
         },
         {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 05时43分]"
-        },
-        {
-          "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3044986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时24分]"
         },
         {
           "title": "受益于电动汽车增长，欧洲汽车销量连续第三年上升",
