@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T23:02:11.465162+08:00",
-  "total_titles_processed": 2174,
+  "generated_at": "2026-01-27T23:39:58.260444+08:00",
+  "total_titles_processed": 2253,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             27,
             4,
             2,
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时25分 ~ 23时02分]"
+          "appearance_count": 10,
+          "time_info": "[19时25分 ~ 23时39分]"
         },
         {
           "title": "开回去太累 12306托运汽车订单火爆",
@@ -31,11 +32,12 @@
             9,
             8,
             19,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时34分 ~ 23时02分]"
+          "appearance_count": 15,
+          "time_info": "[16时34分 ~ 23时39分]"
         },
         {
           "title": "12306托运汽车订单火爆",
@@ -267,17 +269,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "通用汽车涨4%，通用汽车公布业绩，预计2026年调整后EPS为11-13美元，分析师预期11.79美元；公司批准60亿美元新版股票回购授权。",
-          "url": "https://wallstreetcn.com/livenews/3044835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
           "title": "吉利为何起诉欣旺达",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%89%E5%88%A9%E4%B8%BA%E4%BD%95%E8%B5%B7%E8%AF%89%E6%AC%A3%E6%97%BA%E8%BE%BE",
           "source": "bilibili 热搜",
@@ -400,6 +391,18 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
+          "title": "通用汽车涨4%，通用汽车公布业绩，预计2026年调整后EPS为11-13美元，分析师预期11.79美元；公司批准60亿美元新版股票回购授权。",
+          "url": "https://wallstreetcn.com/livenews/3044835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时39分]"
+        },
+        {
           "title": "乘联分会崔东树：2025年汽车行业利润4610亿元，同比增0.6%",
           "url": "https://wallstreetcn.com/livenews/3044458",
           "source": "华尔街见闻-快讯",
@@ -514,7 +517,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时02分"
         },
@@ -558,7 +561,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时02分"
         },
@@ -668,7 +671,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时02分"
         },
@@ -822,7 +825,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时02分"
         }
