@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T18:57:59.181430+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-01-27T19:26:16.213648+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "iPhone 4S在拼多多卖爆",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时26分]"
         },
         {
           "title": "比亚迪“大唐”实车曝光",
@@ -121,17 +121,6 @@
           "time_info": "15时50分"
         },
         {
-          "title": "雅化集团：预计2025年净利润6亿元-6.8亿元，同比增长133.36%-164.47%；报告期内，公司优质头部客户订单稳定，下半年锂盐市场价格有所回升，部分客户终端产品市场反馈良好带动公司第三、四季度产品销量大幅增长。",
-          "url": "https://wallstreetcn.com/livenews/3044725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
           "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
           "url": "https://wallstreetcn.com/livenews/3044193",
           "source": "华尔街见闻-快讯",
@@ -168,6 +157,18 @@
           "time_info": "07时46分"
         },
         {
+          "title": "12306托运汽车订单火爆",
+          "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 19时26分]"
+        },
+        {
           "title": "欧洲电动汽车销售回暖 车市销量连续第三年增长",
           "url": "https://flash.jin10.com/detail/20260127132446620800",
           "source": "金十数据",
@@ -177,17 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "德国汽车协会主席：印欧贸易协定传递强烈信号",
-          "url": "https://flash.jin10.com/detail/20260127183239342800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
@@ -287,6 +277,18 @@
           "time_info": "[06时49分 ~ 07时46分]"
         },
         {
+          "title": "雅化集团：预计2025年净利润6亿元-6.8亿元，同比增长133.36%-164.47%；报告期内，公司优质头部客户订单稳定，下半年锂盐市场价格有所回升，部分客户终端产品市场反馈良好带动公司第三、四季度产品销量大幅增长。",
+          "url": "https://wallstreetcn.com/livenews/3044725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时26分]"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第五个交易日走高，报392.95点，创2025年2月26日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨7.5%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3044122",
           "source": "华尔街见闻-快讯",
@@ -310,6 +312,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 07时23分]"
+        },
+        {
+          "title": "德国汽车协会主席：印欧贸易协定传递强烈信号",
+          "url": "https://flash.jin10.com/detail/20260127183239342800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时26分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车行业利润4610亿元，同比增0.6%",
@@ -407,6 +421,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时52分]"
+        },
+        {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "美国国家公路交通安全管理局：美国大众汽车召回43,881辆美国车辆，因为过热的高压电池会增加火灾风险。",
@@ -528,17 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
-        },
-        {
-          "title": "12306托运汽车订单火爆",
-          "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "国轩高科：全固态电池量产线设计工作正按计划推进",
