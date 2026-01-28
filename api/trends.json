@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T06:28:58.177156+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-01-29T06:55:58.598733+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 06时55分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -28,8 +28,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 06时55分]"
+        },
+        {
+          "title": "特斯拉营收下滑 盘后涨超3%",
+          "url": "https://flash.jin10.com/detail/20260129061942377800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时55分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -52,17 +63,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时56分]"
-        },
-        {
-          "title": "特斯拉营收下滑 盘后涨超3%",
-          "url": "https://flash.jin10.com/detail/20260129061942377800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -156,6 +156,19 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
+          "url": "https://wallstreetcn.com/livenews/3045838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 06时55分]"
+        },
+        {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3045820",
           "source": "华尔街见闻-快讯",
@@ -167,18 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
-          "url": "https://wallstreetcn.com/livenews/3045838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时28分]"
         },
         {
           "title": "雪佛龙将于3月份把委内瑞拉出口至美国的石油提升至（每天）30万桶。（路透）",
@@ -309,6 +310,17 @@
           "time_info": "[05时31分 ~ 05时56分]"
         },
         {
+          "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
+          "url": "https://flash.jin10.com/detail/20260129053426174800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时55分]"
+        },
+        {
           "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
           "url": "https://flash.jin10.com/detail/20260129020850193800",
           "source": "金十数据",
@@ -318,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
-          "url": "https://flash.jin10.com/detail/20260129053426174800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
         },
         {
           "title": "市场消息：黑石集团(BX.N)考虑为密歇根州的甲骨文数据中心项目提供资金。",
