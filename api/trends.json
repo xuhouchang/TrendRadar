@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T03:53:17.750678+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-01-29T04:32:10.118884+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时32分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时32分]"
         },
         {
           "title": "马斯克：下一代Neuralink赛博增强将于今年晚些时候问世，其性能将提升3倍。Neuralink也已准备好进行首次盲视增强，这将使即使完全失明的人也能以低分辨率“看到东西”。",
@@ -48,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
