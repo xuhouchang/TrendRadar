@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:46:06.316553+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-01-28T09:48:39.655168+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国汽车出口第一目的国易主",
@@ -22,8 +22,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 07时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 09时48分]"
         },
         {
           "title": "iPhone4S为何突然迎来第二春",
@@ -38,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时38分 ~ 07时46分]"
+          "appearance_count": 17,
+          "time_info": "[01时38分 ~ 09时48分]"
         },
         {
           "title": "孙颖莎王曼昱蒯曼聚餐",
@@ -65,11 +65,12 @@
             28,
             30,
             29,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 09时48分]"
         },
         {
           "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
@@ -156,6 +157,17 @@
           "time_info": "[01时03分 ~ 01时38分]"
         },
         {
+          "title": "恒指高开0.73%，报27325.89点；恒生科技指数涨0.56%。鸣鸣很忙上市首日高开88%。京东、金山软件、比亚迪股份、联想涨超1%，汇丰控股、紫金矿业涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3045099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "LVMH集团：虽然形势艰难，但本公司业绩仍然稳固。",
           "url": "https://wallstreetcn.com/livenews/3044905",
           "source": "华尔街见闻-快讯",
@@ -239,6 +251,28 @@
           "time_info": "02时39分"
         },
         {
+          "title": "特斯拉在欧洲销量持续“降温”",
+          "url": "https://wallstreetcn.com/livenews/3045087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至1%。软银集团下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3045086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：边境事务协调员汤姆·霍曼正在明尼苏达州；他会见了州长，并将会见明尼阿波利斯市长；进展非常顺利。",
           "url": "https://flash.jin10.com/detail/20260128044026255800",
           "source": "金十数据",
@@ -248,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "花旗称，在锂、铜和电解液等成本上涨的背景下，市场担忧电池厂商利润率下行压力，将宁德时代、亿纬锂能、国轩高科和中创新航加入30天下行催化观察。",
+          "url": "https://wallstreetcn.com/livenews/3045080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
