@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:27:19.942495+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-28T19:46:45.085899+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
@@ -15,11 +15,12 @@
             11,
             6,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时44分 ~ 19时27分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 19时46分]"
         },
         {
           "title": "中国汽车出口第一目的国易主",
@@ -93,11 +94,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 19时46分]"
         },
         {
           "title": "韩国比亚迪购车人群98%为韩国国民",
@@ -238,17 +240,6 @@
           "time_info": "[04时24分 ~ 05时43分]"
         },
         {
-          "title": "天奇股份：预计2025年净利润4500万元-6500万元，将扭亏为盈；主要受益于智能装备、锂电池循环两大主业盈利情况改善，汽车智能装备业务加速高毛利海外项目履约、锂电池循环业务亏损幅度大幅收窄。",
-          "url": "https://wallstreetcn.com/livenews/3045544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "马斯克为何急于推动SpaceX上市",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E6%8E%A8%E5%8A%A8SpaceX%E4%B8%8A%E5%B8%82",
           "source": "bilibili 热搜",
@@ -284,6 +275,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 04时48分]"
+        },
+        {
+          "title": "瑞银集团：将波音(BA.N)目标价从275美元上调至285美元。",
+          "url": "https://flash.jin10.com/detail/20260128192134931800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "丁薛祥会见美国高盛集团董事长兼首席执行官苏德巍",
+          "url": "https://wallstreetcn.com/livenews/3045555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "金十图示：2026年01月28日（周三）富时中国A50指数成分股午盘收盘行情一览：板块走势分化，有色金属、小金属、石油板块涨幅居前，半导体、汽车板块表现低迷",
@@ -331,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时45分]"
+        },
+        {
+          "title": "天奇股份：预计2025年净利润4500万元-6500万元，将扭亏为盈；主要受益于智能装备、锂电池循环两大主业盈利情况改善，汽车智能装备业务加速高毛利海外项目履约、锂电池循环业务亏损幅度大幅收窄。",
+          "url": "https://wallstreetcn.com/livenews/3045544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时46分]"
         },
         {
           "title": "LVMH集团：虽然形势艰难，但本公司业绩仍然稳固。",
@@ -405,6 +430,17 @@
           "time_info": "[01时03分 ~ 01时38分]"
         },
         {
+          "title": "瑞银集团：将雷神科技(RTX.N)目标价从199美元上调至208美元。",
+          "url": "https://flash.jin10.com/detail/20260128191950043800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "泰国汽车工业联合会：泰国12月汽车出口同比增长11.29%，11月为下降12.22%。",
           "url": "https://flash.jin10.com/detail/20260128120136821800",
           "source": "金十数据",
@@ -436,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "英国48家集团主席谈斯塔默访华",
+          "url": "https://www.toutiao.com/trending/7600334158187135018/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "SK海力士：公司正考虑通过AI公司投资美国的创新型企业并与之合作，以与SK集团的关联公司产生协同效应。",
