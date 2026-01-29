@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T17:43:35.992136+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-01-29T18:37:55.269701+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 107,
+      "match_count": 112,
       "titles": [
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 17时43分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时37分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -39,11 +39,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时37分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -56,8 +57,22 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 18时37分]"
+        },
+        {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时43分]"
+          "time_info": "[13时29分 ~ 18时37分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -73,19 +88,6 @@
           "time_info": "[00时38分 ~ 10时01分]"
         },
         {
-          "title": "汽车节目主持人哈蒙德入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时29分 ~ 17时43分]"
-        },
-        {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
           "source": "澎湃新闻",
@@ -94,11 +96,12 @@
             12,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时29分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 18时37分]"
         },
         {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
@@ -112,8 +115,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时07分 ~ 17时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时07分 ~ 18时37分]"
+        },
+        {
+          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 18时37分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时37分]"
         },
         {
           "title": "特斯拉营收下滑 盘后涨超3%",
@@ -125,20 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时55分]"
-        },
-        {
-          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时29分 ~ 17时43分]"
         },
         {
           "title": "特斯拉首席财务官：在动用内部资源后，公司可能会通过更多债务或其他方式为资本支出融资。",
@@ -183,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时56分]"
-        },
-        {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -250,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "潘功胜出席东亚及太平洋地区央行行长会议组织（EMEAP）第20次亚太地区银行监管高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3046378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
@@ -422,6 +437,17 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "克里姆林宫：对凯雷集团收购卢克石油大部分海外资产的协议不予置评。",
+          "url": "https://flash.jin10.com/detail/20260129180633111800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "马斯克表示，特斯拉需要建立半导体工厂。 特斯拉芯片将“自用”。",
           "url": "https://wallstreetcn.com/livenews/3045898",
           "source": "华尔街见闻-快讯",
@@ -431,6 +457,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时37分]"
         },
         {
           "title": "现代汽车股价上涨1.9%。",
@@ -745,18 +784,6 @@
           "time_info": "[05时56分 ~ 06时28分]"
         },
         {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时43分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)：我们计划在今年第一季度发布Optimus的第三代版本。",
           "url": "https://flash.jin10.com/detail/20260129050459592800",
           "source": "金十数据",
@@ -978,6 +1005,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "能源情报集团记者阿蒙娜•巴克尔：该地区所有国家都警告特朗普不要攻击伊朗，称任何袭击都会迅速蔓延到伊朗境外。",
+          "url": "https://flash.jin10.com/detail/20260129180234746800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
           "url": "https://wallstreetcn.com/livenews/3045872",
           "source": "华尔街见闻-快讯",
@@ -1000,6 +1038,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "黑石集团据悉接近达成协议，将成为新世界发展最大股东。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "现代汽车：美国关税在第四季度对营业利润造成了1.5万亿韩元的负面影响。",
           "url": "https://flash.jin10.com/detail/20260129125844075800",
           "source": "金十数据",
@@ -1009,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "能源情报集团记者阿蒙娜•巴克尔：市场对美国可能对伊朗发动打击感到不安。我听到的消息是，特朗普并不想开战。他想要的是外交上的胜利，或者一场“自发的”内部变革，从而迫使伊朗从内部进行改革。",
+          "url": "https://flash.jin10.com/detail/20260129180208687800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
@@ -1116,7 +1176,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -1149,7 +1209,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
