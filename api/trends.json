@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:02:07.683148+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-01-29T16:55:40.434300+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 101,
+      "match_count": 104,
       "titles": [
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -18,6 +18,31 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 07时50分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时55分]"
+        },
+        {
+          "title": "明家犯罪集团11人被执行死刑",
+          "url": "https://www.douyin.com/hot/2382827",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时55分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -33,31 +58,6 @@
           "time_info": "[00时38分 ~ 10时01分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 16时02分]"
-        },
-        {
-          "title": "明家犯罪集团11人被执行死刑",
-          "url": "https://www.douyin.com/hot/2382827",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时02分]"
-        },
-        {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时55分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -80,8 +80,36 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时55分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时55分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2000170572613706473",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时29分 ~ 16时02分]"
+          "time_info": "[14时07分 ~ 16时55分]"
         },
         {
           "title": "特斯拉营收下滑 盘后涨超3%",
@@ -139,32 +167,6 @@
           "time_info": "[05时31分 ~ 05时56分]"
         },
         {
-          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2000170572613706473",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时02分]"
-        },
-        {
-          "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488742",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 16时02分]"
-        },
-        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -176,15 +178,17 @@
           "time_info": "[05时31分 ~ 05时56分]"
         },
         {
-          "title": "中国金币集团提示纪念币投资风险",
-          "url": "https://wallstreetcn.com/livenews/3046249",
-          "source": "华尔街见闻-快讯",
+          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14,
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时29分 ~ 16时55分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -232,17 +236,6 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
-          "title": "福田汽车：预计2025年净利润约为13.3亿元，同比增加1,551%左右",
-          "url": "https://wallstreetcn.com/livenews/3046247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
           "url": "https://flash.jin10.com/detail/20260129050817558800",
           "source": "金十数据",
@@ -276,16 +269,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488406",
-          "source": "澎湃新闻",
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            13
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "摩根士丹利：将特斯拉(TSLA.O)目标股价从425美元下调至415美元。",
@@ -294,7 +286,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -390,6 +382,18 @@
           "time_info": "[13时29分 ~ 14时07分]"
         },
         {
+          "title": "中国金币集团提示纪念币投资风险",
+          "url": "https://wallstreetcn.com/livenews/3046249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时55分]"
+        },
+        {
           "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
           "url": "https://wallstreetcn.com/livenews/3045885",
           "source": "华尔街见闻-快讯",
@@ -447,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "福田汽车：预计2025年净利润约为13.3亿元，同比增加1,551%左右",
+          "url": "https://wallstreetcn.com/livenews/3046247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时55分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -955,6 +971,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "现代汽车：美国关税在第四季度对营业利润造成了1.5万亿韩元的负面影响。",
           "url": "https://flash.jin10.com/detail/20260129125844075800",
           "source": "金十数据",
@@ -1041,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "恒指低开0.72%，报274627.11点；恒生科技指数跌0.79%。蔚来跌超3%，京东跌超2%，携程、阿里巴巴、百度、京东健康、阿里健康等跌超1%。",
