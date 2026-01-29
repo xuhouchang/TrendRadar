@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:28:46.494985+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-01-30T06:57:40.704208+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "中国金币集团发布风险提示",
@@ -63,11 +63,12 @@
             6,
             7,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
@@ -80,8 +81,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
@@ -93,8 +94,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -126,8 +127,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 06时57分]"
         },
         {
           "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
@@ -149,11 +150,12 @@
           "url": "https://wallstreetcn.com/livenews/3046720",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
@@ -179,17 +181,6 @@
           "time_info": "[01时06分 ~ 02时03分]"
         },
         {
-          "title": "特斯拉四季度净利润下滑61%",
-          "url": "https://www.douyin.com/hot/2382740",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3046680",
           "source": "华尔街见闻-快讯",
@@ -200,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 05时54分]"
+        },
+        {
+          "title": "特斯拉四季度净利润下滑61%",
+          "url": "https://www.douyin.com/hot/2382740",
+          "source": "抖音",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 06时57分]"
         },
         {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
