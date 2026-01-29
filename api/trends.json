@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T20:58:39.701001+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-01-29T22:03:13.827796+08:00",
+  "total_titles_processed": 2144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 123,
+      "match_count": 136,
       "titles": [
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 20时58分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 22时03分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -40,11 +40,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时13分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时13分 ~ 22时03分]"
         },
         {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
@@ -57,11 +58,12 @@
             7,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时07分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[14时07分 ~ 22时03分]"
         },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -78,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时29分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[13时29分 ~ 22时03分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -93,8 +95,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时13分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时13分 ~ 22时03分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -105,11 +107,12 @@
             9,
             8,
             6,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[13时29分 ~ 22时03分]"
         },
         {
           "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
@@ -124,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时29分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[13时29分 ~ 22时03分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -141,18 +144,6 @@
           "time_info": "[00时38分 ~ 10时01分]"
         },
         {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时58分]"
-        },
-        {
           "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
           "url": "https://www.zhihu.com/question/2000138565615576779",
           "source": "知乎",
@@ -164,8 +155,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时03分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 22时03分]"
         },
         {
           "title": "特斯拉营收下滑 盘后涨超3%",
@@ -199,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "中国新能源汽车持续领跑全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -290,6 +305,17 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "美国边境事务负责人霍曼：联邦官员已放弃有针对性的执法。",
+          "url": "https://flash.jin10.com/detail/20260129214512597800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "潘功胜出席东亚及太平洋地区央行行长会议组织（EMEAP）第20次亚太地区银行监管高级别会议",
           "url": "https://wallstreetcn.com/livenews/3046378",
           "source": "华尔街见闻-快讯",
@@ -334,6 +360,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "美国边境事务负责人霍曼：将继续开展定向行动。",
+          "url": "https://flash.jin10.com/detail/20260129213954574800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
           "url": "https://wallstreetcn.com/livenews/3046293",
           "source": "华尔街见闻-快讯",
@@ -365,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：将要求特工遵守专业标准。",
+          "url": "https://flash.jin10.com/detail/20260129213926596800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "特斯拉CFO：随着Optimus的生产和扩张启动，资本支出正投入计算领域，用于训练Optimus。",
@@ -431,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：将严惩不符合行为标准的特工。",
+          "url": "https://flash.jin10.com/detail/20260129213912446800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "港股地产股大涨，融创中国涨超30%，中国奥园涨26%、世茂集团、碧桂园、佳兆业集团均涨超20%，正荣地产、旭辉控股集团、富力地产涨超15%。",
@@ -916,6 +975,17 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "驾驶员疑故意放倒电动车碰瓷汽车",
+          "url": "https://www.toutiao.com/trending/7600209862546964499/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：从长远来看，特斯拉每年生产的Cyber Cabs数量将超过其所有其他车型加起来的总和。",
           "url": "https://flash.jin10.com/detail/20260129065749945800",
           "source": "金十数据",
@@ -971,6 +1041,17 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "孙俪梦回胡曼黎",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E6%A2%A6%E5%9B%9E%E8%83%A1%E6%9B%BC%E9%BB%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
           "url": "https://flash.jin10.com/detail/20260129020850193800",
           "source": "金十数据",
@@ -980,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：人们有权进行和平抗议，但对袭击移民与海关执法局官员的行为绝不容忍。",
+          "url": "https://flash.jin10.com/detail/20260129213810877800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "有色板块再度走强，怡球资源、常铝股份2连板，鼎胜新材涨停，锌业股份、铜陵有色逼近涨停，株冶集团、鹏欣资源等涨幅居前。",
@@ -999,9 +1091,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼计划削减明尼苏达州的联邦官员人数。",
+          "url": "https://flash.jin10.com/detail/20260129213724514800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "特斯拉将停产Model S和X，将生产线转至制造人形机器人Optimus。",
@@ -1035,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：改革美国移民和海关执法局法律的权力掌握在国会手中。",
+          "url": "https://flash.jin10.com/detail/20260129213650608800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "马斯克：美国湾区与奥斯汀之间有500辆（RoboTaxi），但不确定各地分别有多少。",
@@ -1087,9 +1201,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：将在明尼苏达州开展针对性行动。",
+          "url": "https://flash.jin10.com/detail/20260129213550029800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
@@ -1153,7 +1278,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1197,9 +1322,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：美国总统特朗普并未在反移民使命上投降。",
+          "url": "https://flash.jin10.com/detail/20260129213435452800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "中曼石油：截至本公告披露日，朱逢学合计减持679万股，占公司总股本的1.47%；共荣投资合计减持414.68万股，占公司总股本的0.90%；共远投资合计减持299.11万股，占公司总股本的0.65%。截至本公告披露日，朱逢学持有公司股份数量为1943.24万股，占公司总股本的4.20%，共荣投资、共远投资不再持有公司股份。",
@@ -1241,7 +1377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1431,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "字节跳动CEO：公司2026年关键词是“勇攀高峰”，“高峰”短期内就是豆包/Dola助手应用",
+          "url": "https://wallstreetcn.com/livenews/3046485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     }
