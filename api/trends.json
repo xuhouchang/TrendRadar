@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:32:00.483154+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2026-01-29T20:58:39.701001+08:00",
+  "total_titles_processed": 2031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 118,
+      "match_count": 123,
       "titles": [
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -29,22 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 19时32分]"
-        },
-        {
-          "title": "明家犯罪集团11人被执行死刑",
-          "url": "https://www.douyin.com/hot/2382827",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 20时58分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -57,8 +43,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时13分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时58分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2000170572613706473",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            9,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时07分 ~ 20时58分]"
         },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -71,27 +74,27 @@
             8,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时29分 ~ 20时58分]"
         },
         {
-          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2000170572613706473",
-          "source": "知乎",
+          "title": "明家犯罪集团11人被执行死刑",
+          "url": "https://www.douyin.com/hot/2382827",
+          "source": "抖音",
           "ranks": [
-            17,
-            10,
-            9,
-            7,
-            5,
-            4
+            4,
+            1,
+            2,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时07分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 20时58分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -101,11 +104,12 @@
             10,
             9,
             8,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时29分 ~ 20时58分]"
         },
         {
           "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
@@ -120,8 +124,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时29分 ~ 20时58分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -141,11 +145,27 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时58分]"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 20时58分]"
         },
         {
           "title": "特斯拉营收下滑 盘后涨超3%",
@@ -157,20 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时55分]"
-        },
-        {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时32分]"
         },
         {
           "title": "特斯拉首席财务官：在动用内部资源后，公司可能会通过更多债务或其他方式为资本支出融资。",
@@ -234,7 +240,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -356,7 +362,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -378,7 +384,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -389,7 +395,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -987,6 +993,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "黑石集团筹备“史上规模最大的IPO队列之一”。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "特斯拉将停产Model S和X，将生产线转至制造人形机器人Optimus。",
           "url": "https://wallstreetcn.com/livenews/3045875",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1081,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "黑石集团(BX.N)美股盘前涨1.1%，四季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20260129201634269800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "马斯克：2026年将是“资本开支非常庞大的一年”。",
           "url": "https://wallstreetcn.com/livenews/3045872",
           "source": "华尔街见闻-快讯",
@@ -1119,6 +1147,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "据英国金融时报：黑石集团正在筹备“史上规模最大的 IPO 项目之一”。",
+          "url": "https://flash.jin10.com/detail/20260129201550734800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "提醒：特斯拉电话会开始，马斯克发表开场白讲话。",
           "url": "https://wallstreetcn.com/livenews/3045871",
           "source": "华尔街见闻-快讯",
@@ -1152,13 +1191,24 @@
           "time_info": "13时29分"
         },
         {
+          "title": "黑石集团第四季度每股可分配收益1.75美元，预估1.54美元。 黑石集团管理资产1.27万亿美元，同比增长13%，预估1.27万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "中曼石油：截至本公告披露日，朱逢学合计减持679万股，占公司总股本的1.47%；共荣投资合计减持414.68万股，占公司总股本的0.90%；共远投资合计减持299.11万股，占公司总股本的0.65%。截至本公告披露日，朱逢学持有公司股份数量为1943.24万股，占公司总股本的4.20%，共荣投资、共远投资不再持有公司股份。",
           "url": "https://wallstreetcn.com/livenews/3046407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -1183,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "“十四五”时期我国召回汽车3800多万辆",
+          "url": "https://wallstreetcn.com/livenews/3046455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "现代汽车：预计2026年营收将较2025年增长1%至2%。",
@@ -1279,7 +1340,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
