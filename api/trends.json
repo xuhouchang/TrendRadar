@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-30T03:10:02.793169+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-30T03:52:24.001215+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 15,
       "titles": [
-        {
-          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2000170572613706473",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
-        },
         {
           "title": "中国新能源汽车持续领跑全球",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "缅北明家犯罪集团案11名罪犯被执行死刑",
@@ -38,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -49,20 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
-        },
-        {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -73,8 +50,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
+        },
+        {
+          "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2000170572613706473",
+          "source": "知乎",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "国铁集团：误购车票限时免费退票政策将常态化实施",
@@ -85,19 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
-        },
-        {
-          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
-          "url": "https://wallstreetcn.com/livenews/3046656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -106,11 +97,24 @@
           "ranks": [
             17,
             14,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
+        },
+        {
+          "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
+          "url": "https://wallstreetcn.com/livenews/3046656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 03时52分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -123,8 +127,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
