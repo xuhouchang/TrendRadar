@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:01:38.297586+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-01-29T12:13:52.905095+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 65,
+      "match_count": 72,
       "titles": [
         {
           "title": "誓保主力箭首飞和回收成功！中国商火年度会议亮目标 可复用成2026航天关键词",
@@ -99,6 +99,30 @@
           "time_info": "[05时31分 ~ 05时56分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时13分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)股价在盘后交易中上涨4%，此前第四季度调整后每股收益超出预期。",
           "url": "https://flash.jin10.com/detail/20260129050849422800",
           "source": "金十数据",
@@ -132,6 +156,28 @@
           "time_info": "[07时27分 ~ 07时50分]"
         },
         {
+          "title": "明家犯罪集团11人被执行死刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A211%E4%BA%BA%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "明家犯罪集团11人被执行死刑",
+          "url": "https://www.douyin.com/hot/2382827",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
           "url": "https://flash.jin10.com/detail/20260129050817558800",
           "source": "金十数据",
@@ -154,17 +200,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "特斯拉CFO：随着Optimus的生产和扩张启动，资本支出正投入计算领域，用于训练Optimus。",
           "url": "https://wallstreetcn.com/livenews/3045901",
           "source": "华尔街见闻-快讯",
@@ -174,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        },
-        {
-          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
-          "url": "https://www.cls.cn/detail/2273332",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "前美联储副主席、太平洋投资管理公司（PIMCO，品浩）全球经济顾问克拉里达（Rich Clarida）：预计美国10年期国债收益率曲线将趋陡。（彭博电视）",
@@ -204,9 +228,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "马斯克：特斯拉需建造巨型芯片工厂",
+          "url": "https://www.toutiao.com/trending/7600569251308552233/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "港股地产股大涨，融创中国涨超30%，中国奥园涨26%、世茂集团、碧桂园、佳兆业集团均涨超20%，正荣地产、旭辉控股集团、富力地产涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3046071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "马斯克：特斯拉“有望”在4月份首发下一代Roadster。",
@@ -231,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时50分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "马斯克表示，特斯拉需要建立半导体工厂。 特斯拉芯片将“自用”。",
@@ -575,7 +632,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -597,7 +654,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -619,7 +676,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -685,9 +742,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "马斯克：2026年资本支出将“非常大”",
+          "url": "https://www.toutiao.com/trending/7599623399094763583/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "蚂蚁集团入股AI大模型技术研发商西湖心辰",
@@ -696,9 +764,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "曝奇瑞将用捷豹路虎英国工厂生产汽车",
+          "url": "https://www.toutiao.com/trending/7599537063838957622/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "市场消息：黑石集团(BX.N)考虑为密歇根州的甲骨文数据中心项目提供资金。",
@@ -729,7 +808,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
