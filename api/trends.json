@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T16:40:13.902701+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-01-30T17:38:37.242768+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -75,6 +75,36 @@
           "time_info": "[00时02分 ~ 10时02分]"
         },
         {
+          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1999568077138973825",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时38分]"
+        },
+        {
+          "title": "新政祭出锁血挂,兜底快准稳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349915&amp;topic_name=%E6%96%B0%E6%94%BF%E7%A5%AD%E5%87%BA%E9%94%81%E8%A1%80%E6%8C%82%2C%E5%85%9C%E5%BA%95%E5%BF%AB%E5%87%86%E7%A8%B3",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9,
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时38分]"
+        },
+        {
           "title": "汽车节目主持人哈蒙德入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
@@ -107,20 +137,6 @@
           "time_info": "[00时02分 ~ 10时02分]"
         },
         {
-          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1999568077138973825",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时40分]"
-        },
-        {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
           "url": "https://www.zhihu.com/question/2000170572613706473",
           "source": "知乎",
@@ -137,19 +153,16 @@
           "time_info": "[00时02分 ~ 07时51分]"
         },
         {
-          "title": "新政祭出锁血挂,兜底快准稳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349915&amp;topic_name=%E6%96%B0%E6%94%BF%E7%A5%AD%E5%87%BA%E9%94%81%E8%A1%80%E6%8C%82%2C%E5%85%9C%E5%BA%95%E5%BF%AB%E5%87%86%E7%A8%B3",
-          "source": "贴吧",
+          "title": "缅北徐发启犯罪集团案宣判",
+          "url": "https://www.douyin.com/hot/2383983",
+          "source": "抖音",
           "ranks": [
-            3,
-            9,
-            11,
-            12,
-            13
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 17时38分]"
         },
         {
           "title": "明家犯罪集团11人被执行死刑",
@@ -165,18 +178,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时02分 ~ 07时51分]"
-        },
-        {
-          "title": "缅北徐发启犯罪集团案宣判",
-          "url": "https://www.douyin.com/hot/2383983",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 16时40分]"
         },
         {
           "title": "英伟达与梅赛德斯奔驰集团推进既定的无人驾驶出租车计划。",
@@ -200,9 +201,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "独家｜宁德时代“钠新”电池正式进入乘用车 钠电赛道全面爆发在即？",
+          "url": "https://www.cls.cn/detail/2275443",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时38分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
@@ -230,6 +243,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 07时51分]"
+        },
+        {
+          "title": "马斯克：特斯拉的最强对手来自中国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时38分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
@@ -302,17 +328,6 @@
           "time_info": "[05时29分 ~ 05时54分]"
         },
         {
-          "title": "独家｜宁德时代“钠新”电池正式进入乘用车 钠电赛道全面爆发在即？",
-          "url": "https://www.cls.cn/detail/2275443",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时40分]"
-        },
-        {
           "title": "缅北徐发启犯罪集团案宣判",
           "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%BE%90%E5%8F%91%E5%90%AF%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4",
           "source": "百度热搜",
@@ -331,18 +346,6 @@
           "ranks": [
             28,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时40分]"
-        },
-        {
-          "title": "马斯克：特斯拉的最强对手来自中国",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -435,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美股金矿股盘前下跌，纽曼矿业(NEM.N)跌7.1%，Sibanye-Stillwater(SBSW.N)跌8%，巴里克黄金(GOLD.N)跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260130170900682800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "金十图示：2026年01月30日（周五）全球汽车制造商市值变化",
