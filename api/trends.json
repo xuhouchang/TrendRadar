@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T19:29:19.260187+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-01-30T19:53:37.439952+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 55,
       "titles": [
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 19时53分]"
         },
         {
           "title": "缅北徐发启犯罪集团案宣判",
@@ -145,11 +145,12 @@
             13,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 19时29分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 19时53分]"
         },
         {
           "title": "缅北明家犯罪集团案 11 名罪犯被执行死刑，有哪些警示作用？",
@@ -168,6 +169,19 @@
           "time_info": "[00时02分 ~ 07时51分]"
         },
         {
+          "title": "独家｜宁德时代“钠新”电池正式进入乘用车 钠电赛道全面爆发在即？",
+          "url": "https://www.cls.cn/detail/2275443",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时41分 ~ 19时53分]"
+        },
+        {
           "title": "明家犯罪集团11人被执行死刑",
           "url": "https://www.douyin.com/hot/2382827",
           "source": "抖音",
@@ -181,19 +195,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时02分 ~ 07时51分]"
-        },
-        {
-          "title": "独家｜宁德时代“钠新”电池正式进入乘用车 钠电赛道全面爆发在即？",
-          "url": "https://www.cls.cn/detail/2275443",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 19时29分]"
         },
         {
           "title": "马斯克：特斯拉的最强对手来自中国",
@@ -225,6 +226,17 @@
           "time_info": "[03时10分 ~ 05时29分]"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)：展望财年资本支出为270亿至290亿美元，四季度收入为823.08亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130194221730800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "理想汽车高管确认切入人形机器人",
           "url": "https://wallstreetcn.com/livenews/3047159",
           "source": "华尔街见闻-快讯",
@@ -234,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)：全年净产量达到40多年来的最高水平，为每天470万桶石油当量。",
+          "url": "https://flash.jin10.com/detail/20260130194136654800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
@@ -274,17 +297,6 @@
           "time_info": "18时35分"
         },
         {
-          "title": "吉华集团：杭州锦辉机电设备有限公司正在筹划有关协议转让所持有的公司部分股权等事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3047326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，ASHR涨0.9%，KWEB涨0.5%，CQQQ跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3046683",
           "source": "华尔街见闻-快讯",
@@ -296,15 +308,15 @@
           "time_info": "05时29分"
         },
         {
-          "title": "广汽集团：预计2025年净亏损80亿元-90亿元，与上年同期相比，出现亏损；公司自二季度汽车销量虽环比不断提升，但全年汽车销量未达预期。",
-          "url": "https://wallstreetcn.com/livenews/3047318",
+          "title": "埃克森美孚石油公司第四季度收入及其他收益823.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3047339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "19时53分"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -340,6 +352,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时35分 ~ 19时29分]"
+        },
+        {
+          "title": "吉华集团：杭州锦辉机电设备有限公司正在筹划有关协议转让所持有的公司部分股权等事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3047326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时53分]"
         },
         {
           "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
@@ -390,6 +414,18 @@
           "time_info": "[05时29分 ~ 05时54分]"
         },
         {
+          "title": "广汽集团：预计2025年净亏损80亿元-90亿元，与上年同期相比，出现亏损；公司自二季度汽车销量虽环比不断提升，但全年汽车销量未达预期。",
+          "url": "https://wallstreetcn.com/livenews/3047318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时53分]"
+        },
+        {
           "title": "缅北徐发启犯罪集团案宣判",
           "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E5%BE%90%E5%8F%91%E5%90%AF%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4",
           "source": "百度热搜",
@@ -412,6 +448,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时41分 ~ 16时40分]"
+        },
+        {
+          "title": "小米集团斥资1.498亿港元回购420万股。",
+          "url": "https://wallstreetcn.com/livenews/3047309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时53分]"
         },
         {
           "title": "尊界S800智驾中撞上环卫工人",
@@ -447,6 +495,17 @@
           "time_info": "[05时29分 ~ 05时54分]"
         },
         {
+          "title": "国轩高科：预计2025年净利润同比增长107.16%-148.59%",
+          "url": "https://wallstreetcn.com/livenews/3047335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
           "url": "https://flash.jin10.com/detail/20260130003639373800",
           "source": "金十数据",
@@ -458,15 +517,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "小米集团斥资1.498亿港元回购420万股。",
-          "url": "https://wallstreetcn.com/livenews/3047309",
+          "title": "雪佛龙第四季度调整后每股收益1.52美元，预估1.38美元。 雪佛龙第四季度营收及其他收入468.7亿美元，预估441.6亿美元。 雪佛龙美股盘前跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3047332",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "19时53分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.35%，报7919.48点。 热门中概股里，蔚来初步收涨3.8%，百胜中国涨1%，腾讯、新东方、理想、小米、美团至多涨超0.9%，阿里跌0.7%，网易跌1.3%，文远知行跌4.5%，小马智行跌7.9%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收跌0.81%。 中概互联网指数ETF（KWEB）收涨0.55%，中国科技指数ETF（CQQQ）收跌1.49%。",
@@ -478,6 +537,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)：展望财年资本支出为270亿至290亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130193125622800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)四季度的净产量达到每天500万桶石油当量。",
+          "url": "https://flash.jin10.com/detail/20260130193105594800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "黑石集团利润增长3%，总裁称交易活动达到“逃逸速度”",
@@ -497,7 +578,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -535,6 +616,28 @@
           "time_info": "17时38分"
         },
         {
+          "title": "据英国金融时报：雪佛龙(CVX.N)今年不会增加资本支出以加快在委内瑞拉的扩张。",
+          "url": "https://flash.jin10.com/detail/20260130192545829800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "雪佛龙的“稳字诀”：分红再提4% 不买新设备也要在委大增产",
+          "url": "https://flash.jin10.com/detail/20260130192457290800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "金十图示：2026年01月30日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260130110900464800",
           "source": "金十数据",
@@ -546,6 +649,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "雪佛龙(CVX.N)：预计第一季度停工造成的影响相当于每天18.5万至22.5万桶油当量。",
+          "url": "https://flash.jin10.com/detail/20260130192118233800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "中国五矿集团、中国国新等成立湖南金属矿产公司",
           "url": "https://wallstreetcn.com/livenews/3047010",
           "source": "华尔街见闻-快讯",
@@ -555,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：预计第一季度股票回购规模为25亿至30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130192039074800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     }
