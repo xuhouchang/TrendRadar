@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T18:52:07.292641+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-31T19:21:21.436147+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时57分 ~ 18时52分]"
+          "appearance_count": 16,
+          "time_info": "[09时57分 ~ 19时21分]"
         },
         {
           "title": "新政祭出锁血挂,兜底快准稳",
@@ -35,8 +35,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时39分 ~ 18时52分]"
+          "appearance_count": 32,
+          "time_info": "[00时39分 ~ 19时21分]"
         },
         {
           "title": "2026年1月中国汽车经销商库存预警指数为59.4%",
@@ -56,6 +56,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时08分 ~ 17时53分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260131160716286800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            10,
+            11,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时21分]"
         },
         {
           "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
@@ -105,21 +121,6 @@
           "time_info": "[09时57分 ~ 15时51分]"
         },
         {
-          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20260131160716286800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时52分]"
-        },
-        {
           "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
           "url": "https://flash.jin10.com/detail/20260131111222966800",
           "source": "金十数据",
@@ -156,11 +157,12 @@
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 19时21分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -180,11 +182,12 @@
           "url": "https://flash.jin10.com/detail/20260131180157270800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时21分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
