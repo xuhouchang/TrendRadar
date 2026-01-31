@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T18:25:32.959114+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-01-31T18:52:07.292641+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时57分 ~ 18时52分]"
         },
         {
           "title": "新政祭出锁血挂,兜底快准稳",
@@ -31,11 +31,12 @@
             27,
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时39分 ~ 18时25分]"
+          "appearance_count": 31,
+          "time_info": "[00时39分 ~ 18时52分]"
         },
         {
           "title": "2026年1月中国汽车经销商库存预警指数为59.4%",
@@ -104,6 +105,21 @@
           "time_info": "[09时57分 ~ 15时51分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260131160716286800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时52分]"
+        },
+        {
           "title": "美国边境事务主管霍曼：特朗普总统上任刚满一年，我们已通过边境巡逻队和移民与海关执法局完成超过70万次驱逐，这创造了纪录……我经手的驱逐案例数量已超过自艾森豪威尔政府以来任何一位官员。",
           "url": "https://flash.jin10.com/detail/20260131111222966800",
           "source": "金十数据",
@@ -136,18 +152,15 @@
           "time_info": "[12时08分 ~ 15时51分]"
         },
         {
-          "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20260131160716286800",
-          "source": "金十数据",
+          "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
+          "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            6,
-            10,
-            11
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时25分]"
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -161,6 +174,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 07时50分]"
+        },
+        {
+          "title": "马斯克称曾多次拒绝爱泼斯坦的邀约",
+          "url": "https://flash.jin10.com/detail/20260131180157270800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
