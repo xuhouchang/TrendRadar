@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T17:29:16.823831+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-01-31T17:53:20.663804+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时57分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时57分 ~ 17时53分]"
         },
         {
           "title": "新政祭出锁血挂,兜底快准稳",
@@ -29,11 +29,12 @@
             25,
             27,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时39分 ~ 17时29分]"
+          "appearance_count": 28,
+          "time_info": "[00时39分 ~ 17时53分]"
         },
         {
           "title": "2026年1月中国汽车经销商库存预警指数为59.4%",
@@ -47,11 +48,12 @@
             18,
             21,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 17时53分]"
         },
         {
           "title": "美联储理事鲍曼：期待与美国总统特朗普的美联储主席提名人凯文·沃什合作。",
@@ -138,11 +140,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时53分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
