@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T01:49:51.569375+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2026-02-01T02:34:08.208815+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
           "url": "https://www.cls.cn/detail/2276362",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
@@ -37,8 +38,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
