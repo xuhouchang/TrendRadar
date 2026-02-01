@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:54:21.708262+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-01T23:25:50.110348+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,31 @@
             7,
             6,
             25,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时31分 ~ 22时54分]"
+          "appearance_count": 12,
+          "time_info": "[17时31分 ~ 23时25分]"
+        },
+        {
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            7,
+            10,
+            12,
+            15,
+            17,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时32分 ~ 23时25分]"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -63,22 +83,23 @@
           "time_info": "[12时40分 ~ 18时54分]"
         },
         {
-          "title": "小鹏汽车：2026年1月共交付新车20011台。",
-          "url": "https://wallstreetcn.com/livenews/3047804",
+          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
+          "url": "https://wallstreetcn.com/livenews/3047795",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
             5,
-            7,
-            10,
-            12,
-            15,
-            17,
-            22
+            9,
+            11,
+            14,
+            16,
+            19,
+            21,
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时32分 ~ 22时54分]"
+          "appearance_count": 10,
+          "time_info": "[17时32分 ~ 23时25分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -93,24 +114,6 @@
           "time_info": "[00时29分 ~ 15时56分]"
         },
         {
-          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
-          "url": "https://wallstreetcn.com/livenews/3047795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            11,
-            14,
-            16,
-            19,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时32分 ~ 22时54分]"
-        },
-        {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
           "url": "https://wallstreetcn.com/livenews/3047813",
           "source": "华尔街见闻-快讯",
@@ -119,11 +122,28 @@
             3,
             6,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时22分 ~ 22时54分]"
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时25分]"
+        },
+        {
+          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
+          "url": "https://wallstreetcn.com/livenews/3047810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            9,
+            11,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时25分]"
         },
         {
           "title": "蔚来公司1月交付同比增长96.1%，全新ES8完成第6万台新车交付",
@@ -144,6 +164,21 @@
           "time_info": "[16时33分 ~ 21时43分]"
         },
         {
+          "title": "广汽集团：1月销量11.66万辆，同比增长18.47%",
+          "url": "https://wallstreetcn.com/livenews/3047815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时45分 ~ 23时25分]"
+        },
+        {
           "title": "问界汽车：1月交付40016辆，同比增长83%。",
           "url": "https://wallstreetcn.com/livenews/3047761",
           "source": "华尔街见闻-快讯",
@@ -160,33 +195,16 @@
           "time_info": "[14时01分 ~ 18时54分]"
         },
         {
-          "title": "广汽集团：1月销量11.66万辆，同比增长18.47%",
-          "url": "https://wallstreetcn.com/livenews/3047815",
-          "source": "华尔街见闻-快讯",
+          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764683",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
-            6,
-            11
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时45分 ~ 22时54分]"
-        },
-        {
-          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
-          "url": "https://wallstreetcn.com/livenews/3047810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            9,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时22分 ~ 22时54分]"
+          "time_info": "[20时51分 ~ 23时25分]"
         },
         {
           "title": "俄罗斯摩尔曼斯克港口在电力中断后恢复运营",
@@ -228,16 +246,16 @@
           "time_info": "[19时45分 ~ 21时43分]"
         },
         {
-          "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764683",
-          "source": "华尔街见闻",
+          "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
+          "url": "https://www.zhihu.com/question/2001369753546139136",
+          "source": "知乎",
           "ranks": [
-            9,
-            10
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "理想汽车：2026年1月交付27,668辆汽车。",
@@ -253,6 +271,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时25分 ~ 16时33分]"
+        },
+        {
+          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
+          "url": "https://flash.jin10.com/detail/20260201204302915800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时25分]"
+        },
+        {
+          "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
+          "url": "https://www.zhihu.com/question/2001227035343863932",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "长城汽车：1月新能源车销售18,029台。",
@@ -282,31 +328,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时51分 ~ 22时54分]"
-        },
-        {
-          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
-          "url": "https://flash.jin10.com/detail/20260201204302915800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时54分]"
-        },
-        {
-          "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
-          "url": "https://www.zhihu.com/question/2001369753546139136",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时54分]"
         },
         {
           "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
@@ -357,18 +378,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时25分 ~ 15时56分]"
-        },
-        {
-          "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
-          "url": "https://www.zhihu.com/question/2001227035343863932",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时54分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
@@ -423,6 +432,18 @@
           "time_info": "[12时40分 ~ 15时03分]"
         },
         {
+          "title": "马斯克回应曾试图前往爱泼斯坦小岛",
+          "url": "https://www.toutiao.com/trending/7601314667331846194/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "爱泼斯坦曾邀请马斯克上岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%9B%BE%E9%82%80%E8%AF%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -433,17 +454,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时55分 ~ 16时33分]"
-        },
-        {
-          "title": "马斯克回应曾试图前往爱泼斯坦小岛",
-          "url": "https://www.toutiao.com/trending/7601314667331846194/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时54分]"
         },
         {
           "title": "吉利汽车1月汽车总销量为27.02万部",
