@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T03:25:15.021129+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-02-02T03:46:27.049153+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 03时46分]"
+        },
+        {
+          "title": "曼联3-2绝杀富勒姆",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E7%BB%9D%E6%9D%80%E5%AF%8C%E5%8B%92%E5%A7%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时58分 ~ 03时25分]"
+          "time_info": "[01时30分 ~ 03时46分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -37,19 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 03时25分]"
-        },
-        {
-          "title": "曼联3-2绝杀富勒姆",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E7%BB%9D%E6%9D%80%E5%AF%8C%E5%8B%92%E5%A7%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 03时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -61,11 +62,12 @@
             12,
             13,
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "于文文方报平安",
@@ -76,8 +78,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
@@ -88,8 +90,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
@@ -102,8 +104,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 03时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "2526 赛季英超联赛英超第 24 轮曼联 3:2 富勒姆，如何评价这场比赛？",
@@ -113,8 +115,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 03时46分]"
         },
         {
           "title": "广汽集团：1月销量11.66万辆，同比增长18.47%",
@@ -124,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -135,8 +137,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -146,8 +148,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -157,8 +159,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
@@ -168,8 +170,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -179,8 +181,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时46分]"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
