@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T18:26:42.153375+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-01T18:54:08.005895+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
@@ -35,6 +35,18 @@
           "time_info": "[10时25分 ~ 16时33分]"
         },
         {
+          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
+          "url": "https://wallstreetcn.com/articles/3764666",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 18时54分]"
+        },
+        {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
           "url": "https://www.cls.cn/detail/2276362",
           "source": "财联社热门",
@@ -47,16 +59,32 @@
           "time_info": "[00时29分 ~ 15时56分]"
         },
         {
-          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
-          "url": "https://wallstreetcn.com/articles/3764666",
-          "source": "华尔街见闻",
+          "title": "小鹏机器人首秀摔倒 被抬离现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 18时54分]"
+        },
+        {
+          "title": "问界汽车：1月交付40016辆，同比增长83%。",
+          "url": "https://wallstreetcn.com/livenews/3047761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            16,
+            23,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 18时54分]"
         },
         {
           "title": "俄罗斯摩尔曼斯克港口在电力中断后恢复运营",
@@ -85,19 +113,17 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            1,
             5,
-            16,
-            23,
-            27
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时54分]"
         },
         {
           "title": "理想汽车：2026年1月交付27,668辆汽车。",
@@ -115,30 +141,6 @@
           "time_info": "[10时25分 ~ 16时33分]"
         },
         {
-          "title": "小鹏机器人首秀摔倒 被抬离现场",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时26分]"
-        },
-        {
-          "title": "小鹏汽车：2026年1月共交付新车20011台。",
-          "url": "https://wallstreetcn.com/livenews/3047804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时26分]"
-        },
-        {
           "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3047716",
           "source": "华尔街见闻-快讯",
@@ -148,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "比亚迪：2026年1月实现新能源汽车销量210,051辆，累计同比下降30.11%。",
+          "url": "https://wallstreetcn.com/livenews/3047810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
@@ -164,16 +177,18 @@
           "time_info": "[10时25分 ~ 15时56分]"
         },
         {
-          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
-          "url": "https://wallstreetcn.com/livenews/3047795",
+          "title": "蔚来公司1月交付同比增长96.1%，全新ES8完成第6万台新车交付",
+          "url": "https://wallstreetcn.com/livenews/3047785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9
+            3,
+            10,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时54分]"
         },
         {
           "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
@@ -190,17 +205,45 @@
           "time_info": "[10时25分 ~ 15时56分]"
         },
         {
-          "title": "蔚来公司1月交付同比增长96.1%，全新ES8完成第6万台新车交付",
-          "url": "https://wallstreetcn.com/livenews/3047785",
+          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
+          "url": "https://wallstreetcn.com/livenews/3047795",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10,
-            14
+            5,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
+          "time_info": "[17时32分 ~ 18时54分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
+          "url": "https://flash.jin10.com/detail/20260201155521308800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时54分]"
+        },
+        {
+          "title": "长城汽车：1月新能源车销售18,029台。",
+          "url": "https://wallstreetcn.com/livenews/3047772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时54分]"
         },
         {
           "title": "印度股市扩大跌幅，印度NIFTY50指数跌超2%，国防指数跌超8%，公有银行指数跌6%，金融服务指数、汽车指数跌2.5%，油气指数下跌2.1%。",
@@ -227,32 +270,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时03分 ~ 16时33分]"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
-          "url": "https://flash.jin10.com/detail/20260201155521308800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
-        },
-        {
-          "title": "长城汽车：1月新能源车销售18,029台。",
-          "url": "https://wallstreetcn.com/livenews/3047772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
         },
         {
           "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
