@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:25:47.024913+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-02T06:52:42.679282+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "曼联3-2绝杀富勒姆",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时30分 ~ 06时25分]"
+          "appearance_count": 15,
+          "time_info": "[01时30分 ~ 06时52分]"
         },
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 06时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -77,11 +77,12 @@
             5,
             8,
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时24分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[03时24分 ~ 06时52分]"
         },
         {
           "title": "于文文方报平安",
@@ -89,11 +90,12 @@
           "source": "微博",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "广汽集团：1月销量11.66万辆，同比增长18.47%",
@@ -101,11 +103,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -113,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "马斯克回应曾试图前往爱泼斯坦小岛",
@@ -128,8 +132,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -137,11 +141,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时52分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -170,8 +175,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时58分 ~ 06时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
