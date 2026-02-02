@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:44:46.681343+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-02-02T19:36:36.112420+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -58,11 +58,12 @@
             8,
             9,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时58分 ~ 18时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时58分 ~ 19时36分]"
         },
         {
           "title": "2526 赛季英超联赛英超第 24 轮曼联 3:2 富勒姆，如何评价这场比赛？",
@@ -96,6 +97,23 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时36分]"
         },
         {
           "title": "于文文方报平安",
@@ -229,27 +247,27 @@
             4,
             5,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时36分]"
         },
         {
-          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
-          "source": "澎湃新闻",
+          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
+          "url": "https://www.cls.cn/detail/2277353",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            9,
+            11,
             8,
-            7,
+            9,
             6,
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时36分 ~ 18时44分]"
+          "time_info": "[14时04分 ~ 19时36分]"
         },
         {
           "title": "同属国产百万级高端增程，为何黑科技拉满的 2.0T 仰望 U8，还卖不过饱受争议的 1.5T 尊界 S800？",
@@ -267,19 +285,31 @@
           "time_info": "[10时09分 ~ 17时51分]"
         },
         {
-          "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
-          "url": "https://www.cls.cn/detail/2277353",
+          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
+          "url": "https://www.zhihu.com/question/2001617377809417361",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 19时36分]"
+        },
+        {
+          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
+          "url": "https://www.cls.cn/detail/2277374",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            9,
-            6,
-            7
+            12,
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时44分]"
+          "time_info": "[15时34分 ~ 19时36分]"
         },
         {
           "title": "白家犯罪集团案4名罪犯被执行死刑",
@@ -295,33 +325,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时36分 ~ 18时44分]"
-        },
-        {
-          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2001617377809417361",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时04分 ~ 18时44分]"
-        },
-        {
-          "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
-          "url": "https://www.cls.cn/detail/2277374",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 18时44分]"
         },
         {
           "title": "1月车市“大变天”！吉利反超比亚迪 小米SU7停产致销量跌超二成",
@@ -410,26 +413,26 @@
           "time_info": "10时10分"
         },
         {
-          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
-          "url": "https://wallstreetcn.com/livenews/3048302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "马斯克罕见牵手印度裔女友",
           "url": "https://www.toutiao.com/trending/7602012192531300362/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "牵涉爱泼斯坦案，英国前驻美大使曼德尔森宣布退出工党",
+          "url": "https://wallstreetcn.com/livenews/3048311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "马斯克暗示克林顿盖茨等人有罪",
@@ -455,17 +458,6 @@
           "time_info": "16时43分"
         },
         {
-          "title": "高盛集团董事长兼首席执行官苏德巍：对中国市场的投入长期且坚定",
-          "url": "https://wallstreetcn.com/livenews/3048299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "比亚迪电动汽车已获准在加拿大销售",
           "url": "https://www.toutiao.com/trending/7601006942567940105/",
           "source": "今日头条",
@@ -477,6 +469,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时54分]"
+        },
+        {
+          "title": "蔚来资本领投灵猴机器人超亿元Pre-B轮融资",
+          "url": "https://wallstreetcn.com/livenews/3048302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
+        },
+        {
+          "title": "高盛集团董事长兼首席执行官苏德巍：对中国市场的投入长期且坚定",
+          "url": "https://wallstreetcn.com/livenews/3048299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
         },
         {
           "title": "于文文方报平安",
@@ -500,6 +516,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 14时04分]"
+        },
+        {
+          "title": "黄土高原的土竟会影响太平洋三文鱼",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E7%9A%84%E5%9C%9F%E7%AB%9F%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%89%E6%96%87%E9%B1%BC",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时36分]"
         },
         {
           "title": "白家犯罪集团案4名罪犯被执行死刑",
@@ -558,6 +585,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "现代汽车印度高管：将评估向欧盟出口汽车的可行性。",
+          "url": "https://flash.jin10.com/detail/20260202183744440800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "A股油气股大面积低开，通源石油、中曼石油、准油股份、石化油服、贝肯能源竞价跌停，科力股份、潜能恒信跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3047943",
           "source": "华尔街见闻-快讯",
@@ -591,17 +629,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "黄土高原的土竟会影响太平洋三文鱼",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E7%9A%84%E5%9C%9F%E7%AB%9F%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%89%E6%96%87%E9%B1%BC",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
           "title": "数据显示，丹麦1月份特斯拉新车注册量同比增长2.7%。",
           "url": "https://flash.jin10.com/detail/20260202172208934800",
           "source": "金十数据",
@@ -633,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "据港交所公告，小米集团(01810.HK)于2月2日以2.092亿港元回购600万B类股份。",
+          "url": "https://flash.jin10.com/detail/20260202182742182800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "三星SDI：预计2026年美国电动汽车需求将下降9%，2026年欧洲电动汽车需求将增长9%。",
@@ -679,13 +717,24 @@
           "time_info": "15时34分"
         },
         {
+          "title": "现代汽车印度高管：预计贵金属、铜、铝等大宗商品价格将飙升。",
+          "url": "https://flash.jin10.com/detail/20260202181943887800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "英国前驻美大使曼德尔森宣布退出工党",
           "url": "https://www.toutiao.com/trending/7601786919097630756/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
