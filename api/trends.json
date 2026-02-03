@@ -1,216 +1,44 @@
 {
-  "generated_at": "2026-02-03T23:11:19.649918+08:00",
-  "total_titles_processed": 2020,
+  "generated_at": "2026-02-04T00:12:53.605290+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 65,
+      "match_count": 14,
       "titles": [
         {
-          "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32513494",
-          "source": "澎湃新闻",
+          "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
+          "url": "https://flash.jin10.com/detail/20260203235532975800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3,
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 10时08分]"
-        },
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 19时35分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时07分 ~ 23时11分]"
-        },
-        {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 16时37分]"
-        },
-        {
-          "title": "佘诗曼回应已立好遗嘱",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%94%E5%B7%B2%E7%AB%8B%E5%A5%BD%E9%81%97%E5%98%B1",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            10,
-            15,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 10时08分]"
-        },
-        {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            10,
-            12,
-            14,
-            15,
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时27分 ~ 23时11分]"
-        },
-        {
-          "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
-          "url": "https://www.zhihu.com/question/2000815546627811275",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时27分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "春节美食挑战赛轮番开场啦",
           "url": "https://www.douyin.com/hot/2388159",
           "source": "抖音",
           "ranks": [
-            2,
-            7,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时40分 ~ 23时11分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            15,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 15时43分]"
-        },
-        {
-          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
-          "url": "https://www.toutiao.com/trending/7602285893713723455/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15,
-            16,
-            20,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时07分 ~ 18时40分]"
-        },
-        {
-          "title": "亲戚白嫖蹭车,脸皮厚过轮胎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350016&amp;topic_name=%E4%BA%B2%E6%88%9A%E7%99%BD%E5%AB%96%E8%B9%AD%E8%BD%A6%2C%E8%84%B8%E7%9A%AE%E5%8E%9A%E8%BF%87%E8%BD%AE%E8%83%8E",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            19,
-            28,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 15时43分]"
-        },
-        {
-          "title": "萝莉岛兽行曝光,马斯克急撇清",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 10时08分]"
-        },
-        {
-          "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
-          "url": "https://www.zhihu.com/question/2001617377809417361",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时56分]"
-        },
-        {
-          "title": "事关汽车门把手 强制性国家标准发布",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            17,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "马斯克，被传唤",
@@ -220,329 +48,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 23时11分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.douyin.com/hot/2387887",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时42分]"
-        },
-        {
-          "title": "雷军回应小米汽车交付量下滑",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时56分]"
-        },
-        {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 14时53分]"
-        },
-        {
-          "title": "黑石集团总裁Jon Gray：数据将允许美联储随着时间的推移而降息。",
-          "url": "https://wallstreetcn.com/livenews/3049200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：尽管存在风险，大型语言模型和软件公司仍将蕴藏巨大价值。",
-          "url": "https://flash.jin10.com/detail/20260203225939745800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
-          "url": "https://wallstreetcn.com/livenews/3048579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 07时56分]"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：我们正在将人工智能方法融入“我们所做的一切”。",
-          "url": "https://flash.jin10.com/detail/20260203225931960800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "特朗普将于美东时间周二上午11点参加与哥伦比亚总统佩特罗的会议。",
-          "url": "https://wallstreetcn.com/livenews/3048701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
-          "url": "https://wallstreetcn.com/livenews/3049196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "澳联储鹰派加息超预期 西太平洋银行看涨澳元",
-          "url": "https://flash.jin10.com/detail/20260203132824594800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "据港交所文件，小米集团(01810.HK)于2月3日以1.043亿港元回购300万B类股份。",
-          "url": "https://flash.jin10.com/detail/20260203185129297800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "我的毛豆腐很曼妙",
-          "url": "https://www.douyin.com/hot/2388283",
-          "source": "抖音",
-          "ranks": [
-            22,
-            15,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时40分]"
-        },
-        {
-          "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
-          "url": "https://flash.jin10.com/detail/20260203010649552800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "官网显示，特斯拉在美国将Model Y全轮驱动版的售价定为41,990美元。",
-          "url": "https://flash.jin10.com/detail/20260203093651376800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
-          "url": "https://flash.jin10.com/detail/20260203063954637800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 07时56分]"
-        },
-        {
-          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
-          "url": "https://flash.jin10.com/detail/20260203020849427800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：更好的数据将使美联储能够随着时间的推移降低利率。",
-          "url": "https://flash.jin10.com/detail/20260203225130413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "消息人士称，嘉能可接近授权花旗担任其与力拓集团合并谈判的顾问。",
-          "url": "https://flash.jin10.com/detail/20260203003837096800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时38分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时35分]"
-        },
-        {
-          "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
-          "url": "https://www.zhihu.com/question/2000562858031801809",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 23时11分]"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 23时11分]"
-        },
-        {
-          "title": "佘诗曼回应2亿身家",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%942%E4%BA%BF%E8%BA%AB%E5%AE%B6&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 10时08分]"
-        },
-        {
-          "title": "宁德时代：截至2026年1月31日，公司通过深圳证券交易所股票交易系统以集中竞价交易方式累计回购公司A股股份1599.08万股，占公司同日A股总股本的0.3628%，成交总金额为人民币43.86亿元。",
-          "url": "https://wallstreetcn.com/livenews/3049057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时35分]"
-        },
-        {
-          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
-          "url": "https://flash.jin10.com/detail/20260203060828726800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 07时29分]"
-        },
-        {
-          "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
-          "url": "https://flash.jin10.com/detail/20260203182452740800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时35分]"
+          "time_info": "00时12分"
         },
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
           "url": "https://www.zhihu.com/question/2001257534565150999",
           "source": "知乎",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
-          "title": "鄂尔多斯汽车撞路灯杆车主排除酒驾",
-          "url": "https://www.toutiao.com/trending/7602486731975213110/",
-          "source": "今日头条",
+          "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
+          "url": "https://www.zhihu.com/question/2000562858031801809",
+          "source": "知乎",
           "ranks": [
-            12,
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -552,250 +81,85 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 23时11分]"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：美联储的数据方法论已过时。",
-          "url": "https://flash.jin10.com/detail/20260203225058275800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时12分"
         },
         {
-          "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
-          "url": "https://wallstreetcn.com/livenews/3048691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
-          "url": "https://wallstreetcn.com/livenews/3049126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：凯文·沃什是美联储主席的“杰出人选”。",
-          "url": "https://flash.jin10.com/detail/20260203225022701800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "据报道，俄罗斯总统普京与沙特王储穆罕默德·本·萨勒曼通了电话。",
-          "url": "https://flash.jin10.com/detail/20260203211244017800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "黑石集团总裁乔恩·格雷：2026年将是IPO之年。",
-          "url": "https://flash.jin10.com/detail/20260203224806219800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
-          "url": "https://wallstreetcn.com/livenews/3048963",
-          "source": "华尔街见闻-快讯",
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "00时12分"
         },
         {
-          "title": "法国财政部长：外汇波动是一个我可以根据事态发展列入七国集团议程的议题。",
-          "url": "https://flash.jin10.com/detail/20260203181438820800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "A股AI应用端开盘活跃，浙文互联直线涨停，福石控股涨超10%，天龙集团、宣亚国际、新华网、引力传媒等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048677",
+          "title": "黑石集团总裁Jon Gray：数据将允许美联储随着时间的推移而降息。",
+          "url": "https://wallstreetcn.com/livenews/3049200",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "00时12分"
         },
         {
-          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
-          "url": "https://wallstreetcn.com/livenews/3048813",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "00时12分"
         },
         {
-          "title": "汇丰：将埃克森美孚石油(XOM.N)目标股价从125美元上调至135美元。",
-          "url": "https://flash.jin10.com/detail/20260203141922699800",
+          "title": "黑石集团总裁乔恩·格雷：尽管存在风险，大型语言模型和软件公司仍将蕴藏巨大价值。",
+          "url": "https://flash.jin10.com/detail/20260203225939745800",
           "source": "金十数据",
           "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "00时12分"
         },
         {
-          "title": "工业和信息化部等八部门印发《汽车数据出境安全指引（2026版）》",
-          "url": "https://wallstreetcn.com/livenews/3048956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "法国财政部长：七国集团需要就应对全球宏观经济失衡的联合工具达成一致。",
-          "url": "https://flash.jin10.com/detail/20260203181044486800",
+          "title": "黑石集团总裁乔恩·格雷：我们正在将人工智能方法融入“我们所做的一切”。",
+          "url": "https://flash.jin10.com/detail/20260203225931960800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "问界M6汽车官图发布",
-          "url": "https://www.toutiao.com/trending/7601345846491467327/",
-          "source": "今日头条",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "00时12分"
         },
         {
-          "title": "A股商业航天概念涨势扩大，海兰信、航天发展拉升封板，神剑股份、巨力索具、中集集团、通宇通讯、航发控制等十余股涨停，春晖智控、隆华科技等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3048768",
+          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
+          "url": "https://wallstreetcn.com/livenews/3049196",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "00时12分"
         },
         {
-          "title": "媒体：对汽车隐藏式门把手说“不”",
-          "url": "https://www.toutiao.com/trending/7602205190167363603/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "马斯克：基于SpaceX（平台的）数据中心将（从资金方面）支持月球和火星计划。",
-          "url": "https://wallstreetcn.com/livenews/3048554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "轮胎充气爆炸 修车师傅被气浪崩飞",
-          "url": "https://www.toutiao.com/trending/7602048430911995910/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "黄土高原的土竟会影响太平洋三文鱼",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E7%9A%84%E5%9C%9F%E7%AB%9F%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%89%E6%96%87%E9%B1%BC",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "一位高级地区外交官表示，包括沙特阿拉伯、阿联酋、阿曼和埃及在内的部分地区国家预计将出席伊斯坦布尔会议。",
-          "url": "https://flash.jin10.com/detail/20260202235158818800",
+          "title": "黑石集团总裁乔恩·格雷：更好的数据将使美联储能够随着时间的推移降低利率。",
+          "url": "https://flash.jin10.com/detail/20260203225130413800",
           "source": "金十数据",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "法新社：马斯克旗下社交平台X的法国办公室遭搜查",
-          "url": "https://wallstreetcn.com/livenews/3049025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "外媒：法国警方突击搜查社交平台X办公室，巴黎检方传唤马斯克要其接受问询",
-          "url": "https://wallstreetcn.com/livenews/3049109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时12分"
         }
       ]
     }
