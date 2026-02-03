@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:37:20.748686+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-02-03T17:42:10.443521+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -22,20 +22,6 @@
           "time_info": "[00时01分 ~ 10时08分]"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 16时37分]"
-        },
-        {
           "title": "事关汽车门把手安全，强制性国家标准发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
           "source": "澎湃新闻",
@@ -46,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 16时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 17时42分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -58,6 +44,20 @@
             7,
             6,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 17时42分]"
+        },
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -79,6 +79,21 @@
           "time_info": "[00时53分 ~ 10时08分]"
         },
         {
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            10,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时42分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -92,6 +107,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时29分 ~ 15时43分]"
+        },
+        {
+          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
+          "url": "https://www.toutiao.com/trending/7602285893713723455/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 17时42分]"
         },
         {
           "title": "亲戚白嫖蹭车,脸皮厚过轮胎",
@@ -123,6 +153,19 @@
           "time_info": "[00时01分 ~ 10时08分]"
         },
         {
+          "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
+          "url": "https://www.zhihu.com/question/2000815546627811275",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 17时42分]"
+        },
+        {
           "title": "缅北白家犯罪集团案 4 名罪犯被执行死刑，白所成因病死亡，有哪些警示作用？",
           "url": "https://www.zhihu.com/question/2001617377809417361",
           "source": "知乎",
@@ -149,32 +192,17 @@
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
+          "title": "马斯克女儿爆料",
+          "url": "https://www.douyin.com/hot/2387887",
+          "source": "抖音",
           "ranks": [
-            6,
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时37分]"
-        },
-        {
-          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
-          "url": "https://www.toutiao.com/trending/7602285893713723455/",
-          "source": "今日头条",
-          "ranks": [
-            12,
             15,
             16,
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时07分 ~ 16时37分]"
+          "time_info": "[12时27分 ~ 17时42分]"
         },
         {
           "title": "雷军回应小米汽车交付量下滑",
@@ -191,18 +219,6 @@
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
-          "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
-          "url": "https://www.zhihu.com/question/2000815546627811275",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时37分]"
-        },
-        {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
@@ -213,19 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时35分 ~ 14时53分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.douyin.com/hot/2387887",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 16时37分]"
         },
         {
           "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
@@ -334,6 +337,19 @@
           "time_info": "[10时07分 ~ 13时35分]"
         },
         {
+          "title": "我的毛豆腐很曼妙",
+          "url": "https://www.douyin.com/hot/2388283",
+          "source": "抖音",
+          "ranks": [
+            22,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时42分]"
+        },
+        {
           "title": "佘诗曼回应2亿身家",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E5%9B%9E%E5%BA%942%E4%BA%BF%E8%BA%AB%E5%AE%B6&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -358,18 +374,6 @@
           "time_info": "[07时10分 ~ 07时29分]"
         },
         {
-          "title": "我的毛豆腐很曼妙",
-          "url": "https://www.douyin.com/hot/2388283",
-          "source": "抖音",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时37分]"
-        },
-        {
           "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
           "url": "https://wallstreetcn.com/livenews/3048691",
           "source": "华尔街见闻-快讯",
@@ -387,7 +391,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -431,7 +435,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -475,7 +479,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
