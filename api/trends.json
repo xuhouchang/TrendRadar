@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T06:31:05.211258+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-02-04T07:00:16.868147+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "春节美食挑战赛轮番开场啦",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
@@ -49,25 +49,12 @@
           "ranks": [
             10,
             9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
-        },
-        {
-          "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
-          "url": "https://www.zhihu.com/question/2000562858031801809",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
             7,
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -77,11 +64,27 @@
             11,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时29分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 07时00分]"
+        },
+        {
+          "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
+          "url": "https://www.zhihu.com/question/2000562858031801809",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -91,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -101,11 +104,12 @@
           "ranks": [
             15,
             18,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -116,8 +120,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时00分]"
         },
         {
           "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
@@ -369,7 +373,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
