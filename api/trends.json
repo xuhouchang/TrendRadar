@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T19:35:21.397290+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-02-03T21:02:06.065860+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "缅北白家犯罪集团案4名罪犯被执行死刑",
@@ -44,11 +44,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 21时02分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -78,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 21时02分]"
         },
         {
           "title": "佘诗曼回应已立好遗嘱",
@@ -107,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时27分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 21时02分]"
         },
         {
           "title": "马斯克女儿爆料",
@@ -197,6 +198,19 @@
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
+          "title": "春节美食挑战赛轮番开场啦",
+          "url": "https://www.douyin.com/hot/2388159",
+          "source": "抖音",
+          "ranks": [
+            2,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 21时02分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://www.douyin.com/hot/2387887",
           "source": "抖音",
@@ -236,16 +250,15 @@
           "time_info": "[13时35分 ~ 14时53分]"
         },
         {
-          "title": "春节美食挑战赛轮番开场啦",
-          "url": "https://www.douyin.com/hot/2388159",
-          "source": "抖音",
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时35分]"
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
@@ -289,7 +302,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -431,11 +444,34 @@
           "url": "https://www.toutiao.com/trending/7602486731975213110/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 21时02分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
+          "url": "https://www.zhihu.com/question/2000562858031801809",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
@@ -447,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
+          "url": "https://wallstreetcn.com/livenews/3049126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
@@ -601,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "外媒：法国警方突击搜查社交平台X办公室，巴黎检方传唤马斯克要其接受问询",
+          "url": "https://wallstreetcn.com/livenews/3049109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
