@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:42:29.436051+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-02-04T17:44:09.647982+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时29分 ~ 16时42分]"
+          "appearance_count": 23,
+          "time_info": "[01时29分 ~ 17时44分]"
         },
         {
           "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
@@ -254,9 +254,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "晶科能源称与马斯克考察团队接触",
+          "url": "https://www.toutiao.com/trending/7602085526292643878/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
@@ -281,6 +293,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。（日经新闻)",
+          "url": "https://wallstreetcn.com/livenews/3049758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
           "url": "https://wallstreetcn.com/livenews/3049557",
           "source": "华尔街见闻-快讯",
@@ -291,17 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时32分]"
-        },
-        {
-          "title": "晶科能源称与马斯克考察团队接触",
-          "url": "https://www.toutiao.com/trending/7602085526292643878/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "段永平：对马斯克本人看法没大改变，“投资”特斯拉基本看“市梦率”",
@@ -386,6 +398,29 @@
           "time_info": "[12时20分 ~ 13时32分]"
         },
         {
+          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时44分]"
+        },
+        {
+          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
+          "url": "https://www.zhihu.com/question/2002346311593264005",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时44分]"
+        },
+        {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
           "url": "https://www.toutiao.com/trending/7602285893713723455/",
           "source": "今日头条",
@@ -409,15 +444,26 @@
           "time_info": "[04时08分 ~ 04时51分]"
         },
         {
-          "title": "马斯克：爱泼斯坦的客户被抓多少了？是0诶",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdnp",
-          "source": "凤凰网",
+          "title": "曝马斯克团队“摸底”中国光伏产业链",
+          "url": "https://www.toutiao.com/trending/7602056837328371731/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
+          "title": "瑞银集团股价下跌4%，势将创下自去年6月以来最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20260204171756319800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时42分"
+          "time_info": "17时44分"
         },
         {
           "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
@@ -453,17 +499,6 @@
           "time_info": "02时30分"
         },
         {
-          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
-          "url": "https://www.zhihu.com/question/2002346311593264005",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
           "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
           "url": "https://flash.jin10.com/detail/20260204123732007800",
           "source": "金十数据",
@@ -473,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "瑞银集团首席财务官：美国将在2026年成为财富管理净流入的积极贡献者。",
+          "url": "https://flash.jin10.com/detail/20260204171431048800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
@@ -497,6 +543,28 @@
           "time_info": "14时54分"
         },
         {
+          "title": "获马斯克团队调研？晶盛机电回应：以公告为准",
+          "url": "https://wallstreetcn.com/livenews/3049752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "欧股伦敦证券交易所集团下跌6.8%，两日累计下跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3049750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：最终目标是实现全面的人工智能业务。",
           "url": "https://flash.jin10.com/detail/20260204013328056800",
           "source": "金十数据",
@@ -517,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "瑞银集团首席财务官：尽管需要分散投资，我们的财富管理客户仍保持风险偏好。",
+          "url": "https://flash.jin10.com/detail/20260204170933633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -561,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
+          "url": "https://flash.jin10.com/detail/20260204170430484800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "黑石集团总裁Jon Gray：数据将允许美联储随着时间的推移而降息。",
@@ -723,7 +813,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
