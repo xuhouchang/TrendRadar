@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:20:51.733224+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-02-04T13:32:56.139202+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -42,39 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时29分 ~ 12时20分]"
-        },
-        {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
           "appearance_count": 17,
-          "time_info": "[00时12分 ~ 12时20分]"
-        },
-        {
-          "title": "春节美食挑战赛轮番开场啦",
-          "url": "https://www.douyin.com/hot/2388159",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            6,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 12时20分]"
+          "time_info": "[01时29分 ~ 13时32分]"
         },
         {
           "title": "华大集团 CEO 称长期负面情绪会导致脑部生理性改变，有科学依据吗？哪些方法可以减缓这种改变？",
@@ -90,6 +59,39 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时12分 ~ 07时38分]"
+        },
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 13时32分]"
+        },
+        {
+          "title": "春节美食挑战赛轮番开场啦",
+          "url": "https://www.douyin.com/hot/2388159",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7,
+            6,
+            20,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 13时32分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -135,22 +137,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时20分]"
-        },
-        {
-          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
-          "url": "https://wallstreetcn.com/livenews/3049557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时32分]"
         },
         {
           "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
@@ -197,6 +189,18 @@
           "time_info": "07时38分"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
           "url": "https://flash.jin10.com/detail/20260204005831676800",
           "source": "金十数据",
@@ -217,17 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "城堡投资集团首席执行官格里芬：民主党人将政治话题从通胀转变为可负担性问题。",
@@ -252,15 +245,16 @@
           "time_info": "05时35分"
         },
         {
-          "title": "著名投资人段永平在雪球上谈及特斯拉时表示，“FSD确实好用，Model Y开起来也没啥不舒服的，现在开特斯拉已经是我的首选了。”",
-          "url": "https://wallstreetcn.com/livenews/3049546",
+          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
+          "url": "https://wallstreetcn.com/livenews/3049557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时32分]"
         },
         {
           "title": "恒指低开0.14%，报26797.05点；恒生科技指数跌0.87%。美团、快手、腾讯控股、华虹半导体、比亚迪股份等跌超1%。",
@@ -274,6 +268,31 @@
           "time_info": "10时03分"
         },
         {
+          "title": "零跑汽车员工吐槽年会 董事长回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时32分]"
+        },
+        {
+          "title": "著名投资人段永平在雪球上谈及特斯拉时表示，“FSD确实好用，Model Y开起来也没啥不舒服的，现在开特斯拉已经是我的首选了。”",
+          "url": "https://wallstreetcn.com/livenews/3049546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时32分]"
+        },
+        {
           "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
           "url": "https://www.toutiao.com/trending/7602285893713723455/",
           "source": "今日头条",
@@ -283,18 +302,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时31分]"
-        },
-        {
-          "title": "零跑汽车员工吐槽年会 董事长回应",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时20分]"
         },
         {
           "title": "威瑞斯克分析公司：冬季风暴“弗恩”造成的财产和汽车保险行业损失可能高达40亿美元。",
@@ -329,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
+          "url": "https://flash.jin10.com/detail/20260204123732007800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
@@ -436,7 +454,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -524,7 +542,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
