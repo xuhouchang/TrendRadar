@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:59:58.803158+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-02-05T15:55:30.506917+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 52,
+      "match_count": 61,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -104,11 +104,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时55分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -121,6 +122,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 07时54分]"
+        },
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.toutiao.com/trending/7603022074356957235/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -160,26 +173,15 @@
           "time_info": "[03时23分 ~ 04时42分]"
         },
         {
-          "title": "A股零售股尾盘再度拉升，三江购物、茂业商业涨停，杭州解百此前封板，东百集团、百大集团、上海九百、国光连锁涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3050423",
+          "title": "恒生科技指数涨超1%，此前一度跌超1.8%，消费、新能源汽车等板块涨幅居前，小米集团、联想集团均涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3050449",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.toutiao.com/trending/7603022074356957235/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时55分"
         },
         {
           "title": "比亚迪将在巴西工厂实现50%的零部件本地生产和采购。（路透）",
@@ -193,15 +195,15 @@
           "time_info": "13时38分"
         },
         {
-          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3050420",
+          "title": "港股新能源汽车股震荡走高，蔚来、小米集团双双涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3050447",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "15时55分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -226,6 +228,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "印度贸易部长：海湾合作委员会自由贸易协定有助于我们进一步实现能源来源的多元化和增长。",
+          "url": "https://flash.jin10.com/detail/20260205152833820800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "伊朗高级官员：美国执意就“非核”问题进行讨论，这可能会危及在阿曼举行的会谈。德黑兰“已做好充分准备，只就核问题与美国举行会谈”。",
           "url": "https://flash.jin10.com/detail/20260205014818035800",
           "source": "金十数据",
@@ -236,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时23分]"
+        },
+        {
+          "title": "受原油走低与化工亏损拖累 壳牌Q4利润不及预期",
+          "url": "https://flash.jin10.com/detail/20260205152750711800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "美联储负责监管的副主席、理事米歇尔·鲍曼（Michelle Bowman）声明中称：推迟（华尔街压力测试）计算新的压力资本缓冲要求，直到我们收到公众反馈。 这将使我们有机会根据这些反馈修正监管模型中的任何缺陷。",
@@ -273,13 +297,25 @@
           "time_info": "[04时42分 ~ 05时33分]"
         },
         {
+          "title": "A股零售股尾盘再度拉升，三江购物、茂业商业涨停，杭州解百此前封板，东百集团、百大集团、上海九百、国光连锁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3050423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
+        },
+        {
           "title": "伊朗外交部：伊朗外长阿拉格齐分别与埃及、阿曼、卡塔尔三国外长通电话，就地区和国际局势最新进展交换了意见。",
           "url": "https://flash.jin10.com/detail/20260205142631785800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -295,6 +331,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 04时42分]"
+        },
+        {
+          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -323,6 +371,18 @@
           "time_info": "[05时33分 ~ 06时55分]"
         },
         {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时55分]"
+        },
+        {
           "title": "报道：马斯克的SpaceX向非美银行开启IPO宣讲",
           "url": "https://wallstreetcn.com/livenews/3050032",
           "source": "华尔街见闻-快讯",
@@ -344,18 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时15分]"
-        },
-        {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "据英国《金融时报》：在与竞争对手嘉能可的任何合并中，力拓集团都在推动其董事长和首席执行官保留其职位。嘉能可则在与力拓的交易谈判中坚持要求大幅溢价。",
@@ -416,6 +464,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "弃用硬性电动令改推燃油新标 卡尼出招缓解加美汽车贸易僵局",
           "url": "https://flash.jin10.com/detail/20260205094833475800",
           "source": "金十数据",
@@ -425,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "印度贸易部长：印度与由六国组成的海湾合作委员会已就启动自由贸易协定谈判的条款达成一致。",
+          "url": "https://flash.jin10.com/detail/20260205152448665800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "春节美食挑战赛轮番开场啦",
@@ -447,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "沃达丰集团第三季度服务收入79.3亿欧元，市场预估85.2亿欧元。 第三季度内生性服务业务收入增长5.4％，市场预估增长6.03％。",
+          "url": "https://wallstreetcn.com/livenews/3050436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "西太平洋银行：澳洲联储可能被迫在3月份连续第二次加息",
@@ -493,13 +574,24 @@
           "time_info": "12时27分"
         },
         {
+          "title": "壳牌第四季度调整后利润32.6亿美元，市场预估35.1亿美元。 第四季度调整后上游利润15.7亿美元，市场预估14.5亿美元。 第四季度调整后每股收益0.57美元，市场预估0.63美元。 第四季度营收640.9亿美元，市场预估644.6亿美元。 壳牌宣布启动35亿美元的股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3050432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "沃尔沃汽车第四季度营收943.8亿瑞典克朗，市场预期1,018.3亿瑞典克朗。 第四季度营业利润18.9亿瑞典克朗，市场预期46亿瑞典克朗。 第四季度每股收益0.43瑞典克朗，市场预期1.24瑞典克朗。 第四季度销量195,700辆，市场预期196,850辆。 第四季度纯电动汽车（BEV）销量46,700辆。",
           "url": "https://wallstreetcn.com/livenews/3050397",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -521,7 +613,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -559,6 +651,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "白鹿手搓李佩仪好曼妙",
+          "url": "https://www.douyin.com/hot/2390437",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "张艺兴汽车警铃舞",
           "url": "https://www.douyin.com/hot/2389726",
           "source": "抖音",
@@ -587,7 +690,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
