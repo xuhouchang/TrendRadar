@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T13:38:56.783957+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-05T14:59:58.803158+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 52,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -99,6 +99,18 @@
           "time_info": "[06时29分 ~ 07时54分]"
         },
         {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 14时59分]"
+        },
+        {
           "title": "A股光伏板块爆发，马斯克下单了？",
           "url": "https://wallstreetcn.com/articles/3764920",
           "source": "华尔街见闻",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 07时54分]"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时38分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -160,15 +160,48 @@
           "time_info": "[03时23分 ~ 04时42分]"
         },
         {
+          "title": "A股零售股尾盘再度拉升，三江购物、茂业商业涨停，杭州解百此前封板，东百集团、百大集团、上海九百、国光连锁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3050423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.toutiao.com/trending/7603022074356957235/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "比亚迪将在巴西工厂实现50%的零部件本地生产和采购。（路透）",
           "url": "https://wallstreetcn.com/livenews/3050371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -238,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐分别与埃及、阿曼、卡塔尔三国外长通电话，就地区和国际局势最新进展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260205142631785800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -367,7 +411,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -400,7 +444,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -449,6 +493,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "沃尔沃汽车第四季度营收943.8亿瑞典克朗，市场预期1,018.3亿瑞典克朗。 第四季度营业利润18.9亿瑞典克朗，市场预期46亿瑞典克朗。 第四季度每股收益0.43瑞典克朗，市场预期1.24瑞典克朗。 第四季度销量195,700辆，市场预期196,850辆。 第四季度纯电动汽车（BEV）销量46,700辆。",
+          "url": "https://wallstreetcn.com/livenews/3050397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
           "url": "https://wallstreetcn.com/livenews/3050004",
           "source": "华尔街见闻-快讯",
@@ -460,13 +515,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "宁德时代钠电池大规模应用乘用车",
+          "url": "https://wallstreetcn.com/livenews/3050392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
           "url": "https://flash.jin10.com/detail/20260205121310721800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -488,7 +554,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -513,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
+          "url": "https://flash.jin10.com/detail/20260205140850218800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "高测股份：目前尚未开展太空光伏相关业务，未与马斯克团队开展合作",
