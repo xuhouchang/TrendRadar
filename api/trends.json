@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T21:03:24.806750+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2026-02-05T22:26:26.074858+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
@@ -115,17 +115,6 @@
           "time_info": "[00时11分 ~ 07时54分]"
         },
         {
-          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
-          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 07时54分]"
-        },
-        {
           "title": "白鹿手搓李佩仪好曼妙",
           "url": "https://www.douyin.com/hot/2390437",
           "source": "抖音",
@@ -135,8 +124,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 22时26分]"
+        },
+        {
+          "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
+          "url": "https://news.ifeng.com/c/8qTBVSJTlkn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时29分 ~ 07时54分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -163,6 +163,19 @@
           "time_info": "[12时27分 ~ 21时03分]"
         },
         {
+          "title": "中国汽车将不再使用隐藏式车门把手",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 22时26分]"
+        },
+        {
           "title": "中央一号文件“点名”新能源汽车",
           "url": "https://www.toutiao.com/trending/7603022074356957235/",
           "source": "今日头条",
@@ -173,6 +186,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时59分 ~ 15时55分]"
+        },
+        {
+          "title": "中方回应长和集团将发起国际仲裁",
+          "url": "https://www.douyin.com/hot/2390589",
+          "source": "抖音",
+          "ranks": [
+            16,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时41分 ~ 22时26分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -197,18 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时55分 ~ 07时54分]"
-        },
-        {
-          "title": "中方回应长和集团将发起国际仲裁",
-          "url": "https://www.douyin.com/hot/2390589",
-          "source": "抖音",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时03分]"
         },
         {
           "title": "沃尔沃汽车跌幅扩大至25%，自2025年10月以来的最低水平。",
@@ -263,22 +277,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
-        },
-        {
-          "title": "中国汽车将不再使用隐藏式车门把手",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 21时03分]"
         },
         {
           "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
