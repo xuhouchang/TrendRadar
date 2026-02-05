@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T17:45:05.427012+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-02-05T18:41:49.190042+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 66,
+      "match_count": 75,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -122,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 17时45分]"
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 18时41分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -174,6 +174,17 @@
           "time_info": "[06时55分 ~ 07时54分]"
         },
         {
+          "title": "白鹿手搓李佩仪好曼妙",
+          "url": "https://www.douyin.com/hot/2390437",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 18时41分]"
+        },
+        {
           "title": "比亚迪德国市场销量暴增1,000%，进一步拉开与特斯拉差距",
           "url": "https://wallstreetcn.com/livenews/3050068",
           "source": "华尔街见闻-快讯",
@@ -196,6 +207,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
+          "url": "https://wallstreetcn.com/livenews/3050579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
@@ -231,26 +264,15 @@
           "time_info": "15时55分"
         },
         {
-          "title": "乐道汽车全国换电站电池翻倍计划完成",
-          "url": "https://wallstreetcn.com/livenews/3050544",
+          "title": "蔚来美股盘前涨超8.6%，公司预计2025年第四季度经调整经营利润约7亿元至12亿元。",
+          "url": "https://wallstreetcn.com/livenews/3050576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "白鹿手搓李佩仪好曼妙",
-          "url": "https://www.douyin.com/hot/2390437",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 17时45分]"
+          "time_info": "18时41分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -331,6 +353,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "蔚来汽车(NIO.N)盘前涨幅扩大至10%，公司预计2025年第四季度经调整经营利润为7亿元-12亿元。",
+          "url": "https://flash.jin10.com/detail/20260205181243228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美联储负责监管的副主席、理事米歇尔·鲍曼（Michelle Bowman）声明中称：推迟（华尔街压力测试）计算新的压力资本缓冲要求，直到我们收到公众反馈。 这将使我们有机会根据这些反馈修正监管模型中的任何缺陷。",
           "url": "https://wallstreetcn.com/livenews/3050143",
           "source": "华尔街见闻-快讯",
@@ -340,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "蔚来美股盘前涨超9%，公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元",
+          "url": "https://wallstreetcn.com/livenews/3050574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "伊朗外长：伊美谈判将于6日在阿曼举行",
@@ -414,6 +458,30 @@
           "time_info": "[14时59分 ~ 15时55分]"
         },
         {
+          "title": "乐道汽车全国换电站电池翻倍计划完成",
+          "url": "https://wallstreetcn.com/livenews/3050544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时41分]"
+        },
+        {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 18时41分]"
+        },
+        {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
@@ -438,18 +506,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 06时55分]"
-        },
-        {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 15时55分]"
         },
         {
           "title": "报道：马斯克的SpaceX向非美银行开启IPO宣讲",
@@ -599,6 +655,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "鸿蒙智行：全新问界M7累计交付量突破10万台。",
+          "url": "https://wallstreetcn.com/livenews/3050563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "市场消息：提交的文件显示，主要汽车制造商希望修改特朗普政府提出的燃油经济性提案，但支持大幅降低严格标准的计划。",
           "url": "https://flash.jin10.com/detail/20260205004123510800",
           "source": "金十数据",
@@ -610,6 +677,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "蔚来汽车(NIO.N)盘前拉升，现涨5%。",
+          "url": "https://flash.jin10.com/detail/20260205180243355800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
           "url": "https://www.toutiao.com/trending/7602861709359087667/",
           "source": "今日头条",
@@ -619,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "中方回应长和集团将发起国际仲裁",
+          "url": "https://www.douyin.com/hot/2390589",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "索尼集团提高全年经营利润预期",
@@ -762,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "中国汽车将不再使用隐藏式车门把手",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "恒生科技指数日内跌幅收窄至0.4%，此前一度跌超1.8%。地平线机器人、比亚迪股份、联想集团、理想汽车涨超2%。",
