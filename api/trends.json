@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T03:56:36.643136+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-02-07T04:35:57.958910+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
@@ -26,11 +26,12 @@
             1,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "一人住院、全家奔波？徐美东代表谈推广“免陪照护”的问题和路径",
@@ -42,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "伊美阿曼谈判暂时结束",
@@ -55,8 +56,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
@@ -66,8 +67,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -77,8 +78,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "虞书欣跳舞身材很曼妙",
@@ -89,8 +90,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 03时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时35分]"
         },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -173,6 +174,18 @@
           "time_info": "[03时14分 ~ 03时56分]"
         },
         {
+          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
+          "url": "https://flash.jin10.com/detail/20260207030824403800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时35分]"
+        },
+        {
           "title": "一些美国住宅建筑商的股价下跌，凯建（KB Home）下跌0.8%，普尔特集团股价下跌1.1%，霍文尼亚企业股价下跌0.5%，霍顿房屋下跌2.5%，莱纳下跌2.2%。",
           "url": "https://flash.jin10.com/detail/20260207013846638800",
           "source": "金十数据",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
-          "url": "https://flash.jin10.com/detail/20260207030824403800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         },
         {
           "title": "阿布扎比国家石油公司与莱茵集团将探索在液化天然气贸易、再气化能力以及天然气和液化天然气价值链各环节机遇方面的合作。",
