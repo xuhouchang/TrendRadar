@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:50:29.517111+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-02-06T10:04:25.569429+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 10时04分]"
         },
         {
           "title": "南京一恶势力集团长期脱离侦控",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 10时04分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -75,8 +77,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 07时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 10时04分]"
         },
         {
           "title": "白鹿手搓李佩仪好曼妙",
@@ -95,6 +97,17 @@
           "time_info": "[00时07分 ~ 05时56分]"
         },
         {
+          "title": "加拿大宣布电动汽车新战略与中国合作",
+          "url": "https://www.toutiao.com/trending/7603523135841013275/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/3050883",
           "source": "华尔街见闻-快讯",
@@ -104,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "A股零售股震荡调整，百大集团触及跌停，新华百货逼近跌停，三江购物、友好集团、国光连锁、上海九百跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3051019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国曼哈顿检察官：预计将对预测市场展开执法行动",
@@ -118,6 +142,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时35分 ~ 07时50分]"
+        },
+        {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 10时04分]"
+        },
+        {
+          "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
+          "url": "https://www.zhihu.com/question/2000151959752168666",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月4日当周，美国市政债券基金获得24亿美元资金流入。 长期市政债券基金流入大约18亿美元、中期基金流入大约2.97亿美元。 高收益债券基金流入大约5.64亿美元。",
@@ -283,18 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时56分]"
-        },
-        {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时50分]"
         },
         {
           "title": "美东时间2月5日上午，一列载有危险化学品的货运列车在康涅狄格州曼斯菲尔德镇脱轨，部分车厢滑入附近一条河中。",
