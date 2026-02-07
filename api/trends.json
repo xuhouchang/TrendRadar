@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:09:10.418342+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-02-07T15:52:33.832898+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时12分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时12分 ~ 15时52分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 15时09分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 15时52分]"
         },
         {
           "title": "汽车飞机二合一！国内首款首飞成功",
@@ -71,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 15时52分]"
         },
         {
           "title": "一人住院、全家奔波？徐美东代表谈推广“免陪照护”的问题和路径",
@@ -83,11 +83,12 @@
             14,
             15,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 15时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 15时52分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -98,11 +99,12 @@
             19,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 15时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 15时52分]"
         },
         {
           "title": "伊美阿曼谈判暂时结束",
@@ -171,6 +173,19 @@
           "time_info": "[03时56分 ~ 07时51分]"
         },
         {
+          "title": "美军称在太平洋东部发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%9C%E9%83%A8%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 15时52分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -192,19 +207,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时24分 ~ 10时01分]"
-        },
-        {
-          "title": "美军称在太平洋东部发动袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%9C%E9%83%A8%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时09分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
@@ -336,11 +338,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%8C%A8%E6%8F%8D%E5%90%8E%E6%8B%89%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%8E%BB%E6%92%9E%E8%87%AA%E5%AE%B6%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 15时52分]"
         },
         {
           "title": "一些美国住宅建筑商的股价下跌，凯建（KB Home）下跌0.8%，普尔特集团股价下跌1.1%，霍文尼亚企业股价下跌0.5%，霍顿房屋下跌2.5%，莱纳下跌2.2%。",
