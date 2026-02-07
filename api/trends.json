@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T04:54:31.722872+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-08T05:26:59.559174+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "曼联2-0热刺",
@@ -57,8 +57,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "曼联连斩四场,热刺少人难招架",
@@ -69,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -81,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时26分]"
         },
         {
           "title": "2526 赛季英超联赛第 25 轮曼联 2:0 热刺，如何评价这场比赛？",
@@ -90,11 +90,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时24分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 05时26分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -104,8 +105,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时26分]"
+        },
+        {
+          "title": "加拿大总理公开表示进口中国汽车",
+          "url": "https://www.toutiao.com/trending/7603546935311794217/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 05时26分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -119,18 +133,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "加拿大总理公开表示进口中国汽车",
-          "url": "https://www.toutiao.com/trending/7603546935311794217/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 04时28分]"
         }
       ]
     }
