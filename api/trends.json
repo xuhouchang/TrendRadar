@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:49:58.319157+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-02-07T21:44:18.444319+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时59分 ~ 20时49分]"
+          "appearance_count": 17,
+          "time_info": "[09时59分 ~ 21时44分]"
         },
         {
           "title": "汽车飞机二合一！国内首款首飞成功",
@@ -171,6 +172,22 @@
           "time_info": "[12时14分 ~ 15时09分]"
         },
         {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            16,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时44分]"
+        },
+        {
           "title": "美军称在太平洋东部发动袭击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E4%B8%9C%E9%83%A8%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
@@ -200,22 +217,6 @@
           "time_info": "[15时08分 ~ 19时45分]"
         },
         {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12,
-            16,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时49分]"
-        },
-        {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
           "url": "https://flash.jin10.com/detail/20260207180410135800",
           "source": "金十数据",
@@ -223,25 +224,12 @@
             2,
             3,
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时44分]"
         },
         {
           "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
@@ -255,20 +243,23 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时49分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时44分]"
         },
         {
-          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
-          "url": "https://flash.jin10.com/detail/20260207030824403800",
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
           "source": "金十数据",
           "ranks": [
-            11,
-            24
+            7,
+            8,
+            10,
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时56分 ~ 07时51分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时44分]"
         },
         {
           "title": "伊美阿曼谈判“暂时”结束",
@@ -277,25 +268,12 @@
           "ranks": [
             20,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 20时49分]"
-        },
-        {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
-          "url": "https://wallstreetcn.com/livenews/3051709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 21时44分]"
         },
         {
           "title": "英国48家集团主席：到中国去 拥抱中国",
@@ -308,8 +286,35 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时49分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时44分]"
+        },
+        {
+          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
+          "url": "https://wallstreetcn.com/livenews/3051709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            11,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时44分]"
+        },
+        {
+          "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
+          "url": "https://flash.jin10.com/detail/20260207030824403800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时56分 ~ 07时51分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
@@ -448,6 +453,17 @@
           "time_info": "[03时14分 ~ 03时56分]"
         },
         {
+          "title": "外媒：加拿大政府向中国汽车制造商“示好”",
+          "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时44分]"
+        },
+        {
           "title": "蔚来1亿次换电正式达成",
           "url": "https://www.toutiao.com/trending/7603295658937843748/",
           "source": "今日头条",
@@ -458,17 +474,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 12时14分]"
-        },
-        {
-          "title": "外媒：加拿大政府向中国汽车制造商“示好”",
-          "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 20时49分]"
         },
         {
           "title": "娜扎演绎尊界S800新春灯语",
@@ -566,7 +571,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
