@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T18:26:47.299813+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-02-07T18:54:35.451786+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 18时54分]"
         },
         {
           "title": "汽车飞机二合一！国内首款首飞成功",
@@ -71,11 +72,12 @@
           "ranks": [
             2,
             1,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 18时54分]"
         },
         {
           "title": "一人住院、全家奔波？徐美东代表谈推广“免陪照护”的问题和路径",
@@ -194,6 +196,45 @@
           "time_info": "[03时56分 ~ 07时51分]"
         },
         {
+          "title": "狗狗挨揍后拉三轮车去撞自家汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%8C%A8%E6%8F%8D%E5%90%8E%E6%8B%89%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%8E%BB%E6%92%9E%E8%87%AA%E5%AE%B6%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 18时54分]"
+        },
+        {
+          "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
+          "url": "https://flash.jin10.com/detail/20260207180410135800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时54分]"
+        },
+        {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时54分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
           "url": "https://flash.jin10.com/detail/20260207004458170800",
           "source": "金十数据",
@@ -203,19 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
@@ -228,19 +256,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时24分 ~ 10时01分]"
-        },
-        {
-          "title": "狗狗挨揍后拉三轮车去撞自家汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%8C%A8%E6%8F%8D%E5%90%8E%E6%8B%89%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%8E%BB%E6%92%9E%E8%87%AA%E5%AE%B6%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 18时26分]"
         },
         {
           "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
@@ -269,27 +284,28 @@
           "time_info": "01时12分"
         },
         {
-          "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
-          "url": "https://flash.jin10.com/detail/20260207180410135800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
-          "url": "https://wallstreetcn.com/livenews/3051703",
+          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
+          "url": "https://wallstreetcn.com/livenews/3051709",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时26分]"
+          "time_info": "[18时26分 ~ 18时54分]"
+        },
+        {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时54分]"
         },
         {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
@@ -307,6 +323,19 @@
           "time_info": "[05时31分 ~ 07时51分]"
         },
         {
+          "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
+          "url": "https://wallstreetcn.com/livenews/3051703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时54分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨3.7%，本周涨1%整体V形反转。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。",
           "url": "https://wallstreetcn.com/livenews/3051620",
           "source": "华尔街见闻-快讯",
@@ -318,17 +347,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
-          "url": "https://wallstreetcn.com/livenews/3051709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "纳斯达克中国金龙指数涨超3%，成分股小鹏汽车(XPEV.N)涨幅超5%、蔚来汽车(NIO.N)大涨8%，理想汽车(LI.O)涨6%。",
           "url": "https://flash.jin10.com/detail/20260207003425204800",
           "source": "金十数据",
@@ -338,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "据AXIOS网站：伊朗外长阿拉格齐从阿曼动身前往卡塔尔，他将于周六在多哈会见卡塔尔首相兼外交大臣。",
@@ -389,6 +396,18 @@
           "time_info": "[06时25分 ~ 07时51分]"
         },
         {
+          "title": "伊美阿曼谈判“暂时”结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551666",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时54分]"
+        },
+        {
           "title": "据福克斯新闻：消息人士称，伊朗与美国官员在阿曼举行了面对面的谈判。这是自美国去年6月轰炸伊朗核设施以来的首次。伊朗官员称谈判持续了8小时。",
           "url": "https://flash.jin10.com/detail/20260207022751929800",
           "source": "金十数据",
@@ -413,16 +432,27 @@
           "time_info": "[09时59分 ~ 12时14分]"
         },
         {
-          "title": "伊美阿曼谈判“暂时”结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551666",
-          "source": "澎湃新闻",
+          "title": "英国48家集团主席：到中国去 拥抱中国",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD48%E5%AE%B6%E9%9B%86%E5%9B%A2%E4%B8%BB%E5%B8%AD%EF%BC%9A%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%8E%BB+%E6%8B%A5%E6%8A%B1%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            20,
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时54分]"
+        },
+        {
+          "title": "娜扎演绎尊界S800新春灯语",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%BC%94%E7%BB%8E%E5%B0%8A%E7%95%8CS800%E6%96%B0%E6%98%A5%E7%81%AF%E8%AF%AD%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时54分]"
         },
         {
           "title": "一些美国住宅建筑商的股价下跌，凯建（KB Home）下跌0.8%，普尔特集团股价下跌1.1%，霍文尼亚企业股价下跌0.5%，霍顿房屋下跌2.5%，莱纳下跌2.2%。",
@@ -469,17 +499,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "英国48家集团主席：到中国去 拥抱中国",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD48%E5%AE%B6%E9%9B%86%E5%9B%A2%E4%B8%BB%E5%B8%AD%EF%BC%9A%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%8E%BB+%E6%8B%A5%E6%8A%B1%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "乒乓球亚洲杯：王艺迪王曼昱内战",
           "url": "https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E6%B4%B2%E6%9D%AF%EF%BC%9A%E7%8E%8B%E8%89%BA%E8%BF%AA%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%85%E6%88%98",
           "source": "百度热搜",
@@ -522,17 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "娜扎演绎尊界S800新春灯语",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%BC%94%E7%BB%8E%E5%B0%8A%E7%95%8CS800%E6%96%B0%E6%98%A5%E7%81%AF%E8%AF%AD%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         }
       ]
     }
