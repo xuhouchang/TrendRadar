@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T00:31:42.384499+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-08T00:59:40.360905+08:00",
+  "total_titles_processed": 328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
           "url": "https://wallstreetcn.com/livenews/3051745",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "外媒：加拿大政府向中国汽车制造商“示好”",
@@ -37,19 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
           "url": "https://www.zhihu.com/question/2003460960812233617",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -59,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -70,8 +72,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -81,8 +83,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "曼联连斩四场,热刺少人难招架",
@@ -92,8 +94,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         }
       ]
     }
