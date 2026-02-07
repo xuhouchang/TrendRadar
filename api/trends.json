@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T01:35:11.525148+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-02-08T02:36:40.178867+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "外媒：加拿大政府向中国汽车制造商“示好”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "曼联连斩四场,热刺少人难招架",
@@ -63,19 +63,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
           "url": "https://www.cls.cn/detail/2283596",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -83,11 +84,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -97,8 +99,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     }
