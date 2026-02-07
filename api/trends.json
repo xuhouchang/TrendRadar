@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:46:09.139016+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-08T04:28:08.366496+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -28,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "曼联2-0热刺",
@@ -38,11 +39,24 @@
           "ranks": [
             2,
             3,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "曼联连斩四场,热刺少人难招架",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350365&amp;topic_name=%E6%9B%BC%E8%81%94%E8%BF%9E%E6%96%A9%E5%9B%9B%E5%9C%BA%2C%E7%83%AD%E5%88%BA%E5%B0%91%E4%BA%BA%E9%9A%BE%E6%8B%9B%E6%9E%B6",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -54,20 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时46分]"
-        },
-        {
-          "title": "曼联连斩四场,热刺少人难招架",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350365&amp;topic_name=%E6%9B%BC%E8%81%94%E8%BF%9E%E6%96%A9%E5%9B%9B%E5%9C%BA%2C%E7%83%AD%E5%88%BA%E5%B0%91%E4%BA%BA%E9%9A%BE%E6%8B%9B%E6%9E%B6",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -78,19 +80,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "2526 赛季英超联赛第 25 轮曼联 2:0 热刺，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2003566505275695240",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 03时46分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 04时28分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -100,8 +103,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -121,11 +124,12 @@
           "url": "https://www.toutiao.com/trending/7603546935311794217/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 03时46分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 04时28分]"
         }
       ]
     }
