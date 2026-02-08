@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T05:27:27.232291+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-02-09T05:52:43.764916+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "缅北明家犯罪集团首要分子明珍珍当庭忏悔，视频曝光",
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
@@ -80,8 +80,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "孙颖莎vs王曼昱",
@@ -93,11 +93,12 @@
             15,
             19,
             23,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "决赛击败王曼昱夺冠，孙颖莎生涯首次夺得亚洲杯女单金牌",
@@ -108,8 +109,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "马斯克与爱泼斯坦共进晚餐照曝光",
@@ -120,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "蒯曼逆转击败张本美和获女单季军",
@@ -131,8 +132,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "“长沙马斯克”新公司估值2个亿",
@@ -148,8 +149,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "彤程新材料集团股份有限公司递表港交所",
@@ -191,6 +192,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
+          "url": "https://flash.jin10.com/detail/20260209002305259800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 05时52分]"
         },
         {
           "title": "知名科技记者古尔曼：苹果(AAPL.O)面向开发者的首个iOS26.4测试版（计划包含新版Siri的部分功能）定于2月23日当周发布。此外，苹果还计划在3月2日当周发布新产品，包括iPhone 17e、新款iPad和全新Mac电脑。",
@@ -244,19 +259,6 @@
           "time_info": "[00时32分 ~ 03时26分]"
         },
         {
-          "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
-          "url": "https://flash.jin10.com/detail/20260209002305259800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 05时27分]"
-        },
-        {
           "title": "张本美和哭了：给自己打满分，能发挥的都发挥了，蒯曼太厉害",
           "url": "https://m.thepaper.cn/newsDetail_forward_32563316",
           "source": "澎湃新闻",
@@ -264,8 +266,35 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时26分 ~ 05时52分]"
+        },
+        {
+          "title": "孙颖莎合照给王曼昱挪位置",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%90%88%E7%85%A7%E7%BB%99%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8C%AA%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[03时26分 ~ 05时27分]"
+          "time_info": "[00时32分 ~ 05时52分]"
+        },
+        {
+          "title": "孙颖莎王曼昱争议球",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%89%E8%AE%AE%E7%90%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时52分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -279,32 +308,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 05时27分]"
-        },
-        {
-          "title": "孙颖莎合照给王曼昱挪位置",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%90%88%E7%85%A7%E7%BB%99%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8C%AA%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 01时54分]"
-        },
-        {
-          "title": "孙颖莎王曼昱争议球",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%89%E8%AE%AE%E7%90%83%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时47分]"
         }
       ]
     }
