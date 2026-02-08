@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:13:31.809316+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-02-08T15:57:04.355823+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "外媒：加拿大政府向中国汽车制造商“示好”",
@@ -54,6 +54,20 @@
           "time_info": "[00时31分 ~ 14时13分]"
         },
         {
+          "title": "曼联四连胜能否冲击冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%9B%9B%E8%BF%9E%E8%83%9C%E8%83%BD%E5%90%A6%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时57分]"
+        },
+        {
           "title": "2526 赛季英超联赛第 25 轮曼联 2:0 热刺，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2003566505275695240",
           "source": "知乎",
@@ -68,6 +82,18 @@
           "time_info": "[03时24分 ~ 07时31分]"
         },
         {
+          "title": "全球第四大汽车巨头突然爆雷",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时57分]"
+        },
+        {
           "title": "曼联连斩四场,热刺少人难招架",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350365&amp;topic_name=%E6%9B%BC%E8%81%94%E8%BF%9E%E6%96%A9%E5%9B%9B%E5%9C%BA%2C%E7%83%AD%E5%88%BA%E5%B0%91%E4%BA%BA%E9%9A%BE%E6%8B%9B%E6%9E%B6",
           "source": "贴吧",
@@ -77,11 +103,12 @@
             10,
             16,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 15时13分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 15时57分]"
         },
         {
           "title": "曼联2-0热刺",
@@ -127,30 +154,19 @@
           "time_info": "[00时31分 ~ 07时59分]"
         },
         {
-          "title": "曼联四连胜能否冲击冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%9B%9B%E8%BF%9E%E8%83%9C%E8%83%BD%E5%90%A6%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
+          "title": "全球第四大汽车巨头爆雷",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
+            29,
+            5,
             1,
-            2,
-            3,
-            5
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时13分]"
-        },
-        {
-          "title": "全球第四大汽车巨头突然爆雷",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时57分]"
         },
         {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
@@ -159,11 +175,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时57分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -204,20 +221,6 @@
           "time_info": "[03时24分 ~ 05时51分]"
         },
         {
-          "title": "全球第四大汽车巨头爆雷",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            5,
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时13分]"
-        },
-        {
           "title": "王曼昱VS张本美和",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1VS%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -240,6 +243,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时12分 ~ 15时13分]"
+        },
+        {
+          "title": "王曼昱挺进亚洲杯决赛会师孙颖莎",
+          "url": "https://www.toutiao.com/trending/7604371964530003506/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
+        },
+        {
+          "title": "王曼昱4:2张本美和",
+          "url": "https://www.douyin.com/hot/2393903",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -280,6 +305,17 @@
           "time_info": "[11时23分 ~ 15时13分]"
         },
         {
+          "title": "王曼昱4-2张本美和 将与孙颖莎争冠",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-2%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C+%E5%B0%86%E4%B8%8E%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%89%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 15时57分]"
+        },
+        {
           "title": "乒乓球亚洲杯：王曼昱vs张本美和",
           "url": "https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E6%B4%B2%E6%9D%AF%EF%BC%9A%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
           "source": "百度热搜",
@@ -289,6 +325,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
+          "title": "2026 年乒乓球亚洲杯，王曼昱 4:2 张本美和，怎么评价 17 岁张本美和职业生涯至今对王曼昱的 10 连败？",
+          "url": "https://www.zhihu.com/question/2003830866267365845",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "伊美阿曼谈判暂时结束",
@@ -301,17 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 06时56分]"
-        },
-        {
-          "title": "王曼昱4-2张本美和 将与孙颖莎争冠",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-2%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C+%E5%B0%86%E4%B8%8E%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%89%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         },
         {
           "title": "乒乓球亚洲杯：孙颖莎vs蒯曼",
