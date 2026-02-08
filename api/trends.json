@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T19:25:46.899269+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-02-08T19:47:01.704236+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "外媒：加拿大政府向中国汽车制造商“示好”",
@@ -35,24 +35,6 @@
           "time_info": "[00时31分 ~ 07时59分]"
         },
         {
-          "title": "曼联四连胜能否冲击冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%9B%9B%E8%BF%9E%E8%83%9C%E8%83%BD%E5%90%A6%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3,
-            5,
-            9,
-            18,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时23分 ~ 19时25分]"
-        },
-        {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
           "url": "https://wallstreetcn.com/livenews/3051745",
           "source": "华尔街见闻-快讯",
@@ -70,6 +52,25 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 14时13分]"
+        },
+        {
+          "title": "曼联四连胜能否冲击冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E5%9B%9B%E8%BF%9E%E8%83%9C%E8%83%BD%E5%90%A6%E5%86%B2%E5%87%BB%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            5,
+            9,
+            18,
+            22,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时23分 ~ 19时47分]"
         },
         {
           "title": "2526 赛季英超联赛第 25 轮曼联 2:0 热刺，如何评价这场比赛？",
@@ -166,6 +167,18 @@
           "time_info": "[00时31分 ~ 07时59分]"
         },
         {
+          "title": "王曼昱4-2张本美和 将与孙颖莎争冠",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-2%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C+%E5%B0%86%E4%B8%8E%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%89%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时13分 ~ 19时47分]"
+        },
+        {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
           "url": "https://flash.jin10.com/detail/20260207180410135800",
           "source": "金十数据",
@@ -191,6 +204,21 @@
           "time_info": "[15时56分 ~ 18时57分]"
         },
         {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://wallstreetcn.com/livenews/3051816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时47分]"
+        },
+        {
           "title": "全球第四大汽车巨头半年亏1500亿元",
           "url": "https://www.toutiao.com/trending/7604010892535611446/",
           "source": "今日头条",
@@ -205,6 +233,21 @@
           "time_info": "[11时23分 ~ 17时56分]"
         },
         {
+          "title": "马斯克发帖表示，是时候大规模重返月球了。",
+          "url": "https://wallstreetcn.com/livenews/3051815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时47分]"
+        },
+        {
           "title": "王曼昱挺进亚洲杯决赛会师孙颖莎",
           "url": "https://www.toutiao.com/trending/7604371964530003506/",
           "source": "今日头条",
@@ -217,18 +260,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时56分 ~ 18时57分]"
-        },
-        {
-          "title": "王曼昱4-2张本美和 将与孙颖莎争冠",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14-2%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C+%E5%B0%86%E4%B8%8E%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%89%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
@@ -246,32 +277,18 @@
           "time_info": "[11时23分 ~ 16时35分]"
         },
         {
-          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
-          "url": "https://wallstreetcn.com/livenews/3051816",
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
+            2,
             3,
-            4,
+            7,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时25分]"
-        },
-        {
-          "title": "马斯克发帖表示，是时候大规模重返月球了。",
-          "url": "https://wallstreetcn.com/livenews/3051815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时25分]"
+          "time_info": "[18时28分 ~ 19时47分]"
         },
         {
           "title": "2026 年乒乓球亚洲杯，王曼昱 4:2 张本美和，怎么评价 17 岁张本美和职业生涯至今对王曼昱的 10 连败？",
@@ -313,19 +330,6 @@
           "time_info": "[03时24分 ~ 05时51分]"
         },
         {
-          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3051817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时25分]"
-        },
-        {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将3月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶贴水1.70美元。",
           "url": "https://flash.jin10.com/detail/20260208173909106800",
           "source": "金十数据",
@@ -333,11 +337,12 @@
             3,
             5,
             7,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时47分]"
         },
         {
           "title": "马斯克：是时候大规模重返月球了。",
@@ -347,11 +352,12 @@
             4,
             6,
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时47分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -361,11 +367,35 @@
             5,
             7,
             9,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 19时47分]"
+        },
+        {
+          "title": "蒯曼逆转击败张本美和获女单季军",
+          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E9%80%86%E8%BD%AC%E5%87%BB%E8%B4%A5%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E8%8E%B7%E5%A5%B3%E5%8D%95%E5%AD%A3%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
+        },
+        {
+          "title": "彤程新材料集团股份有限公司递表港交所",
+          "url": "https://wallstreetcn.com/livenews/3051823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时47分]"
         },
         {
           "title": "王曼昱VS张本美和",
@@ -380,6 +410,30 @@
           "time_info": "[14时12分 ~ 15时13分]"
         },
         {
+          "title": "蒯曼铜牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC%E9%93%9C%E7%89%8C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
+        },
+        {
+          "title": "蒯曼vs张本美和",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 19时47分]"
+        },
+        {
           "title": "孙颖莎逆转蒯曼挺进亚洲杯决赛",
           "url": "https://www.toutiao.com/trending/7604343828522208811/",
           "source": "今日头条",
@@ -392,26 +446,28 @@
           "time_info": "[14时12分 ~ 15时13分]"
         },
         {
-          "title": "彤程新材料集团股份有限公司递表港交所",
-          "url": "https://wallstreetcn.com/livenews/3051823",
-          "source": "华尔街见闻-快讯",
+          "title": "亚洲杯决赛孙颖莎vs王曼昱",
+          "url": "https://www.douyin.com/hot/2394011",
+          "source": "抖音",
           "ranks": [
-            3
+            16,
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
         },
         {
-          "title": "蒯曼逆转击败张本美和获女单季军",
-          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC%E9%80%86%E8%BD%AC%E5%87%BB%E8%B4%A5%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E8%8E%B7%E5%A5%B3%E5%8D%95%E5%AD%A3%E5%86%9B",
-          "source": "百度热搜",
+          "title": "孙颖莎vs王曼昱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -450,29 +506,6 @@
           "time_info": "18时28分"
         },
         {
-          "title": "蒯曼铜牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC%E9%93%9C%E7%89%8C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "蒯曼vs张本美和",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时25分]"
-        },
-        {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
           "url": "https://flash.jin10.com/detail/20260208081050471800",
           "source": "金十数据",
@@ -484,6 +517,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 15时13分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
+        },
+        {
+          "title": "佩通坦一家五口现身曼谷投票站",
+          "url": "https://www.toutiao.com/trending/7603314830158086150/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
+        },
+        {
+          "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 19时47分]"
         },
         {
           "title": "乒乓球亚洲杯：王曼昱vs张本美和",
@@ -509,28 +577,6 @@
           "time_info": "[06时27分 ~ 06时56分]"
         },
         {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "亚洲杯决赛孙颖莎vs王曼昱",
-          "url": "https://www.douyin.com/hot/2394011",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "乒乓球亚洲杯：孙颖莎vs蒯曼",
           "url": "https://www.baidu.com/s?wd=%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E6%B4%B2%E6%9D%AF%EF%BC%9A%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC",
           "source": "百度热搜",
@@ -540,28 +586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "佩通坦一家五口现身曼谷投票站",
-          "url": "https://www.toutiao.com/trending/7603314830158086150/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "爱泼斯坦与马斯克共进晚餐照片曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "孙颖莎4比2战胜蒯曼",
