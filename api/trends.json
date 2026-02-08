@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:57:04.355823+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-02-08T16:35:17.157442+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
             1,
             2,
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 16时35分]"
         },
         {
           "title": "2526 赛季英超联赛第 25 轮曼联 2:0 热刺，如何评价这场比赛？",
@@ -82,18 +83,6 @@
           "time_info": "[03时24分 ~ 07时31分]"
         },
         {
-          "title": "全球第四大汽车巨头突然爆雷",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 15时57分]"
-        },
-        {
           "title": "曼联连斩四场,热刺少人难招架",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350365&amp;topic_name=%E6%9B%BC%E8%81%94%E8%BF%9E%E6%96%A9%E5%9B%9B%E5%9C%BA%2C%E7%83%AD%E5%88%BA%E5%B0%91%E4%BA%BA%E9%9A%BE%E6%8B%9B%E6%9E%B6",
           "source": "贴吧",
@@ -107,8 +96,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 15时57分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 16时35分]"
         },
         {
           "title": "曼联2-0热刺",
@@ -129,6 +118,35 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时31分 ~ 13时14分]"
+        },
+        {
+          "title": "全球第四大汽车巨头突然爆雷",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 16时35分]"
+        },
+        {
+          "title": "全球第四大汽车巨头爆雷",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            5,
+            1,
+            17,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时23分 ~ 16时35分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -154,21 +172,6 @@
           "time_info": "[00时31分 ~ 07时59分]"
         },
         {
-          "title": "全球第四大汽车巨头爆雷",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            5,
-            1,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时23分 ~ 15时57分]"
-        },
-        {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
@@ -176,11 +179,12 @@
             1,
             5,
             6,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 16时35分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -221,6 +225,29 @@
           "time_info": "[03时24分 ~ 05时51分]"
         },
         {
+          "title": "王曼昱挺进亚洲杯决赛会师孙颖莎",
+          "url": "https://www.toutiao.com/trending/7604371964530003506/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时35分]"
+        },
+        {
+          "title": "王曼昱4:2张本美和",
+          "url": "https://www.douyin.com/hot/2393903",
+          "source": "抖音",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时35分]"
+        },
+        {
           "title": "王曼昱VS张本美和",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1VS%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -245,26 +272,16 @@
           "time_info": "[14时12分 ~ 15时13分]"
         },
         {
-          "title": "王曼昱挺进亚洲杯决赛会师孙颖莎",
-          "url": "https://www.toutiao.com/trending/7604371964530003506/",
-          "source": "今日头条",
+          "title": "2026 年乒乓球亚洲杯，王曼昱 4:2 张本美和，怎么评价 17 岁张本美和职业生涯至今对王曼昱的 10 连败？",
+          "url": "https://www.zhihu.com/question/2003830866267365845",
+          "source": "知乎",
           "ranks": [
-            5
+            15,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
-        },
-        {
-          "title": "王曼昱4:2张本美和",
-          "url": "https://www.douyin.com/hot/2393903",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 16时35分]"
         },
         {
           "title": "读图｜这场上海市政府主题记者会，有哪些关键词？",
@@ -312,8 +329,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时35分]"
         },
         {
           "title": "乒乓球亚洲杯：王曼昱vs张本美和",
@@ -325,17 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 14时13分]"
-        },
-        {
-          "title": "2026 年乒乓球亚洲杯，王曼昱 4:2 张本美和，怎么评价 17 岁张本美和职业生涯至今对王曼昱的 10 连败？",
-          "url": "https://www.zhihu.com/question/2003830866267365845",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "伊美阿曼谈判暂时结束",
