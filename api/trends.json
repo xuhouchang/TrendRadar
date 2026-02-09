@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T14:07:57.510966+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-02-09T15:38:35.523629+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 14时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 15时38分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -102,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 14时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 15时38分]"
         },
         {
           "title": "张本美和哭了：给自己打满分，能发挥的都发挥了，蒯曼太厉害",
@@ -113,11 +113,12 @@
             18,
             17,
             14,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时26分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[03时26分 ~ 15时38分]"
         },
         {
           "title": "孙颖莎vs王曼昱",
@@ -340,6 +341,19 @@
           "time_info": "[00时32分 ~ 04时56分]"
         },
         {
+          "title": "曼城2-1逆转利物浦",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E2-1%E9%80%86%E8%BD%AC%E5%88%A9%E7%89%A9%E6%B5%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时38分]"
+        },
+        {
           "title": "特斯拉续航剩72公里 高速上突然断电",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%BB%AD%E8%88%AA%E5%89%A972%E5%85%AC%E9%87%8C+%E9%AB%98%E9%80%9F%E4%B8%8A%E7%AA%81%E7%84%B6%E6%96%AD%E7%94%B5",
           "source": "百度热搜",
@@ -353,16 +367,16 @@
           "time_info": "[10时11分 ~ 14时07分]"
         },
         {
-          "title": "曼城2-1逆转利物浦",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E2-1%E9%80%86%E8%BD%AC%E5%88%A9%E7%89%A9%E6%B5%A6",
-          "source": "bilibili 热搜",
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            15
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 14时07分]"
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时38分]"
         },
         {
           "title": "2026 亚洲杯女单决赛，孙颖莎 4 比 3 王曼昱首次夺冠，如何评价这场比赛？",
@@ -415,7 +429,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -430,17 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时38分]"
-        },
-        {
-          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
-          "url": "https://www.cls.cn/detail/2284254",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         },
         {
           "title": "明晚8点，雷军小年直播",
