@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-02-11T02:03:17.519333+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-02-11T03:39:54.503569+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "雷军宣布初代小米SU7正式停产",
           "url": "https://www.toutiao.com/trending/7605232752681553414/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
-        },
-        {
-          "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
-          "url": "https://flash.jin10.com/detail/20260211014636095800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
@@ -38,19 +28,65 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
-          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
-          "url": "https://wallstreetcn.com/livenews/3053187",
-          "source": "华尔街见闻-快讯",
+          "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
+          "url": "https://flash.jin10.com/detail/20260211014636095800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
+          "url": "https://flash.jin10.com/detail/20260211030806295800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "余承东：问界M9是新能源车保值率第一",
+          "url": "https://www.toutiao.com/trending/7605075450944880646/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "雷军确认第一代SU7停产",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A1%AE%E8%AE%A4%E7%AC%AC%E4%B8%80%E4%BB%A3SU7%E5%81%9C%E4%BA%A7%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
+        },
+        {
+          "title": "随着电动汽车亏损越来越大，斯泰兰蒂斯集团Stellantis寻求推出与Samsung SDI的合资公司。",
+          "url": "https://wallstreetcn.com/livenews/3053217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -97,16 +133,16 @@
           "time_info": "00时39分"
         },
         {
-          "title": "雷军确认第一代SU7停产",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A1%AE%E8%AE%A4%E7%AC%AC%E4%B8%80%E4%BB%A3SU7%E5%81%9C%E4%BA%A7%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
+          "url": "https://wallstreetcn.com/livenews/3053187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
+          "time_info": "[02时03分 ~ 03时39分]"
         },
         {
           "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
@@ -129,8 +165,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "王曼昱决胜局擦边球尊重裁判",
@@ -138,11 +174,12 @@
           "source": "微博",
           "ranks": [
             23,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "比亚迪起诉美国政府",
@@ -153,20 +190,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
-        },
-        {
-          "title": "俞浩喊话余承东加入追觅",
-          "url": "https://www.toutiao.com/trending/7605230151584009774/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -175,6 +200,18 @@
           "ranks": [
             27,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时39分]"
+        },
+        {
+          "title": "俞浩喊话余承东加入追觅",
+          "url": "https://www.toutiao.com/trending/7605230151584009774/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -209,7 +246,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -220,9 +257,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国芝商所（CME）：计划于今年夏季开始推出个股期货。 新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
+          "url": "https://wallstreetcn.com/livenews/3053190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "美国交通部提议，联邦资助的电动汽车充电站最高可要求100%使用美国本土生产的零部件。",
@@ -242,7 +290,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
