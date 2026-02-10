@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T22:02:00.624479+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-02-10T23:12:33.790671+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
@@ -72,8 +72,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时28分 ~ 22时02分]"
+          "appearance_count": 13,
+          "time_info": "[13时28分 ~ 23时12分]"
         },
         {
           "title": "萝莉岛去不成,马斯克改奔月球",
@@ -90,8 +90,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时58分 ~ 22时02分]"
+          "appearance_count": 25,
+          "time_info": "[01时58分 ~ 23时12分]"
         },
         {
           "title": "马斯克：暂时搁置火星计划，重点转向建造月球城市",
@@ -124,11 +124,12 @@
           "ranks": [
             4,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[19时31分 ~ 23时12分]"
         },
         {
           "title": "凯雷集团称石油和金属市场“投资不足” 有巨大上涨空间",
@@ -153,26 +154,15 @@
           "time_info": "14时45分"
         },
         {
-          "title": "雷军：小米高阶驾驶培训成本很高人均2000元，去年免费今年会按成本价收费",
-          "url": "https://wallstreetcn.com/livenews/3053087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "雷军宣布初代小米SU7正式停产",
-          "url": "https://wallstreetcn.com/livenews/3053084",
-          "source": "华尔街见闻-快讯",
+          "url": "https://www.toutiao.com/trending/7605232752681553414/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时12分"
         },
         {
           "title": "开云集团第四季度总可比收入同比下降3%，市场预期为下降4.77%。 第四季度总收入为39.1亿欧元，同比下降9.1%。 第四季度Gucci可比收入同比下降10%，市场预期为下降10.4%。 第四季度圣罗兰可比收入持平，市场预期为下降2.58%。 2025年经常性经营利润为16.3亿欧元，同比下降33%，市场预期为16.8亿欧元。 2025年每股股息为3欧元，市场预期为3.71欧元。",
@@ -208,6 +198,31 @@
           "time_info": "20时09分"
         },
         {
+          "title": "王曼昱决胜局擦边球尊重裁判",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%B3%E8%83%9C%E5%B1%80%E6%93%A6%E8%BE%B9%E7%90%83%E5%B0%8A%E9%87%8D%E8%A3%81%E5%88%A4&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时08分 ~ 23时12分]"
+        },
+        {
+          "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
+          "url": "https://www.zhihu.com/question/2002044616925524488",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时08分 ~ 23时12分]"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260210110644873800",
           "source": "金十数据",
@@ -241,6 +256,29 @@
           "time_info": "17时06分"
         },
         {
+          "title": "俞浩喊话余承东加入追觅",
+          "url": "https://www.toutiao.com/trending/7605230151584009774/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "雷军：小米高阶驾驶培训成本很高人均2000元，去年免费今年会按成本价收费",
+          "url": "https://wallstreetcn.com/livenews/3053087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时12分]"
+        },
+        {
           "title": "澳大利亚2月西太平洋/墨尔本消费者信心指数 90.5，前值92.9。",
           "url": "https://flash.jin10.com/detail/20260210073022272800",
           "source": "金十数据",
@@ -262,6 +300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时31分]"
+        },
+        {
+          "title": "雷军宣布初代小米SU7正式停产",
+          "url": "https://wallstreetcn.com/livenews/3053084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时12分]"
         },
         {
           "title": "澳大利亚2月西太平洋/墨尔本消费者信心指数月率 -2.6%，前值-1.70%。",
@@ -309,29 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时06分]"
-        },
-        {
-          "title": "王曼昱决胜局擦边球尊重裁判",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%B3%E8%83%9C%E5%B1%80%E6%93%A6%E8%BE%B9%E7%90%83%E5%B0%8A%E9%87%8D%E8%A3%81%E5%88%A4&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时08分 ~ 22时02分]"
-        },
-        {
-          "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
-          "url": "https://www.zhihu.com/question/2002044616925524488",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时08分 ~ 22时02分]"
         },
         {
           "title": "英国央行货币政策委员曼恩：英国脱欧持续拖累英国经济，担心消费和生产力增长缓慢。",
@@ -456,7 +483,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -478,7 +505,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -500,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -522,9 +549,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "比亚迪起诉特朗普政府：退钱！",
+          "url": "https://wallstreetcn.com/livenews/3053101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "欣旺达与吉利系达成和解，预计 2025 年归母净利润减少 5 亿元，这笔和解金的背景是什么？",
@@ -536,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "今明两天都是小年 习俗虽异平安相同",
+          "url": "https://www.toutiao.com/trending/7605184372677574683/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "壳牌CEO：我们近期无需收购任何石油资产。",
@@ -676,9 +725,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "据英国金融时报：大宗商品交易商维托集团首席财务官杰夫·德拉皮纳将退休。",
+          "url": "https://flash.jin10.com/detail/20260210224541524800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "通用汽车(GM.N)：Claudia Gast将于3月1日加入通用汽车，担任副首席财务官兼战略、企业发展与技术合作伙伴关系副总裁。",
