@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:36:19.134662+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-11T16:51:14.627841+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "雷军宣布初代小米SU7正式停产",
@@ -31,11 +31,12 @@
             16,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 15时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 16时51分]"
         },
         {
           "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
@@ -135,6 +136,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "小米集团一度涨超5%",
+          "url": "https://www.toutiao.com/trending/7605486236584644123/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
           "title": "俞浩喊话余承东加入追觅",
           "url": "https://www.baidu.com/s?wd=%E4%BF%9E%E6%B5%A9%E5%96%8A%E8%AF%9D%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8A%A0%E5%85%A5%E8%BF%BD%E8%A7%85",
           "source": "百度热搜",
@@ -157,6 +169,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "曼联九轮不败",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B9%9D%E8%BD%AE%E4%B8%8D%E8%B4%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 16时51分]"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -198,7 +223,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -254,7 +279,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -289,7 +314,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -337,18 +362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
-        },
-        {
-          "title": "曼联九轮不败",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B9%9D%E8%BD%AE%E4%B8%8D%E8%B4%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 15时36分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -470,6 +483,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "备忘录显示，特斯拉(TSLA.O)已就德国IG金属工会一名外部代表提出刑事指控。",
           "url": "https://flash.jin10.com/detail/20260211000753774800",
           "source": "金十数据",
@@ -509,9 +533,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟希望与所有27个欧盟成员国一道推进资本市场联盟，但如有必要，也可在较小的集团内推进。",
+          "url": "https://flash.jin10.com/detail/20260211162138314800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "河南矿山集团员工开小货车拉年货",
@@ -569,6 +604,28 @@
           "time_info": "02时03分"
         },
         {
+          "title": "道达尔能源首席执行官：关于委内瑞拉，我们立场明确：我们退出是因为这与我们的战略相冲突。那里成本过高、污染严重，而这种情况至今未变。",
+          "url": "https://flash.jin10.com/detail/20260211161851625800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "马斯克酝酿在月球造AI卫星工厂",
+          "url": "https://wallstreetcn.com/livenews/3053545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "雷军：彩色碳纤维上车还需要时间",
           "url": "https://www.toutiao.com/trending/7605228402714394662/",
           "source": "今日头条",
@@ -600,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "道达尔能源首席执行官：我们致力于确保我们的全球储备在未来能够持续增长。近期，我们在利比亚及其他地区达成了相关协议。",
+          "url": "https://flash.jin10.com/detail/20260211161819025800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "美国交通部提议，联邦资助的电动汽车充电站最高可要求100%使用美国本土生产的零部件。",
