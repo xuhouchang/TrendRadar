@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:51:14.627841+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-11T17:54:02.455730+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             20,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 16时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 17时54分]"
         },
         {
           "title": "比亚迪车主们，再买车你们还会继续选择比亚迪吗？",
@@ -112,6 +113,21 @@
           "time_info": "[00时39分 ~ 07时39分]"
         },
         {
+          "title": "曼联九轮不败",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B9%9D%E8%BD%AE%E4%B8%8D%E8%B4%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            29,
+            20,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 17时54分]"
+        },
+        {
           "title": "余承东：问界M9是新能源车保值率第一",
           "url": "https://www.toutiao.com/trending/7605075450944880646/",
           "source": "今日头条",
@@ -140,11 +156,12 @@
           "url": "https://www.toutiao.com/trending/7605486236584644123/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 17时54分]"
         },
         {
           "title": "俞浩喊话余承东加入追觅",
@@ -169,19 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
-        },
-        {
-          "title": "曼联九轮不败",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B9%9D%E8%BD%AE%E4%B8%8D%E8%B4%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 16时51分]"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -489,7 +493,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -544,7 +548,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -610,7 +614,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -621,7 +625,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -665,7 +669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
