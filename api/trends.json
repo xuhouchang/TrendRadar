@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T05:34:44.993648+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-02-13T06:33:33.865013+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
@@ -53,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
@@ -64,11 +64,12 @@
             15,
             17,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
@@ -80,8 +81,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
+        },
+        {
+          "title": "刘佳宇出院报平安",
+          "url": "https://www.douyin.com/hot/2398772",
+          "source": "抖音",
+          "ranks": [
+            29,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时33分]"
         },
         {
           "title": "男子结婚“摇”来约200台小米汽车",
@@ -99,18 +113,6 @@
           "time_info": "[00时59分 ~ 05时34分]"
         },
         {
-          "title": "刘佳宇出院报平安",
-          "url": "https://www.douyin.com/hot/2398772",
-          "source": "抖音",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时34分]"
-        },
-        {
           "title": "男子开特斯拉跑货拉拉最高日入上千元",
           "url": "https://www.toutiao.com/trending/7605814145933525038/",
           "source": "今日头条",
@@ -118,11 +120,12 @@
             23,
             18,
             16,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[02时00分 ~ 06时33分]"
         },
         {
           "title": "伦交所集团-理柏（LSEG-Lipper）：最近一周，美国市政债券基金获得16亿美元资金流入。",
@@ -148,15 +151,26 @@
           "time_info": "03时16分"
         },
         {
-          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3054729",
+          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3054750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时33分"
         },
         {
           "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
@@ -170,6 +184,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 05时34分]"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
@@ -210,6 +236,30 @@
           "time_info": "[00时59分 ~ 02时01分]"
         },
         {
+          "title": "美国能源部长赖特：雪佛龙公司已在加大对委内瑞拉的投资。",
+          "url": "https://flash.jin10.com/detail/20260213043546479800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
+          "url": "https://wallstreetcn.com/livenews/3054722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
           "title": "市场消息：委内瑞拉计划向雪佛龙(CVX.N)和Repsol等外资公司授予更多油田钻探区块权利。",
           "url": "https://flash.jin10.com/detail/20260213030806469800",
           "source": "金十数据",
@@ -220,28 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时43分]"
-        },
-        {
-          "title": "美国能源部长赖特：雪佛龙公司已在加大对委内瑞拉的投资。",
-          "url": "https://flash.jin10.com/detail/20260213043546479800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
-          "url": "https://wallstreetcn.com/livenews/3054722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
         },
         {
           "title": "Waymo将推出第六代Waymo Driver Auto操作系统。",
@@ -261,7 +289,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
