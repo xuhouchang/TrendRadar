@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T06:33:33.865013+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-13T07:30:12.116781+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -40,8 +40,24 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
+        },
+        {
+          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
+          "url": "https://www.zhihu.com/question/2004679465389749940",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            14,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
@@ -57,21 +73,6 @@
           "time_info": "[00时59分 ~ 06时33分]"
         },
         {
-          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
-          "url": "https://www.zhihu.com/question/2004679465389749940",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
-        },
-        {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
           "source": "澎湃新闻",
@@ -81,8 +82,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "刘佳宇出院报平安",
@@ -94,8 +95,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "男子结婚“摇”来约200台小米汽车",
@@ -128,6 +129,18 @@
           "time_info": "[02时00分 ~ 06时33分]"
         },
         {
+          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时30分]"
+        },
+        {
           "title": "伦交所集团-理柏（LSEG-Lipper）：最近一周，美国市政债券基金获得16亿美元资金流入。",
           "url": "https://wallstreetcn.com/livenews/3054701",
           "source": "华尔街见闻-快讯",
@@ -151,26 +164,17 @@
           "time_info": "03时16分"
         },
         {
-          "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054754",
-          "source": "华尔街见闻-快讯",
+          "title": "33岁男子开特斯拉跑货拉拉",
+          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            30,
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        },
-        {
-          "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
-          "url": "https://wallstreetcn.com/livenews/3054750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时30分]"
         },
         {
           "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
@@ -191,11 +195,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            22
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时30分]"
+        },
+        {
+          "title": "花旗集团上调CEO Fraser的年薪至4200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3054750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时33分]"
+          "time_info": "[06时33分 ~ 07时30分]"
         },
         {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
@@ -222,18 +239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 04时43分]"
-        },
-        {
-          "title": "33岁男子开特斯拉跑货拉拉",
-          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "美国能源部长赖特：雪佛龙公司已在加大对委内瑞拉的投资。",
