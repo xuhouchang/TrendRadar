@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-12T15:35:17.840122+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-12T16:48:01.834216+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
+          "url": "https://www.zhihu.com/question/2004679465389749940",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 16时48分]"
+        },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
@@ -19,16 +31,16 @@
           "time_info": "[00时02分 ~ 10时11分]"
         },
         {
-          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
-          "url": "https://www.zhihu.com/question/2004679465389749940",
-          "source": "知乎",
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 16时48分]"
         },
         {
           "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
@@ -169,17 +181,6 @@
           "time_info": "[10时10分 ~ 12时36分]"
         },
         {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
           "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
           "url": "https://wallstreetcn.com/livenews/3054200",
           "source": "华尔街见闻-快讯",
@@ -220,7 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         },
@@ -283,6 +284,18 @@
           "time_info": "[12时36分 ~ 14时05分]"
         },
         {
+          "title": "雷军晒新一代SU7照片",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E7%85%A7%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 16时48分]"
+        },
+        {
           "title": "马斯克xAI全员大会宣布裁员",
           "url": "https://www.toutiao.com/trending/7605774882411908671/",
           "source": "今日头条",
@@ -305,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 12时36分]"
+        },
+        {
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
         },
         {
           "title": "比尔·阿克曼管理的对冲基金潘兴广场对Meta持股20亿美元。（华尔街日报）",
@@ -338,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
+          "url": "https://wallstreetcn.com/livenews/3054360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "比尔·阿克曼重仓Meta 去年底新建仓规模达20亿美元",
@@ -395,15 +430,15 @@
           "time_info": "03时04分"
         },
         {
-          "title": "雷军晒新一代SU7照片",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E7%85%A7%E7%89%87",
-          "source": "百度热搜",
+          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3054335",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时35分"
+          "time_info": "16时48分"
         }
       ]
     }
