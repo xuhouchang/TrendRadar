@@ -1,780 +1,99 @@
 {
-  "generated_at": "2026-02-12T23:53:52.630695+08:00",
-  "total_titles_processed": 2035,
+  "generated_at": "2026-02-13T00:59:51.132977+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
-          "url": "https://www.zhihu.com/question/2004679465389749940",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 23时53分]"
-        },
-        {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 21时08分]"
-        },
-        {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时11分]"
-        },
-        {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时46分 ~ 23时53分]"
-        },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
           "url": "https://wallstreetcn.com/articles/3765571",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 23时53分]"
-        },
-        {
-          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时47分 ~ 23时53分]"
-        },
-        {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            19,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时46分 ~ 23时53分]"
-        },
-        {
-          "title": "华为余承东宣布问界两年内将冲刺 200 万辆总销量，这一目标前景如何？可能通过哪些策略实现？",
-          "url": "https://www.zhihu.com/question/2004559757655168835",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 07时32分]"
-        },
-        {
-          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
-          "url": "https://flash.jin10.com/detail/20260212035557254800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 05时04分]"
-        },
-        {
-          "title": "比亚迪和吉利竞购日产-奔驰墨西哥汽车工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "小米汽车：第一代SU7停产后仍会提供全部维修及保养服务，备件保障能力在10年以上",
-          "url": "https://wallstreetcn.com/livenews/3054575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
-          "url": "https://flash.jin10.com/detail/20260212071937799800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "市场消息：比亚迪、吉利竞购日产-奔驰墨西哥汽车工厂。",
-          "url": "https://flash.jin10.com/detail/20260212191734325800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "海致科技集团香港上市面向散户投资者部分获得5065.06倍认购",
-          "url": "https://wallstreetcn.com/livenews/3054574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "外卖员意外解锁“碎碎平安”成就",
-          "url": "https://www.toutiao.com/trending/7605779035658403903/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时05分]"
-        },
-        {
-          "title": "马斯克重组xAI 拟设四大核心板块",
-          "url": "https://flash.jin10.com/detail/20260212043905187800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "意大利油企埃尼集团：埃尼在利比亚获得新的海上勘探许可证。",
-          "url": "https://flash.jin10.com/detail/20260212005856005800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "惠誉评级：日本大型金融集团比同行更能抵御利率冲击。",
-          "url": "https://flash.jin10.com/detail/20260212135030654800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20260212180447330800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "白宫边境沙皇汤姆·霍曼：我们在明尼苏达州取得了成功成果。已大幅减少执法目标数量。",
-          "url": "https://flash.jin10.com/detail/20260212221052303800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "港交所文件显示，贝莱德在宁德时代(03750.HK)的多头头寸于2月6日从6.41%降至5.77%。",
-          "url": "https://flash.jin10.com/detail/20260212172957665800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "联想港股午后跌超5%，此前公布集团第三财季毛利率15.1%低于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3054203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布",
-          "url": "https://flash.jin10.com/detail/20260212040119925800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
-          "url": "https://flash.jin10.com/detail/20260212115333742800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
-          "url": "https://wallstreetcn.com/livenews/3053880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "特斯拉副总裁等多名骨干离职",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%89%AF%E6%80%BB%E8%A3%81%E7%AD%89%E5%A4%9A%E5%90%8D%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时36分]"
+          "time_info": "00时59分"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
           "url": "https://www.cls.cn/detail/2288733",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时32分 ~ 23时53分]"
-        },
-        {
-          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
-          "url": "https://wallstreetcn.com/livenews/3054200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "00时59分"
         },
         {
-          "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
-          "url": "https://wallstreetcn.com/livenews/3054473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3053953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 05时59分]"
-        },
-        {
-          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
-          "url": "https://flash.jin10.com/detail/20260212131655403800",
-          "source": "金十数据",
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "梅赛德斯-奔驰首席财务官：2025年标志着汽车投资的峰值。",
-          "url": "https://flash.jin10.com/detail/20260212151826674800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "雷军回应小米YU71月份销量",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3YU71%E6%9C%88%E4%BB%BD%E9%94%80%E9%87%8F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "马斯克旗下xAI披露全体会议的视频。",
-          "url": "https://wallstreetcn.com/livenews/3053940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 05时04分]"
-        },
-        {
-          "title": "“+”辆汽车回老家成为出行新选择",
-          "url": "https://www.toutiao.com/trending/7605717764578181174/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "曼城新春贺岁片你神马冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E6%96%B0%E6%98%A5%E8%B4%BA%E5%B2%81%E7%89%87%E4%BD%A0%E7%A5%9E%E9%A9%AC%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "米其林计划2026-28年回购20亿欧元股票。",
-          "url": "https://wallstreetcn.com/livenews/3053877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
-          "url": "https://wallstreetcn.com/livenews/3054184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时05分]"
-        },
-        {
-          "title": "欣旺达：子公司欣旺达动力与威睿电动达成和解，原告已撤回起诉",
-          "url": "https://wallstreetcn.com/livenews/3054407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
-        },
-        {
-          "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
-          "url": "https://wallstreetcn.com/livenews/3054433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时40分]"
-        },
-        {
-          "title": "雷军晒新一代SU7照片",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E7%85%A7%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时51分]"
-        },
-        {
-          "title": "宁德时代周四发行的科创债票面利率1.69% 创公司境内债发行史上最低",
-          "url": "https://wallstreetcn.com/livenews/3054178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时05分]"
-        },
-        {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 14时05分]"
-        },
-        {
-          "title": "曼城3-0富勒姆",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E5%AF%8C%E5%8B%92%E5%A7%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时36分]"
-        },
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场对Meta持股20亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3053906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "00时59分"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
           "url": "https://www.cls.cn/detail/2288479",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
-          "url": "https://flash.jin10.com/detail/20260212005207795800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "00时59分"
         },
         {
-          "title": "美国三大股指悉数转跌，道指跌超百点，纳指跌0.5%，半导体指数涨幅收窄至0.9%，生物科技指数跌0.9%，特斯拉跌0.4%。 纳斯达克金龙中国指数跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3053837",
-          "source": "华尔街见闻-快讯",
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "00时59分"
         },
         {
-          "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
-          "url": "https://wallstreetcn.com/livenews/3054360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "比尔·阿克曼重仓Meta 去年底新建仓规模达20亿美元",
-          "url": "https://flash.jin10.com/detail/20260212024200092800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "工信部公开征求《智能网联汽车 自动驾驶系统安全要求》等五项强制性国家标准的意见。",
-          "url": "https://wallstreetcn.com/livenews/3054465",
-          "source": "华尔街见闻-快讯",
+          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
+          "url": "https://www.zhihu.com/question/2004679465389749940",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "00时59分"
         },
         {
-          "title": "SK集团考虑与KKR成立可再生能源合资企业。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3054384",
+          "title": "Waymo将推出第六代Waymo Driver Auto操作系统。",
+          "url": "https://wallstreetcn.com/livenews/3054618",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "00时59分"
         },
         {
-          "title": "英国内阁办公室大臣克里斯·沃德：英国将完全遵从动议，公开曼德尔森相关文件。",
-          "url": "https://flash.jin10.com/detail/20260212185158000800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "日产CEO：（当被问及日产是否会考虑让其他汽车制造商在其工厂生产汽车时）如果能实现双赢，愿意与合作伙伴展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260212174631959800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "大宗商品交易商维托集团CEO：俄罗斯和伊朗石油的买家正在转向西方供应。",
-          "url": "https://flash.jin10.com/detail/20260212174546669800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "规范促销与定价等 《汽车行业价格行为合规指南》发布",
-          "url": "https://wallstreetcn.com/livenews/3054154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌超1.31%。 热门中概股腾讯音乐跌6.02%，贝壳跌4.61%，携程跌3.7%，美团跌3%，再鼎医药跌2.52%，拼多多跌2.2%，百胜中国跌1.95%，京东、蔚来、腾讯、阿里巴巴至少跌1.4%。 文远知行涨1.1%，华住、万国数据至多涨3.2%，世纪互联涨5.2%，金山云涨5.5%。 ETF中，KWEB跌2.30%，CQQQ跌0.72%，ASHR涨0.09%，ASHS涨1.15%。",
-          "url": "https://wallstreetcn.com/livenews/3054593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
-          "url": "https://flash.jin10.com/detail/20260212002919163800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "大宗商品交易商维托集团CEO：地缘政治正开始对石油市场供应端施加压力。",
-          "url": "https://flash.jin10.com/detail/20260212174028792800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.65%，报7834.34点。 热门中概股里，文远知行初步收跌5.5%，网易跌4%，百胜中国、百度、腾讯、阿里、美团跌超1%，小鹏则涨1.6%，理想涨1.8%，蔚来涨2.1%，比亚迪涨2.8%，小米涨3.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.61%，中国科技指数ETF（CQQQ）收跌0.15%。 德银嘉实沪深300指数ETF（ASHR）收跌0.06%，XtrackersHarvest中证50（ASHS）收涨0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3053956",
-          "source": "华尔街见闻-快讯",
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "科技记者古尔曼：预计苹果将在未来几周内推出iPhone 17e以及M4芯片版iPad Air",
-          "url": "https://wallstreetcn.com/livenews/3054549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3053889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "监狱概念股GEO惩教集团（GEO Group Inc.，GEO）跌14%，完全回吐特朗普在2024年11月赢得第二任期以来的所有涨幅。 白宫边境事务主管Homan宣称，特朗普政府将结束再明尼苏达的移民行动。",
-          "url": "https://wallstreetcn.com/livenews/3054590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "男子开特斯拉跑货拉拉最高日入上千元",
-          "url": "https://www.toutiao.com/trending/7605814145933525038/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3054335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "长城汽车表示，全力支持《汽车行业价格行为合规指南》，始终坚持长期主义，坚守合法合规，坚持诚信经营，积极维护国内市场秩序。",
-          "url": "https://wallstreetcn.com/livenews/3054493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "比亚迪新车矩阵曝光",
-          "url": "https://www.toutiao.com/trending/7605483812500766766/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "00时59分"
         },
         {
           "title": "刘佳宇出院报平安",
@@ -783,9 +102,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "33岁男子开特斯拉跑货拉拉",
+          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     }
