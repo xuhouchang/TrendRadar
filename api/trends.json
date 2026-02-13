@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T19:54:33.433998+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-13T21:01:27.904443+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -138,6 +138,42 @@
           "time_info": "[00时59分 ~ 05时34分]"
         },
         {
+          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
+          "url": "https://www.zhihu.com/question/2005601620591862209",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时01分]"
+        },
+        {
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 21时01分]"
+        },
+        {
+          "title": "方寒初试玲珑大罗天",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时00分 ~ 21时01分]"
+        },
+        {
           "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
           "url": "https://wallstreetcn.com/livenews/3054754",
           "source": "华尔街见闻-快讯",
@@ -171,17 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
-          "url": "https://www.zhihu.com/question/2005601620591862209",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
@@ -230,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
+        },
+        {
+          "title": "美团：尽管受持续竞争影响，亏损趋势预计将在2026年第一季度延续，但截至本公告日期，本集团的经营状况维持稳健及正常，且本集团拥有充足的现金以支撑业务的稳健发展。",
+          "url": "https://wallstreetcn.com/livenews/3055193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "“特斯拉劲敌”Rivian四季度营收12.9亿美元，分析师预期12.6亿美元。 四季度每股亏损0.66美元，上年同期亏损0.70美元。 四季度调整后每股亏损0.54美元，分析师预期亏损0.69美元。 四季度车辆交付9,745辆，分析师预期9,964辆。 四季度产量10,974辆，分析师预期10,698辆。 预计2026年交付62,000-67,000辆，分析师预期63,402辆。 预计2026年调整后EBITDA亏损18亿-21亿美元，分析师预期亏损18亿美元。",
@@ -282,18 +318,6 @@
           "time_info": "[14时00分 ~ 15时11分]"
         },
         {
-          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
-          "url": "https://www.zhihu.com/question/2005346719148237010",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时54分]"
-        },
-        {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
           "url": "https://wallstreetcn.com/livenews/3054685",
           "source": "华尔街见闻-快讯",
@@ -318,6 +342,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "澳洲女子把尿液当保养品自称能回春",
+          "url": "https://www.toutiao.com/trending/7606256645592858630/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时01分]"
         },
         {
           "title": "赛峰集团CEO：2025年航空航天供应链有所改善，但仍对铸件和锻件保持警惕。",
@@ -356,6 +392,18 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "迪拜环球港务集团（DP World）任命Yuvraj Narayan为首席执行官，Essa Kazim为董事长。",
+          "url": "https://wallstreetcn.com/livenews/3055166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时01分]"
+        },
+        {
           "title": "OpenAI CEO：马斯克攻击我们很荒唐",
           "url": "https://www.toutiao.com/trending/7605754485696135187/",
           "source": "今日头条",
@@ -390,24 +438,13 @@
           "time_info": "10时29分"
         },
         {
-          "title": "迪拜环球港务集团（DP World）任命Yuvraj Narayan为首席执行官，Essa Kazim为董事长。",
-          "url": "https://wallstreetcn.com/livenews/3055166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "永太科技：终止筹划发行股份购买宁德时代持有的邵武永太高新材料有限公司25%股权并募集配套资金事项，股票复牌。",
           "url": "https://wallstreetcn.com/livenews/3055165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -454,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "美团：本集团预期2025年度录得亏损约人民币233亿元至人民币243亿元",
+          "url": "https://wallstreetcn.com/livenews/3055184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "美国能源部长Wright：雪佛龙已经加大在委内瑞拉的投资。 雪佛龙在委内瑞拉的设施的产量将翻倍。 美国（政府）不会向企业提供经济安全保障。 （特朗普政府强行掳走总统马杜罗之后）委内瑞拉第一年（石油）产量将提高30%-40%。",
@@ -520,17 +568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
-        },
-        {
-          "title": "澳洲女子把尿液当保养品自称能回春",
-          "url": "https://www.toutiao.com/trending/7606256645592858630/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "中国两大车企比亚迪和吉利均入围收购墨西哥一家日产-奔驰合资工厂的最终候选名单。（路透）",
