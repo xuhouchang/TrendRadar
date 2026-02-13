@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T19:09:36.077466+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-02-13T19:54:33.433998+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -173,15 +173,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "小米汽车最后一台初代SU7完成交付",
-          "url": "https://wallstreetcn.com/livenews/3055140",
-          "source": "华尔街见闻-快讯",
+          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
+          "url": "https://www.zhihu.com/question/2005601620591862209",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时09分"
+          "time_info": "19时54分"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
@@ -258,6 +258,18 @@
           "time_info": "[06时33分 ~ 07时57分]"
         },
         {
+          "title": "小米汽车最后一台初代SU7完成交付",
+          "url": "https://wallstreetcn.com/livenews/3055140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时54分]"
+        },
+        {
           "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
           "url": "https://flash.jin10.com/detail/20260213132930608800",
           "source": "金十数据",
@@ -268,6 +280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时00分 ~ 15时11分]"
+        },
+        {
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
@@ -294,6 +318,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "赛峰集团CEO：2025年航空航天供应链有所改善，但仍对铸件和锻件保持警惕。",
+          "url": "https://flash.jin10.com/detail/20260213183817552800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时54分]"
         },
         {
           "title": "美国能源部长赖特：雪佛龙公司已在加大对委内瑞拉的投资。",
@@ -343,17 +379,6 @@
           "time_info": "[03时59分 ~ 04时43分]"
         },
         {
-          "title": "赛峰集团CEO：2025年航空航天供应链有所改善，但仍对铸件和锻件保持警惕。",
-          "url": "https://flash.jin10.com/detail/20260213183817552800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
           "title": "高盛集团总法律顾问Kathy Ruemmler表示，她将于6月30日从公司辞职。",
           "url": "https://wallstreetcn.com/livenews/3054831",
           "source": "华尔街见闻-快讯",
@@ -365,15 +390,26 @@
           "time_info": "10时29分"
         },
         {
-          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
-          "url": "https://www.zhihu.com/question/2005346719148237010",
-          "source": "知乎",
+          "title": "迪拜环球港务集团（DP World）任命Yuvraj Narayan为首席执行官，Essa Kazim为董事长。",
+          "url": "https://wallstreetcn.com/livenews/3055166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时09分"
+          "time_info": "19时54分"
+        },
+        {
+          "title": "永太科技：终止筹划发行股份购买宁德时代持有的邵武永太高新材料有限公司25%股权并募集配套资金事项，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3055165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "法国财政部长莱叙尔：到2035年，法国将拥有700万辆电动汽车，是目前数量的五倍。",
@@ -415,7 +451,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -437,7 +473,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -448,7 +484,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -459,7 +495,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -470,7 +506,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -481,9 +517,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "澳洲女子把尿液当保养品自称能回春",
+          "url": "https://www.toutiao.com/trending/7606256645592858630/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "中国两大车企比亚迪和吉利均入围收购墨西哥一家日产-奔驰合资工厂的最终候选名单。（路透）",
