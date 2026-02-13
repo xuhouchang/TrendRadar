@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:59:18.236272+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-14T04:49:02.939286+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时49分]"
         },
         {
           "title": "方寒初试玲珑大罗天",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时49分]"
         },
         {
           "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
@@ -40,11 +40,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 04时49分]"
+        },
+        {
+          "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
+          "url": "https://flash.jin10.com/detail/20260214025058678800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 04时49分]"
         },
         {
           "title": "与爱泼斯坦往来曝光后，迪拜环球港务集团掌门人Bin Sulayem辞职",
@@ -59,28 +73,17 @@
           "time_info": "[01时15分 ~ 02时04分]"
         },
         {
-          "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
-          "url": "https://flash.jin10.com/detail/20260214025058678800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时59分]"
-        },
-        {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
           "url": "https://flash.jin10.com/detail/20260214023821858800",
           "source": "金十数据",
           "ranks": [
             14,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 04时49分]"
         },
         {
           "title": "市场消息：SpaceX正考虑在IPO中采用双重股权结构，以强化马斯克的控制权。",
@@ -88,11 +91,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 04时49分]"
         },
         {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
