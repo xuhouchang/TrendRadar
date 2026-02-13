@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:01:27.904443+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2026-02-13T22:07:12.569624+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,19 @@
           "time_info": "[00时59分 ~ 17时10分]"
         },
         {
+          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
+          "url": "https://www.zhihu.com/question/2005601620591862209",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 22时07分]"
+        },
+        {
           "title": "男子结婚“摇”来约200台小米汽车",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
@@ -138,16 +151,16 @@
           "time_info": "[00时59分 ~ 05时34分]"
         },
         {
-          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
-          "url": "https://www.zhihu.com/question/2005601620591862209",
-          "source": "知乎",
+          "title": "方寒初试玲珑大罗天",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%AF%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            2
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 22时07分]"
         },
         {
           "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
@@ -161,17 +174,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时09分 ~ 21时01分]"
-        },
-        {
-          "title": "方寒初试玲珑大罗天",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "比亚迪与吉利竞购日产位于墨西哥的工厂。（路透）",
@@ -263,7 +265,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -499,7 +501,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
