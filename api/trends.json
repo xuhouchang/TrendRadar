@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:51:51.553852+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-15T07:25:33.504395+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
@@ -39,11 +39,12 @@
             5,
             9,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 06时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 07时25分]"
         },
         {
           "title": "方寒初试玲珑大罗天",
@@ -57,30 +58,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 06时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 07时25分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
           "url": "https://wallstreetcn.com/livenews/3055543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
           "url": "https://wallstreetcn.com/livenews/3055541",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "宁艺卓 曼谷",
@@ -105,8 +108,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时46分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[03时46分 ~ 07时25分]"
         }
       ]
     }
