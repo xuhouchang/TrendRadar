@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:08:10.552135+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-02-14T15:10:44.605257+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
@@ -32,11 +32,12 @@
             8,
             7,
             21,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时08分 ~ 14时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时08分 ~ 15时10分]"
         },
         {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
@@ -50,6 +51,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时24分 ~ 07时57分]"
+        },
+        {
+          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
+          "url": "https://www.cls.cn/detail/2290089",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 15时10分]"
         },
         {
           "title": "13F报告显示：凯雷集团四季度建仓做多Medline、网红券商Robinhood、以及Spyre Therapeutics。 增持Invitation Homes、Adicet Bio Inc.。 减持SunPower、Exicure、以及Spruce Bio。 重仓Medline、StandardAero、Phathom Pharma、小马智行、以及Invitation Homes。",
@@ -90,16 +103,16 @@
           "time_info": "[03时24分 ~ 07时57分]"
         },
         {
-          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
-          "url": "https://www.cls.cn/detail/2290089",
-          "source": "财联社热门",
+          "title": "广西投资集团有限公司原党委委员、副总经理黎敦满严重违纪违法被开除党籍和公职",
+          "url": "https://wallstreetcn.com/livenews/3055472",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 14时08分]"
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时10分]"
         },
         {
           "title": "宁德时代、奇瑞汽车合资公司成立，注册资本20亿元",
@@ -138,17 +151,6 @@
           "time_info": "[07时31分 ~ 10时09分]"
         },
         {
-          "title": "广西投资集团有限公司原党委委员、副总经理黎敦满严重违纪违法被开除党籍和公职",
-          "url": "https://wallstreetcn.com/livenews/3055472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "周五（2月13日），彭博电动汽车价格回报指数跌0.18%，报3635.96点。 本周，该指数累计上涨3.31%，周一至周四持续上涨，周四纽约中午至周五曾显著地回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3055370",
           "source": "华尔街见闻-快讯",
@@ -160,6 +162,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 07时57分]"
+        },
+        {
+          "title": "中国卫星网络集团注册资本增至109亿元",
+          "url": "https://wallstreetcn.com/livenews/3055476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "马斯克： 太阳能将在未来电力生产中占据主导地位。",
+          "url": "https://flash.jin10.com/detail/20260214140612005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时10分]"
         },
         {
           "title": "与爱泼斯坦往来曝光后，迪拜环球港务集团掌门人Bin Sulayem辞职",
@@ -186,27 +223,27 @@
           "time_info": "[05时35分 ~ 06时34分]"
         },
         {
-          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
-          "url": "https://flash.jin10.com/detail/20260214122124232800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时08分]"
-        },
-        {
           "title": "汽车隐藏式门把手 要说再见了",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B+%E8%A6%81%E8%AF%B4%E5%86%8D%E8%A7%81%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 14时08分]"
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时10分]"
+        },
+        {
+          "title": "中国卫星网络集团注册资本增至109亿元",
+          "url": "https://flash.jin10.com/detail/20260214135710792800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
