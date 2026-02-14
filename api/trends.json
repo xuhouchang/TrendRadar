@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T00:31:25.650503+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-15T00:59:19.816489+08:00",
+  "total_titles_processed": 331,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2005195369848463617",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 00时59分]"
         },
         {
           "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
@@ -25,9 +26,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
@@ -36,9 +37,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
+        },
+        {
+          "title": "宁艺卓 曼谷",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20%E6%9B%BC%E8%B0%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 00时59分]"
         },
         {
           "title": "方寒初试玲珑大罗天",
@@ -48,19 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "宁艺卓 曼谷",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20%E6%9B%BC%E8%B0%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 00时59分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -69,9 +71,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         },
         {
           "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
@@ -80,9 +82,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时59分]"
         }
       ]
     }
