@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T19:23:29.228928+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-02-14T19:46:30.231847+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时08分 ~ 19时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时08分 ~ 19时46分]"
+        },
+        {
+          "title": "如何看待网传中科院通知 Science Advances 等四大期刊论文版面费不予报销？原因可能是什么？",
+          "url": "https://www.zhihu.com/question/2005994405727842377",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 19时46分]"
         },
         {
           "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
@@ -57,18 +69,6 @@
           "time_info": "[12时21分 ~ 17时31分]"
         },
         {
-          "title": "如何看待网传中科院通知 Science Advances 等四大期刊论文版面费不予报销？原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2005994405727842377",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时23分]"
-        },
-        {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
           "url": "https://flash.jin10.com/detail/20260214025058678800",
           "source": "金十数据",
@@ -80,6 +80,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时24分 ~ 07时57分]"
+        },
+        {
+          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2005195369848463617",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 19时46分]"
+        },
+        {
+          "title": "上汽集团子公司拟10亿元参设产业基金，加码固态电池、具身智能等",
+          "url": "https://wallstreetcn.com/livenews/3055523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 19时46分]"
         },
         {
           "title": "13F报告显示：凯雷集团四季度建仓做多Medline、网红券商Robinhood、以及Spyre Therapeutics。 增持Invitation Homes、Adicet Bio Inc.。 减持SunPower、Exicure、以及Spruce Bio。 重仓Medline、StandardAero、Phathom Pharma、小马智行、以及Invitation Homes。",
@@ -118,30 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时24分 ~ 07时57分]"
-        },
-        {
-          "title": "上汽集团子公司拟10亿元参设产业基金，加码固态电池、具身智能等",
-          "url": "https://wallstreetcn.com/livenews/3055523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时23分]"
-        },
-        {
-          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2005195369848463617",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "广西投资集团有限公司原党委委员、副总经理黎敦满严重违纪违法被开除党籍和公职",
@@ -184,6 +185,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时07分 ~ 17时31分]"
+        },
+        {
+          "title": "法国汽车行业就业在2013-2023年减少三分之一",
+          "url": "https://wallstreetcn.com/livenews/3055497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时46分]"
         },
         {
           "title": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
@@ -247,19 +262,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 07时57分]"
-        },
-        {
-          "title": "法国汽车行业就业在2013-2023年减少三分之一",
-          "url": "https://wallstreetcn.com/livenews/3055497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "中国卫星网络集团注册资本增至109亿元",
@@ -339,6 +341,17 @@
           "time_info": "[15时10分 ~ 16时33分]"
         },
         {
+          "title": "汽车突然加速超车撞上电动车",
+          "url": "https://www.toutiao.com/trending/7605299452131639337/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时46分]"
+        },
+        {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
           "url": "https://wallstreetcn.com/livenews/3055291",
           "source": "华尔街见闻-快讯",
@@ -403,17 +416,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "汽车突然加速超车撞上电动车",
-          "url": "https://www.toutiao.com/trending/7605299452131639337/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
