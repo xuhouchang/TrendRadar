@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-14T22:54:50.844563+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-02-14T23:26:44.949180+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2005195369848463617",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时28分 ~ 23时26分]"
+        },
         {
           "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
           "url": "https://www.zhihu.com/question/2005601620591862209",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时08分 ~ 10时09分]"
-        },
-        {
-          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2005195369848463617",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时28分 ~ 22时54分]"
         },
         {
           "title": "方寒初试玲珑大罗天",
@@ -53,11 +53,12 @@
             12,
             19,
             15,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时08分 ~ 22时54分]"
+          "appearance_count": 34,
+          "time_info": "[00时08分 ~ 23时26分]"
         },
         {
           "title": "如何看待网传中科院通知 Science Advances 等四大期刊论文版面费不予报销？原因可能是什么？",
@@ -113,6 +114,30 @@
           "time_info": "[18时55分 ~ 22时28分]"
         },
         {
+          "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
+          "url": "https://flash.jin10.com/detail/20260214204819975800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时26分]"
+        },
+        {
+          "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
+          "url": "https://flash.jin10.com/detail/20260214204751269800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时26分]"
+        },
+        {
           "title": "13F报告显示：凯雷集团四季度建仓做多Medline、网红券商Robinhood、以及Spyre Therapeutics。 增持Invitation Homes、Adicet Bio Inc.。 减持SunPower、Exicure、以及Spruce Bio。 重仓Medline、StandardAero、Phathom Pharma、小马智行、以及Invitation Homes。",
           "url": "https://wallstreetcn.com/livenews/3055389",
           "source": "华尔街见闻-快讯",
@@ -151,16 +176,19 @@
           "time_info": "[03时24分 ~ 07时57分]"
         },
         {
-          "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
-          "url": "https://flash.jin10.com/detail/20260214204819975800",
-          "source": "金十数据",
+          "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
+          "url": "https://wallstreetcn.com/livenews/3055543",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9
+            3,
+            8,
+            13,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时54分]"
+          "appearance_count": 5,
+          "time_info": "[20时49分 ~ 23时26分]"
         },
         {
           "title": "广西投资集团有限公司原党委委员、副总经理黎敦满严重违纪违法被开除党籍和公职",
@@ -176,32 +204,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时08分 ~ 17时31分]"
-        },
-        {
-          "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
-          "url": "https://flash.jin10.com/detail/20260214204751269800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时54分]"
-        },
-        {
-          "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
-          "url": "https://wallstreetcn.com/livenews/3055543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时54分]"
         },
         {
           "title": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
@@ -414,11 +416,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时26分]"
         },
         {
           "title": "资管巨头资本集团押注欧洲央行2026年将加息，与主流观点相悖",
@@ -485,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "宁艺卓 曼谷",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20%E6%9B%BC%E8%B0%B7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
