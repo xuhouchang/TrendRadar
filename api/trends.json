@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-02-14T07:57:17.737771+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-02-14T10:09:23.947544+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
-          "url": "https://www.zhihu.com/question/2005601620591862209",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 07时57分]"
-        },
         {
           "title": "方寒初试玲珑大罗天",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%AF%92",
@@ -32,8 +20,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 07时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 10时09分]"
+        },
+        {
+          "title": "河南矿山集团年终奖超 1.8 亿，年会现场拟发 6000 万现金，如何评价此举？这家企业为何能如此「有钱」？",
+          "url": "https://www.zhihu.com/question/2005601620591862209",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 10时09分]"
         },
         {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
@@ -59,17 +60,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时57分]"
-        },
-        {
-          "title": "美国芝加哥商业交易所（CME）集团宣布，事件合约成交量达到1亿手。",
-          "url": "https://wallstreetcn.com/livenews/3055396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时57分]"
         },
         {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
@@ -98,6 +88,17 @@
           "time_info": "[03时24分 ~ 07时57分]"
         },
         {
+          "title": "宁德时代、奇瑞汽车合资公司成立，注册资本20亿元",
+          "url": "https://wallstreetcn.com/livenews/3055428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
           "url": "https://wallstreetcn.com/livenews/3055337",
           "source": "华尔街见闻-快讯",
@@ -109,6 +110,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 04时49分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团宣布，事件合约成交量达到1亿手。",
+          "url": "https://wallstreetcn.com/livenews/3055396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时09分]"
         },
         {
           "title": "周五（2月13日），彭博电动汽车价格回报指数跌0.18%，报3635.96点。 本周，该指数累计上涨3.31%，周一至周四持续上涨，周四纽约中午至周五曾显著地回吐涨幅。",
@@ -179,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
+          "url": "https://wallstreetcn.com/livenews/3055404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
