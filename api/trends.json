@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T05:25:26.198958+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-15T05:48:36.747940+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             8,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 05时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 05时48分]"
         },
         {
           "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 05时48分]"
         },
         {
           "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 05时48分]"
         },
         {
           "title": "方寒初试玲珑大罗天",
@@ -55,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 05时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 05时48分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -66,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 05时48分]"
         },
         {
           "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
@@ -77,8 +78,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 05时48分]"
         },
         {
           "title": "宁艺卓 曼谷",
@@ -103,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时46分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时46分 ~ 05时48分]"
         }
       ]
     }
