@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T07:27:57.369803+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-02-16T07:52:44.364804+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -45,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -60,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "国铁集团：网传2026年春运绿皮车严重超员视频系历史画面拼凑翻炒的不实信息",
@@ -69,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
@@ -81,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 07时52分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -118,11 +121,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时52分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -131,9 +135,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时52分]"
         }
       ]
     }
