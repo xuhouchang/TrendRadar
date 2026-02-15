@@ -1,467 +1,99 @@
 {
-  "generated_at": "2026-02-15T23:51:31.847202+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-02-16T00:31:48.965246+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
-          "url": "https://www.zhihu.com/question/2005295793721081957",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时34分 ~ 23时51分]"
-        },
-        {
-          "title": "各位游子 一路平安",
-          "url": "https://www.douyin.com/hot/2401959",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时32分 ~ 22时56分]"
-        },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
           "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时26分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
-          "url": "https://flash.jin10.com/detail/20260214204819975800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时48分]"
-        },
-        {
-          "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
-          "url": "https://flash.jin10.com/detail/20260214204751269800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时48分]"
-        },
-        {
-          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2005195369848463617",
+          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
+          "url": "https://www.zhihu.com/question/2005295793721081957",
           "source": "知乎",
           "ranks": [
-            7,
-            8,
-            5,
-            9,
-            10,
-            13,
-            15,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 07时48分]"
-        },
-        {
-          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3055596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            7,
-            14,
-            16,
-            21,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "追觅 CEO 俞浩邀请余承东加入，称「来跟我干」，此举背后有哪些商业考量？",
           "url": "https://www.zhihu.com/question/2004635961137586943",
           "source": "知乎",
           "ranks": [
-            9,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时52分 ~ 23时51分]"
-        },
-        {
-          "title": "方寒初试玲珑大罗天",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B9%E5%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            13,
-            14,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 07时48分]"
-        },
-        {
-          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
-          "url": "https://news.ifeng.com/c/8qk233NwWb6",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时46分 ~ 12时34分]"
-        },
-        {
-          "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
-          "url": "https://wallstreetcn.com/livenews/3055543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时13分]"
-        },
-        {
-          "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
-          "url": "https://wallstreetcn.com/livenews/3055541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时13分]"
-        },
-        {
-          "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
-          "url": "https://wallstreetcn.com/livenews/3055607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            13,
-            16,
-            20,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时26分 ~ 23时51分]"
-        },
-        {
-          "title": "马斯克称擎天柱机器人将从明年开始改变人类生活",
-          "url": "https://wallstreetcn.com/livenews/3055580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            12,
-            13,
-            16,
-            18,
-            20,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 18时55分]"
-        },
-        {
-          "title": "湘潭钢铁集团有限公司厂区发生起火事故，未致人员伤亡",
-          "url": "https://wallstreetcn.com/livenews/3055579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            13,
-            14,
-            17,
-            19,
-            21,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 18时55分]"
-        },
-        {
-          "title": "马斯克：Grok 4.20版本将于下周发布。相较于4.1版本，此次更新将带来显著改进。",
-          "url": "https://flash.jin10.com/detail/20260215144003417800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            14,
-            18,
-            21,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时55分 ~ 20时52分]"
-        },
-        {
-          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3055619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            9,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时46分 ~ 23时51分]"
-        },
-        {
-          "title": "乌克兰军方：袭击了位于俄罗斯克拉斯诺达尔地区的塔曼石油码头。",
-          "url": "https://flash.jin10.com/detail/20260215190206504800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            10,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时46分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "国铁集团：网传2026年春运绿皮车严重超员视频系历史画面拼凑翻炒的不实信息",
           "url": "https://wallstreetcn.com/livenews/3055624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6,
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时46分 ~ 23时51分]"
-        },
-        {
-          "title": "宁艺卓 曼谷",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20%E6%9B%BC%E8%B0%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            7,
-            12,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 03时46分]"
-        },
-        {
-          "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
-          "url": "https://flash.jin10.com/detail/20260215145205197800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            16,
-            19,
-            20,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 20时52分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            17,
-            20,
-            21,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 20时52分]"
-        },
-        {
-          "title": "武大靖说孙龙平安就好",
-          "url": "https://www.douyin.com/hot/2401398",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 14时55分]"
-        },
-        {
-          "title": "马斯克预言：2026年底编程或将全面自动化",
-          "url": "https://flash.jin10.com/detail/20260215134542489800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            18,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 17时32分]"
-        },
-        {
-          "title": "当地州长表示，俄罗斯克拉斯诺达尔地区塔曼港遭无人机袭击。塔曼港的油品储罐、仓库和码头遭无人机袭击受损。",
-          "url": "https://flash.jin10.com/detail/20260215133203262800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            19,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 17时32分]"
-        },
-        {
-          "title": "湘潭钢铁集团起火事故通报：现场明火已扑灭，事故未造成人员伤亡",
-          "url": "https://flash.jin10.com/detail/20260215093029843800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
-          "url": "https://www.zhihu.com/question/2006141796971983323",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时52分 ~ 22时56分]"
+          "time_info": "00时31分"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
           "source": "澎湃新闻",
           "ranks": [
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时28分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
-          "url": "https://flash.jin10.com/detail/20260215112402089800",
-          "source": "金十数据",
+          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3055619",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时56分]"
-        },
-        {
-          "title": "马斯克：擎天柱机器人从明年开始将改变人类生活",
-          "url": "https://flash.jin10.com/detail/20260215083658319800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "00时31分"
         },
         {
-          "title": "马斯克回应网友从月球发射飞船到火星的提议",
-          "url": "https://flash.jin10.com/detail/20260215083200458800",
+          "title": "乌克兰军方：袭击了位于俄罗斯克拉斯诺达尔地区的塔曼石油码头。",
+          "url": "https://flash.jin10.com/detail/20260215190206504800",
           "source": "金十数据",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时13分"
+          "time_info": "00时31分"
         },
         {
-          "title": "马斯克：仍将推进火星计划",
-          "url": "https://flash.jin10.com/detail/20260215100423003800",
-          "source": "金十数据",
+          "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
+          "url": "https://wallstreetcn.com/livenews/3055607",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "00时31分"
         }
       ]
     }
