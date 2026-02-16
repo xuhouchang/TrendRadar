@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T18:52:04.511147+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-02-16T19:41:09.201285+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 18时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 19时41分]"
         },
         {
           "title": "保利集团发布严正声明",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时08分 ~ 18时52分]"
+          "appearance_count": 12,
+          "time_info": "[10时08分 ~ 19时41分]"
         },
         {
           "title": "追觅 CEO 俞浩邀请余承东加入，称「来跟我干」，此举背后有哪些商业考量？",
@@ -75,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 18时52分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 19时41分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -171,6 +171,20 @@
           "time_info": "[15时36分 ~ 18时52分]"
         },
         {
+          "title": "卫星图像显示美航母现身阿曼海岸",
+          "url": "https://wallstreetcn.com/livenews/3055700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时41分]"
+        },
+        {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
           "url": "https://flash.jin10.com/detail/20260216062745335800",
           "source": "金十数据",
@@ -184,19 +198,6 @@
           "time_info": "[06时54分 ~ 07时52分]"
         },
         {
-          "title": "卫星图像显示美航母现身阿曼海岸",
-          "url": "https://wallstreetcn.com/livenews/3055700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时52分]"
-        },
-        {
           "title": "蛇年最后一个交易日，港股低开高走，恒指收涨0.52%，科指收涨0.13%。存储概念及有色金属板块走强，澜起科技（06809.HK）收涨14.05%，兆易创新涨9.78%；此外，受将被纳入恒生指数的消息带动，宁德时代(03750.HK)收涨2.71%，老铺黄金(06181.HK)涨6.64%，洛阳钼业(03993.HK)涨6.35%。（注：受春节假期影响，今日港股仅交易半日，下午休市）",
           "url": "https://flash.jin10.com/detail/20260216121136127800",
           "source": "金十数据",
@@ -206,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "马斯克：星链“很快”将在地球之外运行",
+          "url": "https://wallstreetcn.com/livenews/3055727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "蔚来：高兴宣布蔚来换电单日总量创历史新高",
@@ -224,11 +236,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时41分]"
         },
         {
           "title": "小米集团(01810.HK)跌幅扩大至3%。",
