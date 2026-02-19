@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T15:12:40.438944+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-02-19T16:04:03.558780+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             3,
             11,
             10,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时53分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[01时53分 ~ 16时04分]"
         },
         {
           "title": "美联储理事鲍曼：仍预计在第一季度末提出新的巴塞尔银行资本规则。",
