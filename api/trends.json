@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T14:00:15.858475+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-02-19T15:12:40.438944+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             4,
             3,
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时53分 ~ 14时00分]"
+          "appearance_count": 16,
+          "time_info": "[01时53分 ~ 15时12分]"
         },
         {
           "title": "美联储理事鲍曼：仍预计在第一季度末提出新的巴塞尔银行资本规则。",
@@ -64,7 +65,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -99,7 +100,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -126,6 +127,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时34分]"
+        },
+        {
+          "title": "春节假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳",
+          "url": "https://wallstreetcn.com/livenews/3056561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 15时12分]"
         },
         {
           "title": "美联储理事鲍曼：（适用于美国的）新版巴塞尔协议计划处于在一季度末之前敲定的正轨之上。",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时40分]"
-        },
-        {
-          "title": "春节假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳",
-          "url": "https://wallstreetcn.com/livenews/3056561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时00分]"
         },
         {
           "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
