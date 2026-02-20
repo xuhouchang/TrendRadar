@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-20T22:04:23.132009+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-02-20T23:08:26.512106+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "特斯拉新车没有方向盘没有脚踏板",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E6%B2%A1%E6%9C%89%E8%84%9A%E8%B8%8F%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 23时08分]"
+        },
         {
           "title": "奥尔特曼：超级智能会超越顶尖科学家",
           "url": "https://www.toutiao.com/trending/7608506312217362478/",
@@ -22,19 +36,6 @@
           "time_info": "[16时41分 ~ 20时59分]"
         },
         {
-          "title": "特斯拉新车没有方向盘没有脚踏板",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E6%B2%A1%E6%9C%89%E8%84%9A%E8%B8%8F%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 22时04分]"
-        },
-        {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
           "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
           "source": "澎湃新闻",
@@ -43,8 +44,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时08分]"
+        },
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时04分]"
+          "time_info": "[22时04分 ~ 23时08分]"
         },
         {
           "title": "我使馆：一名中国游客在贝加尔湖汽车落水事故中获救",
@@ -58,17 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时38分 ~ 20时59分]"
-        },
-        {
-          "title": "春节新能源汽车高速充电大增",
-          "url": "https://www.douyin.com/hot/2407147",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
@@ -155,6 +156,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时57分 ~ 16时41分]"
+        },
+        {
+          "title": "美国将印度纳入与稳定供应链有关的Pax Silica集团。",
+          "url": "https://wallstreetcn.com/livenews/3056971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -289,6 +301,41 @@
           "time_info": "[18时38分 ~ 19时33分]"
         },
         {
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时08分]"
+        },
+        {
+          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
+          "url": "https://www.zhihu.com/question/2008248751752438816",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时08分]"
+        },
+        {
+          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
+          "url": "https://www.zhihu.com/question/2005421279541483469",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时08分]"
+        },
+        {
           "title": "墨西哥安全部长：墨西哥海军在该国西海岸附近的太平洋海域截获一艘装载四吨可卡因的潜艇。",
           "url": "https://flash.jin10.com/detail/20260220010411870800",
           "source": "金十数据",
@@ -313,17 +360,6 @@
           "time_info": "[02时52分 ~ 03时39分]"
         },
         {
-          "title": "中国游客汽车在俄落水7人遇难",
-          "url": "https://www.douyin.com/hot/2407019",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时04分]"
-        },
-        {
           "title": "科技汽车就选鸿蒙智行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%B1%BD%E8%BD%A6%E5%B0%B1%E9%80%89%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -333,17 +369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
-          "url": "https://www.zhihu.com/question/2008248751752438816",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）代理主席Hill举行听证会。",
@@ -366,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
-          "url": "https://www.zhihu.com/question/2005421279541483469",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "市场消息：特朗普将于美东时间周五上午9:30（北京时间22:30）会见各州州长。",
