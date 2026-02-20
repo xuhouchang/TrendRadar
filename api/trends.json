@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T04:33:02.618331+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-02-21T05:26:03.461644+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "春节新能源汽车高速充电大增",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时26分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时26分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时26分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -56,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 05时26分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -66,11 +66,23 @@
           "ranks": [
             24,
             23,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 05时26分]"
+        },
+        {
+          "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
+          "url": "https://www.zhihu.com/question/2008253352463528326",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时26分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
