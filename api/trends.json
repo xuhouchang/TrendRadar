@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T06:32:10.419325+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-02-21T06:56:44.046104+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时56分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时56分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时56分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -56,8 +57,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时56分]"
+        },
+        {
+          "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
+          "url": "https://www.zhihu.com/question/2008253352463528326",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时25分 ~ 06时56分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -72,20 +85,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 06时32分]"
-        },
-        {
-          "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
-          "url": "https://www.zhihu.com/question/2008253352463528326",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时25分 ~ 06时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 06时56分]"
         },
         {
           "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
@@ -96,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 06时56分]"
         },
         {
           "title": "美国太平洋电力公司同意支付5.75亿美元山火索赔",
@@ -108,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 06时56分]"
         },
         {
           "title": "一个汽车制造商贸易团体对美国总统特朗普挑起新关税的风险感到忧心忡忡。（华尔街日报）",
@@ -118,9 +119,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时56分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
