@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-20T15:51:00.903889+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-02-20T16:41:19.234923+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "英美资源集团2025年调整后利润6.1亿美元，市场预期为7.108亿美元。 2025年调整后EBITDA64亿美元，市场预期为63.4亿美元。 2025年收入185.5亿美元，市场预期为198.2亿美元。 2025年铜业务调整后EBITDA39.8亿美元，市场预期为38.4亿美元。 2025年锰业务调整后EBITDA1.27亿美元，市场预期为6540万美元。 英美资源集团对戴比尔斯计提了23亿美元的税前减值损失。",
-          "url": "https://wallstreetcn.com/livenews/3056882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
         {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
@@ -31,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 14时57分]"
+        },
+        {
+          "title": "奥尔特曼：超级智能会超越顶尖科学家",
+          "url": "https://www.toutiao.com/trending/7608506312217362478/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "壳牌公司发言人：美国颁发的委内瑞拉石油和天然气勘探通用许可证将允许其推进“Dragon”天然气项目。",
@@ -55,6 +55,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时33分]"
+        },
+        {
+          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
+          "url": "https://wallstreetcn.com/livenews/3056870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 16时41分]"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -94,18 +107,6 @@
           "time_info": "[05时33分 ~ 06时32分]"
         },
         {
-          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
-          "url": "https://wallstreetcn.com/livenews/3056870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时51分]"
-        },
-        {
           "title": "惠誉评级：预计油价将高于所有海湾合作委员会国家财政盈亏平衡水平，除巴林、沙特阿拉伯及略高于阿曼外。",
           "url": "https://flash.jin10.com/detail/20260220011346683800",
           "source": "金十数据",
@@ -129,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时57分]"
+        },
+        {
+          "title": "英美资源集团2025年调整后利润6.1亿美元，市场预期为7.108亿美元。 2025年调整后EBITDA64亿美元，市场预期为63.4亿美元。 2025年收入185.5亿美元，市场预期为198.2亿美元。 2025年铜业务调整后EBITDA39.8亿美元，市场预期为38.4亿美元。 2025年锰业务调整后EBITDA1.27亿美元，市场预期为6540万美元。 英美资源集团对戴比尔斯计提了23亿美元的税前减值损失。",
+          "url": "https://wallstreetcn.com/livenews/3056882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时41分]"
         },
         {
           "title": "美国参议院银行委员会将于2月26日针对美联储理事鲍曼、联邦存款保险公司（FDIC）的Hill举行听证会。",
