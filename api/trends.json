@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T16:32:10.860389+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-21T17:31:02.007655+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "春节新能源汽车高速充电大增",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时25分 ~ 16时32分]"
+          "appearance_count": 21,
+          "time_info": "[05时25分 ~ 17时31分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时01分 ~ 16时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时01分 ~ 17时31分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -64,6 +64,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时01分 ~ 10时00分]"
+        },
+        {
+          "title": "特斯拉新车来了：无方向盘、无踏板",
+          "url": "https://www.toutiao.com/trending/7608815896018698291/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时03分 ~ 17时31分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时01分 ~ 10时00分]"
-        },
-        {
-          "title": "特斯拉新车来了：无方向盘、无踏板",
-          "url": "https://www.toutiao.com/trending/7608815896018698291/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时03分 ~ 16时32分]"
         },
         {
           "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
@@ -177,11 +178,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时31分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -200,49 +202,40 @@
           "time_info": "[12时12分 ~ 16时32分]"
         },
         {
+          "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
+          "url": "https://wallstreetcn.com/livenews/3057170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
           "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
           "url": "https://flash.jin10.com/detail/20260221144322666800",
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 17时31分]"
         },
         {
-          "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260221161057186800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
-          "url": "https://wallstreetcn.com/livenews/3057170",
+          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
+          "url": "https://wallstreetcn.com/livenews/3057172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "泰国工业联合会：特朗普10%的全球关税将重创泰国电子产品和汽车行业出口",
-          "url": "https://flash.jin10.com/detail/20260221155325101800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "17时31分"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -289,6 +282,18 @@
           "time_info": "01时38分"
         },
         {
+          "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260221161057186800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
           "title": "德国汽车工业协会：美国对汽车及零部件征收15%关税，继续对德国汽车工业构成重大挑战。",
           "url": "https://flash.jin10.com/detail/20260221000907757800",
           "source": "金十数据",
@@ -299,6 +304,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时38分]"
+        },
+        {
+          "title": "泰国工业联合会：特朗普10%的全球关税将重创泰国电子产品和汽车行业出口",
+          "url": "https://flash.jin10.com/detail/20260221155325101800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
         },
         {
           "title": "德国汽车工业协会：影响汽车行业的主要关税并未纳入美国最高法院的裁决范围。",
