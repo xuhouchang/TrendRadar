@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T23:26:13.923734+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-02-21T23:49:18.067393+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[05时25分 ~ 23时26分]"
+          "appearance_count": 34,
+          "time_info": "[05时25分 ~ 23时49分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -78,11 +78,12 @@
             9,
             7,
             20,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时03分 ~ 23时26分]"
+          "appearance_count": 13,
+          "time_info": "[14时03分 ~ 23时49分]"
         },
         {
           "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
@@ -99,8 +100,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时32分 ~ 23时26分]"
+          "appearance_count": 13,
+          "time_info": "[16时32分 ~ 23时49分]"
         },
         {
           "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
@@ -135,8 +136,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时31分 ~ 23时26分]"
+          "appearance_count": 12,
+          "time_info": "[17时31分 ~ 23时49分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -179,8 +180,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时23分 ~ 23时26分]"
+          "appearance_count": 9,
+          "time_info": "[19时23分 ~ 23时49分]"
         },
         {
           "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
@@ -407,6 +408,18 @@
           "time_info": "[10时00分 ~ 14时03分]"
         },
         {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时54分 ~ 23时49分]"
+        },
+        {
           "title": "埃克森美孚石油(XOM.N)：计划于今年在美国启动一座示范规模的合成石墨中试装置。计划于2029年启动首座先进合成石墨商业化设施。",
           "url": "https://flash.jin10.com/detail/20260221000138809800",
           "source": "金十数据",
@@ -417,17 +430,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时38分]"
-        },
-        {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639070",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时54分 ~ 23时26分]"
         },
         {
           "title": "美国总统特朗普谈及贸易扩张法案232条款、122条款、201条款、以及301条款，称这些都是选项，232和301关税保留。 特朗普签署命令，将实施10%的全球关税，“我认为三天后生效”。 威胁要征收15%-30%的汽车关税。 “我已经拯救了英特尔。” 标普500指数涨幅扩大至0.6%，半导体指数涨0.9%%。",
