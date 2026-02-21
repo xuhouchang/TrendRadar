@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:27:17.858352+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-02-21T18:54:14.105258+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[05时25分 ~ 18时27分]"
+          "appearance_count": 25,
+          "time_info": "[05时25分 ~ 18时54分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时01分 ~ 18时27分]"
+          "appearance_count": 33,
+          "time_info": "[00时01分 ~ 18时54分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -120,11 +120,12 @@
             8,
             13,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 18时54分]"
         },
         {
           "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
@@ -196,11 +197,12 @@
             2,
             7,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 18时54分]"
         },
         {
           "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
@@ -239,11 +241,12 @@
           "ranks": [
             5,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时54分]"
         },
         {
           "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
