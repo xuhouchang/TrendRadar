@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T17:55:21.052846+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-02-21T18:27:17.858352+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[05时25分 ~ 17时55分]"
+          "appearance_count": 23,
+          "time_info": "[05时25分 ~ 18时27分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时01分 ~ 17时55分]"
+          "appearance_count": 31,
+          "time_info": "[00时01分 ~ 18时27分]"
         },
         {
           "title": "清华学霸俞浩放言要超越马斯克、黄仁勋，并批评马斯克「PUA」，如何评价其言论与商业目标？",
@@ -111,6 +111,22 @@
           "time_info": "[00时01分 ~ 10时00分]"
         },
         {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            8,
+            13,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时08分 ~ 18时27分]"
+        },
+        {
           "title": "周五（2月20日），彭博电动汽车价格回报指数跌0.71%，报3622.13点，本周累计下跌0.27%。",
           "url": "https://wallstreetcn.com/livenews/3057123",
           "source": "华尔街见闻-快讯",
@@ -158,21 +174,6 @@
           "time_info": "[05时50分 ~ 10时00分]"
         },
         {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            8,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时08分 ~ 17时55分]"
-        },
-        {
           "title": "一个汽车制造商贸易团体对美国总统特朗普挑起新关税的风险感到忧心忡忡。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3057128",
           "source": "华尔街见闻-快讯",
@@ -194,11 +195,12 @@
           "ranks": [
             2,
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "欧媒：马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
@@ -207,11 +209,12 @@
           "ranks": [
             3,
             8,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 18时27分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -235,11 +238,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
@@ -247,11 +251,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "泰国工业联合会：特朗普10%的全球关税将重创泰国电子产品和汽车行业出口",
@@ -259,11 +264,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
