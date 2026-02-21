@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:29:32.180958+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-02-22T01:53:10.588141+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时53分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -24,11 +24,25 @@
           "source": "知乎",
           "ranks": [
             14,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时53分]"
+        },
+        {
+          "title": "特斯拉新车来了：无方向盘、无踏板",
+          "url": "https://www.toutiao.com/trending/7608815896018698291/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 01时53分]"
         },
         {
           "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
@@ -43,19 +57,6 @@
           "time_info": "[00时30分 ~ 01时29分]"
         },
         {
-          "title": "特斯拉新车来了：无方向盘、无踏板",
-          "url": "https://www.toutiao.com/trending/7608815896018698291/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时29分]"
-        },
-        {
           "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
           "url": "https://wallstreetcn.com/livenews/3057172",
           "source": "华尔街见闻-快讯",
@@ -63,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时53分]"
         },
         {
           "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
@@ -74,8 +75,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 01时53分]"
         }
       ]
     }
