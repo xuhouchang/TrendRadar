@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:46:12.082514+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-02-22T20:51:10.204120+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时30分 ~ 19时46分]"
+          "appearance_count": 36,
+          "time_info": "[00时30分 ~ 20时51分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -87,6 +87,20 @@
           "time_info": "[00时30分 ~ 06时51分]"
         },
         {
+          "title": "蔚来汽车换电量连续四日创新高",
+          "url": "https://www.toutiao.com/trending/7609248794152534057/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 20时51分]"
+        },
+        {
           "title": "雷军假期滑了6天雪",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%81%87%E6%9C%9F%E6%BB%91%E4%BA%866%E5%A4%A9%E9%9B%AA%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -128,19 +142,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时09分 ~ 16时33分]"
-        },
-        {
-          "title": "蔚来汽车换电量连续四日创新高",
-          "url": "https://www.toutiao.com/trending/7609248794152534057/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 19时46分]"
         },
         {
           "title": "WTT 新加坡大满贯女单签表出炉，孙颖莎与王曼昱、王艺迪分守不同半区，怎样看待这一结果？",
