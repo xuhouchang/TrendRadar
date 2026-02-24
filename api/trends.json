@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:06:45.762918+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-02-24T22:34:16.618014+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "为什么现在的汽车这么便宜呢？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时44分 ~ 21时06分]"
+          "appearance_count": 10,
+          "time_info": "[13时44分 ~ 22时34分]"
         },
         {
           "title": "男子5600元套中汽车使用权 商家反悔",
@@ -69,6 +69,22 @@
           "time_info": "[10时11分 ~ 21时06分]"
         },
         {
+          "title": "飞行汽车来了 一次亮相4款",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            15,
+            14,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时05分 ~ 22时34分]"
+        },
+        {
           "title": "曼联1:0埃弗顿",
           "url": "https://www.douyin.com/hot/2409888",
           "source": "抖音",
@@ -80,21 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时11分 ~ 15时01分]"
-        },
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            15,
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时05分 ~ 21时06分]"
         },
         {
           "title": "伊朗副总统表示，伊朗希望建立从克尔曼沙赫到伊拉克巴格达的货物运输走廊。",
@@ -351,6 +352,19 @@
           "time_info": "[06时08分 ~ 07时54分]"
         },
         {
+          "title": "疑似贝加尔湖事故车辆沉湖瞬间曝光",
+          "url": "https://www.toutiao.com/trending/7609143935751831588/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时34分]"
+        },
+        {
           "title": "墨西哥贩毒集团实力有多恐怖",
           "url": "https://www.toutiao.com/trending/7609931358773116966/",
           "source": "今日头条",
@@ -410,18 +424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时41分]"
-        },
-        {
-          "title": "疑似贝加尔湖事故车辆沉湖瞬间曝光",
-          "url": "https://www.toutiao.com/trending/7609143935751831588/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 21时06分]"
         },
         {
           "title": "雷军公布改款小米SU7新配色：赤霞红",
@@ -504,6 +506,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "如何看待马斯克认为现代年轻人没必要上大学了？",
+          "url": "https://www.zhihu.com/question/2007939390421360944",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "沃尔沃汽车公司据悉将召回40323辆EX30汽车，因其存在电池过热风险。",
