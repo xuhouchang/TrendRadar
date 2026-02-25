@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T05:35:46.689838+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-02-26T06:34:48.837904+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时34分]"
+        },
+        {
+          "title": "我陈平安唯有一剑",
+          "url": "https://www.douyin.com/hot/2410790",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 06时34分]"
         },
         {
           "title": "据英国金融时报：埃利奥特还打消了有关其可能推动伦敦证交所集团在纽约上市的担忧。",
@@ -32,25 +44,13 @@
           "time_info": "01时35分"
         },
         {
-          "title": "我陈平安唯有一剑",
-          "url": "https://www.douyin.com/hot/2410790",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时35分 ~ 05时35分]"
-        },
-        {
           "title": "美国芝加哥联储商业交易所（CME）集团收跌3.7%，创5月份以来最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3059054",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -85,7 +85,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
