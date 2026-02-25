@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T04:17:39.788608+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-02-26T04:45:46.340227+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时45分]"
         },
         {
           "title": "据英国金融时报：埃利奥特还打消了有关其可能推动伦敦证交所集团在纽约上市的担忧。",
@@ -43,6 +43,18 @@
           "time_info": "[01时35分 ~ 03时07分]"
         },
         {
+          "title": "我陈平安唯有一剑",
+          "url": "https://www.douyin.com/hot/2410790",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 04时45分]"
+        },
+        {
           "title": "今天（2月26日）从国家管网集团获悉，我国华北地区重要能源大动脉——陕京管道系统累计输气量突破8000亿立方米。（央视）",
           "url": "https://wallstreetcn.com/livenews/3058998",
           "source": "华尔街见闻-快讯",
@@ -52,18 +64,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时35分 ~ 03时07分]"
-        },
-        {
-          "title": "我陈平安唯有一剑",
-          "url": "https://www.douyin.com/hot/2410790",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[01时35分 ~ 03时07分]"
         },
         {
