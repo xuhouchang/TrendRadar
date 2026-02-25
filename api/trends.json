@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:28:38.751594+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-02-25T18:29:47.752199+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 18时29分]"
         },
         {
           "title": "我陈平安唯有一剑",
@@ -34,11 +34,12 @@
             15,
             10,
             21,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时13分 ~ 17时28分]"
+          "appearance_count": 19,
+          "time_info": "[01时13分 ~ 18时29分]"
         },
         {
           "title": "飞行汽车来了 一次亮相4款",
@@ -82,6 +83,19 @@
           "time_info": "[04时21分 ~ 07时32分]"
         },
         {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 18时29分]"
+        },
+        {
           "title": "尊界法务部：自媒体博主诋毁尊界，一审被判赔30万元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32649780",
           "source": "澎湃新闻",
@@ -104,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 17时28分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：七国集团关于业务冲突周年纪念的声明是一个积极信号。",
@@ -215,7 +217,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -340,7 +342,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -384,7 +386,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
