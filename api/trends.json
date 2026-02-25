@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T00:27:11.522922+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T01:35:49.614660+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "雷军揭幕新一代小米 SU7「赤霞红」，新车预计 2026 年 4 月上市，你对这款车有哪些期待？",
@@ -15,8 +15,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时35分]"
+        },
+        {
+          "title": "据英国金融时报：埃利奥特还打消了有关其可能推动伦敦证交所集团在纽约上市的担忧。",
+          "url": "https://flash.jin10.com/detail/20260226011428902800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "私募/野蛮人Elliott已经与英国官员们讨论对伦敦证券交易所集团（LSEG）持股的事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3059001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "今天（2月26日）从国家管网集团获悉，我国华北地区重要能源大动脉——陕京管道系统累计输气量突破8000亿立方米。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3058998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "纳斯达克中国金龙指数最新下跌1%，小鹏汽车(XPEV.N)跌超3%，小牛电动(NIU.O)、中通快递(ZTO.N)跌超2%。",
@@ -25,9 +58,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "倍耐力四季度营收15.8亿欧元，分析师预期15.6亿欧元。 四季度调整后EBIT为2.459亿欧元，分析师预期2.472亿欧元。 全年度调整后EBIT为10.8亿欧元，符合分析师预期。 全年营收67.8亿欧元，分析师预期67.6亿欧元。 预计2026年营收大约67亿-69亿欧元，分析师预期67.9亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3058991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "我陈平安唯有一剑",
+          "url": "https://www.douyin.com/hot/2410790",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         }
       ]
     }
