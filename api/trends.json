@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T06:34:39.872700+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-02-27T07:31:09.451417+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 07时31分]"
         },
         {
           "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
@@ -96,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
@@ -256,7 +256,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
         },
