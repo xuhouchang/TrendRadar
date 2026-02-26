@@ -1,22 +1,67 @@
 {
-  "generated_at": "2026-02-27T01:59:16.473424+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-02-27T03:02:35.268693+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
           "url": "https://www.cls.cn/detail/2296081",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时02分]"
+        },
+        {
+          "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
+          "url": "https://flash.jin10.com/detail/20260227024604812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
+          "url": "https://flash.jin10.com/detail/20260227023806931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3059725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "阿曼方面称美伊会谈在取得“重大进展”后结束",
+          "url": "https://flash.jin10.com/detail/20260227023538642800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "欧盟委员会2月18日质询欧盟反欺诈办公室。 要求该部门调查曾经担任英国驻美国大使的彼得·曼德尔森（Peter Mandelson）。",
@@ -81,9 +126,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美国7年期国债收益率在国债标售后跌幅收窄，最新报3.777%，较前一交易日下行3.3个基点。",
+          "url": "https://flash.jin10.com/detail/20260227020713930800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "据英国金融时报：欧盟反欺诈机构将对英国前驻美大使彼得・曼德尔森展开调查。",
@@ -114,7 +170,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
