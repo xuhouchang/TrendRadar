@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T16:54:31.885966+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-02-26T17:52:02.577807+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "雷军揭幕新一代小米 SU7「赤霞红」，新车预计 2026 年 4 月上市，你对这款车有哪些期待？",
@@ -78,7 +78,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "三只羊集团辟谣借壳上市",
+          "url": "https://www.cls.cn/detail/2295635",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "美联储理事鲍曼在提交给参议院银行委员会的准备就绪的证词中，未就货币政策和经济前景发表评论。",
@@ -174,6 +185,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "携程集团总裁、董事，双双辞职",
+          "url": "https://www.cls.cn/detail/2295636",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时52分]"
         },
         {
           "title": "A股商业航天板块午后再度拉升，春晖智控20cm涨停，电科蓝天、迈信林、飞沃科技涨超10%，航天动力此前涨停，中集集团、信科移动跟涨。",
@@ -257,6 +280,17 @@
           "time_info": "[12时28分 ~ 12时29分]"
         },
         {
+          "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
+          "url": "https://wallstreetcn.com/livenews/3059463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "金十图示：2026年02月26日（周四）富时中国A50指数成分股今日收盘行情一览：化学制药、白酒、保险股走弱，宁德时代收跌4.47%",
           "url": "https://flash.jin10.com/detail/20260226150247158800",
           "source": "金十数据",
@@ -279,17 +313,6 @@
           "time_info": "05时35分"
         },
         {
-          "title": "携程集团总裁、董事，双双辞职",
-          "url": "https://www.cls.cn/detail/2295636",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "小鹏布局行业首个人形机器人全链条量产基地",
           "url": "https://wallstreetcn.com/livenews/3059237",
           "source": "华尔街见闻-快讯",
@@ -307,7 +330,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -354,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "百度集团第四季度营收327.4亿元人民币，预估326.6亿元人民币。 第四季度经调整每ADS利润10.62元人民币，预估9.40元人民币。 第四季度调整后营业利润29.7亿元人民币，预估26.6亿元人民币。 第四季度调整后息税折旧及摊销前利润47.3亿元人民币，预估46.7亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3059455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         },
         {
           "title": "意大利油企埃尼集团：2022年至2025年期间，油气产量增长超过7%。",
@@ -417,7 +451,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -428,7 +462,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -472,7 +506,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -494,7 +528,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
