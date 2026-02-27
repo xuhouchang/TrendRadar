@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:33:17.498613+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-02-27T20:59:53.320045+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -27,11 +27,12 @@
             12,
             7,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 20时59分]"
         },
         {
           "title": "全球汽车销量前10出炉 中国3家上榜",
@@ -50,6 +51,20 @@
           "time_info": "[07时56分 ~ 17时41分]"
         },
         {
+          "title": "带狗回家「外挂式运输」引争议，这种方式是否涉嫌虐待宠物？若引发交通事故车主要承担哪些责任？",
+          "url": "https://www.zhihu.com/question/2009686097475625151",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 20时59分]"
+        },
+        {
           "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
           "url": "https://flash.jin10.com/detail/20260227024604812800",
           "source": "金十数据",
@@ -61,17 +76,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "带狗回家「外挂式运输」引争议，这种方式是否涉嫌虐待宠物？若引发交通事故车主要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2009686097475625151",
-          "source": "知乎",
+          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            19,
-            18
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 17时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
@@ -140,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "新一代SU7气囊升级至9个 雷军呼吁二排也要系安全带",
+          "url": "https://wallstreetcn.com/livenews/3060296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
@@ -273,6 +297,17 @@
           "time_info": "[01时58分 ~ 01时59分]"
         },
         {
+          "title": "合康新能：美的集团及其一致行动人合计持股达35.08%",
+          "url": "https://wallstreetcn.com/livenews/3060283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "瑞银集团董事会变动",
           "url": "https://wallstreetcn.com/livenews/3060025",
           "source": "华尔街见闻-快讯",
@@ -282,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
+          "url": "https://wallstreetcn.com/livenews/3060282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "2026WTT 新加坡大满贯赛女单八分之一，王曼昱 3 比 1 逆转申裕斌，如何评价这场比赛？",
