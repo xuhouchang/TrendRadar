@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T17:41:52.397954+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-02-27T18:38:45.560459+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 17时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 18时38分]"
         },
         {
           "title": "全球汽车销量前10出炉 中国3家上榜",
@@ -104,7 +104,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
