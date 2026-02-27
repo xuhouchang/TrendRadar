@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T06:24:27.347749+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-28T06:51:54.454106+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 06时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时51分]"
         },
         {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
@@ -173,7 +173,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
