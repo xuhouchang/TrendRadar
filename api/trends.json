@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T04:49:13.722331+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-03-01T05:22:03.703066+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 05时22分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 05时22分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 05时22分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -50,8 +50,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 04时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 05时22分]"
         },
         {
           "title": "主动投案 华润集团副总经理韩嵩被查",
@@ -65,6 +65,18 @@
           "time_info": "[00时27分 ~ 01时21分]"
         },
         {
+          "title": "华润集团副总经理韩嵩主动投案，正接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32673682",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时21分 ~ 05时22分]"
+        },
+        {
           "title": "土耳其总统埃尔多安：我们认为伊朗对兄弟般的海湾国家发动的无人机和导弹袭击是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260301012404078800",
           "source": "金十数据",
@@ -76,29 +88,6 @@
           "time_info": "01时46分"
         },
         {
-          "title": "美国国务院官员：美国国务卿鲁比奥周六将与七国集团领导人通话，讨论伊朗局势。",
-          "url": "https://flash.jin10.com/detail/20260301043956183800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "华润集团副总经理韩嵩主动投案，正接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32673682",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时21分 ~ 04时49分]"
-        },
-        {
           "title": "华润集团副总经理韩嵩主动投案",
           "url": "https://www.toutiao.com/trending/7611884529942626358/",
           "source": "今日头条",
@@ -107,8 +96,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 05时22分]"
+        },
+        {
+          "title": "美国国务院官员：美国国务卿鲁比奥周六将与七国集团领导人通话，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260301043956183800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时22分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大和印度都是正在发展的经济体，在能源、科技和人工智能领域有着雄心壮志。我和塔塔集团主席在孟买会面，讨论我们两国如何在这些领域合作，为两国人民创造更大的安全和繁荣。",
@@ -150,7 +151,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
