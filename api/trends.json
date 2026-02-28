@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:27:52.783171+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-02-28T15:48:33.527472+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             7,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时48分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时48分 ~ 15时48分]"
         },
         {
           "title": "新能源汽车开征“里程税”？多地回应",
@@ -49,11 +50,12 @@
             9,
             13,
             17,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时48分]"
         },
         {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
@@ -62,11 +64,12 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时48分]"
         },
         {
           "title": "中国人民银行副行长宣昌能出席二十国集团财政和央行副手会",
@@ -520,7 +523,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
