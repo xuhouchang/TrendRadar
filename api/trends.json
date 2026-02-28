@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-28T14:39:38.104754+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-02-28T15:27:52.783171+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
+          "url": "https://www.zhihu.com/question/2010648541866005278",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时48分 ~ 15时27分]"
+        },
         {
           "title": "新能源汽车开征“里程税”？多地回应",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
@@ -25,21 +40,6 @@
           "time_info": "[00时01分 ~ 09时53分]"
         },
         {
-          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
-          "url": "https://www.zhihu.com/question/2010648541866005278",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时48分 ~ 14时39分]"
-        },
-        {
           "title": "手机集体涨价后 汽车会是下一个吗",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
           "source": "百度热搜",
@@ -48,11 +48,25 @@
             7,
             9,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 15时27分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 15时27分]"
         },
         {
           "title": "中国人民银行副行长宣昌能出席二十国集团财政和央行副手会",
@@ -69,19 +83,6 @@
           "time_info": "[11时56分 ~ 14时39分]"
         },
         {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时39分]"
-        },
-        {
           "title": "小米汽车或将推出超跑车型",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%B6%85%E8%B7%91%E8%BD%A6%E5%9E%8B",
           "source": "百度热搜",
@@ -92,6 +93,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时55分 ~ 13时34分]"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时27分]"
         },
         {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
@@ -120,19 +135,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时56分 ~ 14时39分]"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 14时39分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX考虑最快3月秘密递交美国IPO申请。（彭博）",
@@ -434,6 +436,18 @@
           "time_info": "[11时55分 ~ 11时56分]"
         },
         {
+          "title": "王曼昱晋级新加坡大满贯女单四强",
+          "url": "https://www.toutiao.com/trending/7611780312858627627/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时27分]"
+        },
+        {
           "title": "伊拉克副总理与阿曼外交大臣通电话 讨论美伊谈判进展",
           "url": "https://flash.jin10.com/detail/20260228084626951800",
           "source": "金十数据",
@@ -451,7 +465,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -489,17 +503,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "王曼昱晋级新加坡大满贯女单四强",
-          "url": "https://www.toutiao.com/trending/7611780312858627627/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
           "title": "王曼昱4比2张本美和",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -509,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "伊斯法罕、库姆、卡拉杰和克尔曼沙赫等地传来爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260228150418445800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报7277.39点，本周累计下跌3.61%，2月份累计下跌5.88%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
