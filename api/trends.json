@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T00:27:53.051844+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-01T00:51:08.586157+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "主动投案 华润集团副总经理韩嵩被查",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时51分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -59,8 +59,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 00时51分]"
+        },
+        {
+          "title": "据法新社：美国敦促商船避免进入海湾地区。",
+          "url": "https://flash.jin10.com/detail/20260301000911504800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时51分"
         },
         {
           "title": "华润集团副总经理韩嵩主动投案",
