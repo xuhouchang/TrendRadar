@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T06:48:21.472914+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-03-01T07:23:01.393219+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3766403",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "华润集团副总经理韩嵩主动投案，正接受审查调查",
@@ -28,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时21分 ~ 06时48分]"
+          "appearance_count": 12,
+          "time_info": "[03时21分 ~ 07时23分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -50,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 06时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
