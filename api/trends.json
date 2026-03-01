@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:23:35.429857+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-03-02T05:46:46.694983+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             7,
             8,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时47分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[01时47分 ~ 05时46分]"
         },
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -33,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 05时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 05时46分]"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -44,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -55,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -68,8 +69,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "2026wtt 新加坡大满贯赛女单决赛，孙颖莎 4：2 力克王曼昱，怎么看待国乒洛杉矶周期对王曼昱的定位？",
@@ -91,22 +92,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时23分]"
-        },
-        {
-          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
-          "url": "https://flash.jin10.com/detail/20260302044111786800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时46分]"
         },
         {
           "title": "巴林内政部称，伊朗袭击了萨尔曼港附近的海上设施，目前正努力控制火势。",
@@ -114,11 +105,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时46分]"
         },
         {
           "title": "吉利汽车2月销量20.6万辆",
@@ -145,6 +137,18 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
+          "url": "https://flash.jin10.com/detail/20260302044111786800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时46分]"
+        },
+        {
           "title": "克罗地亚外长：今天早上，我与阿曼外长通了电话。我们对近期的升级和前所未有的发展表示深切关切。阿曼长期以来在调解中发挥着重要作用，一直强调通过外交对话防止进一步冲突的重要性。我们共同强调，迫切需要尽快继续进行外交接触，以停止攻击，维护地区稳定，并确保该地区的长期安全与稳定。",
           "url": "https://flash.jin10.com/detail/20260302024538896800",
           "source": "金十数据",
@@ -155,6 +159,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 03时44分]"
+        },
+        {
+          "title": "据泰晤士报：目前，在海湾国家（主要是阿联酋）的近10万名英国人已向政府登记了他们的联系方式。而随着大臣们制定经由沙特阿拉伯进行大规模撤离的计划（以备在其他地区领空持续关闭时启用），目前登记的总人数已达9.4万人。",
+          "url": "https://flash.jin10.com/detail/20260302035510519800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时46分]"
         },
         {
           "title": "船务管理公司V.SHIPS ASIA：马绍尔群岛籍油轮“MKD VYOM”在阿曼沿海海域遭疑似弹药袭击后受损。",
@@ -179,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时47分]"
-        },
-        {
-          "title": "据泰晤士报：目前，在海湾国家（主要是阿联酋）的近10万名英国人已向政府登记了他们的联系方式。而随着大臣们制定经由沙特阿拉伯进行大规模撤离的计划（以备在其他地区领空持续关闭时启用），目前登记的总人数已达9.4万人。",
-          "url": "https://flash.jin10.com/detail/20260302035510519800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时23分]"
         },
         {
           "title": "阿曼外长：伊朗对缓和局势的努力持开放态度",
