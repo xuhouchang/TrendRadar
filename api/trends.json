@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T06:50:35.167158+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-02T07:24:43.963159+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时47分 ~ 06时50分]"
+          "appearance_count": 14,
+          "time_info": "[01时47分 ~ 07时24分]"
         },
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -35,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 06时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 07时24分]"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -46,8 +46,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 06时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -57,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 06时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -67,11 +67,12 @@
           "ranks": [
             18,
             16,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 06时50分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "2026wtt 新加坡大满贯赛女单决赛，孙颖莎 4：2 力克王曼昱，怎么看待国乒洛杉矶周期对王曼昱的定位？",
@@ -114,17 +115,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 06时24分]"
-        },
-        {
-          "title": "英国首相斯塔默：我们将邀请乌克兰专家协助海湾伙伴击落伊朗无人机。",
-          "url": "https://flash.jin10.com/detail/20260302060734114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
         },
         {
           "title": "吉利汽车2月销量20.6万辆",
@@ -186,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 06时50分]"
+        },
+        {
+          "title": "英国首相斯塔默：我们将邀请乌克兰专家协助海湾伙伴击落伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260302060734114800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时24分]"
         },
         {
           "title": "据泰晤士报：目前，在海湾国家（主要是阿联酋）的近10万名英国人已向政府登记了他们的联系方式。而随着大臣们制定经由沙特阿拉伯进行大规模撤离的计划（以备在其他地区领空持续关闭时启用），目前登记的总人数已达9.4万人。",
