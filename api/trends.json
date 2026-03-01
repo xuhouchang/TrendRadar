@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T05:46:46.694983+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-02T06:24:59.309263+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "曼联2-1逆转水晶宫",
@@ -17,11 +17,12 @@
             7,
             8,
             5,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时47分 ~ 05时46分]"
+          "appearance_count": 12,
+          "time_info": "[01时47分 ~ 06时24分]"
         },
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -34,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 05时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 06时24分]"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -45,8 +46,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 05时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -56,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 05时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -69,8 +70,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 05时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "2026wtt 新加坡大满贯赛女单决赛，孙颖莎 4：2 力克王曼昱，怎么看待国乒洛杉矶周期对王曼昱的定位？",
@@ -93,11 +94,12 @@
           "ranks": [
             1,
             7,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 06时24分]"
         },
         {
           "title": "巴林内政部称，伊朗袭击了萨尔曼港附近的海上设施，目前正努力控制火势。",
@@ -106,11 +108,23 @@
           "ranks": [
             6,
             12,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 06时24分]"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟海军“阿斯皮德斯”行动将增派更多舰艇以加强红海、海湾及印度洋地区的海上安全保卫工作。",
+          "url": "https://flash.jin10.com/detail/20260302052508186800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "吉利汽车2月销量20.6万辆",
@@ -142,11 +156,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 06时24分]"
         },
         {
           "title": "克罗地亚外长：今天早上，我与阿曼外长通了电话。我们对近期的升级和前所未有的发展表示深切关切。阿曼长期以来在调解中发挥着重要作用，一直强调通过外交对话防止进一步冲突的重要性。我们共同强调，迫切需要尽快继续进行外交接触，以停止攻击，维护地区稳定，并确保该地区的长期安全与稳定。",
