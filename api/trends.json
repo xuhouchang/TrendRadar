@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T07:24:43.963159+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-02T07:47:40.986577+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时47分 ~ 07时24分]"
+          "appearance_count": 15,
+          "time_info": "[01时47分 ~ 07时47分]"
         },
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -35,8 +35,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时23分 ~ 07时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时23分 ~ 07时47分]"
+        },
+        {
+          "title": "伊朗总统府：总统平安 非常安全",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%B9%B3%E5%AE%89+%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16,
+            20,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 07时47分]"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -55,20 +70,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 07时24分]"
-        },
-        {
-          "title": "伊朗总统府：总统平安 非常安全",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%B9%B3%E5%AE%89+%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16,
-            20,
-            14
           ],
           "is_new": false,
           "appearance_count": 18,
@@ -154,6 +155,19 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "英国首相斯塔默：我们将邀请乌克兰专家协助海湾伙伴击落伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260302060734114800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时47分]"
+        },
+        {
           "title": "克罗地亚外长：今天早上，我与阿曼外长通了电话。我们对近期的升级和前所未有的发展表示深切关切。阿曼长期以来在调解中发挥着重要作用，一直强调通过外交对话防止进一步冲突的重要性。我们共同强调，迫切需要尽快继续进行外交接触，以停止攻击，维护地区稳定，并确保该地区的长期安全与稳定。",
           "url": "https://flash.jin10.com/detail/20260302024538896800",
           "source": "金十数据",
@@ -176,18 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 06时50分]"
-        },
-        {
-          "title": "英国首相斯塔默：我们将邀请乌克兰专家协助海湾伙伴击落伊朗无人机。",
-          "url": "https://flash.jin10.com/detail/20260302060734114800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时24分]"
         },
         {
           "title": "据泰晤士报：目前，在海湾国家（主要是阿联酋）的近10万名英国人已向政府登记了他们的联系方式。而随着大臣们制定经由沙特阿拉伯进行大规模撤离的计划（以备在其他地区领空持续关闭时启用），目前登记的总人数已达9.4万人。",
