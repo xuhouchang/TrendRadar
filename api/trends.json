@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T00:54:24.450697+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2026-03-02T01:23:25.392062+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "2026wtt 新加坡大满贯赛女单决赛，孙颖莎 4：2 力克王曼昱，怎么看待国乒洛杉矶周期对王曼昱的定位？",
@@ -13,22 +13,46 @@
           "source": "知乎",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时23分]"
         },
         {
           "title": "迪拜环球港务集团（DPWorld）表示，杰贝阿里港的全部4个终端均已投入运营。",
           "url": "https://flash.jin10.com/detail/20260302000905320800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时23分]"
+        },
+        {
+          "title": "船务管理公司V.SHIPS ASIA：马绍尔群岛籍油轮“MKD VYOM”在阿曼沿海海域遭疑似弹药袭击后受损。",
+          "url": "https://flash.jin10.com/detail/20260302004336209800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "市场消息：荷兰皇家航空（KLM）将暂停飞往迪拜、利雅得、达曼的航班，直至3月5日（周四）。",
+          "url": "https://flash.jin10.com/detail/20260302003722055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -38,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时23分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -49,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时23分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -61,19 +85,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 00时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 01时23分]"
         },
         {
           "title": "阿曼外长：伊朗对缓和局势的努力持开放态度",
           "url": "https://flash.jin10.com/detail/20260302000156008800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时23分]"
+        },
+        {
+          "title": "吉利汽车2月销量20.6万辆",
+          "url": "https://www.toutiao.com/trending/7611722125195444267/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时23分]"
         },
         {
           "title": "阿曼外交部表示，伊朗外交部长在与阿曼外交部长的电话通话中表示，德黑兰对任何旨在缓和局势的严肃努力持开放态度。",
@@ -87,15 +124,15 @@
           "time_info": "[00时29分 ~ 00时54分]"
         },
         {
-          "title": "吉利汽车2月销量20.6万辆",
-          "url": "https://www.toutiao.com/trending/7611722125195444267/",
-          "source": "今日头条",
+          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
+          "url": "https://www.zhihu.com/question/2011543329251279945",
+          "source": "知乎",
           "ranks": [
-            23
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     }
