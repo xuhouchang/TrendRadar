@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:51:37.630065+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-03-01T19:21:07.958198+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[03时21分 ~ 18时51分]"
+          "appearance_count": 29,
+          "time_info": "[03时21分 ~ 19时21分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -67,8 +67,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时22分 ~ 18时51分]"
+          "appearance_count": 16,
+          "time_info": "[10时22分 ~ 19时21分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查",
@@ -101,11 +101,12 @@
           "ranks": [
             3,
             7,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
           "title": "上汽集团：2月整车合计销量269,465辆，同比下降8.64%；其中新能源汽车71,340辆，同比下降17.18%。",
@@ -114,23 +115,24 @@
           "ranks": [
             4,
             8,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
-          "title": "伊朗总统府：佩泽希齐扬平安",
-          "url": "https://flash.jin10.com/detail/20260301181849386800",
-          "source": "金十数据",
+          "title": "长城汽车2月海外销售42,675台，1-2月累计销售82,953台。 2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061140",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10
+            2,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时51分]"
+          "time_info": "[18时51分 ~ 19时21分]"
         },
         {
           "title": "土耳其总统埃尔多安：我们认为伊朗对兄弟般的海湾国家发动的无人机和导弹袭击是不可接受的。",
@@ -167,15 +169,45 @@
           "time_info": "[00时27分 ~ 05时44分]"
         },
         {
-          "title": "长城汽车2月海外销售42,675台，1-2月累计销售82,953台。 2月新能源车销售12,744台，1-2月累计销售30,773台。",
-          "url": "https://wallstreetcn.com/livenews/3061140",
+          "title": "据卡塔尔半岛电视台3月1日报道，一艘油轮当天在阿曼沿海遭到袭击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3061114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            7,
+            11,
+            22,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时21分]"
+        },
+        {
+          "title": "阿曼一港口据称遭遇空袭",
+          "url": "https://wallstreetcn.com/livenews/3061112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗总统府：佩泽希齐扬平安",
+          "url": "https://flash.jin10.com/detail/20260301181849386800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时21分]"
         },
         {
           "title": "美国国务院官员：美国国务卿鲁比奥周六将与七国集团领导人通话，讨论伊朗局势。",
@@ -227,19 +259,6 @@
           "time_info": "[16时32分 ~ 18时26分]"
         },
         {
-          "title": "据卡塔尔半岛电视台3月1日报道，一艘油轮当天在阿曼沿海遭到袭击。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3061114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时51分]"
-        },
-        {
           "title": "理想汽车：2026年2月交付26,421辆汽车。",
           "url": "https://wallstreetcn.com/livenews/3061048",
           "source": "华尔街见闻-快讯",
@@ -280,17 +299,18 @@
           "time_info": "[16时32分 ~ 18时26分]"
         },
         {
-          "title": "阿曼一港口据称遭遇空袭",
-          "url": "https://wallstreetcn.com/livenews/3061112",
+          "title": "特斯拉：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
+          "url": "https://wallstreetcn.com/livenews/3061108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            13,
-            24
+            12,
+            16,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
           "title": "理想汽车：2026年2月交付26,421辆汽车。",
@@ -316,17 +336,6 @@
           "time_info": "[16时32分 ~ 17时54分]"
         },
         {
-          "title": "蔚来汽车2月份交付20,797辆汽车，同比增长57.6%。 2026年迄今交付47,979辆，同比增长77.3%。 截至2026年2月28日，本公司累计交付量达1,045,571辆。",
-          "url": "https://wallstreetcn.com/livenews/3061132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "市场消息：安曼、科威特和以色列部分地区的空袭警报响起。",
           "url": "https://flash.jin10.com/detail/20260301161458118800",
           "source": "金十数据",
@@ -336,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        },
-        {
-          "title": "吉利汽车2月汽车销量206160辆。 2月纯电动汽车销量67832辆。 2月插电式混动汽车销量49656辆。",
-          "url": "https://wallstreetcn.com/livenews/3061129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "市场消息：马斯克称社交媒体平台“X”使用量达到了新高。",
@@ -361,17 +359,16 @@
           "time_info": "[13时53分 ~ 14时46分]"
         },
         {
-          "title": "特斯拉：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
-          "url": "https://wallstreetcn.com/livenews/3061108",
+          "title": "蔚来汽车2月份交付20,797辆汽车，同比增长57.6%。 2026年迄今交付47,979辆，同比增长77.3%。 截至2026年2月28日，本公司累计交付量达1,045,571辆。",
+          "url": "https://wallstreetcn.com/livenews/3061132",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            16,
-            27
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时51分]"
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时21分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -396,6 +393,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时22分 ~ 12时35分]"
+        },
+        {
+          "title": "吉利汽车2月汽车销量206160辆。 2月纯电动汽车销量67832辆。 2月插电式混动汽车销量49656辆。",
+          "url": "https://wallstreetcn.com/livenews/3061129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时21分]"
         },
         {
           "title": "零跑汽车：2月交付量为28067台。",
