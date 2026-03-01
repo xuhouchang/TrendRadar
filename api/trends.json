@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T15:33:53.508644+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-03-01T16:32:03.866463+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
         {
           "title": "阿曼外交大臣：伊朗已同意不拥有“可制造核弹的核材料”",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时21分 ~ 15时33分]"
+          "appearance_count": 22,
+          "time_info": "[03时21分 ~ 16时32分]"
         },
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -71,6 +71,18 @@
           "time_info": "[00时27分 ~ 06时48分]"
         },
         {
+          "title": "五粮液集团董事长曾从钦被查",
+          "url": "https://www.cls.cn/detail/2298479",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 16时32分]"
+        },
+        {
           "title": "主动投案 华润集团副总经理韩嵩被查",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88+%E5%8D%8E%E6%B6%A6%E9%9B%86%E5%9B%A2%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E9%9F%A9%E5%B5%A9%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -80,18 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 01时21分]"
-        },
-        {
-          "title": "五粮液集团董事长曾从钦被查",
-          "url": "https://www.cls.cn/detail/2298479",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时22分 ~ 15时33分]"
         },
         {
           "title": "土耳其总统埃尔多安：我们认为伊朗对兄弟般的海湾国家发动的无人机和导弹袭击是不可接受的。",
@@ -116,6 +116,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "阿曼海上安全中心：20名船员已获救，初步信息显示4人受伤。",
+          "url": "https://flash.jin10.com/detail/20260301162802874800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "华润集团副总经理韩嵩主动投案",
           "url": "https://www.toutiao.com/trending/7611884529942626358/",
           "source": "今日头条",
@@ -126,6 +137,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时44分]"
+        },
+        {
+          "title": "阿曼海上安全中心：一艘悬挂帕劳国旗的油轮“Skylight”号在阿曼穆桑达姆附近约5海里处遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260301162757436800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国国务院官员：美国国务卿鲁比奥周六将与七国集团领导人通话，讨论伊朗局势。",
@@ -165,15 +187,48 @@
           "time_info": "10时22分"
         },
         {
-          "title": "小鹏汽车：2月交付15,256辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3061081",
+          "title": "长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。",
+          "url": "https://wallstreetcn.com/livenews/3061092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
+          "url": "https://flash.jin10.com/detail/20260301161600546800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "蔚来公司2月交付同比增长57.6%，全新ES8完成第70,000台新车交付",
+          "url": "https://wallstreetcn.com/livenews/3061090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时32分"
+        },
+        {
+          "title": "市场消息：安曼、科威特和以色列部分地区的空袭警报响起。",
+          "url": "https://flash.jin10.com/detail/20260301161458118800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "市场消息：马斯克称社交媒体平台“X”使用量达到了新高。",
@@ -186,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时46分]"
+        },
+        {
+          "title": "小鹏汽车：2月交付15,256辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3061081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时32分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -252,7 +319,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -296,7 +363,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -356,6 +423,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "据阿曼国家通讯社：杜库姆港遭袭击，一名外籍工人受伤。",
+          "url": "https://flash.jin10.com/detail/20260301155027227800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
           "url": "https://wallstreetcn.com/livenews/3061022",
           "source": "华尔街见闻-快讯",
@@ -378,6 +456,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "据阿曼国家通讯社：阿曼杜库姆商业港遭两架无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260301154841690800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "据福克斯新闻：遭遇伊朗袭击的海湾国家将于明日举行会议。",
           "url": "https://flash.jin10.com/detail/20260301052341371800",
           "source": "金十数据",
@@ -387,6 +476,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "伊朗军队：伊朗伊斯兰共和国军队的空军战斗机成功对海湾国家和伊拉克库尔德地区的美国基地进行了多轮轰炸。",
+          "url": "https://flash.jin10.com/detail/20260301154531493800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美国驻阿曼大使馆指示全体馆员及所有美国公民，在马斯喀特外围“持续活动”期间就地避难，直至另行通知。",
+          "url": "https://flash.jin10.com/detail/20260301154316461800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "市场消息：全球第三大集装箱航运公司CMA CGM告知其在海湾地区的船只立即寻求安全避风港，因安全风险加剧。",
