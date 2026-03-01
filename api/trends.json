@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T01:23:25.392062+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-03-02T01:47:58.647399+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "2026wtt 新加坡大满贯赛女单决赛，孙颖莎 4：2 力克王曼昱，怎么看待国乒洛杉矶周期对王曼昱的定位？",
@@ -14,11 +14,57 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时47分]"
+        },
+        {
+          "title": "曼联2-1逆转水晶宫",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%942-1%E9%80%86%E8%BD%AC%E6%B0%B4%E6%99%B6%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "孙颖莎击败王曼昱 卫冕女单冠军",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BB%E8%B4%A5%E7%8E%8B%E6%9B%BC%E6%98%B1+%E5%8D%AB%E5%86%95%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时47分]"
+        },
+        {
+          "title": "五粮液集团董事长曾从钦被查",
+          "url": "https://www.cls.cn/detail/2298479",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时47分]"
+        },
+        {
+          "title": "伊朗总统府：总统平安 非常安全",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%B9%B3%E5%AE%89+%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时47分]"
         },
         {
           "title": "迪拜环球港务集团（DPWorld）表示，杰贝阿里港的全部4个终端均已投入运营。",
@@ -33,60 +79,40 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
+          "url": "https://www.zhihu.com/question/2011543329251279945",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时47分]"
+        },
+        {
           "title": "船务管理公司V.SHIPS ASIA：马绍尔群岛籍油轮“MKD VYOM”在阿曼沿海海域遭疑似弹药袭击后受损。",
           "url": "https://flash.jin10.com/detail/20260302004336209800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时47分]"
         },
         {
           "title": "市场消息：荷兰皇家航空（KLM）将暂停飞往迪拜、利雅得、达曼的航班，直至3月5日（周四）。",
           "url": "https://flash.jin10.com/detail/20260302003722055800",
           "source": "金十数据",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "孙颖莎击败王曼昱 卫冕女单冠军",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BB%E8%B4%A5%E7%8E%8B%E6%9B%BC%E6%98%B1+%E5%8D%AB%E5%86%95%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            13
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "五粮液集团董事长曾从钦被查",
-          "url": "https://www.cls.cn/detail/2298479",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "伊朗总统府：总统平安 非常安全",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%EF%BC%9A%E6%80%BB%E7%BB%9F%E5%B9%B3%E5%AE%89+%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时47分]"
         },
         {
           "title": "阿曼外长：伊朗对缓和局势的努力持开放态度",
@@ -122,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时54分]"
-        },
-        {
-          "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
-          "url": "https://www.zhihu.com/question/2011543329251279945",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
         }
       ]
     }
