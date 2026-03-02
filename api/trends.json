@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T07:47:40.986577+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-03-02T10:06:51.328962+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "曼联2-1逆转水晶宫",
@@ -18,11 +18,12 @@
             8,
             5,
             14,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时47分 ~ 07时47分]"
+          "appearance_count": 16,
+          "time_info": "[01时47分 ~ 10时06分]"
         },
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -35,8 +36,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时23分 ~ 07时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时23分 ~ 10时06分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -47,11 +48,12 @@
             16,
             20,
             14,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 07时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 10时06分]"
         },
         {
           "title": "孙颖莎击败王曼昱 卫冕女单冠军",
@@ -118,6 +120,17 @@
           "time_info": "[04时28分 ~ 06时24分]"
         },
         {
+          "title": "恒指跌幅扩大至2.1%，恒生科技指数跌2.4%。比亚迪电子、哔哩哔哩等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3061423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "吉利汽车2月销量20.6万辆",
           "url": "https://www.toutiao.com/trending/7611722125195444267/",
           "source": "今日头条",
@@ -140,6 +153,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时23分]"
+        },
+        {
+          "title": "Monex集团分析师Jesper Koll 表示，更高的油价有可能引发日本新的通胀，使日本首相高市早苗降低生活成本的努力更加复杂。",
+          "url": "https://flash.jin10.com/detail/20260302095132021800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
@@ -274,6 +298,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时54分]"
+        },
+        {
+          "title": "A股油气股开盘大涨，通源石油、中海油服、中曼石油、准油股份、石化油服、贝肯能源等多股一字涨停，潜能恒信、新锦动力等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "人物｜地下室中走出坚定反美者，这些是哈梅内伊的关键词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "这一次连“和平绿洲”迪拜也未能幸免，战争痛苦如何蔓延海湾多国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32678476",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
