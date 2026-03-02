@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T01:17:34.085973+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-03T02:04:52.447786+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "王毅分别同阿曼外交大臣、伊朗外长、法国外长通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时04分]"
         },
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时04分]"
         },
         {
           "title": "五粮液集团董事长曾从钦被查，可能涉及哪些问题？会对五粮液集团造成哪些影响？",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时04分]"
         },
         {
           "title": "机构：阿拉伯-海湾石油市场已经失去锚定、无舵可循",
@@ -53,6 +53,17 @@
           "time_info": "[00时02分 ~ 01时17分]"
         },
         {
+          "title": "市场消息：马斯克的xAI将在IPO前回购30亿美元债务。",
+          "url": "https://flash.jin10.com/detail/20260303014347171800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
           "title": "弦子报平安",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A6%E5%AD%90%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -60,8 +71,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时04分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
         },
         {
           "title": "马士基：我们将暂停阿联酋、阿曼、伊拉克、科威特、卡塔尔、巴林和沙特的冷藏货物、危险品/特殊货物的进出港运输，直至另行通知。",
@@ -86,13 +108,35 @@
           "time_info": "00时02分"
         },
         {
+          "title": "法国总统马克龙就伊朗和中东局势同卡塔尔、阿联酋、阿曼领导人通话。",
+          "url": "https://flash.jin10.com/detail/20260303013433240800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "英媒：SpaceX计划明年发射“星舰” 马斯克瞄准1.5万亿美元IPO",
+          "url": "https://flash.jin10.com/detail/20260303012939987800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX计划在2027年年中为新款星链（Starlink）卫星的发射工作做好准备。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
