@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T13:36:33.755292+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-03-02T14:59:07.980354+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "如何看待比亚迪 2 月销量 19 万，同比下跌 41%？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时23分 ~ 13时36分]"
+          "appearance_count": 21,
+          "time_info": "[01时23分 ~ 14时59分]"
         },
         {
           "title": "曼联2-1逆转水晶宫",
@@ -36,11 +36,12 @@
             6,
             21,
             12,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时47分 ~ 13时36分]"
+          "appearance_count": 20,
+          "time_info": "[01时47分 ~ 14时59分]"
         },
         {
           "title": "伊朗总统府：总统平安 非常安全",
@@ -129,7 +130,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -156,6 +157,33 @@
           "time_info": "10时06分"
         },
         {
+          "title": "人物｜地下室中走出坚定反美者，这些是哈梅内伊的关键词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时59分]"
+        },
+        {
+          "title": "这一次连“和平绿洲”迪拜也未能幸免，战争痛苦如何蔓延海湾多国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32678476",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时59分]"
+        },
+        {
           "title": "吉利汽车2月销量20.6万辆",
           "url": "https://www.toutiao.com/trending/7611722125195444267/",
           "source": "今日头条",
@@ -180,6 +208,17 @@
           "time_info": "[00时29分 ~ 01时23分]"
         },
         {
+          "title": "花旗集团将道达尔能源公司目标价从71欧元上调至75欧元。",
+          "url": "https://wallstreetcn.com/livenews/3061600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "Monex集团分析师Jesper Koll 表示，更高的油价有可能引发日本新的通胀，使日本首相高市早苗降低生活成本的努力更加复杂。",
           "url": "https://flash.jin10.com/detail/20260302095132021800",
           "source": "金十数据",
@@ -189,6 +228,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
+          "url": "https://www.cls.cn/detail/2299031",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 14时59分]"
         },
         {
           "title": "海湾合作委员会声明：伊朗必须立即停止袭击，以确保供应链安全和全球能源市场稳定。",
@@ -223,7 +274,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -277,6 +328,18 @@
           "time_info": "[04时28分 ~ 05时46分]"
         },
         {
+          "title": "伊朗总统府：佩泽希齐扬平安",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32679934",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 14时59分]"
+        },
+        {
           "title": "船务管理公司V.SHIPS ASIA：马绍尔群岛籍油轮“MKD VYOM”在阿曼沿海海域遭疑似弹药袭击后受损。",
           "url": "https://flash.jin10.com/detail/20260302004336209800",
           "source": "金十数据",
@@ -301,6 +364,17 @@
           "time_info": "[01时23分 ~ 01时47分]"
         },
         {
+          "title": "马斯克变性女儿登上米兰时装周T台",
+          "url": "https://www.toutiao.com/trending/7611736772854595611/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 14时59分]"
+        },
+        {
           "title": "阿曼外长：伊朗对缓和局势的努力持开放态度",
           "url": "https://flash.jin10.com/detail/20260302000156008800",
           "source": "金十数据",
@@ -311,31 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时23分]"
-        },
-        {
-          "title": "人物｜地下室中走出坚定反美者，这些是哈梅内伊的关键词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679641",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时36分]"
-        },
-        {
-          "title": "这一次连“和平绿洲”迪拜也未能幸免，战争痛苦如何蔓延海湾多国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32678476",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时36分]"
         },
         {
           "title": "伊朗前总统内贾德亲信称其平安",
@@ -407,15 +456,15 @@
           "time_info": "[00时29分 ~ 00时54分]"
         },
         {
-          "title": "伊朗总统府：佩泽希齐扬平安",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32679934",
-          "source": "澎湃新闻",
+          "title": "小鹏第二代VLA妈妈都爱开的国民智驾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC%E4%BA%8C%E4%BB%A3VLA%E5%A6%88%E5%A6%88%E9%83%BD%E7%88%B1%E5%BC%80%E7%9A%84%E5%9B%BD%E6%B0%91%E6%99%BA%E9%A9%BE%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时36分]"
+          "time_info": "[14时58分 ~ 14时59分]"
         },
         {
           "title": "伊朗前总统内贾德亲信称其平安",
@@ -435,31 +484,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
         {
-          "title": "马斯克变性女儿登上米兰时装周T台",
-          "url": "https://www.toutiao.com/trending/7611736772854595611/",
-          "source": "今日头条",
+          "title": "协鑫集团据悉考虑发行美元债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061593",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
-          "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
-          "url": "https://www.cls.cn/detail/2299031",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "14时59分"
         },
         {
           "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
@@ -501,7 +539,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -526,6 +564,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，公司即将于2026年3月5日召开颠覆性技术发布会",
+          "url": "https://wallstreetcn.com/livenews/3061572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "贝伦贝格：将道达尔能源公司目标价从57欧元上调至62欧元。",
+          "url": "https://flash.jin10.com/detail/20260302135504678800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
