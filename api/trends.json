@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T06:56:18.175270+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-03-04T07:28:34.578837+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -29,11 +29,12 @@
             13,
             14,
             7,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 07时28分]"
         },
         {
           "title": "雷军现身北京代表团驻地",
@@ -46,11 +47,12 @@
             23,
             25,
             26,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 07时28分]"
         },
         {
           "title": "伊朗媒体称哈梅内伊之子穆杰塔巴平安",
@@ -58,11 +60,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 07时28分]"
         },
         {
           "title": "问界M6全系售价曝光",
@@ -74,8 +77,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时37分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[04时37分 ~ 07时28分]"
+        },
+        {
+          "title": "英国海上贸易行动办公室：已收到一起发生在阿曼马斯喀特以东137海里的事件报告。",
+          "url": "https://flash.jin10.com/detail/20260304070824018800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
@@ -131,11 +145,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 07时28分]"
         },
         {
           "title": "美国纽约证券交易所（NYSE）集团总裁Lynn Martin：地缘政治问题不可能给IPO活动按下终止键。",
@@ -162,6 +177,19 @@
           "time_info": "[03时58分 ~ 04时37分]"
         },
         {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
           "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
           "url": "https://wallstreetcn.com/livenews/3063002",
           "source": "华尔街见闻-快讯",
@@ -172,18 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时56分]"
         },
         {
           "title": "伊拉克库区苏莱曼尼亚省传出爆炸声，驻有美军的哈里尔空军基地遭袭",
@@ -209,6 +225,17 @@
           "time_info": "[06时29分 ~ 06时56分]"
         },
         {
+          "title": "据第三方市场调研机构Omdia：2月份美国轻型汽车销量为120万辆，年化销量为1575万辆。",
+          "url": "https://flash.jin10.com/detail/20260304063929107800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "首批3日从伊朗撤至土库曼斯坦境内的25名中国公民，4日凌晨已全部登机启程回国。",
           "url": "https://flash.jin10.com/detail/20260304040638396800",
           "source": "金十数据",
@@ -218,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "据华尔街日报：美国众议院监督委员会要求即将离任的高盛集团总法律顾问就其与爱泼斯坦的关系出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260304063501793800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "据知情人士透露，SpaceX新增花旗集团到其IPO的簿记行。 还选择了巴克莱，德意志银行，以及瑞银集团。（彭博）",
