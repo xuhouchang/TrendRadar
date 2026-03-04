@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-04T20:57:42.264976+08:00",
-  "total_titles_processed": 2076,
+  "generated_at": "2026-03-04T22:02:10.262515+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时01分 ~ 20时57分]"
-        },
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
@@ -31,8 +18,35 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时12分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时01分 ~ 22时02分]"
+        },
+        {
+          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
+          "url": "https://www.cls.cn/detail/2302544",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时12分 ~ 20时57分]"
+          "time_info": "[16时50分 ~ 22时02分]"
         },
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -151,20 +165,6 @@
           "time_info": "[04时37分 ~ 10时02分]"
         },
         {
-          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
-          "url": "https://www.cls.cn/detail/2302544",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 20时57分]"
-        },
-        {
           "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
           "url": "https://www.cls.cn/detail/2302307",
           "source": "财联社热门",
@@ -174,8 +174,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时02分]"
+        },
+        {
+          "title": "雷军的两会建议",
+          "url": "https://www.toutiao.com/trending/7613303840791776806/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 22时02分]"
         },
         {
           "title": "受原油价格上涨影响，印度轮胎股下跌2%至3.4%不等。",
@@ -268,19 +282,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时20分 ~ 15时12分]"
-        },
-        {
-          "title": "雷军的两会建议",
-          "url": "https://www.toutiao.com/trending/7613303840791776806/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 20时57分]"
         },
         {
           "title": "欧佩克：欧佩克秘书处收到伊拉克、阿联酋、哈萨克斯坦和阿曼提交的最新补偿计划。",
@@ -472,6 +473,18 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "迪丽热巴报平安",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时02分]"
+        },
+        {
           "title": "比亚迪发布会定档3月5日晚",
           "url": "https://www.toutiao.com/trending/7613230898393370139/",
           "source": "今日头条",
@@ -541,6 +554,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时56分]"
+        },
+        {
+          "title": "为什么说「华为旗舰技术看尊界」？尊界 S800 首发了哪些华为核心黑科技？",
+          "url": "https://www.zhihu.com/question/2012472125953450167",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "比亚迪将推出下一代刀片电池吗",
@@ -682,7 +706,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -795,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "迪丽热巴报平安",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "雷军呼吁不要过度依赖辅助驾驶",
