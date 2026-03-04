@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T17:40:59.233765+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2026-03-04T18:37:21.240883+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 18时37分]"
         },
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -142,11 +142,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 17时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 18时37分]"
         },
         {
           "title": "受原油价格上涨影响，印度轮胎股下跌2%至3.4%不等。",
@@ -206,13 +207,26 @@
           "time_info": "[03时58分 ~ 05时35分]"
         },
         {
+          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
+          "url": "https://www.cls.cn/detail/2302544",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时37分]"
+        },
+        {
           "title": "日本外务省：日本外相茂木敏充卡塔尔首相兼外务大臣穆罕默德·本·阿卜杜拉赫曼·阿尔·萨尼进行了电话会谈。双方就当前中东局势进行了意见交流，并确认了两国间的合作。",
           "url": "https://flash.jin10.com/detail/20260304172946771800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -247,9 +261,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
+          "url": "https://wallstreetcn.com/livenews/3063563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗克尔曼沙阿省一野战医院遭袭被毁，多人受伤",
@@ -347,18 +372,6 @@
           "time_info": "[16时50分 ~ 17时40分]"
         },
         {
-          "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
-          "url": "https://www.cls.cn/detail/2302544",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
           "title": "泰国联合商业集团：今年来自中东的游客数量可能下降10%。",
           "url": "https://flash.jin10.com/detail/20260304130320777800",
           "source": "金十数据",
@@ -407,6 +420,18 @@
           "time_info": "[03时58分 ~ 04时37分]"
         },
         {
+          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
+          "url": "https://www.cls.cn/detail/2302307",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时37分]"
+        },
+        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -430,18 +455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时29分 ~ 14时07分]"
-        },
-        {
-          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
-          "url": "https://www.cls.cn/detail/2302307",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
         },
         {
           "title": "据第三方市场调研机构Omdia：2月份美国轻型汽车销量为120万辆，年化销量为1575万辆。",
@@ -501,6 +514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时56分]"
+        },
+        {
+          "title": "雷军的两会建议",
+          "url": "https://www.toutiao.com/trending/7613303840791776806/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "比亚迪将推出下一代刀片电池吗",
@@ -565,7 +590,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -691,15 +716,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "雷军的两会建议",
-          "url": "https://www.toutiao.com/trending/7613303840791776806/",
+          "title": "尊界S800/问界M9首搭896线激光雷达",
+          "url": "https://www.toutiao.com/trending/7612217860824711222/",
           "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "18时37分"
         },
         {
           "title": "消息人士：SpaceX选定多家大型银行为计划中的美国IPO提供支持，花旗、瑞穗、加拿大皇家银行、巴克莱银行、德意志银行和瑞银集团参与其中。",
