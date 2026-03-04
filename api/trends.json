@@ -1,1048 +1,121 @@
 {
-  "generated_at": "2026-03-04T23:41:56.005727+08:00",
-  "total_titles_processed": 2346,
+  "generated_at": "2026-03-05T00:44:54.599456+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 88,
+      "match_count": 10,
       "titles": [
         {
-          "title": "硬接导弹无碍,比亚迪这波赢麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
-          "source": "贴吧",
+          "title": "政协委员告诉你什么最让马斯克破防",
+          "url": "https://www.toutiao.com/trending/7612652724908441610/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            4,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时12分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "本田拟将中国产电动汽车卖回日本",
+          "url": "https://www.toutiao.com/trending/7612296534020882468/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3766660",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时01分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "开年即迎“颠覆性”技术！华为896线激光雷达上车 比亚迪将发第二代刀片电池",
           "url": "https://www.cls.cn/detail/2302544",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时50分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "硬接导弹无碍,比亚迪这波赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351348&amp;topic_name=%E7%A1%AC%E6%8E%A5%E5%AF%BC%E5%BC%B9%E6%97%A0%E7%A2%8D%2C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BF%99%E6%B3%A2%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "马士基：将暂时停止接受往返阿联酋、阿曼、伊拉克、科威特、卡塔尔、巴林、沙特阿拉伯的货物预订，直至另行通知。",
+          "url": "https://wallstreetcn.com/livenews/3063757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "雷军发布2026两会建议",
           "url": "https://www.douyin.com/hot/2418271",
           "source": "抖音",
           "ranks": [
-            9,
-            8,
-            7,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 23时41分]"
-        },
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            17,
-            5,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 04时37分]"
-        },
-        {
-          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
-          "url": "https://www.cls.cn/detail/2302307",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时50分 ~ 23时41分]"
-        },
-        {
-          "title": "七个关键词感知中国经济脉搏",
-          "url": "https://www.douyin.com/hot/2418456",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时50分]"
-        },
-        {
-          "title": "伊媒称哈梅内伊之子穆杰塔巴平安",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%E7%A7%B0%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B9%8B%E5%AD%90%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%B9%B3%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14,
-            7,
-            16,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 07时52分]"
-        },
-        {
-          "title": "雷军现身北京代表团驻地",
-          "url": "https://www.douyin.com/hot/2417479",
-          "source": "抖音",
-          "ranks": [
-            19,
-            20,
-            29,
-            23,
-            25,
-            26,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 07时28分]"
-        },
-        {
-          "title": "何小鹏的3份代表建议",
-          "url": "https://www.douyin.com/hot/2418367",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时20分 ~ 16时50分]"
-        },
-        {
-          "title": "伊朗媒体称哈梅内伊之子穆杰塔巴平安",
-          "url": "https://www.toutiao.com/trending/7613021063726763562/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            18,
-            12,
-            22,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时07分 ~ 17时40分]"
-        },
-        {
-          "title": "雷军的两会建议",
-          "url": "https://www.toutiao.com/trending/7613303840791776806/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            26,
-            15,
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时40分 ~ 23时41分]"
-        },
-        {
-          "title": "问界M6全系售价曝光",
-          "url": "https://www.toutiao.com/trending/7612490937646579738/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时37分 ~ 10时02分]"
-        },
-        {
-          "title": "受原油价格上涨影响，印度轮胎股下跌2%至3.4%不等。",
-          "url": "https://flash.jin10.com/detail/20260304115238954800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "卡塔尔海湾国际服务公司（Gulf International Services）停止部分与能源部门活动相关的运营及服务。",
-          "url": "https://wallstreetcn.com/livenews/3063070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "【A股收盘：沪指跌近1%失守4100点，电网设备板块逆势走强】市场全天震荡调整，沪指失守4100点关口。存储芯片板块大涨，佰维存储、德明利涨停。电力、电网设备板块走强，迦南智能、安靠智电等多股涨停。军工股表现活跃，航天彩虹涨停，中无人机涨超15%。农业股盘中拉升，亚盛集团4连板，农发种业涨停。下跌方面，油气股迎来调整，仁智股份跌停；航运板块下挫，凤凰航运跌停。个股跌多涨少，沪深京三市约3600股飘绿，今日成交近2.39万亿。截止收盘沪指跌0.98%，深成指跌0.75%，创业板指跌1.41%。",
-          "url": "https://wallstreetcn.com/livenews/3063437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "卡塔尔海湾国际服务公司停止与能源行业活动相关的部分运营和服务。",
-          "url": "https://flash.jin10.com/detail/20260304074002210800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
-          "url": "https://wallstreetcn.com/livenews/3062985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 05时35分]"
-        },
-        {
-          "title": "日本外务省：日本外相茂木敏充卡塔尔首相兼外务大臣穆罕默德·本·阿卜杜拉赫曼·阿尔·萨尼进行了电话会谈。双方就当前中东局势进行了意见交流，并确认了两国间的合作。",
-          "url": "https://flash.jin10.com/detail/20260304172946771800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "花旗：受海湾地区风险影响，铜价可能会跌破每吨12000美元",
-          "url": "https://wallstreetcn.com/livenews/3063285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "阿联酋与海湾国家协调开通空中走廊",
-          "url": "https://www.toutiao.com/trending/7613201744538075155/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时12分]"
+          "time_info": "00时44分"
         },
         {
           "title": "迪丽热巴报平安",
-          "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=22&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%A5%E5%B9%B3%E5%AE%89&t=31&band_rank=21&Refer=top",
           "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时57分 ~ 23时41分]"
-        },
-        {
-          "title": "欧佩克：欧佩克秘书处收到伊拉克、阿联酋、哈萨克斯坦和阿曼提交的最新补偿计划。",
-          "url": "https://flash.jin10.com/detail/20260304191832526800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "伦敦证交所集团与澳交所合作，升级衍生品市场交易平台。",
-          "url": "https://flash.jin10.com/detail/20260304172802197800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "特斯拉巨鲸廖凯原买入100万股英伟达 将再买100万股以支持紧张的市场",
-          "url": "https://wallstreetcn.com/livenews/3063563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "伊朗克尔曼沙阿省一野战医院遭袭被毁，多人受伤",
-          "url": "https://wallstreetcn.com/livenews/3062964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 04时37分]"
-        },
-        {
-          "title": "美国驻阿曼大使馆恢复就地避难令。",
-          "url": "https://flash.jin10.com/detail/20260303235122324800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3063005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "英国海上贸易行动办公室：已收到一起发生在阿曼马斯喀特以东137海里的事件报告。",
-          "url": "https://flash.jin10.com/detail/20260304070824018800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时52分]"
-        },
-        {
-          "title": "俄技术集团：俄产反无人机系统完成测试",
-          "url": "https://flash.jin10.com/detail/20260304153614334800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "美国众议院一个委员会希望高盛集团Reummler出席听证会。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "问界M9",
-          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
-          "title": "比亚迪宋Ultra EV官宣3月5日预售",
-          "url": "https://www.toutiao.com/trending/7612283847643856959/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
-          "title": "泰国联合商业集团：今年来自中东的游客数量可能下降10%。",
-          "url": "https://flash.jin10.com/detail/20260304130320777800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时07分]"
-        },
-        {
-          "title": "A股农业股午后再度拉升，神农种业、秋乐种业涨超15%，农发种业、亚盛集团此前涨停，康农种业、登海种业、荃银高科、隆平高科涨逾7%。",
-          "url": "https://wallstreetcn.com/livenews/3063335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时07分]"
-        },
-        {
-          "title": "美国纽约证券交易所（NYSE）集团总裁Lynn Martin：地缘政治问题不可能给IPO活动按下终止键。",
-          "url": "https://wallstreetcn.com/livenews/3062987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "美国总统特朗普：已指示美国国际开发金融公司（DFC）以非常合理的价格提供政治风险保险和保证，确保所有海上贸易的金融安全，特别是通过海湾的能源贸易。",
-          "url": "https://flash.jin10.com/detail/20260304033851666800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 04时37分]"
-        },
-        {
-          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "比亚迪发布会定档3月5日晚",
-          "url": "https://www.toutiao.com/trending/7613230898393370139/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时07分]"
-        },
-        {
-          "title": "据第三方市场调研机构Omdia：2月份美国轻型汽车销量为120万辆，年化销量为1575万辆。",
-          "url": "https://flash.jin10.com/detail/20260304063929107800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时52分]"
-        },
-        {
-          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3063002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "据华尔街日报：美国众议院监督委员会要求即将离任的高盛集团总法律顾问就其与爱泼斯坦的关系出庭作证。",
-          "url": "https://flash.jin10.com/detail/20260304063501793800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时52分]"
-        },
-        {
-          "title": "比亚迪闯关：下一个增长点是什么",
-          "url": "https://www.toutiao.com/trending/7612819405894926345/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 15时12分]"
-        },
-        {
-          "title": "伊拉克库区苏莱曼尼亚省传出爆炸声，驻有美军的哈里尔空军基地遭袭",
-          "url": "https://wallstreetcn.com/livenews/3063017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时56分]"
-        },
-        {
-          "title": "为什么说「华为旗舰技术看尊界」？尊界 S800 首发了哪些华为核心黑科技？",
-          "url": "https://www.zhihu.com/question/2012472125953450167",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "比亚迪将推出下一代刀片电池吗",
-          "url": "https://www.toutiao.com/trending/7612580413470654474/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，新闻集团与Meta Platforms(META.O)达成多年期人工智能授权协议，协议将至少持续三年，Meta每年将向新闻集团支付高达5000万美元的费用，以获得内容授权用于训练和内容输出。",
-          "url": "https://flash.jin10.com/detail/20260304053702894800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时56分]"
-        },
-        {
-          "title": "尊界首搭双光路图像级激光雷达",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8C%E9%A6%96%E6%90%AD%E5%8F%8C%E5%85%89%E8%B7%AF%E5%9B%BE%E5%83%8F%E7%BA%A7%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
-          "title": "尊界S800累计交付量超1.5万辆",
-          "url": "https://www.toutiao.com/trending/7612835472914595846/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
-          "title": "一架以色列无人机在伊朗东部的克尔曼被击落。",
-          "url": "https://flash.jin10.com/detail/20260304153451775800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "美国银行：将特斯拉(TSLA.O)评级从“中性”上调至“买入”。",
-          "url": "https://flash.jin10.com/detail/20260304190542208800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "岚图FE或将搭载尊界同款896线四激光雷达",
-          "url": "https://wallstreetcn.com/livenews/3063532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "首批3日从伊朗撤至土库曼斯坦境内的25名中国公民，4日凌晨已全部登机启程回国。",
-          "url": "https://flash.jin10.com/detail/20260304040638396800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "问界M9累计交付量超28万台",
-          "url": "https://wallstreetcn.com/livenews/3063417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "阿曼方面表示，已成功解救在霍尔木兹海峡附近遭两枚导弹袭击的马耳他籍货轮的船员。",
-          "url": "https://flash.jin10.com/detail/20260304223243795800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "据知情人士透露，SpaceX新增花旗集团到其IPO的簿记行。 还选择了巴克莱，德意志银行，以及瑞银集团。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3063000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "A股煤炭板块开盘下挫，兖矿能源、云煤能源、大有能源、安泰集团、山西焦化触及跌停，陕西黑猫、中煤能源跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3063169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "全国政协委员李书福：新能源汽车行业不要内卷式竞争，需要内涵式发展",
-          "url": "https://wallstreetcn.com/livenews/3063456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "美国财长贝森特：原油市场供应十分充足。 大量的原油已远离海湾地区。 美国将为海湾地区的船只提供保险。 未来几天将与船东取得联系。 西班牙的表现实在是糟糕透顶。 西班牙在搭美国和其他北约盟国的便车。 15%的关税税率可能将于本周生效。 （谈伊朗）特朗普对此有远见，各方都应退后一步。",
-          "url": "https://wallstreetcn.com/livenews/3063634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
-          "url": "https://wallstreetcn.com/livenews/3062868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "土耳其外交部长：伊朗为回应美国和以色列的袭击而对海湾国家进行无差别轰炸是“非常错误”的行为。",
-          "url": "https://flash.jin10.com/detail/20260304023546355800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "泰国联合商业集团预计2026年出口下降0.5%至1.5%。",
-          "url": "https://flash.jin10.com/detail/20260304125810560800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "泰国联合商业集团维持该国2026年GDP增长预测在1.6%至2.0%之间。",
-          "url": "https://flash.jin10.com/detail/20260304125750800800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "由迪拜国际机场飞往广州白云国际机场航班平安落地",
-          "url": "https://wallstreetcn.com/livenews/3063702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "黑石集团(BX.N)首席运营官格雷：中东冲突不会损害我们的任何长期利益。",
-          "url": "https://flash.jin10.com/detail/20260303234412495800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "阿曼方面称，一艘船只在霍尔木兹海峡附近遭炮击。",
-          "url": "https://flash.jin10.com/detail/20260304222907330800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "阿曼方面称，一艘马耳他籍货船遭两枚导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20260304222856234800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "埃克森美孚高级副总裁：公司将在未来数周派遣团队前往委内瑞拉。 我们需要实地考察委内瑞拉的变化，然后决定再投资事宜。",
-          "url": "https://wallstreetcn.com/livenews/3062897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "尊界S800/问界M9首搭896线激光雷达",
-          "url": "https://www.toutiao.com/trending/7612217860824711222/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "消息人士：SpaceX选定多家大型银行为计划中的美国IPO提供支持，花旗、瑞穗、加拿大皇家银行、巴克莱银行、德意志银行和瑞银集团参与其中。",
-          "url": "https://flash.jin10.com/detail/20260304045233832800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "中国驻伊朗大使馆：请计划向土库曼斯坦撤离的在伊朗中国公民通过萨拉赫斯口岸入境土库曼斯坦",
-          "url": "https://wallstreetcn.com/livenews/3063729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "阿曼外交部长：重申呼吁立即停火、重返负责任的地区外交。",
-          "url": "https://flash.jin10.com/detail/20260304012754369800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "00时44分"
         },
         {
-          "title": "美国国务院更新对阿曼的旅行建议，非紧急公务人员获准离境。",
-          "url": "https://flash.jin10.com/detail/20260304112421230800",
-          "source": "金十数据",
+          "title": "比亚迪将发布第二代刀片电池",
+          "url": "https://www.douyin.com/hot/2418321",
+          "source": "抖音",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "00时44分"
         },
         {
-          "title": "荷兰国际集团（ING）：英国央行料将在3月份按兵不动，但不排除后续降息的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3063726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "雷军呼吁不要过度依赖辅助驾驶",
-          "url": "https://www.toutiao.com/trending/7612556574124703807/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3063401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "俄罗斯与阿曼外交部长进行通话，双方讨论了伊朗局势，呼吁尽快停止军事行动。",
-          "url": "https://flash.jin10.com/detail/20260303233716606800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "A股油气股延续强势，石化油服、山东墨龙3连板，中曼石油、贝肯能源、中油工程、准油股份等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3063150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "德国总理携汽车巨头访华背后",
-          "url": "https://www.toutiao.com/trending/7612903917219856390/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "沙特航空将往返海湾地区的航班停飞期限延长至3月6日。",
-          "url": "https://flash.jin10.com/detail/20260304222120781800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "蒙曼现身全国两会",
-          "url": "https://www.toutiao.com/trending/7613319473777803306/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "美国国防部：美国国防部长赫格塞思和参谋长联席会议主席丹·凯恩将于美东时间周三上午8点（北京时间21点）举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260304193513325800",
-          "source": "金十数据",
+          "title": "车停老家半个月 底盘现20斤红薯玉米",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%80%81%E5%AE%B6%E5%8D%8A%E4%B8%AA%E6%9C%88+%E5%BA%95%E7%9B%98%E7%8E%B020%E6%96%A4%E7%BA%A2%E8%96%AF%E7%8E%89%E7%B1%B3",
+          "source": "百度热搜",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "福特汽车(F.N)：美国2月份汽车产量达188,197辆，美国2月电动车型总销量为14,132辆。",
-          "url": "https://flash.jin10.com/detail/20260304221746022800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌3.34%，报6958.04点，整体持续低位窄幅震荡。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。 ETF中，XtrackersHarvest中证50（ASHS）收跌5.82%，德银嘉实沪深300指数ETF（ASHR）收跌3.05%。 中国科技指数ETF（CQQQ）收跌4.86%，中概互联网指数ETF（KWEB）收跌2.74%。",
-          "url": "https://wallstreetcn.com/livenews/3063005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "利比亚国家石油公司：于利比亚海岸外起火的液化天然气运输船“北极美塔加斯”号，当时正从俄罗斯摩尔曼斯克驶往埃及的塞德港。",
-          "url": "https://flash.jin10.com/detail/20260304185441981800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
-          "url": "https://wallstreetcn.com/livenews/3062847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "科威特阿尔库特工业项目公司暂停工厂生产。 其主要业务涉及氯碱化学品生产、油田开发服务及物流，是科威特水务、海水淡化市场核心供应商。科威特本土氯碱全品类市占率均超70%，出口占比接近40%，主要出口至海湾六国、印度等地区。",
-          "url": "https://wallstreetcn.com/livenews/3063425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "尊界融合感知能力断代领先",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8A%E7%95%8C%E8%9E%8D%E5%90%88%E6%84%9F%E7%9F%A5%E8%83%BD%E5%8A%9B%E6%96%AD%E4%BB%A3%E9%A2%86%E5%85%88%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "00时44分"
         }
       ]
     }
