@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T07:31:18.719127+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-05T07:55:54.790228+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时55分]"
         },
         {
           "title": "硬接导弹无碍,比亚迪这波赢麻",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时55分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -55,8 +55,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时55分]"
         },
         {
           "title": "迪丽热巴报平安",
@@ -66,8 +66,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时55分]"
         },
         {
           "title": "本田拟将中国产电动汽车卖回日本",
@@ -116,6 +116,49 @@
           "time_info": "05时35分"
         },
         {
+          "title": "政协委员告诉你什么最让马斯克破防",
+          "url": "https://www.toutiao.com/trending/7612652724908441610/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时55分]"
+        },
+        {
+          "title": "雷军发布2026两会建议",
+          "url": "https://www.douyin.com/hot/2418271",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 07时55分]"
+        },
+        {
+          "title": "比亚迪将发布第二代刀片电池",
+          "url": "https://www.douyin.com/hot/2418321",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 07时55分]"
+        },
+        {
           "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
           "url": "https://flash.jin10.com/detail/20260305012308521800",
           "source": "金十数据",
@@ -140,19 +183,6 @@
           "time_info": "[05时35分 ~ 07时31分]"
         },
         {
-          "title": "政协委员告诉你什么最让马斯克破防",
-          "url": "https://www.toutiao.com/trending/7612652724908441610/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 07时31分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
           "url": "https://wallstreetcn.com/livenews/3063863",
           "source": "华尔街见闻-快讯",
@@ -163,33 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "雷军发布2026两会建议",
-          "url": "https://www.douyin.com/hot/2418271",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 05时35分]"
-        },
-        {
-          "title": "比亚迪将发布第二代刀片电池",
-          "url": "https://www.douyin.com/hot/2418321",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
