@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T03:43:51.887534+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-03-06T04:37:55.426679+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "人大代表雷军建议将 L2 级辅助驾驶脱手脱眼纳入处罚，对保障驾驶安全有哪些帮助？脱手脱眼有多危险？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "比亚迪大唐首发亮相",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "美联储理事鲍曼：希望在2026年看到更多的招聘和增长。",
@@ -92,11 +92,12 @@
           "ranks": [
             5,
             30,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "美联储理事鲍曼：将巴塞尔视为更广泛资本框架的一部分。",
@@ -105,7 +106,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -116,11 +117,12 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时37分]"
         },
         {
           "title": "曼联卡里克应该留任吗",
@@ -128,11 +130,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时37分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -143,19 +146,55 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时37分]"
         },
         {
           "title": "美联储理事鲍曼：看到更多劳动市场稳定的迹象。",
           "url": "https://wallstreetcn.com/livenews/3064634",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时37分]"
+        },
+        {
+          "title": "美联储理事鲍曼：现在判断战争对美国经济的影响还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3064633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时37分]"
+        },
+        {
+          "title": "纽卡斯尔联2-1曼联",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%942-1%E6%9B%BC%E8%81%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 04时37分]"
+        },
+        {
+          "title": "定价文件显示，沙特将4月份对亚洲出口的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价每桶升水2.5美元。",
+          "url": "https://flash.jin10.com/detail/20260306035755191800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时37分"
         },
         {
           "title": "由迪拜国际机场飞往上海浦东国际机场航班平安落地",
@@ -169,17 +208,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "美联储理事鲍曼：现在判断战争对美国经济的影响还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3064633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
           "title": "比亚迪全球首创闪充桩来了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%A8%E7%90%83%E9%A6%96%E5%88%9B%E9%97%AA%E5%85%85%E6%A1%A9%E6%9D%A5%E4%BA%86%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -189,17 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "纽卡斯尔联2-1曼联",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%942-1%E6%9B%BC%E8%81%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         },
         {
           "title": "据ABC新闻：OpenAI创始人奥尔特曼表示，公司无权就军方使用其技术作出运营决策。",
@@ -224,6 +241,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "壳牌与委内瑞拉公司VEPICA以及KBR和贝克休斯达成多项技术和商业协议。壳牌的协议涵盖了离岸天然气项目、陆上油气机会、勘探活动，以及本地化内容和就业培训计划。",
+          "url": "https://flash.jin10.com/detail/20260306032453679800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
           "title": "比亚迪宋Ultra EV预售15.5万元起",
           "url": "https://www.toutiao.com/trending/7612867390271193134/",
           "source": "今日头条",
@@ -246,6 +274,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "俄称美以欲将海湾国家拖入对伊战争",
+          "url": "https://www.toutiao.com/trending/7613721569059196426/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
           "title": "蒙曼谈婚姻观称不能只算利益账",
           "url": "https://s.weibo.com/weibo?q=%23%E8%92%99%E6%9B%BC%E8%B0%88%E5%A9%9A%E5%A7%BB%E8%A7%82%E7%A7%B0%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%AE%97%E5%88%A9%E7%9B%8A%E8%B4%A6%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -266,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
+          "url": "https://flash.jin10.com/detail/20260306031802688800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "比亚迪今年年底前建成2万座闪充站",
