@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T06:33:29.138239+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-03-06T07:51:50.721064+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
+        },
+        {
+          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012972722834073577",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -26,19 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
-        },
-        {
-          "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012972722834073577",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "比亚迪大唐首发亮相",
@@ -47,11 +48,12 @@
           "ranks": [
             8,
             6,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -62,11 +64,12 @@
             30,
             25,
             24,
-            28
+            28,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "比亚迪第二代刀片电池首搭10款车型",
@@ -80,8 +83,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时51分]"
         },
         {
           "title": "雷军回应手机内存芯片价格上涨",
@@ -131,17 +134,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "美联储理事鲍曼：将巴塞尔视为更广泛资本框架的一部分。",
-          "url": "https://flash.jin10.com/detail/20260306024522736800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
           "title": "纽卡斯尔联2-1曼联",
           "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%942-1%E6%9B%BC%E8%81%94",
           "source": "bilibili 热搜",
@@ -151,8 +143,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 07时51分]"
+        },
+        {
+          "title": "美联储理事鲍曼：将巴塞尔视为更广泛资本框架的一部分。",
+          "url": "https://flash.jin10.com/detail/20260306024522736800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "曼联卡里克应该留任吗",
@@ -192,6 +195,18 @@
           "time_info": "[03时43分 ~ 04时37分]"
         },
         {
+          "title": "比亚迪今年年底前建成2万座闪充站",
+          "url": "https://www.toutiao.com/trending/7613522274024505398/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 07时51分]"
+        },
+        {
           "title": "定价文件显示，沙特将4月份对亚洲出口的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价每桶升水2.5美元。",
           "url": "https://flash.jin10.com/detail/20260306035755191800",
           "source": "金十数据",
@@ -209,7 +224,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -333,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "比亚迪今年年底前建成2万座闪充站",
-          "url": "https://www.toutiao.com/trending/7613522274024505398/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     }
