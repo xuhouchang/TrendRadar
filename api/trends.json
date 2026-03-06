@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T21:57:09.434392+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-03-06T22:39:39.216183+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时31分 ~ 21时57分]"
+          "appearance_count": 16,
+          "time_info": "[13时31分 ~ 22时39分]"
         },
         {
           "title": "马斯克千金走秀,台风超辣眼",
@@ -58,6 +58,23 @@
           "time_info": "[10时04分 ~ 19时29分]"
         },
         {
+          "title": "会见企业家｜对话雷军：未来5年内，在一些限定场所可以实现真正意义的无人驾驶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32704431",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时21分 ~ 22时39分]"
+        },
+        {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012972722834073577",
           "source": "知乎",
@@ -70,22 +87,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时10分 ~ 12时21分]"
-        },
-        {
-          "title": "会见企业家｜对话雷军：未来5年内，在一些限定场所可以实现真正意义的无人驾驶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32704431",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时21分 ~ 21时57分]"
         },
         {
           "title": "读懂政府工作报告中的关键词",
@@ -140,8 +141,34 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时21分 ~ 21时57分]"
+          "appearance_count": 17,
+          "time_info": "[12时21分 ~ 22时39分]"
+        },
+        {
+          "title": "雷军回应把周云杰带出圈",
+          "url": "https://www.douyin.com/hot/2420406",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10,
+            13,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 22时39分]"
+        },
+        {
+          "title": "小国大角色！阿曼何以成中东乱局中多国“撤侨通道”？",
+          "url": "https://news.ifeng.com/c/8rHJ43h7kKe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 22时39分]"
         },
         {
           "title": "比亚迪：第二代刀片电池9分钟充饱",
@@ -158,32 +185,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时51分]"
-        },
-        {
-          "title": "雷军回应把周云杰带出圈",
-          "url": "https://www.douyin.com/hot/2420406",
-          "source": "抖音",
-          "ranks": [
-            14,
-            10,
-            13,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 21时57分]"
-        },
-        {
-          "title": "小国大角色！阿曼何以成中东乱局中多国“撤侨通道”？",
-          "url": "https://news.ifeng.com/c/8rHJ43h7kKe",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时53分 ~ 21时57分]"
         },
         {
           "title": "6个关键词看首场代表通道",
@@ -238,6 +239,18 @@
           "time_info": "[02时27分 ~ 10时04分]"
         },
         {
+          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
+          "url": "https://wallstreetcn.com/articles/3766900",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时39分]"
+        },
+        {
           "title": "蒙曼谈年轻人婚育：这个世界需要爱",
           "url": "https://www.toutiao.com/trending/7613972550493982254/",
           "source": "今日头条",
@@ -278,16 +291,16 @@
           "time_info": "[12时21分 ~ 16时39分]"
         },
         {
-          "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
-          "url": "https://wallstreetcn.com/articles/3766900",
-          "source": "华尔街见闻",
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
           "ranks": [
             10,
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时57分]"
+          "time_info": "[21时56分 ~ 22时39分]"
         },
         {
           "title": "如何看待比亚迪9分钟快充“封神”",
@@ -302,6 +315,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时04分 ~ 15时39分]"
+        },
+        {
+          "title": "充电焦虑可能要被比亚迪彻底解决了",
+          "url": "https://www.toutiao.com/trending/7614075570460036649/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时53分 ~ 22时39分]"
         },
         {
           "title": "比亚迪新一代充电桩闪现全国",
@@ -359,30 +385,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 21时57分]"
-        },
-        {
-          "title": "充电焦虑可能要被比亚迪彻底解决了",
-          "url": "https://www.toutiao.com/trending/7614075570460036649/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时53分 ~ 21时57分]"
-        },
-        {
           "title": "纽卡斯尔联2-1曼联",
           "url": "https://search.bilibili.com/all?keyword=%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%942-1%E6%9B%BC%E8%81%94",
           "source": "bilibili 热搜",
@@ -414,7 +416,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -665,7 +667,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -687,7 +689,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -745,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "长城汽车魏建军就抄袭路虎海报道歉",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%9F%8E%E6%B1%BD%E8%BD%A6%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%B0%B1%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E%E6%B5%B7%E6%8A%A5%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "油价急升，美股期货跳水，卡塔尔称所有海湾国家恐在数周内关停生产",
@@ -824,6 +837,17 @@
           "time_info": "17时39分"
         },
         {
+          "title": "比亚迪兆瓦闪充2.0体验",
+          "url": "https://www.toutiao.com/trending/7613674115765174313/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "据法新社：国际海事组织周四表示，由于伊朗战争，目前约有2万名海员和1.5万名游轮乘客被困在海湾地区。",
           "url": "https://flash.jin10.com/detail/20260306093130884800",
           "source": "金十数据",
@@ -833,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "巴西汽车制造商协会：2月巴西汽车销量较1月增长8.6%，产量较1月增长24.9%。",
+          "url": "https://flash.jin10.com/detail/20260306220024462800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     }
