@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T03:35:16.134818+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-07T04:32:20.561931+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "小国大角色！阿曼何以成中东乱局中多国“撤侨通道”？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "蒙曼谈年轻人婚育：这个世界需要爱",
@@ -77,26 +77,16 @@
           "time_info": "[00时41分 ~ 02时46分]"
         },
         {
-          "title": "市场消息：消息人士称，伊朗越来越多地使用无人机而非导弹袭击海湾国家。",
-          "url": "https://flash.jin10.com/detail/20260307002008393800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
           "title": "长城汽车董事长魏建军就「海报抄袭」致歉，称愿担责，对长城汽车有何影响？如何评价老板亲自灭火的公关操作？",
           "url": "https://www.zhihu.com/question/2013361464195379564",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时32分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -109,8 +99,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
         },
         {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
@@ -122,8 +112,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时32分]"
+        },
+        {
+          "title": "市场消息：消息人士称，伊朗越来越多地使用无人机而非导弹袭击海湾国家。",
+          "url": "https://flash.jin10.com/detail/20260307002008393800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
           "title": "美国将围绕海湾货运开辟200亿美元再保险工具。（英国金融时报）",
@@ -131,11 +132,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时32分]"
         },
         {
           "title": "雷军：小米机器人在拧螺丝了",
@@ -149,6 +151,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 02时46分]"
+        },
+        {
+          "title": "美国DFC宣布，在海湾地区提供200亿美元海运再保险计划。",
+          "url": "https://wallstreetcn.com/livenews/3065429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时32分]"
         },
         {
           "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
@@ -172,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 00时42分]"
-        },
-        {
-          "title": "美国DFC宣布，在海湾地区提供200亿美元海运再保险计划。",
-          "url": "https://wallstreetcn.com/livenews/3065429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时35分"
         }
       ]
     }
