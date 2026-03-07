@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T18:49:49.079005+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-03-07T19:20:55.820033+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
             4,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时41分 ~ 18时49分]"
+          "appearance_count": 28,
+          "time_info": "[00时41分 ~ 19时20分]"
         },
         {
           "title": "小国大角色！阿曼何以成中东乱局中多国“撤侨通道”？",
@@ -96,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时29分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时29分 ~ 19时20分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -123,11 +124,12 @@
             4,
             8,
             21,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时29分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时29分 ~ 19时20分]"
         },
         {
           "title": "蒙曼谈年轻人婚育：这个世界需要爱",
@@ -148,11 +150,24 @@
           "ranks": [
             1,
             6,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时20分]"
+        },
+        {
+          "title": "全国政协委员、宁德时代董事长曾毓群：信任感才能形成品牌力量、消费力量、经济力量",
+          "url": "https://wallstreetcn.com/livenews/3065705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "充电焦虑可能要被比亚迪彻底解决了",
@@ -179,17 +194,6 @@
           "time_info": "[17时29分 ~ 18时24分]"
         },
         {
-          "title": "全国政协委员、宁德时代董事长曾毓群：信任感才能形成品牌力量、消费力量、经济力量",
-          "url": "https://wallstreetcn.com/livenews/3065705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时49分]"
-        },
-        {
           "title": "雷军：未来每周或仅需工作3天",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E6%AF%8F%E5%91%A8%E6%88%96%E4%BB%85%E9%9C%80%E5%B7%A5%E4%BD%9C3%E5%A4%A9",
           "source": "百度热搜",
@@ -197,11 +201,24 @@
             5,
             28,
             26,
-            22
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时20分]"
+        },
+        {
+          "title": "雷军说未来每周或仅需工作3天",
+          "url": "https://www.douyin.com/hot/2421972",
+          "source": "抖音",
+          "ranks": [
+            14,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时32分 ~ 18时49分]"
+          "time_info": "[17时29分 ~ 19时20分]"
         },
         {
           "title": "卡塔尔航空公司：将于3月8日执飞从伦敦、巴黎、马德里、罗马、法兰克福和曼谷至多哈的有限航班。",
@@ -209,11 +226,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时20分]"
         },
         {
           "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
@@ -260,6 +278,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "雷军说未来每周或仅需工作 3 天，如何理解这一说法？实现可能性有多大？",
+          "url": "https://www.zhihu.com/question/2013644525529163421",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时20分]"
         },
         {
           "title": "从比亚迪电动化技术收官之作看到什么",
@@ -349,17 +379,6 @@
           "time_info": "[02时46分 ~ 04时32分]"
         },
         {
-          "title": "雷军说未来每周或仅需工作 3 天，如何理解这一说法？实现可能性有多大？",
-          "url": "https://www.zhihu.com/question/2013644525529163421",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
           "title": "中国航天科技集团刘争：最近100次火箭发射仅用1年多",
           "url": "https://wallstreetcn.com/livenews/3065627",
           "source": "华尔街见闻-快讯",
@@ -370,17 +389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 15时51分]"
-        },
-        {
-          "title": "雷军说未来每周或仅需工作3天",
-          "url": "https://www.douyin.com/hot/2421972",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 18时49分]"
         },
         {
           "title": "比亚迪“颠覆性”发布会有何亮点",
