@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T00:53:15.068286+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2026-03-08T01:21:56.431718+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "雷军说未来每周或仅需工作3天",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "新任招商局集团董事李永明已任集团党委副书记",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "雷军：未来每周或仅需工作3天",
@@ -68,23 +68,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 00时53分]"
-        },
-        {
-          "title": "阿联酋官员：阿联酋希望伊朗对非交战国，即对海湾国家的侵略行为立即停止。",
-          "url": "https://flash.jin10.com/detail/20260307232945548800",
-          "source": "金十数据",
-          "ranks": [
             16,
-            29
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "外交部：请滞留同胞关注阿曼至国内航班信息",
@@ -94,8 +83,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "全国政协委员、宁德时代董事长曾毓群：信任感才能形成品牌力量、消费力量、经济力量",
@@ -103,6 +92,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "阿联酋官员：阿联酋希望伊朗对非交战国，即对海湾国家的侵略行为立即停止。",
+          "url": "https://flash.jin10.com/detail/20260307232945548800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
