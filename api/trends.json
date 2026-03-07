@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T03:22:52.249231+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-03-08T03:44:09.495156+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 03时44分]"
         },
         {
           "title": "雷军说未来每周或仅需工作3天",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 03时44分]"
         },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 03时44分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -62,8 +62,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 03时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 03时44分]"
         },
         {
           "title": "新任招商局集团董事李永明已任集团党委副书记",
@@ -71,11 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 03时44分]"
         },
         {
           "title": "外交部：请滞留同胞关注阿曼至国内航班信息",
