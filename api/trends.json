@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T12:03:07.897571+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-03-07T13:14:28.731659+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时46分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[02时46分 ~ 13时14分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 12时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 13时14分]"
         },
         {
           "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 12时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 13时14分]"
         },
         {
           "title": "小国大角色！阿曼何以成中东乱局中多国“撤侨通道”？",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 12时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 13时14分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -215,11 +215,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时14分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.69%，报6961.05点，本周累计下跌4.35%。 热门中概股里，万国数据初步收涨7.5%，京东涨6.1%，小鹏、携程、网易、金山云至多涨5.9%，小米涨3%，美团、腾讯涨超2%，阿里巴巴涨0.4%，阿特斯太阳能跌3.7%，小马智行跌8.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.05%，中国科技指数ETF（CQQQ）收涨0.08%。 德银嘉实沪深300指数ETF（ASHR）收跌0.15%，XtrackersHarvest中证50（ASHS）收跌0.24%。",
@@ -233,6 +234,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 06时58分]"
+        },
+        {
+          "title": "王一博周围全是LV集团高层",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%A8%E5%9B%B4%E5%85%A8%E6%98%AFLV%E9%9B%86%E5%9B%A2%E9%AB%98%E5%B1%82%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时14分]"
         },
         {
           "title": "美国DFC宣布，在海湾地区提供200亿美元海运再保险计划。",
@@ -257,17 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时46分]"
-        },
-        {
-          "title": "王一博周围全是LV集团高层",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%91%A8%E5%9B%B4%E5%85%A8%E6%98%AFLV%E9%9B%86%E5%9B%A2%E9%AB%98%E5%B1%82%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "燃油时代落幕?比亚迪闪充炸场",
@@ -320,7 +322,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
