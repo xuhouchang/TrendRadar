@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T05:22:14.934795+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-03-08T05:45:03.280908+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 05时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 05时45分]"
         },
         {
           "title": "雷军说未来每周或仅需工作3天",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 05时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 05时45分]"
         },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 05时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 05时45分]"
         },
         {
           "title": "新任招商局集团董事李永明已任集团党委副书记",
@@ -49,11 +49,12 @@
             16,
             17,
             23,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 05时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 05时45分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -74,22 +75,24 @@
             18,
             16,
             28,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 05时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 05时45分]"
         },
         {
           "title": "市场消息：伊拉克苏莱曼尼亚东部的一处伊朗库尔德反对派营地遭到袭击，造成一人死亡，两人受伤。",
           "url": "https://flash.jin10.com/detail/20260308045148922800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 05时45分]"
         },
         {
           "title": "外交部：请滞留同胞关注阿曼至国内航班信息",
