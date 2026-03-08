@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T05:24:32.290426+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-03-09T05:47:26.786377+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 05时47分]"
+        },
+        {
+          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2012820068103378470",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 05时47分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -29,20 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 05时24分]"
-        },
-        {
-          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2012820068103378470",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 05时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 05时47分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -54,6 +55,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 03时45分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：阿曼海岸附近有油轮遭袭。",
+          "url": "https://flash.jin10.com/detail/20260309034902366800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时47分]"
         },
         {
           "title": "英国海上贸易行动办公室：已收到关于阿曼北部6海里处、霍尔木兹海峡内发生一起事件的报告。第三方消息来源称一艘拖船遭不明飞行物击中，当局正在调查。",
@@ -70,17 +85,17 @@
           "time_info": "[02时35分 ~ 04时28分]"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：阿曼海岸附近有油轮遭袭。",
-          "url": "https://flash.jin10.com/detail/20260309034902366800",
+          "title": "俄罗斯外交部：俄罗斯与阿联酋外交部长呼吁停止对伊朗和海湾国家的袭击，同时寻求重启外交途径以保障该地区的长期安全。",
+          "url": "https://flash.jin10.com/detail/20260309041106210800",
           "source": "金十数据",
           "ranks": [
-            2,
-            8,
-            16
+            4,
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时24分]"
+          "time_info": "[04时51分 ~ 05时47分]"
         },
         {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
@@ -107,18 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 03时45分]"
-        },
-        {
-          "title": "俄罗斯外交部：俄罗斯与阿联酋外交部长呼吁停止对伊朗和海湾国家的袭击，同时寻求重启外交途径以保障该地区的长期安全。",
-          "url": "https://flash.jin10.com/detail/20260309041106210800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时24分]"
         },
         {
           "title": "市场消息：美国国家运输安全委员会成员托德·因曼表示他被白宫解雇。",
