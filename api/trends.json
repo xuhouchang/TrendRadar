@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T06:50:44.834577+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-03-09T07:25:33.795002+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 06时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -31,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 06时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -44,8 +45,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 06时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 07时25分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -127,6 +128,19 @@
           "time_info": "[02时35分 ~ 03时45分]"
         },
         {
+          "title": "据天空新闻：卡塔尔首相表示，需要确保伊朗停止对海湾国家以及其他非交战国的袭击。",
+          "url": "https://flash.jin10.com/detail/20260309052403852800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时25分]"
+        },
+        {
           "title": "市场消息：美国国家运输安全委员会成员托德·因曼表示他被白宫解雇。",
           "url": "https://flash.jin10.com/detail/20260309011607318800",
           "source": "金十数据",
@@ -138,18 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 03时24分]"
-        },
-        {
-          "title": "据天空新闻：卡塔尔首相表示，需要确保伊朗停止对海湾国家以及其他非交战国的袭击。",
-          "url": "https://flash.jin10.com/detail/20260309052403852800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时50分]"
         },
         {
           "title": "蒙曼：35岁在职场本应是优势",
