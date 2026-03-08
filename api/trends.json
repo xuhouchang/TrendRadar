@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T02:35:31.468850+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-03-09T03:24:21.074356+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2306130",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 03时24分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -26,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 03时24分]"
         },
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -38,19 +39,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 02时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 03时24分]"
         },
         {
           "title": "英国海上贸易行动办公室：已收到关于阿曼北部6海里处、霍尔木兹海峡内发生一起事件的报告。第三方消息来源称一艘拖船遭不明飞行物击中，当局正在调查。",
           "url": "https://flash.jin10.com/detail/20260309022151895800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时24分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -60,19 +62,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时35分]"
-        },
-        {
-          "title": "市场消息：阿曼马斯喀特机场禁止私人飞机起降，将优先保障政府和商业航班。",
-          "url": "https://flash.jin10.com/detail/20260309015713521800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时24分]"
         },
         {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
@@ -93,11 +84,24 @@
           "source": "金十数据",
           "ranks": [
             10,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时24分]"
+        },
+        {
+          "title": "市场消息：阿曼马斯喀特机场禁止私人飞机起降，将优先保障政府和商业航班。",
+          "url": "https://flash.jin10.com/detail/20260309015713521800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时35分]"
+          "time_info": "[02时35分 ~ 03时24分]"
         }
       ]
     }
