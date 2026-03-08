@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T16:32:49.766606+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-03-08T17:31:30.434172+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时28分 ~ 16时32分]"
+          "appearance_count": 33,
+          "time_info": "[00时28分 ~ 17时31分]"
         },
         {
           "title": "雷军说未来每周或仅需工作 3 天，如何理解这一说法？实现可能性有多大？",
@@ -115,8 +115,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 17时31分]"
         },
         {
           "title": "雷军：未来每周或仅需工作3天",
@@ -163,17 +163,6 @@
           "time_info": "[12时24分 ~ 15时07分]"
         },
         {
-          "title": "因地区空域关闭，阿曼航空取消九个目的地的航班。",
-          "url": "https://flash.jin10.com/detail/20260308161130791800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "海湾合作委员会秘书长：伊朗针对巴林王国和科威特国基础设施的罪恶攻击是严重的侵略行为。",
           "url": "https://flash.jin10.com/detail/20260308092909551800",
           "source": "金十数据",
@@ -212,11 +201,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 17时31分]"
+        },
+        {
+          "title": "因地区空域关闭，阿曼航空取消九个目的地的航班。",
+          "url": "https://flash.jin10.com/detail/20260308161130791800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时51分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 17时31分]"
         },
         {
           "title": "阿联酋官员：阿联酋希望伊朗对非交战国，即对海湾国家的侵略行为立即停止。",
