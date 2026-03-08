@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T06:24:41.491376+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-03-09T06:50:44.834577+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 06时50分]"
         },
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 06时50分]"
         },
         {
           "title": "中电信量子集团：与所谓“量子通信手机样品”无任何关联",
@@ -40,11 +40,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 06时50分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -100,17 +101,6 @@
           "time_info": "[04时51分 ~ 06时24分]"
         },
         {
-          "title": "据天空新闻：卡塔尔首相表示，需要确保伊朗停止对海湾国家以及其他非交战国的袭击。",
-          "url": "https://flash.jin10.com/detail/20260309052403852800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
           "url": "https://flash.jin10.com/detail/20260309005041818800",
           "source": "金十数据",
@@ -150,13 +140,25 @@
           "time_info": "[01时48分 ~ 03时24分]"
         },
         {
+          "title": "据天空新闻：卡塔尔首相表示，需要确保伊朗停止对海湾国家以及其他非交战国的袭击。",
+          "url": "https://flash.jin10.com/detail/20260309052403852800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时50分]"
+        },
+        {
           "title": "蒙曼：35岁在职场本应是优势",
           "url": "https://www.baidu.com/s?wd=%E8%92%99%E6%9B%BC%EF%BC%9A35%E5%B2%81%E5%9C%A8%E8%81%8C%E5%9C%BA%E6%9C%AC%E5%BA%94%E6%98%AF%E4%BC%98%E5%8A%BF",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
