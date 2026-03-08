@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T12:24:09.011949+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-03-08T13:31:15.698337+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 12时24分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 13时31分]"
         },
         {
           "title": "雷军说未来每周或仅需工作 3 天，如何理解这一说法？实现可能性有多大？",
@@ -108,11 +108,37 @@
           "url": "https://www.toutiao.com/trending/7614711393291357747/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 13时31分]"
+        },
+        {
+          "title": "曼城3-1纽卡",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E7%BA%BD%E5%8D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 13时31分]"
+        },
+        {
+          "title": "澳大利亚外长：一些海湾国家已向我们请求防护援助，以应对无人机和导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260308112555123800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
+          "time_info": "[12时24分 ~ 13时31分]"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗针对巴林王国和科威特国基础设施的罪恶攻击是严重的侵略行为。",
@@ -126,27 +152,17 @@
           "time_info": "10时06分"
         },
         {
-          "title": "澳大利亚外长：一些海湾国家已向我们请求防护援助，以应对无人机和导弹攻击。",
-          "url": "https://flash.jin10.com/detail/20260308112555123800",
-          "source": "金十数据",
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "曼城3-1纽卡",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-1%E7%BA%BD%E5%8D%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20
+            18,
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 13时31分]"
         },
         {
           "title": "外交部：请滞留同胞关注阿曼至国内航班信息",
@@ -169,18 +185,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 02时35分]"
-        },
-        {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时24分]"
         },
         {
           "title": "阿联酋官员：阿联酋希望伊朗对非交战国，即对海湾国家的侵略行为立即停止。",
