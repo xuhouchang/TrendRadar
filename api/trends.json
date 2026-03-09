@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T01:49:21.726543+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-03-10T02:54:24.931871+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "蔚来李斌：超快充再快也没有换电快",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时54分]"
         },
         {
           "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时54分]"
         },
         {
           "title": "终于，海湾石油危机还是来了！",
@@ -37,8 +37,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时54分]"
+        },
+        {
+          "title": "阿曼苏丹祝贺伊朗新任最高领袖。",
+          "url": "https://flash.jin10.com/detail/20260310020816597800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "宁德时代2025年报出炉：净利润722亿元，拟分红超300亿元",
@@ -46,22 +57,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时54分]"
         },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 02时54分]"
         },
         {
           "title": "阿曼外长：很高兴今天能参加欧盟主办的领导人会议。地区和美国的利益都将通过立即停火和尽快恢复外交得到最佳保障。经济损失和人道主义灾难的潜在风险是不可持续的。",
@@ -70,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
@@ -81,7 +94,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         },
