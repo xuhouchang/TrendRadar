@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T21:05:50.334195+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-03-09T22:31:33.305037+08:00",
+  "total_titles_processed": 1889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "终于，海湾石油危机还是来了！",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时30分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 22时31分]"
         },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
@@ -48,6 +48,17 @@
           "time_info": "[00时29分 ~ 07时48分]"
         },
         {
+          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
+          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 22时31分]"
+        },
+        {
           "title": "建设生育友好型社会成亮眼关键词",
           "url": "https://www.douyin.com/hot/2423192",
           "source": "抖音",
@@ -71,17 +82,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 10时08分]"
-        },
-        {
-          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
-          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时05分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -165,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "武汉女子用159元发票抽中一辆汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "俄罗斯外交部：俄罗斯与阿联酋外交部长呼吁停止对伊朗和海湾国家的袭击，同时寻求重启外交途径以保障该地区的长期安全。",
@@ -310,6 +321,28 @@
           "time_info": "19时56分"
         },
         {
+          "title": "法国财政部长：七国集团在释放战略石油储备问题上仍未达成一致。",
+          "url": "https://flash.jin10.com/detail/20260309220612617800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "法国财政部长：准备动用战略石油储备以稳定市场。七国集团财长准备采取一切必要措施。",
+          "url": "https://flash.jin10.com/detail/20260309220451295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将4月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶升水0.3美元。（路透更正：非30美元）",
           "url": "https://flash.jin10.com/detail/20260309164436642800",
           "source": "金十数据",
@@ -332,13 +365,24 @@
           "time_info": "17时08分"
         },
         {
+          "title": "日本财务大臣片山皋月：七国集团同意监测能源市场发展。",
+          "url": "https://flash.jin10.com/detail/20260309220023711800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "宁德时代：公司拟注册发行不超过人民币400亿元的债券。",
           "url": "https://wallstreetcn.com/livenews/3066517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -354,15 +398,48 @@
           "time_info": "19时09分"
         },
         {
+          "title": "蔚来李斌：超快充再快也没有换电快",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "宁德时代：2025年净利润722.01亿元，同比增长42.28%",
           "url": "https://wallstreetcn.com/livenews/3066510",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：七国集团财长将推动相关部门协调释放紧急石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309215553967800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "部分美国能源公司股价上涨，埃克森美孚涨0.7%，康菲石油涨1.1%，戴文能源公司涨2.1%，西方石油涨1.4%，Diamondback Energy涨2%。",
+          "url": "https://flash.jin10.com/detail/20260309215508812800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "蒙曼：35岁在职场本应是优势",
@@ -374,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：七国集团线上会议讨论了中东局势将如何影响全球经贸形势。",
+          "url": "https://flash.jin10.com/detail/20260309215227014800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     }
