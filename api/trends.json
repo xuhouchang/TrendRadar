@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T22:31:33.305037+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2026-03-09T23:34:04.369176+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 51,
       "titles": [
         {
           "title": "终于，海湾石油危机还是来了！",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时30分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[12时30分 ~ 23时34分]"
+        },
+        {
+          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
+          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时12分 ~ 23时34分]"
         },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
@@ -46,17 +57,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时29分 ~ 07时48分]"
-        },
-        {
-          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
-          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 22时31分]"
         },
         {
           "title": "建设生育友好型社会成亮眼关键词",
@@ -123,6 +123,17 @@
           "time_info": "[02时35分 ~ 04时28分]"
         },
         {
+          "title": "汇丰银行CEO：仍看好海湾合作委员会地区的未来，以及其人民、企业和经济体面临的机遇。",
+          "url": "https://flash.jin10.com/detail/20260309231426995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "马斯克为什么要搞火星移民",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%9E%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91",
           "source": "bilibili 热搜",
@@ -156,6 +167,17 @@
           "time_info": "19时56分"
         },
         {
+          "title": "汇丰银行CEO：我们对海湾合作委员会基本面及前景的信心未变。",
+          "url": "https://flash.jin10.com/detail/20260309231408606800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美以伊战事波及范围扩大，海湾多国报告平民伤亡",
           "url": "https://wallstreetcn.com/livenews/3066255",
           "source": "华尔街见闻-快讯",
@@ -167,15 +189,39 @@
           "time_info": "15时02分"
         },
         {
+          "title": "七国集团（G7）：周一G7财长电话会议达成广泛共识，认为目前暂不释放石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3066600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "蔚来李斌：超快充再快也没有换电快",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时34分]"
+        },
+        {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时31分 ~ 23时34分]"
         },
         {
           "title": "俄罗斯外交部：俄罗斯与阿联酋外交部长呼吁停止对伊朗和海湾国家的袭击，同时寻求重启外交途径以保障该地区的长期安全。",
@@ -203,6 +249,17 @@
           "time_info": "19时09分"
         },
         {
+          "title": "七国集团（G7）：能源部长将于周二举行电话会议，G7领导人将于本周晚些时候会晤。",
+          "url": "https://wallstreetcn.com/livenews/3066598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "比亚迪闪充会是车市新竞争的起点吗",
           "url": "https://www.toutiao.com/trending/7615092109908921875/",
           "source": "今日头条",
@@ -223,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "七国集团声明：“随时准备”在必要时释放石油储备",
+          "url": "https://flash.jin10.com/detail/20260309230845488800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "国际油价快速回落，报道：七国集团将讨论释放紧急石油储备",
@@ -288,6 +356,17 @@
           "time_info": "[01时48分 ~ 03时24分]"
         },
         {
+          "title": "“红利旗手”创18年新高！万亿市值仅一步之遥，高股息成本月关键词？",
+          "url": "https://www.cls.cn/detail/2307310",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时33分 ~ 23时34分]"
+        },
+        {
           "title": "七国集团将紧急商议释放石油储备",
           "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%B0%86%E7%B4%A7%E6%80%A5%E5%95%86%E8%AE%AE%E9%87%8A%E6%94%BE%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
           "source": "百度热搜",
@@ -327,9 +406,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "七国集团（G7）：讨论了中东地区当前的冲突。 将密切关注能源市场。 随时准备采取必要措施。 可能的措施包括释放石油库存。",
+          "url": "https://wallstreetcn.com/livenews/3066591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "法国财政部长：准备动用战略石油储备以稳定市场。七国集团财长准备采取一切必要措施。",
@@ -338,9 +428,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "国际能源署署长比罗尔：在七国集团（G7）财长会议上，各方讨论了包括向市场投放IEA紧急石油储备在内的所有可用选项。",
+          "url": "https://wallstreetcn.com/livenews/3066590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将4月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶升水0.3美元。（路透更正：非30美元）",
@@ -371,9 +472,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "国际能源署（IEA）署长比罗尔：出席了七国集团（G7）财长关于全球经济形势和中东冲突的会议。 在会议上通报了对全球石油市场形势的看法，指出市场状况近几日已趋于恶化。 霍尔木兹海峡通航问题造成严重的、日益增长的石油市场风险。",
+          "url": "https://wallstreetcn.com/livenews/3066582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "宁德时代：公司拟注册发行不超过人民币400亿元的债券。",
@@ -398,17 +510,6 @@
           "time_info": "19时09分"
         },
         {
-          "title": "蔚来李斌：超快充再快也没有换电快",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%EF%BC%9A%E8%B6%85%E5%BF%AB%E5%85%85%E5%86%8D%E5%BF%AB%E4%B9%9F%E6%B2%A1%E6%9C%89%E6%8D%A2%E7%94%B5%E5%BF%AB",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "宁德时代：2025年净利润722.01亿元，同比增长42.28%",
           "url": "https://wallstreetcn.com/livenews/3066510",
           "source": "华尔街见闻-快讯",
@@ -426,7 +527,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -437,9 +538,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "G7官员：七国集团能源部长将于周二举行电话会议，七国集团领导人将在本周晚些时候召开会议。",
+          "url": "https://flash.jin10.com/detail/20260309225749047800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "葡萄牙官员Miranda Sarmento在欧元集团会议开幕之前表示：针对供应偏低的石油储备准备就绪。 但当前面临的问题与供应偏低无关。",
+          "url": "https://wallstreetcn.com/livenews/3066574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "蒙曼：35岁在职场本应是优势",
@@ -459,9 +582,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
+        },
+        {
+          "title": "七国集团：可能的措施包括释放石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309224948539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     }
