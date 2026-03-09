@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:29:43.924277+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-10T06:57:49.463573+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时57分]"
         },
         {
           "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时57分]"
         },
         {
           "title": "终于，海湾石油危机还是来了！",
           "url": "https://wallstreetcn.com/articles/3766998",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时57分]"
         },
         {
           "title": "宁德时代2025年报出炉：净利润722亿元，拟分红超300亿元",
@@ -52,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时57分]"
         },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
@@ -63,11 +64,12 @@
             18,
             21,
             27,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时57分]"
         },
         {
           "title": "阿曼苏丹祝贺伊朗新任最高领袖。",
