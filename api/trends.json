@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T07:48:26.644445+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-03-09T10:08:19.113815+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 07时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 10时08分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
