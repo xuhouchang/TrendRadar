@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-09T17:08:39.789088+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-03-09T18:13:06.110511+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "终于，海湾石油危机还是来了！",
+          "url": "https://wallstreetcn.com/articles/3766998",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 18时13分]"
+        },
         {
           "title": "外交部紧急通知：请滞留同胞关注阿曼至国内航班信息",
           "url": "https://www.cls.cn/detail/2306130",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时29分 ~ 07时48分]"
-        },
-        {
-          "title": "终于，海湾石油危机还是来了！",
-          "url": "https://wallstreetcn.com/articles/3766998",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时08分]"
         },
         {
           "title": "建设生育友好型社会成亮眼关键词",
@@ -84,6 +84,17 @@
           "time_info": "[00时29分 ~ 03时45分]"
         },
         {
+          "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
+          "url": "https://news.ifeng.com/c/8rM9AeqiOro",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：阿曼海岸附近有油轮遭袭。",
           "url": "https://flash.jin10.com/detail/20260309034902366800",
           "source": "金十数据",
@@ -118,7 +129,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -244,13 +255,24 @@
           "time_info": "[01时48分 ~ 03时24分]"
         },
         {
+          "title": "七国集团将紧急商议释放石油储备",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%B0%86%E7%B4%A7%E6%80%A5%E5%95%86%E8%AE%AE%E9%87%8A%E6%94%BE%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将4月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶升水0.3美元。（路透更正：非30美元）",
           "url": "https://flash.jin10.com/detail/20260309164436642800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -261,7 +283,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
