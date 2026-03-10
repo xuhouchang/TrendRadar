@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:42:25.367980+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-10T16:43:09.580533+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
@@ -59,6 +59,42 @@
           "time_info": "[00时58分 ~ 12时17分]"
         },
         {
+          "title": "交通运输部约谈马士基集团和地中海航运公司",
+          "url": "https://news.ifeng.com/c/8rNLvlK8NW2",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 16时43分]"
+        },
+        {
+          "title": "王曼昱0比3大藤沙月",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B10%E6%AF%943%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%88%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 16时43分]"
+        },
+        {
+          "title": "王曼昱爆冷",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%88%86%E5%86%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 16时43分]"
+        },
+        {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
@@ -75,41 +111,6 @@
           "time_info": "[00时58分 ~ 07时32分]"
         },
         {
-          "title": "交通运输部约谈马士基集团和地中海航运公司",
-          "url": "https://news.ifeng.com/c/8rNLvlK8NW2",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时42分]"
-        },
-        {
-          "title": "王曼昱0比3大藤沙月",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B10%E6%AF%943%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%88%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 15时42分]"
-        },
-        {
-          "title": "王曼昱爆冷",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%88%86%E5%86%B7&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 15时42分]"
-        },
-        {
           "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
           "url": "https://www.cls.cn/detail/2308117",
           "source": "财联社热门",
@@ -119,8 +120,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时43分]"
+        },
+        {
+          "title": "王曼昱首轮爆冷出局",
+          "url": "https://www.toutiao.com/trending/7614828903648739371/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时43分]"
+        },
+        {
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 16时43分]"
+        },
+        {
+          "title": "王曼昱不敌大藤沙月止步首轮",
+          "url": "https://www.douyin.com/hot/2425477",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时43分]"
         },
         {
           "title": "比亚迪蔚来回应闪充换电之争",
@@ -136,26 +171,26 @@
           "time_info": "[10时01分 ~ 13时32分]"
         },
         {
-          "title": "王曼昱首轮爆冷出局",
-          "url": "https://www.toutiao.com/trending/7614828903648739371/",
+          "title": "宁德时代361亿年度分红再创纪录",
+          "url": "https://www.toutiao.com/trending/7615508696235281974/",
           "source": "今日头条",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
-          "title": "王曼昱0比3爆冷止步重庆冠军赛首轮",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B10%E6%AF%943%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A5%E9%87%8D%E5%BA%86%E5%86%A0%E5%86%9B%E8%B5%9B%E9%A6%96%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "大藤沙月回应首胜王曼昱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%88%E5%9B%9E%E5%BA%94%E9%A6%96%E8%83%9C%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "宁德时代港股一度涨9.3%，此前公布的财报好于预期。",
@@ -191,27 +226,16 @@
           "time_info": "02时54分"
         },
         {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
+          "title": "王曼昱0比3爆冷止步重庆冠军赛首轮",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B10%E6%AF%943%E7%88%86%E5%86%B7%E6%AD%A2%E6%AD%A5%E9%87%8D%E5%BA%86%E5%86%A0%E5%86%9B%E8%B5%9B%E9%A6%96%E8%BD%AE",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            5
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时51分 ~ 15时42分]"
-        },
-        {
-          "title": "王曼昱不敌大藤沙月止步首轮",
-          "url": "https://www.douyin.com/hot/2425477",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "[15时42分 ~ 16时43分]"
         },
         {
           "title": "沙特阿美首席执行官：这场混乱不仅在航运和保险领域引发了严重的连锁反应，还对航空、农业、汽车及其他行业产生了巨大的多米诺骨牌效应。",
@@ -270,13 +294,24 @@
           "time_info": "[14时51分 ~ 14时52分]"
         },
         {
+          "title": "蔚来比亚迪就充换电隔空交锋",
+          "url": "https://www.toutiao.com/trending/7615236155122303019/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
+        },
+        {
           "title": "外交部：经各方共同努力，已有1万余名中国旅客自阿联酋、阿曼、沙特等国安全有序返回。（央视）",
           "url": "https://wallstreetcn.com/livenews/3067106",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -290,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：七国集团能源部长将于今晚举行会议，讨论包括可能动用石油储备在内的各项议题。",
+          "url": "https://flash.jin10.com/detail/20260310160946145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "大众汽车：2025财年销售收入3219亿欧元。",
@@ -378,6 +424,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "欧盟官员：七国集团(G7)能源部长会议将于欧洲中部时间周二13:45（北京时间20:45）举行。",
+          "url": "https://wallstreetcn.com/livenews/3067161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "道达尔能源股价下跌2.4%。",
+          "url": "https://flash.jin10.com/detail/20260310160255056800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "智谱上线AutoClaw 实现一键部署本地“龙虾”",
