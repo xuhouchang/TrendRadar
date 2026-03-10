@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T21:02:16.252611+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2026-03-10T22:06:06.087517+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 81,
+      "match_count": 93,
       "titles": [
         {
           "title": "卡塔尔首相斥伊朗再度“背叛”，称伊袭海湾国家早有预谋",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时51分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[14时51分 ~ 22时06分]"
         },
         {
           "title": "蔚来李斌：超快充再快也没有换电快",
@@ -101,29 +101,16 @@
           "time_info": "[00时58分 ~ 12时17分]"
         },
         {
-          "title": "王曼昱爆冷",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%88%86%E5%86%B7&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "新能源汽车“涨价潮”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7,
             5,
-            28
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时51分 ~ 18时40分]"
-        },
-        {
-          "title": "宁德时代回应固态电池进展",
-          "url": "https://www.toutiao.com/trending/7615466959261486628/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时39分 ~ 22时06分]"
         },
         {
           "title": "王曼昱不敌大藤沙月止步首轮",
@@ -135,8 +122,34 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时42分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[15时42分 ~ 22时06分]"
+        },
+        {
+          "title": "宁德时代回应固态电池进展",
+          "url": "https://www.toutiao.com/trending/7615466959261486628/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时06分]"
+        },
+        {
+          "title": "王曼昱爆冷",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%88%86%E5%86%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时51分 ~ 18时40分]"
         },
         {
           "title": "王曼昱0比3爆冷止步重庆冠军赛首轮",
@@ -153,18 +166,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时42分 ~ 21时02分]"
-        },
-        {
-          "title": "新能源汽车“涨价潮”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 21时02分]"
         },
         {
           "title": "王曼昱0比3大藤沙月",
@@ -195,6 +196,48 @@
           "time_info": "[00时58分 ~ 07时32分]"
         },
         {
+          "title": "你怎么看大藤沙月爆冷战胜王曼昱",
+          "url": "https://www.toutiao.com/trending/7615516371564822534/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            15,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时06分]"
+        },
+        {
+          "title": "王曼昱首轮爆冷出局",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E8%BD%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            22,
+            23,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时06分]"
+        },
+        {
+          "title": "霍尔木兹航运受阻影响加剧 海湾四国据传已被迫减产670万桶/天",
+          "url": "https://www.cls.cn/detail/2308585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时06分]"
+        },
+        {
           "title": "王曼昱首轮爆冷出局",
           "url": "https://www.toutiao.com/trending/7614828903648739371/",
           "source": "今日头条",
@@ -205,6 +248,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时42分 ~ 18时40分]"
+        },
+        {
+          "title": "吉利汽车做对了什么，为什么卖得这么好？",
+          "url": "https://www.zhihu.com/question/2006401962061616095",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 22时06分]"
         },
         {
           "title": "比亚迪蔚来回应闪充换电之争",
@@ -237,11 +292,12 @@
           "url": "https://www.zhihu.com/question/2014647576956281479",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时06分]"
         },
         {
           "title": "蔚来汽车(NIO.N)：第四季度毛利润60.741亿元，同比增长163.1%，环比增长100.8%。",
@@ -266,31 +322,15 @@
           "time_info": "18时40分"
         },
         {
-          "title": "你怎么看大藤沙月爆冷战胜王曼昱",
-          "url": "https://www.toutiao.com/trending/7615516371564822534/",
+          "title": "宝马销售贬低小米汽车 小米高管回应",
+          "url": "https://www.toutiao.com/trending/7615154710743580678/",
           "source": "今日头条",
           "ranks": [
-            17,
-            15,
-            14
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时02分]"
-        },
-        {
-          "title": "王曼昱首轮爆冷出局",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E8%BD%AE%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            22,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时02分]"
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "蔚来汽车(NIO.N)：第一季度营收预期为人民币244.82亿至251.76亿元。",
@@ -310,7 +350,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -332,9 +372,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "新能源汽车涨价潮来临",
+          "url": "https://www.toutiao.com/trending/7615098898055462954/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "大藤沙月回应首胜王曼昱",
@@ -357,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "埃克森美孚CEO：已从中东撤离非必要员工。",
+          "url": "https://flash.jin10.com/detail/20260310214832670800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "宁德时代港股一度涨9.3%，此前公布的财报好于预期。",
@@ -427,18 +489,6 @@
           "time_info": "18时40分"
         },
         {
-          "title": "霍尔木兹航运受阻影响加剧 海湾四国据传已被迫减产670万桶/天",
-          "url": "https://www.cls.cn/detail/2308585",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时02分]"
-        },
-        {
           "title": "蔚来汽车(NIO.N)：第四季度车辆交付量为124807辆。",
           "url": "https://flash.jin10.com/detail/20260310183158721800",
           "source": "金十数据",
@@ -489,7 +539,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -522,21 +572,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
         {
-          "title": "吉利汽车做对了什么，为什么卖得这么好？",
-          "url": "https://www.zhihu.com/question/2006401962061616095",
-          "source": "知乎",
+          "title": "日本经济产业大臣赤泽亮正：七国集团确认准备好采取必要措施支持全球能源供应，包括可能动用战略石油储备。",
+          "url": "https://flash.jin10.com/detail/20260310214201544800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "花旗集团CEO弗雷泽：看到一些在利率领域损失惨重的对冲基金。",
@@ -545,7 +605,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -560,6 +620,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时40分 ~ 19时33分]"
+        },
+        {
+          "title": "交通运输部约谈马士基集团、地中海航运公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32738157",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时06分]"
         },
         {
           "title": "马琳王曼昱赛后一言不发",
@@ -598,17 +670,6 @@
           "time_info": "[04时35分 ~ 05时33分]"
         },
         {
-          "title": "交通运输部约谈马士基集团、地中海航运公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32738157",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
           "title": "领汇e7将搭载比亚迪闪充技术",
           "url": "https://www.toutiao.com/trending/7615267871435440191/",
           "source": "今日头条",
@@ -642,6 +703,17 @@
           "time_info": "[16时42分 ~ 16时43分]"
         },
         {
+          "title": "消息称比亚迪研究进军F1或勒芒耐力赛",
+          "url": "https://flash.jin10.com/detail/20260310213922571800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "外交部：经各方共同努力，已有1万余名中国旅客自阿联酋、阿曼、沙特等国安全有序返回。（央视）",
           "url": "https://wallstreetcn.com/livenews/3067106",
           "source": "华尔街见闻-快讯",
@@ -653,15 +725,37 @@
           "time_info": "15时42分"
         },
         {
+          "title": "比亚迪探索进军F1及其他汽车赛事的可能性。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "花旗集团CEO弗雷泽：消费者支出正在上升，资产负债表仍然健康。",
           "url": "https://flash.jin10.com/detail/20260310204419249800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "马斯克：X Money早期公众访问版将于下月上线。",
+          "url": "https://flash.jin10.com/detail/20260310213601758800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "五菱汽车：预计2025年净利润约1.7亿元，同比增加约53%",
@@ -730,6 +824,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "蔚来CFO曲玉：2026年蔚来将力争实现Non-GAAP全年盈利",
+          "url": "https://wallstreetcn.com/livenews/3067339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "大众汽车：2025财年销售收入3219亿欧元。",
           "url": "https://flash.jin10.com/detail/20260310143354633800",
           "source": "金十数据",
@@ -796,6 +901,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "李斌：蔚来、乐道、firefly萤火虫今年将通过三品牌联合SKY门店布局下沉市场",
+          "url": "https://wallstreetcn.com/livenews/3067335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "欧元集团主席皮埃拉卡基斯：我们正目睹能源价格的上涨压力。",
           "url": "https://flash.jin10.com/detail/20260310031217972800",
           "source": "金十数据",
@@ -805,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "日本财务大臣：七国集团同意采取必要措施支持能源供应",
@@ -901,7 +1028,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -912,7 +1039,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -937,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "宁德时代：若碳酸锂价格进一步上涨 钠新电池应用场景及市场渗透率有望扩大",
