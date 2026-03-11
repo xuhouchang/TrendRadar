@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:34:54.450050+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-03-12T06:28:06.377093+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 05时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时28分]"
         },
         {
           "title": "七国集团：原则上支持必要时动用战略储备稳定能源市场",
@@ -27,8 +27,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 05时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时28分]"
+        },
+        {
+          "title": "汽车开多久换，性价比最高？",
+          "url": "https://www.zhihu.com/question/13372816622",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            15,
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 06时28分]"
         },
         {
           "title": "伊朗总统之子称最高领袖平安",
@@ -39,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 05时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时28分]"
         },
         {
           "title": "如何看待大众集团利润跌至 7 年新低，德国裁员 5 万人？",
@@ -50,8 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 05时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时28分]"
         },
         {
           "title": "剑来陈平安剑劈穗山名场面",
@@ -64,23 +80,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 05时34分]"
-        },
-        {
-          "title": "汽车开多久换，性价比最高？",
-          "url": "https://www.zhihu.com/question/13372816622",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时27分 ~ 05时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时28分]"
         },
         {
           "title": "市场消息：联合国安理会投票通过决议，谴责伊朗对海湾国家的袭击，并认定这些行为违反国际法。",
@@ -192,6 +193,18 @@
           "time_info": "[01时27分 ~ 02时11分]"
         },
         {
+          "title": "古尔曼：苹果即将推出折叠iPhone 采用类iPad布局",
+          "url": "https://flash.jin10.com/detail/20260312044548166800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时28分]"
+        },
+        {
           "title": "法国总统马克龙：七国集团达成共识，坚持对俄立场，并继续支持乌克兰。",
           "url": "https://flash.jin10.com/detail/20260311233341191800",
           "source": "金十数据",
@@ -247,17 +260,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "古尔曼：苹果即将推出折叠iPhone 采用类iPad布局",
-          "url": "https://flash.jin10.com/detail/20260312044548166800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
           "title": "达飞集团负责人：预计当前贸易受阻的损失将在后续迎来一波订单潮而得到弥补。",
           "url": "https://flash.jin10.com/detail/20260312034631999800",
           "source": "金十数据",
@@ -286,7 +288,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -319,7 +321,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -330,7 +332,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -352,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -407,7 +409,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
