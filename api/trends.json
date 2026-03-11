@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:33:23.613897+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-11T14:55:03.678937+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "霍尔木兹航运受阻影响加剧 海湾四国据传已被迫减产670万桶/天",
@@ -64,6 +64,31 @@
           "time_info": "[00时34分 ~ 07时53分]"
         },
         {
+          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2014710084022846319",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 14时55分]"
+        },
+        {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 14时55分]"
+        },
+        {
           "title": "车险续保悲喜两重天：有人降有人涨",
           "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E9%99%A9%E7%BB%AD%E4%BF%9D%E6%82%B2%E5%96%9C%E4%B8%A4%E9%87%8D%E5%A4%A9%EF%BC%9A%E6%9C%89%E4%BA%BA%E9%99%8D%E6%9C%89%E4%BA%BA%E6%B6%A8",
           "source": "百度热搜",
@@ -90,6 +115,18 @@
           "time_info": "[00时34分 ~ 07时53分]"
         },
         {
+          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
+          "url": "https://www.cls.cn/detail/2309074",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 14时55分]"
+        },
+        {
           "title": "交通运输部约谈马士基集团、地中海航运公司",
           "url": "https://m.thepaper.cn/newsDetail_forward_32738157",
           "source": "澎湃新闻",
@@ -113,35 +150,12 @@
             30,
             7,
             26,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时17分 ~ 13时33分]"
-        },
-        {
-          "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2014710084022846319",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 13时33分]"
-        },
-        {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 13时33分]"
+          "appearance_count": 18,
+          "time_info": "[02时17分 ~ 14时55分]"
         },
         {
           "title": "你怎么看大藤沙月爆冷战胜王曼昱",
@@ -154,8 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 13时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 14时55分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -188,18 +202,6 @@
           "time_info": "[00时34分 ~ 07时53分]"
         },
         {
-          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
-          "url": "https://www.cls.cn/detail/2309074",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 13时33分]"
-        },
-        {
           "title": "宝马销售贬低小米汽车 小米高管回应",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -228,6 +230,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时53分]"
+        },
+        {
+          "title": "从两高报告数据感受平安中国",
+          "url": "https://www.toutiao.com/trending/7615853761537494554/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时55分]"
         },
         {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行官兰古·萨尔加梅（Rangu Salgame）：我们正处于 AI 投资的‘超级周期’之中。 对人工智能（AI）的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
@@ -285,7 +298,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -322,7 +335,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -333,7 +346,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -348,17 +361,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时52分 ~ 10时01分]"
-        },
-        {
-          "title": "从两高报告数据感受平安中国",
-          "url": "https://www.toutiao.com/trending/7615853761537494554/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "西太平洋银行、澳新银行、花旗和德意志银行的经济学家纷纷改变澳洲联储利率预期，预计下周将加息。",
@@ -470,6 +472,18 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
+          "title": "中方支持海湾国家掌握自己命运",
+          "url": "https://www.toutiao.com/trending/7615461159981862442/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 14时55分]"
+        },
+        {
           "title": "加拿大总理办公室声明：加拿大总理卡尼表示，七国集团领导人将于（当地时间）周三上午就伊朗危机发表讲话。",
           "url": "https://flash.jin10.com/detail/20260311043905179800",
           "source": "金十数据",
@@ -530,6 +544,17 @@
           "time_info": "[02时17分 ~ 02时48分]"
         },
         {
+          "title": "这些汽车新坑需警惕",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B1%BD%E8%BD%A6%E6%96%B0%E5%9D%91%E9%9C%80%E8%AD%A6%E6%83%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -563,13 +588,24 @@
           "time_info": "04时35分"
         },
         {
+          "title": "法国防务巨头泰雷兹集团推出欧洲版反导防御穹顶系统",
+          "url": "https://wallstreetcn.com/livenews/3067831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
           "url": "https://wallstreetcn.com/livenews/3067779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -591,20 +627,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
         {
-          "title": "中方支持海湾国家掌握自己命运",
-          "url": "https://www.toutiao.com/trending/7615461159981862442/",
-          "source": "今日头条",
+          "title": "中汽协：2月新能源汽车产销分别完成69.4万辆和76.5万辆，同比分别下降21.8%和14.2%",
+          "url": "https://wallstreetcn.com/livenews/3067826",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "14时55分"
         },
         {
           "title": "比亚迪海外月销量首超国内",
@@ -616,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美的集团加码AI，拟未来三年投入超600亿元",
+          "url": "https://wallstreetcn.com/livenews/3067822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "伊朗革命卫队发言人：美国舰队及其盟友的任何行动都将在我们的导弹和无人机射程内被阻止。在战争期间，没有一艘美国舰船敢于接近阿曼海、波斯湾和霍尔木兹海峡。",
@@ -640,6 +687,28 @@
           "time_info": "10时01分"
         },
         {
+          "title": "中汽协数据显示，2月，汽车出口67.2万辆，环比下降1.4%，同比增长52.4%。",
+          "url": "https://wallstreetcn.com/livenews/3067819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "麦格理集团：将蔚来汽车(09866.HK)目标价由47.00港元上调至51.00港元；将蔚来汽车(NIO.N)目标价从6.10美元上调至6.50美元。",
+          "url": "https://flash.jin10.com/detail/20260311142509268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "闪充站怎么帮比亚迪守住销冠地位",
           "url": "https://www.toutiao.com/trending/7615618411669753407/",
           "source": "今日头条",
@@ -662,6 +731,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260311142402255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "宁德时代AH股连续第二日大涨",
           "url": "https://wallstreetcn.com/livenews/3067737",
           "source": "华尔街见闻-快讯",
@@ -671,6 +751,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "中汽协数据显示，2月，汽车产销分别完成167.2万辆和180.5万辆，环比分别下降31.7%和23.1%，同比分别下降20.5%和15.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "中汽协：2月新能源汽车销量同比下滑14.2%，1-2月新能源汽车销量同比下降6.9%。",
+          "url": "https://flash.jin10.com/detail/20260311141456320800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "消息人士：北约大使计划下周与海湾伙伴国举行会议。",
@@ -684,6 +786,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "中汽协官员：受伊朗冲突的影响，担心3月汽车出口到中东的数据不会特别好。",
+          "url": "https://flash.jin10.com/detail/20260311141105058800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "恒生科技指数涨超1%，蔚来涨近17%，小鹏汽车涨超6%，华虹半导体涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3067726",
           "source": "华尔街见闻-快讯",
@@ -693,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "华虹集团投资成立半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3067801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     }
