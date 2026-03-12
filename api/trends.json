@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T03:43:12.942238+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-13T04:36:14.964509+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -15,8 +15,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时36分]"
+        },
+        {
+          "title": "皇马3-0曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC3-0%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时36分]"
+        },
+        {
+          "title": "小鹏广告触雷,遭福瑞圈炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时36分]"
         },
         {
           "title": "道达尔能源：受影响的产量占总产量的15%，约占我们上游现金流的10%。",
@@ -28,41 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3069122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "皇马3-0曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC3-0%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时43分]"
-        },
-        {
-          "title": "小鹏广告触雷,遭福瑞圈炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时43分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -87,6 +77,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
+          "url": "https://wallstreetcn.com/livenews/3069149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
           "url": "https://flash.jin10.com/detail/20260313023700863800",
           "source": "金十数据",
@@ -96,6 +97,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时36分]"
         },
         {
           "title": "道达尔能源：Satorp炼油厂运营一切正常。",
@@ -132,6 +145,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
+          "url": "https://flash.jin10.com/detail/20260313034321354800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
           "url": "https://wallstreetcn.com/livenews/3069101",
           "source": "华尔街见闻-快讯",
@@ -165,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3069137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "电动汽车制造商Lucid公布自动驾驶出租车计划",
