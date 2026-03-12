@@ -1,28 +1,12 @@
 {
-  "generated_at": "2026-03-12T16:42:57.062672+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-03-12T17:43:23.923286+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
-        {
-          "title": "小鹏广告触雷,遭福瑞圈炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时11分 ~ 16时42分]"
-        },
         {
           "title": "七国集团：原则上支持必要时动用战略储备稳定能源市场",
           "url": "https://www.cls.cn/detail/2309984",
@@ -36,6 +20,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时11分 ~ 10时06分]"
+        },
+        {
+          "title": "小鹏广告触雷,遭福瑞圈炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时11分 ~ 17时43分]"
         },
         {
           "title": "汽车开多久换，性价比最高？",
@@ -56,6 +57,20 @@
           "time_info": "[01时27分 ~ 10时06分]"
         },
         {
+          "title": "巴黎圣日耳曼5-2切尔西",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC5-2%E5%88%87%E5%B0%94%E8%A5%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 17时43分]"
+        },
+        {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
           "url": "https://www.cls.cn/detail/2310250",
           "source": "财联社热门",
@@ -68,17 +83,18 @@
           "time_info": "[07时50分 ~ 15时47分]"
         },
         {
-          "title": "巴黎圣日耳曼5-2切尔西",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC5-2%E5%88%87%E5%B0%94%E8%A5%BF",
+          "title": "皇马3-0曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC3-0%E6%9B%BC%E5%9F%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            3,
-            10
+            4,
+            6,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 16时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 17时43分]"
         },
         {
           "title": "伊朗总统之子称最高领袖平安",
@@ -123,20 +139,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时11分 ~ 10时06分]"
-        },
-        {
-          "title": "皇马3-0曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC3-0%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 16时42分]"
         },
         {
           "title": "中方回应中远集团暂停巴港口运营报道",
@@ -191,6 +193,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "利比亚方面称，道达尔能源宣布马布鲁克油田恢复生产。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3068806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "被问这个问题 蒙曼“打”了记者一掌",
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%97%AE%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98+%E8%92%99%E6%9B%BC%E2%80%9C%E6%89%93%E2%80%9D%E4%BA%86%E8%AE%B0%E8%80%85%E4%B8%80%E6%8E%8C",
           "source": "百度热搜",
@@ -216,13 +229,24 @@
           "time_info": "14时56分"
         },
         {
+          "title": "特斯拉正设计生产流水线，以每周生产数百辆没有踏板和方向盘的CyberCab。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3068805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 理想汽车美股盘前下跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3068756",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -244,9 +268,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "德施曼推出全新AI智能锁产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/3068797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "巴黎圣日耳曼5:2切尔西",
@@ -282,6 +317,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "宁德时代与力拓集团签署合作备忘录",
+          "url": "https://wallstreetcn.com/livenews/3068796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "皇马3:0大胜曼城",
+          "url": "https://www.douyin.com/hot/2427515",
+          "source": "抖音",
+          "ranks": [
+            11,
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 17时43分]"
         },
         {
           "title": "伊朗总统之子称最高领袖“平安”",
@@ -325,7 +385,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -395,7 +455,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -417,19 +477,6 @@
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时56分]"
-        },
-        {
-          "title": "皇马3:0大胜曼城",
-          "url": "https://www.douyin.com/hot/2427515",
-          "source": "抖音",
-          "ranks": [
-            11,
-            27,
-            28
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -501,9 +548,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "IEA月报：海湾国家的石油总产量已减少至少1000万桶/日。如果航运流动无法迅速恢复，供应损失还将进一步扩大。",
+          "url": "https://flash.jin10.com/detail/20260312170622947800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "法国总统马克龙：七国集团达成共识，坚持对俄立场，并继续支持乌克兰。",
@@ -523,7 +581,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -556,7 +614,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -583,15 +641,48 @@
           "time_info": "04时41分"
         },
         {
+          "title": "国际能源署：下调2026年全球石油需求增长预期至每日64万桶（此前预期为每日85万桶）。 2026年全球石油供应将增加每日110万桶（此前预期为每日240万桶）。 预计今年全球石油消费为1.0477亿桶/日，高于2025年的1.0412亿桶/日。 受影响的上游产能恢复到危机前水平将需要数周，部分情况下甚至需要数月。 海湾国家已将总石油产量削减至少每日1000万桶，如果航运不能迅速恢复，损失还将进一步增加。 受海湾地区供应中断和油价上涨影响，预计2026年第二、三季度OECD国家石油需求将失去动能。 非OECD国家2026年石油需求预计同比增长68万桶/日，较去年减少15万桶/日，较上月预测减少17万桶/日。 预计全球石油需求在3月和4月较此前预估减少约每日100万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
           "url": "https://flash.jin10.com/detail/20260312162011551800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "理想汽车回应考虑回购港股股份：只是在讨论方案的可能性",
+          "url": "https://wallstreetcn.com/livenews/3068778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "车主说买车时送的保养要买保险才享受",
+          "url": "https://www.toutiao.com/trending/7616215152077275177/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "平安银行宣布退出个人“炒金”业务",
@@ -611,7 +702,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -688,7 +779,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -710,7 +801,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -765,7 +856,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -798,7 +889,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -919,7 +1010,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
