@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T04:36:14.964509+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-13T05:34:05.304181+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时34分]"
         },
         {
           "title": "皇马3-0曼城",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时34分]"
         },
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
@@ -40,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时34分]"
         },
         {
           "title": "道达尔能源：受影响的产量占总产量的15%，约占我们上游现金流的10%。",
@@ -75,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
-          "url": "https://wallstreetcn.com/livenews/3069149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -151,7 +140,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -168,6 +157,18 @@
           "time_info": "[03时00分 ~ 03时43分]"
         },
         {
+          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
+          "url": "https://wallstreetcn.com/livenews/3069149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时34分]"
+        },
+        {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
           "url": "https://wallstreetcn.com/livenews/3069094",
           "source": "华尔街见闻-快讯",
@@ -180,6 +181,18 @@
           "time_info": "[03时00分 ~ 03时43分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3069137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时34分]"
+        },
+        {
           "title": "阿曼称在哈萨卜省击落一架无人机，未造成人员伤亡。",
           "url": "https://flash.jin10.com/detail/20260313000408615800",
           "source": "金十数据",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3069137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "电动汽车制造商Lucid公布自动驾驶出租车计划",
