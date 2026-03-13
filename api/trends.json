@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:59:19.891192+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2026-03-13T22:04:03.079131+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -19,11 +19,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时36分 ~ 20时59分]"
+          "appearance_count": 30,
+          "time_info": "[00时36分 ~ 22时04分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -33,11 +34,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 20时59分]"
+          "appearance_count": 13,
+          "time_info": "[12时24分 ~ 22时04分]"
         },
         {
           "title": "皇马3-0曼城",
@@ -72,6 +74,19 @@
           "time_info": "[00时36分 ~ 18时37分]"
         },
         {
+          "title": "别再用小拇指托手机了",
+          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 22时04分]"
+        },
+        {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
           "url": "https://www.zhihu.com/question/2015481604898858354",
           "source": "知乎",
@@ -101,18 +116,6 @@
           "ranks": [
             4,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 20时59分]"
-        },
-        {
-          "title": "别再用小拇指托手机了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -185,7 +188,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -221,6 +224,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "王者荣耀国际服联动奥特曼",
+          "url": "https://www.douyin.com/hot/2429569",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 22时04分]"
         },
         {
           "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
@@ -269,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "梅赛德斯-奔驰集团据悉已与吉利就深化合作进行了初步洽谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "马斯克对Digital Optimus项目的时间节点给出回应：六个月。",
@@ -329,18 +356,6 @@
           "time_info": "[04时36分 ~ 05时34分]"
         },
         {
-          "title": "王者荣耀国际服联动奥特曼",
-          "url": "https://www.douyin.com/hot/2429569",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 20时59分]"
-        },
-        {
           "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
           "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
           "source": "澎湃新闻",
@@ -397,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "椰树集团申请100%椰子水商标被驳回",
+          "url": "https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%94%B3%E8%AF%B7100%25%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%95%86%E6%A0%87%E8%A2%AB%E9%A9%B3%E5%9B%9E",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "阿曼称在哈萨卜省击落一架无人机，未造成人员伤亡。",
@@ -460,7 +486,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -617,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "欧阳明高：“内卷式”竞争将被抑制，2035年纯电动汽车市占率将达七成",
+          "url": "https://wallstreetcn.com/livenews/3069820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
