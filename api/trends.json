@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:32:35.998239+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-03-13T20:59:19.891192+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -18,11 +18,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时36分 ~ 19时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时36分 ~ 20时59分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -31,11 +32,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 19时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 20时59分]"
         },
         {
           "title": "皇马3-0曼城",
@@ -93,6 +95,30 @@
           "time_info": "[07时52分 ~ 10时04分]"
         },
         {
+          "title": "比亚迪携「车家互联」亮相 AWE 展，这项技术将给生活带来哪些颠覆性改变？",
+          "url": "https://www.zhihu.com/question/2015526319295853907",
+          "source": "知乎",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时59分]"
+        },
+        {
+          "title": "别再用小拇指托手机了",
+          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时59分]"
+        },
+        {
           "title": "工人不幸身亡，力拓集团暂停美国犹他州铜矿运营",
           "url": "https://wallstreetcn.com/livenews/3069183",
           "source": "华尔街见闻-快讯",
@@ -129,28 +155,17 @@
           "time_info": "00时36分"
         },
         {
-          "title": "比亚迪携「车家互联」亮相 AWE 展，这项技术将给生活带来哪些颠覆性改变？",
-          "url": "https://www.zhihu.com/question/2015526319295853907",
-          "source": "知乎",
+          "title": "长期用小拇指托手机的后果",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E7%9A%84%E5%90%8E%E6%9E%9C&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            4,
-            8
+            12,
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
-        },
-        {
-          "title": "别再用小拇指托手机了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 20时59分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -162,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "中国平安发布行业首个商业航天综合金融解决方案，首站落地长三角",
+          "url": "https://wallstreetcn.com/livenews/3069810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "道达尔能源：卡塔尔停产对我们液化天然气贸易的影响有限，约为200万吨。",
@@ -195,18 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
-        },
-        {
-          "title": "长期用小拇指托手机的后果",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E7%9A%84%E5%90%8E%E6%9E%9C&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时32分]"
         },
         {
           "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
@@ -315,6 +329,18 @@
           "time_info": "[04时36分 ~ 05时34分]"
         },
         {
+          "title": "王者荣耀国际服联动奥特曼",
+          "url": "https://www.douyin.com/hot/2429569",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时59分]"
+        },
+        {
           "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
           "url": "https://m.thepaper.cn/newsDetail_forward_32748625",
           "source": "澎湃新闻",
@@ -336,18 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时43分]"
-        },
-        {
-          "title": "王者荣耀国际服联动奥特曼",
-          "url": "https://www.douyin.com/hot/2429569",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "中国稀土集团与中核铀业举行工作会谈",
@@ -438,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "东吴证券：拟发行股份及支付现金购买常州投资集团有限公司等61名交易对方持有的东海证券83.77%的股份，股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3069790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "比亚迪发行50亿元人民币270天期科创债",
