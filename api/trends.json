@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:55:17.742335+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-03-13T15:46:24.181226+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 14时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 15时46分]"
         },
         {
           "title": "皇马3-0曼城",
@@ -48,8 +48,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 14时55分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 15时46分]"
         },
         {
           "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
@@ -61,6 +61,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 10时04分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 15时46分]"
         },
         {
           "title": "工人不幸身亡，力拓集团暂停美国犹他州铜矿运营",
@@ -86,18 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时55分]"
         },
         {
           "title": "道达尔能源：我们在阿联酋的陆上石油日产量约为21万桶，不受冲突影响。",
@@ -144,6 +144,17 @@
           "time_info": "03时00分"
         },
         {
+          "title": "王者国际服墨子奥特曼皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%9B%BD%E9%99%85%E6%9C%8D%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 15时46分]"
+        },
+        {
           "title": "力拓集团：犹他州宾厄姆峡谷矿发生事故，承包公司一名员工死亡，已暂停旗下肯尼科特犹他铜业的所有采矿作业。",
           "url": "https://flash.jin10.com/detail/20260313054005567800",
           "source": "金十数据",
@@ -187,7 +198,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -248,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时34分]"
-        },
-        {
-          "title": "王者国际服墨子奥特曼皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%9B%BD%E9%99%85%E6%9C%8D%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时55分]"
         },
         {
           "title": "比亚迪被曝正考虑进军F1，收购现有车队为潜在路径",
@@ -324,7 +324,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -346,7 +346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -456,7 +456,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
