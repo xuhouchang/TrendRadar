@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T17:33:59.404495+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-14T18:29:37.372156+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "别再用小拇指托手机了",
@@ -70,8 +70,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时03分 ~ 17时33分]"
+          "appearance_count": 28,
+          "time_info": "[00时03分 ~ 18时29分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -113,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 18时29分]"
         },
         {
           "title": "蒯曼4:2孙颖莎",
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 18时29分]"
         },
         {
           "title": "孙颖莎不敌蒯曼 遭遇年度首败",
@@ -139,8 +139,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 17时33分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 18时29分]"
         },
         {
           "title": "余承东：华为全场景生态正式进入全链生态时代",
@@ -157,6 +157,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时18分 ~ 16时38分]"
+        },
+        {
+          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016156539140973710",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 18时29分]"
         },
         {
           "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
@@ -191,11 +203,12 @@
           "source": "微博",
           "ranks": [
             2,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 18时29分]"
         },
         {
           "title": "椰树集团申请100%椰子水商标被驳回",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时32分 ~ 05时34分]"
-        },
-        {
-          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016156539140973710",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 17时33分]"
         },
         {
           "title": "伊朗称哈尔格岛是红线 海湾国家 海湾国家游说美国避免打击伊朗能源设施",
@@ -242,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "比亚迪正在评估入局F1",
+          "url": "https://wallstreetcn.com/livenews/3070125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "蒯曼4-2孙颖莎晋级四强",
@@ -447,6 +459,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "比亚迪动力电池西咸基地实现试生产",
+          "url": "https://www.toutiao.com/trending/7616272247187603475/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "比亚迪闪充亮剑的焦虑与变数",
           "url": "https://www.toutiao.com/trending/7616382864544235556/",
           "source": "今日头条",
@@ -489,6 +512,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "我的报废汽车去哪了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "深圳宝马4S店“销冠店”停摆",
+          "url": "https://www.toutiao.com/trending/7616709864615067686/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "意大利埃尼集团Eni：委内瑞拉协议有望让本公司继续供应天然气。 新版委内瑞拉天然气协议存在出口潜能。",
