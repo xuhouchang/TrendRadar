@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:48:03.853230+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-03-14T20:52:29.094120+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "蒯曼4:2孙颖莎",
@@ -15,11 +15,12 @@
             6,
             7,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时56分 ~ 19时48分]"
+          "appearance_count": 11,
+          "time_info": "[15时56分 ~ 20时52分]"
         },
         {
           "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
@@ -126,8 +127,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时03分 ~ 19时48分]"
+          "appearance_count": 34,
+          "time_info": "[00时03分 ~ 20时52分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -141,11 +142,12 @@
             21,
             19,
             29,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时03分 ~ 19时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时03分 ~ 20时52分]"
         },
         {
           "title": "比亚迪宣布闪充站建设进度",
@@ -515,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "靛蓝航空暂停飞往多哈、科威特城、巴林、达曼、富查伊拉、拉斯海马和沙迦的航班，直至2026年3月28日。",
+          "url": "https://flash.jin10.com/detail/20260314193859159800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "比亚迪闪充亮剑的焦虑与变数",
