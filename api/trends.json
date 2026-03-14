@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T07:28:22.879958+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-03-15T07:53:45.968779+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "能源专家警告：美打击哈尔克岛将激化海湾局势，石油供应难以替代",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时29分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[04时29分 ~ 07时53分]"
         },
         {
           "title": "蒯曼4:2孙颖莎",
@@ -38,11 +38,12 @@
           "ranks": [
             13,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -56,11 +57,12 @@
             26,
             24,
             29,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -70,8 +72,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 07时53分]"
         }
       ]
     }
