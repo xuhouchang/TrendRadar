@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-14T18:57:00.509990+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-03-14T19:26:40.280294+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "蒯曼4:2孙颖莎",
+          "url": "https://www.douyin.com/hot/2430461",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时56分 ~ 19时26分]"
+        },
         {
           "title": "别再用小拇指托手机了",
           "url": "https://www.baidu.com/s?wd=%E5%88%AB%E5%86%8D%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E6%89%98%E6%89%8B%E6%9C%BA%E4%BA%86",
@@ -55,30 +68,32 @@
           "time_info": "[00时03分 ~ 06时28分]"
         },
         {
-          "title": "蒯曼4:2孙颖莎",
-          "url": "https://www.douyin.com/hot/2430461",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 18时57分]"
-        },
-        {
           "title": "孙颖莎不敌蒯曼 遭遇年度首败",
           "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%95%8C%E8%92%AF%E6%9B%BC+%E9%81%AD%E9%81%87%E5%B9%B4%E5%BA%A6%E9%A6%96%E8%B4%A5",
           "source": "百度热搜",
           "ranks": [
             7,
             10,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 19时26分]"
+        },
+        {
+          "title": "孙颖莎2-4蒯曼无缘四强",
+          "url": "https://www.toutiao.com/trending/7616991735297625643/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            27,
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时12分 ~ 18时57分]"
+          "time_info": "[15时56分 ~ 19时26分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -93,11 +108,12 @@
             23,
             25,
             26,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时03分 ~ 18时57分]"
+          "appearance_count": 31,
+          "time_info": "[00时03分 ~ 19时26分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -114,21 +130,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时03分 ~ 16时38分]"
+          "appearance_count": 25,
+          "time_info": "[00时03分 ~ 19时26分]"
         },
         {
-          "title": "孙颖莎2-4蒯曼无缘四强",
-          "url": "https://www.toutiao.com/trending/7616991735297625643/",
-          "source": "今日头条",
+          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016156539140973710",
+          "source": "知乎",
           "ranks": [
-            2,
-            7,
-            27
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[15时56分 ~ 19时26分]"
         },
         {
           "title": "比亚迪宣布闪充站建设进度",
@@ -142,18 +157,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时06分 ~ 07时30分]"
-        },
-        {
-          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016156539140973710",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 18时57分]"
         },
         {
           "title": "余承东：华为全场景生态正式进入全链生态时代",
@@ -279,6 +282,19 @@
           "time_info": "00时03分"
         },
         {
+          "title": "比亚迪动力电池西咸基地实现试生产",
+          "url": "https://www.toutiao.com/trending/7616272247187603475/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 19时26分]"
+        },
+        {
           "title": "曼玲粥被曝“糊弄式”堂食店",
           "url": "https://www.baidu.com/s?wd=%E6%9B%BC%E7%8E%B2%E7%B2%A5%E8%A2%AB%E6%9B%9D%E2%80%9C%E7%B3%8A%E5%BC%84%E5%BC%8F%E2%80%9D%E5%A0%82%E9%A3%9F%E5%BA%97",
           "source": "百度热搜",
@@ -304,18 +320,6 @@
           "time_info": "[15时56分 ~ 16时38分]"
         },
         {
-          "title": "比亚迪动力电池西咸基地实现试生产",
-          "url": "https://www.toutiao.com/trending/7616272247187603475/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 18时57分]"
-        },
-        {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
           "url": "https://flash.jin10.com/detail/20260313233908274800",
           "source": "金十数据",
@@ -325,6 +329,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "比亚迪正在评估入局F1",
+          "url": "https://wallstreetcn.com/livenews/3070125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -338,18 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 03时33分]"
-        },
-        {
-          "title": "比亚迪正在评估入局F1",
-          "url": "https://wallstreetcn.com/livenews/3070125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时57分]"
         },
         {
           "title": "车辆高速多次失速 售后称是超速保护",
@@ -472,6 +477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时28分]"
+        },
+        {
+          "title": "xAI联创团队几乎全跑了！马斯克致歉并放话“数字擎天柱”半年上线",
+          "url": "https://www.cls.cn/detail/2312736",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
