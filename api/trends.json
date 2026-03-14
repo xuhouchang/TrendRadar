@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T06:55:11.852768+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-03-15T07:28:22.879958+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 07时28分]"
+        },
+        {
+          "title": "能源专家警告：美打击哈尔克岛将激化海湾局势，石油供应难以替代",
+          "url": "https://flash.jin10.com/detail/20260315035039046800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 07时28分]"
+        },
+        {
+          "title": "蒯曼4:2孙颖莎",
+          "url": "https://www.douyin.com/hot/2430461",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时28分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -29,11 +55,12 @@
             22,
             26,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时28分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -43,33 +70,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时55分]"
-        },
-        {
-          "title": "能源专家警告：美打击哈尔克岛将激化海湾局势，石油供应难以替代",
-          "url": "https://flash.jin10.com/detail/20260315035039046800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时29分 ~ 06时55分]"
-        },
-        {
-          "title": "蒯曼4:2孙颖莎",
-          "url": "https://www.douyin.com/hot/2430461",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 07时28分]"
         }
       ]
     }
