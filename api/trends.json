@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:27:09.017399+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-03-15T01:53:41.085685+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 01时53分]"
         },
         {
           "title": "蒯曼4:2孙颖莎",
           "url": "https://www.douyin.com/hot/2430461",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 01时53分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -37,19 +38,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 01时53分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%9B%BD%E9%99%85%E6%9C%8D%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时53分]"
         }
       ]
     }
