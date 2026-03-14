@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T04:55:27.522025+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-03-15T05:28:16.458052+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 04时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 05时28分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 04时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 05时28分]"
         },
         {
           "title": "能源专家警告：美打击哈尔克岛将激化海湾局势，石油供应难以替代",
@@ -35,11 +35,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 05时28分]"
         },
         {
           "title": "蒯曼4:2孙颖莎",
@@ -61,11 +62,12 @@
             19,
             14,
             23,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时28分]"
         }
       ]
     }
