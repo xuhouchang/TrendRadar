@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:38:33.603010+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-03-14T17:33:59.404495+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
             22,
             23,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时03分 ~ 16时38分]"
+          "appearance_count": 27,
+          "time_info": "[00时03分 ~ 17时33分]"
         },
         {
           "title": "王者国际服墨子奥特曼皮肤",
@@ -104,18 +105,6 @@
           "time_info": "[01时06分 ~ 07时30分]"
         },
         {
-          "title": "孙颖莎不敌蒯曼 遭遇年度首败",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%95%8C%E8%92%AF%E6%9B%BC+%E9%81%AD%E9%81%87%E5%B9%B4%E5%BA%A6%E9%A6%96%E8%B4%A5",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 16时38分]"
-        },
-        {
           "title": "孙颖莎2-4蒯曼无缘四强",
           "url": "https://www.toutiao.com/trending/7616991735297625643/",
           "source": "今日头条",
@@ -124,8 +113,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时33分]"
+        },
+        {
+          "title": "蒯曼4:2孙颖莎",
+          "url": "https://www.douyin.com/hot/2430461",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时33分]"
+        },
+        {
+          "title": "孙颖莎不敌蒯曼 遭遇年度首败",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E6%95%8C%E8%92%AF%E6%9B%BC+%E9%81%AD%E9%81%87%E5%B9%B4%E5%BA%A6%E9%A6%96%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 17时33分]"
         },
         {
           "title": "余承东：华为全场景生态正式进入全链生态时代",
@@ -144,16 +159,19 @@
           "time_info": "[12时18分 ~ 16时38分]"
         },
         {
-          "title": "蒯曼4:2孙颖莎",
-          "url": "https://www.douyin.com/hot/2430461",
-          "source": "抖音",
+          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
+          "url": "https://wallstreetcn.com/livenews/3070090",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            3,
+            7,
+            12,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 17时33分]"
         },
         {
           "title": "孙颖莎vs蒯曼",
@@ -180,20 +198,6 @@
           "time_info": "[15时12分 ~ 16时38分]"
         },
         {
-          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
-          "url": "https://wallstreetcn.com/livenews/3070090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 16时38分]"
-        },
-        {
           "title": "椰树集团申请100%椰子水商标被驳回",
           "url": "https://www.baidu.com/s?wd=%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%94%B3%E8%AF%B7100%25%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%95%86%E6%A0%87%E8%A2%AB%E9%A9%B3%E5%9B%9E",
           "source": "百度热搜",
@@ -204,6 +208,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时32分 ~ 05时34分]"
+        },
+        {
+          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016156539140973710",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时33分]"
         },
         {
           "title": "伊朗称哈尔格岛是红线 海湾国家 海湾国家游说美国避免打击伊朗能源设施",
@@ -333,17 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 12时18分]"
-        },
-        {
-          "title": "WTT 重庆女单孙颖莎不敌蒯曼，无缘 4 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016156539140973710",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时38分]"
         },
         {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
@@ -481,7 +486,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
