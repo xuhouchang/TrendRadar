@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T03:52:05.045581+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-16T04:30:47.882367+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,33 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 03时52分]"
-        },
-        {
-          "title": "2026WTT 重庆冠军赛女单决赛，张本美和 4:3 击败蒯曼夺冠，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2016600173183279320",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 03时52分]"
-        },
-        {
-          "title": "张本美和4:3蒯曼夺冠",
-          "url": "https://www.douyin.com/hot/2431419",
-          "source": "抖音",
-          "ranks": [
-            13,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 03时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "一边是排队抢油的油车长龙，一边是加速迭代的电车技术，如何看待当下汽车消费的十字路口？",
@@ -51,11 +26,39 @@
             15,
             18,
             14,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 03时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 04时30分]"
+        },
+        {
+          "title": "2026WTT 重庆冠军赛女单决赛，张本美和 4:3 击败蒯曼夺冠，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2016600173183279320",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 04时30分]"
+        },
+        {
+          "title": "张本美和4:3蒯曼夺冠",
+          "url": "https://www.douyin.com/hot/2431419",
+          "source": "抖音",
+          "ranks": [
+            13,
+            7,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -66,8 +69,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 04时30分]"
+        },
+        {
+          "title": "道曼刷新英超最年轻进球纪录",
+          "url": "https://www.douyin.com/hot/2431103",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时39分 ~ 04时30分]"
         },
         {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
@@ -79,8 +96,23 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 04时30分]"
+        },
+        {
+          "title": "伊朗驻沙特阿拉伯大使：伊朗与海湾阿拉伯国家需要对彼此关系进行“严肃审视”。",
+          "url": "https://flash.jin10.com/detail/20260316012628712800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            22,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 04时30分]"
         },
         {
           "title": "高盛警告：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -97,44 +129,18 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
-          "title": "伊朗驻沙特阿拉伯大使：伊朗与海湾阿拉伯国家需要对彼此关系进行“严肃审视”。",
-          "url": "https://flash.jin10.com/detail/20260316012628712800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 03时52分]"
-        },
-        {
-          "title": "道曼刷新英超最年轻进球纪录",
-          "url": "https://www.douyin.com/hot/2431103",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 03时52分]"
-        },
-        {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
           "url": "https://flash.jin10.com/detail/20260316014457958800",
           "source": "金十数据",
           "ranks": [
             6,
             19,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 04时30分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
