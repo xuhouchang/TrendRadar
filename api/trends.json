@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T15:28:57.517186+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-03-15T16:02:38.785783+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
@@ -75,11 +75,12 @@
             18,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 15时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 16时02分]"
         },
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 16时02分]"
         },
         {
           "title": "美国务院要求非紧急雇员及家属撤离阿曼",
@@ -106,8 +107,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 16时02分]"
         },
         {
           "title": "理想汽车汤靖：MEGA电池召回完成率已超过97.5%",
@@ -116,9 +117,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时02分]"
+        },
+        {
+          "title": "西汉姆联1-1曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%941-1%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 16时02分]"
         },
         {
           "title": "xAI核心团队跑光 马斯克致歉",
@@ -138,22 +152,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "西汉姆联1-1曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%941-1%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 15时28分]"
         },
         {
           "title": "美国国务院：因安全风险，已要求美国驻阿曼的非紧急雇员及家属撤离。",
@@ -166,6 +167,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时45分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 16时02分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时02分]"
         },
         {
           "title": "能源开发商格伦法恩集团CEO：就阿拉斯加液化天然气项目做出最终投资决定前，还需签署300万吨的液化天然气承购协议。",
@@ -192,18 +218,6 @@
           "time_info": "[12时45分 ~ 14时06分]"
         },
         {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时28分]"
-        },
-        {
           "title": "蒯曼4比1王艺迪",
           "url": "https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC4%E6%AF%941%E7%8E%8B%E8%89%BA%E8%BF%AA%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -215,26 +229,27 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
           "title": "道曼刷新英超最年轻进球纪录",
           "url": "https://www.douyin.com/hot/2431103",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时02分]"
+        },
+        {
+          "title": "中国汽车产量连续17年全球第一",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%87%8F%E8%BF%9E%E7%BB%AD17%E5%B9%B4%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "16时02分"
         },
         {
           "title": "道曼刷新英超最年轻进球纪录",
