@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T04:30:47.882367+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-03-16T04:56:53.631265+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 04时56分]"
         },
         {
           "title": "一边是排队抢油的油车长龙，一边是加速迭代的电车技术，如何看待当下汽车消费的十字路口？",
@@ -30,21 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 04时30分]"
-        },
-        {
-          "title": "2026WTT 重庆冠军赛女单决赛，张本美和 4:3 击败蒯曼夺冠，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2016600173183279320",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 04时56分]"
         },
         {
           "title": "张本美和4:3蒯曼夺冠",
@@ -54,11 +41,26 @@
             13,
             7,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 04时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 04时56分]"
+        },
+        {
+          "title": "2026WTT 重庆冠军赛女单决赛，张本美和 4:3 击败蒯曼夺冠，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2016600173183279320",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 04时56分]"
         },
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -69,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 04时30分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 04时56分]"
         },
         {
           "title": "道曼刷新英超最年轻进球纪录",
@@ -80,11 +82,12 @@
             29,
             21,
             22,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 04时30分]"
+          "appearance_count": 9,
+          "time_info": "[02时39分 ~ 04时56分]"
         },
         {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
@@ -96,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 04时56分]"
         },
         {
           "title": "伊朗驻沙特阿拉伯大使：伊朗与海湾阿拉伯国家需要对彼此关系进行“严肃审视”。",
