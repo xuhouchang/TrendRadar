@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:08:34.560256+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-16T17:40:00.410523+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
@@ -112,6 +112,21 @@
           "time_info": "[02时39分 ~ 07时34分]"
         },
         {
+          "title": "曼联3-1维拉",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-1%E7%BB%B4%E6%8B%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            30,
+            26,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 17时40分]"
+        },
+        {
           "title": "伊朗驻沙特阿拉伯大使：伊朗与海湾阿拉伯国家需要对彼此关系进行“严肃审视”。",
           "url": "https://flash.jin10.com/detail/20260316012628712800",
           "source": "金十数据",
@@ -165,18 +180,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "曼联3-1维拉",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-1%E7%BB%B4%E6%8B%89",
+          "title": "道曼如何打破21年英超历史",
+          "url": "https://search.bilibili.com/all?keyword=%E9%81%93%E6%9B%BC%E5%A6%82%E4%BD%95%E6%89%93%E7%A0%B421%E5%B9%B4%E8%8B%B1%E8%B6%85%E5%8E%86%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            27,
-            30,
-            26,
-            17
+            20,
+            19,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时27分 ~ 16时08分]"
+          "time_info": "[13时04分 ~ 17时40分]"
         },
         {
           "title": "蒯曼3比4不敌张本美和 无缘冠军",
@@ -214,6 +228,17 @@
           "time_info": "[10时27分 ~ 10时28分]"
         },
         {
+          "title": "中国国航：2月本集团合并旅客周转量（按收入客公里计）同比上升。客运运力投入（按可用座位公里计）同比上升13.8%，旅客周转量同比上升19.1%。",
+          "url": "https://flash.jin10.com/detail/20260316173255411800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
           "url": "https://flash.jin10.com/detail/20260316014457958800",
           "source": "金十数据",
@@ -228,6 +253,29 @@
           "time_info": "[02时40分 ~ 04时30分]"
         },
         {
+          "title": "三部门：到2030年全国燃料电池汽车保有量较2025年翻一番 力争达到10万辆",
+          "url": "https://www.cls.cn/detail/2314007",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 17时40分]"
+        },
+        {
+          "title": "南向资金今日净卖出12.5亿元。港股通（沪）方面，盈富基金、小米集团-W分别获净卖出35.74亿港元、8.58亿港元；中国海洋石油净买入额居首，金额为7.31亿港元；港股通（深）方面，中国海洋石油、中芯国际分别获净卖出3.84亿港元、2.86亿港元；腾讯控股净买入额居首，金额为18.66亿港元。",
+          "url": "https://flash.jin10.com/detail/20260316173126326800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -239,17 +287,16 @@
           "time_info": "00时34分"
         },
         {
-          "title": "道曼如何打破21年英超历史",
-          "url": "https://search.bilibili.com/all?keyword=%E9%81%93%E6%9B%BC%E5%A6%82%E4%BD%95%E6%89%93%E7%A0%B421%E5%B9%B4%E8%8B%B1%E8%B6%85%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
+          "title": "马斯克：人生不需要晴天朋友",
+          "url": "https://www.toutiao.com/trending/7616405377337278518/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19,
-            28
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 17时40分]"
         },
         {
           "title": "伊朗：海湾国家成为美国野心的牺牲品",
@@ -298,17 +345,6 @@
           "time_info": "[00时34分 ~ 01时28分]"
         },
         {
-          "title": "三部门：到2030年全国燃料电池汽车保有量较2025年翻一番 力争达到10万辆",
-          "url": "https://www.cls.cn/detail/2314007",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "花样年境外债务重组获港、开曼法院双批准",
           "url": "https://wallstreetcn.com/livenews/3070583",
           "source": "华尔街见闻-快讯",
@@ -320,15 +356,15 @@
           "time_info": "13时05分"
         },
         {
-          "title": "马斯克：人生不需要晴天朋友",
-          "url": "https://www.toutiao.com/trending/7616405377337278518/",
-          "source": "今日头条",
+          "title": "杰富瑞：将埃克森美孚石油目标价从149美元上调至178美元。",
+          "url": "https://wallstreetcn.com/livenews/3070779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时08分"
+          "time_info": "17时40分"
         },
         {
           "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
@@ -370,7 +406,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
