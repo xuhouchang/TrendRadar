@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T18:54:18.109812+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-16T19:48:20.248111+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -123,8 +123,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 18时54分]"
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 19时48分]"
         },
         {
           "title": "道曼如何打破21年英超历史",
@@ -134,11 +134,25 @@
             20,
             19,
             28,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 19时48分]"
+        },
+        {
+          "title": "三部门：到2030年全国燃料电池汽车保有量较2025年翻一番 力争达到10万辆",
+          "url": "https://www.cls.cn/detail/2314007",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 19时48分]"
         },
         {
           "title": "伊朗驻沙特阿拉伯大使：伊朗与海湾阿拉伯国家需要对彼此关系进行“严肃审视”。",
@@ -216,18 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "三部门：到2030年全国燃料电池汽车保有量较2025年翻一番 力争达到10万辆",
-          "url": "https://www.cls.cn/detail/2314007",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时54分]"
         },
         {
           "title": "数十万爆雷车企车主售后困境",
@@ -408,7 +410,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
