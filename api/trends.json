@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T03:00:15.877247+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-03-19T03:52:56.904783+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时00分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时52分]"
+        },
+        {
+          "title": "4S店回应拉黑吃饭超260次男子",
+          "url": "https://s.weibo.com/weibo?q=%234S%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8B%89%E9%BB%91%E5%90%83%E9%A5%AD%E8%B6%85260%E6%AC%A1%E7%94%B7%E5%AD%90%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时52分]"
         },
         {
           "title": "印度阿达尼集团：蒙德拉港（Mundra Port）迎来了悬挂印度国旗的“什瓦利克”号（Shivalik）和“贾格·拉德基”号（Jag Laadki）轮船，前者载有4.6万公吨液化石油气，后者载有80,886公吨原油。",
@@ -31,19 +45,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "4S店回应拉黑吃饭超260次男子",
-          "url": "https://s.weibo.com/weibo?q=%234S%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8B%89%E9%BB%91%E5%90%83%E9%A5%AD%E8%B6%85260%E6%AC%A1%E7%94%B7%E5%AD%90%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时00分]"
-        },
-        {
           "title": "上周海湾国家日均石油出口量下跌超六成",
           "url": "https://flash.jin10.com/detail/20260318235617949800",
           "source": "金十数据",
@@ -53,6 +54,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "深度复盘皇马淘汰曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E7%9A%87%E9%A9%AC%E6%B7%98%E6%B1%B0%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时52分]"
         },
         {
           "title": "航运机构数据：上周海湾国家日均石油出口量下跌超六成",
@@ -65,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时36分]"
-        },
-        {
-          "title": "深度复盘皇马淘汰曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E7%9A%87%E9%A9%AC%E6%B7%98%E6%B1%B0%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 03时00分]"
         },
         {
           "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
