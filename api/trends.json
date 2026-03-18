@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T05:40:03.036155+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-03-19T06:36:44.720368+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时36分]"
         },
         {
           "title": "4S店回应拉黑吃饭超260次男子",
@@ -28,11 +28,12 @@
             4,
             19,
             20,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时36分]"
         },
         {
           "title": "深度复盘皇马淘汰曼城",
@@ -45,8 +46,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时36分]"
         },
         {
           "title": "印度阿达尼集团：蒙德拉港（Mundra Port）迎来了悬挂印度国旗的“什瓦利克”号（Shivalik）和“贾格·拉德基”号（Jag Laadki）轮船，前者载有4.6万公吨液化石油气，后者载有80,886公吨原油。",
@@ -234,7 +235,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
