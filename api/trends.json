@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T02:59:33.275346+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-03-20T03:50:43.745950+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "小米汽车",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "雷军感谢王兴兴5年前给了他投资机会",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "雷军请了半个车圈的老总到场支持",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "雷军请了半个车圈的老总到场支持",
@@ -84,11 +84,12 @@
           "ranks": [
             10,
             9,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "雷军再提新SU7门把手符合新国标",
@@ -104,17 +105,6 @@
           "time_info": "[00时29分 ~ 02时59分]"
         },
         {
-          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月18日当周，垃圾债基金发生33.4亿美元资金外流，创2025年4月29日以来最大单周外流，之前一周赎回15.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3073523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "中东新一轮“备胎”计划：海湾国家正探索陆上数据走廊方案",
           "url": "https://www.cls.cn/detail/2318211",
           "source": "财联社热门",
@@ -123,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "战火蔓延!伊朗猛攻海湾油库",
@@ -134,8 +124,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时50分]"
         },
         {
           "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
@@ -144,7 +134,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -161,6 +151,31 @@
           "time_info": "[01时35分 ~ 02时59分]"
         },
         {
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月18日当周，垃圾债基金发生33.4亿美元资金外流，创2025年4月29日以来最大单周外流，之前一周赎回15.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3073523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时50分]"
+        },
+        {
+          "title": "外星小绿猫舞姿真的很曼妙",
+          "url": "https://www.douyin.com/hot/2435850",
+          "source": "抖音",
+          "ranks": [
+            20,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时50分]"
+        },
+        {
           "title": "专家：若伊朗兑现打击海湾能源设施的威胁，油价将触及每桶120美元",
           "url": "https://wallstreetcn.com/livenews/3073504",
           "source": "华尔街见闻-快讯",
@@ -173,16 +188,28 @@
           "time_info": "[01时35分 ~ 02时59分]"
         },
         {
-          "title": "外星小绿猫舞姿真的很曼妙",
-          "url": "https://www.douyin.com/hot/2435850",
-          "source": "抖音",
+          "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
+          "url": "https://www.cls.cn/detail/2318736",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            27
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时59分]"
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时50分]"
+        },
+        {
+          "title": "欧元集团主席Pierrakakis：中东危机影响到欧洲。",
+          "url": "https://wallstreetcn.com/livenews/3073513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时50分]"
         },
         {
           "title": "美国监管机构对特斯拉“完全自动驾驶”系统的安全调查升级",
@@ -194,28 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
-          "url": "https://www.cls.cn/detail/2318736",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "欧元集团主席Pierrakakis：中东危机影响到欧洲。",
-          "url": "https://wallstreetcn.com/livenews/3073513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         },
         {
           "title": "美国电动汽车公司Rivian股价回吐涨幅，现涨0.7%。",
