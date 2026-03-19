@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:58:31.783188+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-03-19T21:16:42.210448+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 74,
+      "match_count": 81,
       "titles": [
         {
           "title": "男子 4S 店买车一年蹭饭 260 次，自家电动车也带来充电，被拉黑后扬言维权，薅羊毛边界在哪？商家如何应对？",
@@ -20,6 +20,18 @@
           "time_info": "[13时58分 ~ 19时58分]"
         },
         {
+          "title": "买车蹭饭260次,4S店:已拉黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时07分 ~ 21时16分]"
+        },
+        {
           "title": "战火蔓延!伊朗猛攻海湾油库",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
           "source": "贴吧",
@@ -31,20 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时34分 ~ 19时58分]"
-        },
-        {
-          "title": "买车蹭饭260次,4S店:已拉黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 21时16分]"
         },
         {
           "title": "男子4S店买车一年蹭饭260次还打包",
@@ -98,11 +98,12 @@
             16,
             15,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时11分 ~ 19时58分]"
+          "appearance_count": 15,
+          "time_info": "[10时11分 ~ 21时16分]"
         },
         {
           "title": "深度复盘皇马淘汰曼城",
@@ -150,6 +151,18 @@
           "time_info": "[12时34分 ~ 18时08分]"
         },
         {
+          "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
+          "url": "https://www.cls.cn/detail/2318364",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时16分]"
+        },
+        {
           "title": "雷军官宣舒淇成小米汽车品牌代言人",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E8%88%92%E6%B7%87%E6%88%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA",
           "source": "百度热搜",
@@ -192,18 +205,6 @@
           "time_info": "[13时58分 ~ 16时03分]"
         },
         {
-          "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
-          "url": "https://www.cls.cn/detail/2318364",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 19时58分]"
-        },
-        {
           "title": "迪丽热巴平安回国后首次露面",
           "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B9%B3%E5%AE%89%E5%9B%9E%E5%9B%BD%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
           "source": "百度热搜",
@@ -237,6 +238,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "外星小绿猫舞姿真的很曼妙",
+          "url": "https://www.douyin.com/hot/2435850",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 21时16分]"
         },
         {
           "title": "A股多元金融板块短线拉升，中油资本直线涨停，中粮资本、瑞达期货、弘业期货、爱建集团、江苏金租跟涨。",
@@ -283,6 +297,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "雷军请了半个车圈的老总到场支持",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B7%E4%BA%86%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%E7%9A%84%E8%80%81%E6%80%BB%E5%88%B0%E5%9C%BA%E6%94%AF%E6%8C%81",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "上周海湾国家日均石油出口量下跌超六成",
           "url": "https://flash.jin10.com/detail/20260318235617949800",
           "source": "金十数据",
@@ -300,7 +325,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -314,19 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
-        },
-        {
-          "title": "外星小绿猫舞姿真的很曼妙",
-          "url": "https://www.douyin.com/hot/2435850",
-          "source": "抖音",
-          "ranks": [
-            18,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 19时58分]"
         },
         {
           "title": "央国企高端新能源汽车第一股上市",
@@ -392,7 +404,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -414,7 +426,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -425,7 +437,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -600,6 +612,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "捷途汽车两款车发布2026版，限时价6.99万元起",
+          "url": "https://wallstreetcn.com/livenews/3073346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "福特汽车(F.N)CEO：伊朗局势尚未对福特的供应链造成影响。",
           "url": "https://flash.jin10.com/detail/20260319011017209800",
           "source": "金十数据",
@@ -721,6 +744,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "宇树CEO王兴兴给雷军展示机器人跳舞",
+          "url": "https://www.toutiao.com/trending/7618120548547575844/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "印度贸易部：印度出口商正为发往阿联酋、沙特、科威特、阿曼及其他海湾地区的货物提供保险支持。",
           "url": "https://flash.jin10.com/detail/20260319153439846800",
           "source": "金十数据",
@@ -754,6 +788,28 @@
           "time_info": "17时10分"
         },
         {
+          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2017200053643650106",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "雷军感谢王兴兴5年前给了他投资机会",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%84%9F%E8%B0%A2%E7%8E%8B%E5%85%B4%E5%85%B45%E5%B9%B4%E5%89%8D%E7%BB%99%E4%BA%86%E4%BB%96%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "岚图汽车上市 武汉上空现祝贺飞艇",
           "url": "https://www.toutiao.com/trending/7618802943983124506/",
           "source": "今日头条",
@@ -776,6 +832,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "中国保险行业协会：将逐步推进人形机器人保险示范条款 保险机构加快布局新型科技保险",
+          "url": "https://flash.jin10.com/detail/20260319204324646800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3072973",
           "source": "华尔街见闻-快讯",
@@ -785,6 +852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "李斌：蔚来自研芯片量产已超55万颗",
+          "url": "https://flash.jin10.com/detail/20260319204305784800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "小米推出三款自研大模型，雷军称今年在AI领域将投入超160亿",
