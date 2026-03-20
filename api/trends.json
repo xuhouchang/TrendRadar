@@ -1,323 +1,66 @@
 {
-  "generated_at": "2026-03-20T23:10:37.296155+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2026-03-21T00:05:54.617607+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 105,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
-          "url": "https://www.cls.cn/detail/2318364",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 07时37分]"
-        },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
           "url": "https://www.zhihu.com/question/2017994120187097771",
           "source": "知乎",
           "ranks": [
-            7,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 23时10分]"
-        },
-        {
-          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
-          "url": "https://wallstreetcn.com/articles/3767941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 19时32分]"
-        },
-        {
-          "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796782",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时36分 ~ 23时10分]"
-        },
-        {
-          "title": "买车蹭饭260次,4S店:已拉黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            6,
-            8,
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 23时10分]"
-        },
-        {
-          "title": "小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5,
-            4,
-            8,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时05分]"
-        },
-        {
-          "title": "雷军请了半个车圈的老总到场支持",
-          "url": "https://www.toutiao.com/trending/7618950827205529115/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8,
-            15,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 15时47分]"
-        },
-        {
-          "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
-          "url": "https://www.zhihu.com/question/2018050979702989965",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1,
-            3,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 19时32分]"
-        },
-        {
-          "title": "雷军：舒淇让我的朋友圈沸腾",
-          "url": "https://www.toutiao.com/trending/7618927431684816939/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时56分 ~ 23时10分]"
-        },
-        {
-          "title": "也门胡塞武装：可能封锁曼德海峡",
-          "url": "https://www.cls.cn/detail/2319206",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时34分 ~ 19时32分]"
-        },
-        {
-          "title": "雷军感谢王兴兴5年前给了他投资机会",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%84%9F%E8%B0%A2%E7%8E%8B%E5%85%B4%E5%85%B45%E5%B9%B4%E5%89%8D%E7%BB%99%E4%BA%86%E4%BB%96%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 10时05分]"
-        },
-        {
-          "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
-          "url": "https://www.cls.cn/detail/2318736",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时59分 ~ 12时26分]"
-        },
-        {
-          "title": "雷军请了半个车圈的老总到场支持",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B7%E4%BA%86%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%E7%9A%84%E8%80%81%E6%80%BB%E5%88%B0%E5%9C%BA%E6%94%AF%E6%8C%81",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            23,
-            21,
-            22,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时37分]"
-        },
-        {
-          "title": "中东新一轮“备胎”计划：海湾国家正探索陆上数据走廊方案",
-          "url": "https://www.cls.cn/detail/2318211",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时29分]"
-        },
-        {
-          "title": "战火蔓延!伊朗猛攻海湾油库",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 15时47分]"
-        },
-        {
-          "title": "胡塞武装称可能封锁曼德海峡！伊朗祭出新王牌；“福特”号航母被曝将撤离，革命卫队：反映出美以“绝望而屈辱”的真实处境",
-          "url": "https://wallstreetcn.com/articles/3767987",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
           "url": "https://www.cls.cn/detail/2319626",
           "source": "财联社热门",
           "ranks": [
-            12,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 23时10分]"
-        },
-        {
-          "title": "雷军：舒淇让我的朋友圈沸腾",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E8%88%92%E6%B7%87%E8%AE%A9%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%B8%E8%85%BE",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            12,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 23时10分]"
-        },
-        {
-          "title": "曝马斯克拟采购200亿中国光伏设备",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%9F%E9%87%87%E8%B4%AD200%E4%BA%BF%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时56分]"
-        },
-        {
-          "title": "雷军回应新一代SU7为什么不改外观",
-          "url": "https://www.toutiao.com/trending/7618970624731414534/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 14时56分]"
-        },
-        {
-          "title": "雷军再提新SU7门把手符合新国标",
-          "url": "https://www.toutiao.com/trending/7618725618579013658/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时59分]"
-        },
-        {
-          "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
-          "url": "https://flash.jin10.com/detail/20260320132247038800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "00时05分"
+        },
+        {
+          "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3074249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "胡塞武装称可能封锁曼德海峡！伊朗祭出新王牌；“福特”号航母被曝将撤离，革命卫队：反映出美以“绝望而屈辱”的真实处境",
+          "url": "https://wallstreetcn.com/articles/3767987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "小米汽车回应为何不公布大定数字",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%B8%83%E5%A4%A7%E5%AE%9A%E6%95%B0%E5%AD%97%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -327,939 +70,74 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
-          "title": "外星小绿猫舞姿真的很曼妙",
-          "url": "https://www.douyin.com/hot/2435850",
-          "source": "抖音",
+          "title": "买车蹭饭260次,4S店:已拉黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
+          "source": "贴吧",
           "ranks": [
-            20,
-            27,
-            28,
-            26,
-            16
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
-          "title": "吉利汽车(00175.HK)正式发布全球首台星耀6绿色甲醇动力统一规格赛车。",
-          "url": "https://flash.jin10.com/detail/20260320132041302800",
+          "title": "纳斯达克中国金龙指数跌幅扩大至2%，金山云(KC.O)跌10%、禾赛跌6.7%、小鹏汽车(XPEV.N)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260320232951948800",
           "source": "金十数据",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "印度塔塔汽车：乘用车将于4月1日起上调价格。燃油车产品线加权平均价格上涨0.5%。",
-          "url": "https://flash.jin10.com/detail/20260320190537356800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3073790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "何小鹏：图灵芯片累计出货超20万片，今年全年出货量目标达到近100万片",
-          "url": "https://flash.jin10.com/detail/20260320203503207800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "港股恒生指数午后持续下挫跌超1%，恒生科技指数跌近2.5%，小米集团(01810.HK)跌超7.5%，阿里巴巴(09988.HK)跌6.5%，中国联通(00762.HK)、小鹏汽车(09868.HK)均跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260320144129607800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3073930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "中国稀土集团：推动传统稀土制造向高端智造、绿色智造转型",
-          "url": "https://wallstreetcn.com/livenews/3074163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "舒淇苏炳添为雷军送上大麦",
-          "url": "https://www.toutiao.com/trending/7619103337308376622/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 13时35分]"
+          "time_info": "00时05分"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352132&amp;topic_name=%E8%83%A1%E5%A1%9E%E6%92%91%E4%BC%8A%E6%9C%97%2C%E6%88%96%E5%B0%86%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1",
           "source": "贴吧",
           "ranks": [
-            12,
-            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时32分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
-          "title": "雷军幽默回应分得清舒淇与SU7",
-          "url": "https://www.toutiao.com/trending/7619103833486298662/",
+          "title": "雷军：舒淇让我的朋友圈沸腾",
+          "url": "https://www.toutiao.com/trending/7618927431684816939/",
           "source": "今日头条",
           "ranks": [
-            23,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 12时26分]"
-        },
-        {
-          "title": "舒淇代言小米汽车 SU7谐音梗成真",
-          "url": "https://www.toutiao.com/trending/7618063303169261587/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27,
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时37分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
-          "title": "特斯拉欲采购中国光伏设备 企业回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AC%B2%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87+%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94",
+          "title": "伊朗最高领袖穆杰塔巴：最近针对土耳其和阿曼的袭击“绝不是伊朗武装部队”或盟友所为。这些都是“假旗行动”，是伊朗的敌人用来“在邻国之间制造不和，这种情况也可能发生在其他国家”。",
+          "url": "https://flash.jin10.com/detail/20260320231618688800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "雷军：舒淇让我的朋友圈沸腾",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E8%88%92%E6%B7%87%E8%AE%A9%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%B8%E8%85%BE",
           "source": "百度热搜",
           "ranks": [
-            30,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 16时41分]"
-        },
-        {
-          "title": "雷军展示人脉",
-          "url": "https://www.toutiao.com/trending/7618950827205529115/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时32分]"
-        },
-        {
-          "title": "胡塞为支持伊朗或封锁曼德海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A1%9E%E4%B8%BA%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "也门胡塞武装称可能封锁曼德海峡",
-          "url": "https://flash.jin10.com/detail/20260320115306038800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)盘前涨3%。",
-          "url": "https://flash.jin10.com/detail/20260320170743482800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "雷军感谢王兴兴给了投资宇树的机会",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%84%9F%E8%B0%A2%E7%8E%8B%E5%85%B4%E5%85%B4%E7%BB%99%E4%BA%86%E6%8A%95%E8%B5%84%E5%AE%87%E6%A0%91%E7%9A%84%E6%9C%BA%E4%BC%9A%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 07时37分]"
-        },
-        {
-          "title": "小米汽车回应为何不公布大定数字",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%B8%83%E5%A4%A7%E5%AE%9A%E6%95%B0%E5%AD%97%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "NASA计划让马斯克旗下太空探索公司SpaceX在登月活动中发挥更大作用。",
-          "url": "https://wallstreetcn.com/livenews/3073519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "【内塔尼亚胡：以方将“暂停”空袭伊朗能源设施】以色列总理内塔尼亚胡19日在一场新闻发布会上回答媒体提问时称，是以色列“单独”空袭了伊朗天然气田，以方将“遵守”美国总统特朗普所提“暂停”后续空袭能源设施的要求。特朗普当天早些时候在白宫回答媒体提问时表示，他已经告知内塔尼亚胡不要攻击伊朗境内的能源设施。据伊朗媒体18日报道，伊朗南部布什尔省南帕尔斯和阿萨卢耶部分石油化工设施遭美国和以色列空袭。伊朗随后宣布打击沙特阿拉伯、卡塔尔等海湾国家与美国相关的石油设施。特朗普当天在社交媒体上发文，称美方对以色列袭击伊朗油气设施事先“毫不知情”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3073569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "何小鹏：图灵芯片累计出货超20万片，今年全年出货量目标达到近100万片",
-          "url": "https://wallstreetcn.com/livenews/3074159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "也门胡塞武装称可能封锁曼德海峡",
-          "url": "https://wallstreetcn.com/livenews/3073763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时35分]"
-        },
-        {
-          "title": "蔚来汽车(09866.HK)：3月20日，蔚来全新ES8在杭州完成第80000台交付。自2025年9月21日开启交付以来，全新ES8在不到六个月的时间内达成第八万台新车交付里程碑。",
-          "url": "https://flash.jin10.com/detail/20260320162135872800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3073553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "远洋集团：预计2025年净利润60亿-75亿元",
-          "url": "https://wallstreetcn.com/livenews/3073982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
-          "url": "https://wallstreetcn.com/livenews/3073507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时59分]"
-        },
-        {
-          "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
-          "url": "https://wallstreetcn.com/livenews/3074165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时05分]"
-        },
-        {
-          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月18日当周，垃圾债基金发生33.4亿美元资金外流，创2025年4月29日以来最大单周外流，之前一周赎回15.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3073523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时50分]"
-        },
-        {
-          "title": "特斯拉计划采购中国光伏设备？企业回应：确有此事",
-          "url": "https://wallstreetcn.com/livenews/3073760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时35分]"
-        },
-        {
-          "title": "专家：若伊朗兑现打击海湾能源设施的威胁，油价将触及每桶120美元",
-          "url": "https://wallstreetcn.com/livenews/3073504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时59分]"
-        },
-        {
-          "title": "周四（3月19日），彭博电动汽车价格回报指数跌1.95%，报3494.95点，亚太盘初 以来持续走低，北京时间16:00以来低位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3073554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
-          "url": "https://wallstreetcn.com/livenews/3073589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时58分]"
-        },
-        {
-          "title": "安全消息人士：一起火箭袭击瞄准了伊拉克库尔德地区苏莱曼尼亚附近的伊朗反对派组织据点。",
-          "url": "https://flash.jin10.com/detail/20260320050057912800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时29分]"
-        },
-        {
-          "title": "欧元集团主席Pierrakakis：中东危机影响到欧洲。",
-          "url": "https://wallstreetcn.com/livenews/3073513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时50分]"
-        },
-        {
-          "title": "也门胡塞武装称可能封锁曼德海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 16时41分]"
-        },
-        {
-          "title": "A股宁德时代成交额超200亿元，现涨3.6%。",
-          "url": "https://flash.jin10.com/detail/20260320143505711800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "标普500指数初步收跌0.2%，原材料板块跌1.6%，可选消费板块跌0.8%，科技板块大致持平，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，美光科技初步收跌3.8%，拼多多、Doordash、奈飞跌超3%，特斯拉跌2.9%，AMD、星巴克、拉姆研究则至少涨2.9%，西部数据涨3.9%，美国油服贝克休斯涨5.6%，希捷科技涨6.7%。 波音跌2.3%，与麦当劳、3M、宝洁、联合健康领跌道指成分股，高盛则涨0.6%，思科涨1.2%，雪佛龙涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3073551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "广汽36亿参建国内首个空域试验场投用，旗下飞行汽车同步首飞",
-          "url": "https://wallstreetcn.com/livenews/3074088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
-          "url": "https://wallstreetcn.com/livenews/3074189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美国监管机构对特斯拉“完全自动驾驶”系统的安全调查升级",
-          "url": "https://wallstreetcn.com/livenews/3073470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "小鹏汽车(09868.HK)：2025财政年度净亏损为人民币11.4亿元（1.6亿美元），相较而言，去年则为人民币57.9亿元。",
-          "url": "https://flash.jin10.com/detail/20260320170619882800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "中国贸促会副会长李兴乾会见美国科恩集团首席执行官罗伯特·泰尔",
-          "url": "https://wallstreetcn.com/livenews/3074186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "汇丰银行：将特斯拉(TSLA.O)目标价从133美元下调至119美元。",
-          "url": "https://flash.jin10.com/detail/20260320143102847800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)2025年Q4净盈利3.8亿元，上年同期净亏损13.3亿元。",
-          "url": "https://flash.jin10.com/detail/20260320170552063800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "何小鹏：第二代VLA参数将提升至200亿+级，Robotaxi下半年开启载客示范运营",
-          "url": "https://wallstreetcn.com/livenews/3074153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "宁德时代、泡泡玛特等入资博裕资本旗下合伙企业，后者增资至约40亿",
-          "url": "https://flash.jin10.com/detail/20260320114539791800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "美的集团旗下汽车部件公司增资至12亿元，增幅达500%",
-          "url": "https://flash.jin10.com/detail/20260320153742551800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "美国电动汽车公司Rivian股价回吐涨幅，现涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260320010559785800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "A股光伏设备板块午后快速拉升，钧达股份、永臻股份、德业股份、上能电气、首航新航等10股涨停。消息面上，企业回应特斯拉计划采购中国光伏设备称确有此事。",
-          "url": "https://flash.jin10.com/detail/20260320130402044800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "美联储理事鲍曼：预计沃什将对美联储政策产生\"强烈影响\"。",
-          "url": "https://flash.jin10.com/detail/20260320202900538800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "平安银行：2025年净利润426.33亿元，同比下降4.2%",
-          "url": "https://wallstreetcn.com/livenews/3074150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "小米集团(01810.HK)于3月20日以1亿港元回购300万股B类股份。",
-          "url": "https://flash.jin10.com/detail/20260320184056320800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "花旗集团：预计英国央行2026年将维持利率不变，此前曾预测6月和9月分别降息25个基点。",
-          "url": "https://wallstreetcn.com/livenews/3073821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "小米汽车回应新一代SU7提车时间问题",
-          "url": "https://wallstreetcn.com/livenews/3073733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "国家发展改革委约见马士基集团首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3074148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "英国10年期国债收益率涨16个基点，为2008年以来首次涨至5%。 据花旗集团和蒙特利尔银行的分析师称，英国央行官员释放的的政策前景信号加剧了英国国债（gilts）的下滑，基准收益率在周五进一步飙升，创2008年以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3074213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：预计第一季度汽车交付量将在6.1万至6.6万辆之间。",
-          "url": "https://flash.jin10.com/detail/20260320170153334800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "何小鹏：第二代VLA拉动日均试驾量与Ultra版本车型销量均翻倍",
-          "url": "https://flash.jin10.com/detail/20260320202640981800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "又一批在伊我公民经土库曼斯坦撤离",
-          "url": "https://wallstreetcn.com/livenews/3073458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "小鹏汽车2025年第四季度首次实现季度盈利",
-          "url": "https://wallstreetcn.com/livenews/3073968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "美国国务院领事事务局：建议美国公民乘坐阿曼国际机场的商业航班离境。",
-          "url": "https://flash.jin10.com/detail/20260320044842438800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "IEA：恢复海湾地区的油气供应可能需要六个月",
-          "url": "https://flash.jin10.com/detail/20260320202545660800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3073553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特斯拉拟采购中国光伏设备？业内人士：节前有团队到访考察",
-          "url": "https://wallstreetcn.com/livenews/3073817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "金十图示：2026年03月20日（周五）富时中国A50指数成分股午盘收盘行情一览：宁德时代早盘大涨近5%，CPO概念走强，新易盛涨9.5%、中际旭创涨8.5%",
-          "url": "https://flash.jin10.com/detail/20260320113337373800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "港股收盘，恒指收跌0.88%，科指收跌2.48%；宁德时代(03750.HK)、李宁(02331.HK)逆势涨超8%，吉利汽车(00175.HK)涨近6.5%；小米集团(01810.HK)跌超8.5%，阿里巴巴(09988.HK)跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260320160917851800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
-          "url": "https://wallstreetcn.com/livenews/3074143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "雷军希望新SU7订单交付持平",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%B8%8C%E6%9C%9B%E6%96%B0SU7%E8%AE%A2%E5%8D%95%E4%BA%A4%E4%BB%98%E6%8C%81%E5%B9%B3%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "港股恒生指数、恒生科技指数盘初拉升双双翻红，李宁(02331.HK)涨超12.5%，地平线机器人(09660.HK)涨超6.5%，吉利汽车(00175.HK)涨超4%，宁德时代(03750.HK)涨超3.8%。",
-          "url": "https://flash.jin10.com/detail/20260320093951465800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "特斯拉计划采购中国光伏设备？企业回应：确有此事",
-          "url": "https://flash.jin10.com/detail/20260320113329734800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "雷军回应新一代小米SU7定价",
-          "url": "https://www.toutiao.com/trending/7619244115368136218/",
-          "source": "今日头条",
-          "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "美联储理事鲍曼：期待与凯文·沃什合作。",
-          "url": "https://flash.jin10.com/detail/20260320202404796800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美联储理事鲍曼：仍预计2026年将降息三次。",
-          "url": "https://flash.jin10.com/detail/20260320202338400800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "国际能源署署长：恢复来自海湾地区的石油和天然气供应可能需要六个月时间。 政界人士和市场都低估了此次中东能源供应中断的严重程度。",
-          "url": "https://wallstreetcn.com/livenews/3074138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "何小鹏：2026年小鹏汽车物理AI相关研发投入预计提升至70亿元",
-          "url": "https://wallstreetcn.com/livenews/3074206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "A股绿电板块盘初异动，华电辽能、长源电力、韶能股份、甘肃能源均封板涨停，九洲集团涨超16%，东方新能、中利集团均涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260320093715919800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "报道：特斯拉寻求从中国供应商采购价值29亿美元光伏生产设备",
-          "url": "https://wallstreetcn.com/livenews/3073718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "美联储理事鲍曼：鲍威尔已经明确表态了他在美联储未来任期的问题。 关于此事会让鲍威尔自己发声。 现在就伊朗冲突对美联储意味着什么下结论还为时过早。 正致力于现代化银行监管。 希望确保监管改革能够关注美国银行的需求。 希望银行业规则变动能将更多业务带回银行体系。 将继续根据银行特点调整监管措施。",
-          "url": "https://wallstreetcn.com/livenews/3074136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "阿联酋高级官员Gargash：阿联酋顾问加尔加什表示，伊朗官员为袭击海湾国家所作的辩解不仅违反国际法，还威胁地区稳定。",
-          "url": "https://flash.jin10.com/detail/20260320004501946800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至3%，小米集团跌超8%，创10月以来最大盘中跌幅，阿里巴巴跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3073863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "00时05分"
         }
       ]
     }
