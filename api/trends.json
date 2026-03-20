@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T00:05:54.617607+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-21T01:09:57.335374+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3074249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "胡塞武装称可能封锁曼德海峡！伊朗祭出新王牌；“福特”号航母被曝将撤离，革命卫队：反映出美以“绝望而屈辱”的真实处境",
@@ -48,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "小米汽车回应为何不公布大定数字",
@@ -63,6 +52,18 @@
           "time_info": "00时05分"
         },
         {
+          "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3074249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
+        },
+        {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
           "url": "https://news.ifeng.com/c/8reRDG6iAS5",
           "source": "凤凰网",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -81,19 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅扩大至2%，金山云(KC.O)跌10%、禾赛跌6.7%、小鹏汽车(XPEV.N)跌6%。",
-          "url": "https://flash.jin10.com/detail/20260320232951948800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
@@ -103,8 +93,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
         },
         {
           "title": "雷军：舒淇让我的朋友圈沸腾",
@@ -112,6 +102,17 @@
           "source": "今日头条",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时09分]"
+        },
+        {
+          "title": "纳斯达克中国金龙指数跌幅扩大至2%，金山云(KC.O)跌10%、禾赛跌6.7%、小鹏汽车(XPEV.N)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260320232951948800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
