@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:41:42.030849+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-03-20T17:41:56.438550+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 68,
+      "match_count": 77,
       "titles": [
         {
           "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
@@ -20,6 +20,23 @@
           "time_info": "[00时29分 ~ 07时37分]"
         },
         {
+          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
+          "url": "https://wallstreetcn.com/articles/3767941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 17时41分]"
+        },
+        {
           "title": "买车蹭饭260次,4S店:已拉黑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
           "source": "贴吧",
@@ -31,24 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 16时41分]"
-        },
-        {
-          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
-          "url": "https://wallstreetcn.com/articles/3767941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 16时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 17时41分]"
         },
         {
           "title": "小米汽车",
@@ -92,8 +93,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 16时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 17时41分]"
+        },
+        {
+          "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
+          "url": "https://www.zhihu.com/question/2018050979702989965",
+          "source": "知乎",
+          "ranks": [
+            13,
+            1,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 17时41分]"
         },
         {
           "title": "雷军感谢王兴兴5年前给了他投资机会",
@@ -123,19 +138,6 @@
           "time_info": "[02时59分 ~ 12时26分]"
         },
         {
-          "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
-          "url": "https://www.zhihu.com/question/2018050979702989965",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 16时41分]"
-        },
-        {
           "title": "雷军请了半个车圈的老总到场支持",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B7%E4%BA%86%E5%8D%8A%E4%B8%AA%E8%BD%A6%E5%9C%88%E7%9A%84%E8%80%81%E6%80%BB%E5%88%B0%E5%9C%BA%E6%94%AF%E6%8C%81",
           "source": "百度热搜",
@@ -151,6 +153,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 07时37分]"
+        },
+        {
+          "title": "也门胡塞武装：可能封锁曼德海峡",
+          "url": "https://www.cls.cn/detail/2319206",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 17时41分]"
         },
         {
           "title": "中东新一轮“备胎”计划：海湾国家正探索陆上数据走廊方案",
@@ -179,20 +196,6 @@
           "time_info": "[00时29分 ~ 15时47分]"
         },
         {
-          "title": "也门胡塞武装：可能封锁曼德海峡",
-          "url": "https://www.cls.cn/detail/2319206",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 16时41分]"
-        },
-        {
           "title": "雷军：舒淇让我的朋友圈沸腾",
           "url": "https://www.toutiao.com/trending/7618927431684816939/",
           "source": "今日头条",
@@ -201,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时41分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -211,11 +214,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时41分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时41分]"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
@@ -282,6 +286,17 @@
           "time_info": "[00时29分 ~ 10时05分]"
         },
         {
+          "title": "雷军：舒淇让我的朋友圈沸腾",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E8%88%92%E6%B7%87%E8%AE%A9%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%B8%E8%85%BE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "吉利汽车(00175.HK)正式发布全球首台星耀6绿色甲醇动力统一规格赛车。",
           "url": "https://flash.jin10.com/detail/20260320132041302800",
           "source": "金十数据",
@@ -321,7 +336,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -378,17 +393,6 @@
           "time_info": "[13时34分 ~ 16时41分]"
         },
         {
-          "title": "雷军展示人脉",
-          "url": "https://www.toutiao.com/trending/7618950827205529115/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
           "title": "也门胡塞武装称可能封锁曼德海峡",
           "url": "https://flash.jin10.com/detail/20260320115306038800",
           "source": "金十数据",
@@ -398,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "小鹏汽车(XPEV.N)盘前涨3%。",
+          "url": "https://flash.jin10.com/detail/20260320170743482800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "雷军感谢王兴兴给了投资宇树的机会",
@@ -452,7 +467,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -466,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "远洋集团：预计2025年净利润60亿-75亿元",
+          "url": "https://wallstreetcn.com/livenews/3073982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
@@ -502,6 +528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时35分]"
+        },
+        {
+          "title": "雷军展示人脉",
+          "url": "https://www.toutiao.com/trending/7618950827205529115/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时41分]"
         },
         {
           "title": "专家：若伊朗兑现打击海湾能源设施的威胁，油价将触及每桶120美元",
@@ -609,6 +647,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "小鹏汽车(09868.HK)：2025财政年度净亏损为人民币11.4亿元（1.6亿美元），相较而言，去年则为人民币57.9亿元。",
+          "url": "https://flash.jin10.com/detail/20260320170619882800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "汇丰银行：将特斯拉(TSLA.O)目标价从133美元下调至119美元。",
           "url": "https://flash.jin10.com/detail/20260320143102847800",
           "source": "金十数据",
@@ -618,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "小鹏汽车(XPEV.N)2025年Q4净盈利3.8亿元，上年同期净亏损13.3亿元。",
+          "url": "https://flash.jin10.com/detail/20260320170552063800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "宁德时代、泡泡玛特等入资博裕资本旗下合伙企业，后者增资至约40亿",
@@ -697,6 +757,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "小鹏汽车(XPEV.N)：预计第一季度汽车交付量将在6.1万至6.6万辆之间。",
+          "url": "https://flash.jin10.com/detail/20260320170153334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "又一批在伊我公民经土库曼斯坦撤离",
           "url": "https://wallstreetcn.com/livenews/3073458",
           "source": "华尔街见闻-快讯",
@@ -706,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "小鹏汽车2025年第四季度首次实现季度盈利",
+          "url": "https://wallstreetcn.com/livenews/3073968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国国务院领事事务局：建议美国公民乘坐阿曼国际机场的商业航班离境。",
@@ -758,9 +840,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "雷军希望新SU7订单交付持平",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%B8%8C%E6%9C%9B%E6%96%B0SU7%E8%AE%A2%E5%8D%95%E4%BA%A4%E4%BB%98%E6%8C%81%E5%B9%B3%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "港股恒生指数、恒生科技指数盘初拉升双双翻红，李宁(02331.HK)涨超12.5%，地平线机器人(09660.HK)涨超6.5%，吉利汽车(00175.HK)涨超4%，宁德时代(03750.HK)涨超3.8%。",
@@ -783,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "雷军回应新一代小米SU7定价",
+          "url": "https://www.toutiao.com/trending/7619244115368136218/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "A股绿电板块盘初异动，华电辽能、长源电力、韶能股份、甘肃能源均封板涨停，九洲集团涨超16%，东方新能、中利集团均涨超10%。",
