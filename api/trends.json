@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T07:28:46.834426+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-22T07:49:02.381889+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "吴曼青、赵宪庚、魏毅寅三名院士信息从院士名单中撤下，如何理解两院院士的准出情况？",
@@ -54,24 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时28分 ~ 07时28分]"
-        },
-        {
-          "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E6%A1%A5%E6%B4%9E%E4%B8%8B%E6%83%8A%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            19,
-            7,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 16,
+          "time_info": "[01时28分 ~ 07时49分]"
         },
         {
           "title": "七国集团外长声明：对地区伙伴在面对伊朗及其代理势力发动的“毫无根据”袭击时表示坚定支持。",
@@ -86,8 +70,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时25分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[03时25分 ~ 07时49分]"
         },
         {
           "title": "七国集团外长声明：随时准备采取必要措施，支持全球能源供应。",
@@ -102,8 +86,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时25分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[03时25分 ~ 07时49分]"
         },
         {
           "title": "七国集团外长声明：重申维护海上航道和航行安全的重要性，包括霍尔木兹海峡。",
@@ -118,8 +102,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时25分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[03时25分 ~ 07时49分]"
         },
         {
           "title": "七国集团外长声明：呼吁伊朗立即且无条件停止一切袭击。",
@@ -134,8 +118,24 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时25分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[03时25分 ~ 07时49分]"
+        },
+        {
+          "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E6%A1%A5%E6%B4%9E%E4%B8%8B%E6%83%8A%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18,
+            19,
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "雷军回应“60+60=120”言论",
@@ -162,8 +162,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 07时49分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -173,8 +173,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
@@ -184,8 +184,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 07时49分]"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
@@ -195,8 +195,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时49分]"
         },
         {
           "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
