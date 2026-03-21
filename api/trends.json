@@ -1,182 +1,12 @@
 {
-  "generated_at": "2026-03-21T23:50:01.184582+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-03-22T00:32:07.036616+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 54,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 06时58分]"
-        },
-        {
-          "title": "胡塞武装称可能封锁曼德海峡！伊朗祭出新王牌；“福特”号航母被曝将撤离，革命卫队：反映出美以“绝望而屈辱”的真实处境",
-          "url": "https://wallstreetcn.com/articles/3767987",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时05分 ~ 13时27分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时11分 ~ 23时50分]"
-        },
-        {
-          "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
-          "url": "https://www.zhihu.com/question/2017994120187097771",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            19,
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 07时35分]"
-        },
-        {
-          "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3074444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            17,
-            19,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时28分 ~ 23时50分]"
-        },
-        {
-          "title": "雷军回应“60+60=120”言论",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C60%2B60%3D120%E2%80%9D%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            7,
-            17,
-            25,
-            26,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[18时27分 ~ 23时50分]"
-        },
-        {
-          "title": "买车蹭饭260次,4S店:已拉黑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            17,
-            18,
-            19,
-            20,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时05分 ~ 23时50分]"
-        },
-        {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[18时54分 ~ 23时50分]"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 07时35分]"
-        },
-        {
-          "title": "胡塞撑伊朗,或将封锁曼德海峡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352132&amp;topic_name=%E8%83%A1%E5%A1%9E%E6%92%91%E4%BC%8A%E6%9C%97%2C%E6%88%96%E5%B0%86%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            17,
-            21,
-            22,
-            23,
-            24,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时05分 ~ 23时50分]"
-        },
-        {
-          "title": "雷军：舒淇让我的朋友圈沸腾",
-          "url": "https://www.toutiao.com/trending/7618927431684816939/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            28,
-            29,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 07时35分]"
-        },
         {
           "title": "雷军就发布会口误道歉",
           "url": "https://www.toutiao.com/trending/7618846590602182683/",
@@ -185,526 +15,118 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[23时26分 ~ 23时50分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "国家能源局：截至2月底全国电动汽车充电基础设施（枪）总数达到2101.万个，同比增长47.8%",
-          "url": "https://wallstreetcn.com/livenews/3074435",
-          "source": "华尔街见闻-快讯",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            11,
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时43分]"
-        },
-        {
-          "title": "马斯克的律师们将对“美国陪审团认定他欺诈推特投资者们”的判决结果提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3074385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            20,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 15时09分]"
-        },
-        {
-          "title": "马斯克：企业版Grok Voice现已推出。",
-          "url": "https://flash.jin10.com/detail/20260321191236896800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时46分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "伊朗冲突爆发后，亚洲各地的比亚迪经销店生意火爆",
-          "url": "https://flash.jin10.com/detail/20260321203840216800",
+          "title": "乌克兰据称向海湾地区部署230名反无人机专家，已击落多架伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260322000356035800",
           "source": "金十数据",
           "ranks": [
-            1,
-            6,
-            16,
-            23,
-            30
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时50分 ~ 23时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
-          "title": "伊朗军方消息人士：威慑包括曼德海峡和红海在内的其他海峡，是“抵抗阵线”可选择的方案之一。",
-          "url": "https://flash.jin10.com/detail/20260321224829224800",
-          "source": "金十数据",
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时50分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：第70波针对美国和以色列在海湾地区及其他地区利益的报复性打击已针对超过55个地点。",
-          "url": "https://flash.jin10.com/detail/20260321124750248800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 15时53分]"
-        },
-        {
-          "title": "美国从战略石油储备（SPR）释放4522万桶石油。 这批货物将提供给八家公司，其中包括壳牌、马拉松、Trafigura。",
-          "url": "https://wallstreetcn.com/livenews/3074373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时58分 ~ 12时11分]"
-        },
-        {
-          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
-          "url": "https://flash.jin10.com/detail/20260321211140614800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            19,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时43分 ~ 23时50分]"
-        },
-        {
-          "title": "十人曼联战平伯恩茅斯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%BA%E6%9B%BC%E8%81%94%E6%88%98%E5%B9%B3%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌2.8%，本周累跌约5.5%。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3074328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "巴林国王和埃及总统重申安理会决议中谴责伊朗对阿拉伯海湾国家和约旦攻击的内容，并呼吁立即停止这些攻击。",
-          "url": "https://flash.jin10.com/detail/20260321201921517800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时55分]"
-        },
-        {
-          "title": "比尔·阿克曼向美国官员们提及两房（房利美+房地美）。（巴伦周刊）",
-          "url": "https://wallstreetcn.com/livenews/3074287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 03时56分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E6%A1%A5%E6%B4%9E%E4%B8%8B%E6%83%8A%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[23时26分 ~ 23时50分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "日本软银集团：美国俄亥俄州数据中心将是一个5000亿美元的项目。",
-          "url": "https://wallstreetcn.com/livenews/3074329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时56分]"
-        },
-        {
-          "title": "雷军“60+60=120”言论引争议",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E2%80%9C60%2B60%3D120%E2%80%9D%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "title": "雷军回应“60+60=120”言论",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C60%2B60%3D120%E2%80%9D%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
           "ranks": [
-            4
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "雷军60加60等于120言论引争议",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B60%E5%8A%A060%E7%AD%89%E4%BA%8E120%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "买车蹭饭260次,4S店:已拉黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352068&amp;topic_name=%E4%B9%B0%E8%BD%A6%E8%B9%AD%E9%A5%AD260%E6%AC%A1%2C4S%E5%BA%97%3A%E5%B7%B2%E6%8B%89%E9%BB%91",
+          "source": "贴吧",
           "ranks": [
-            4
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "雷军称两辆车以 60km/h 速度对撞相当于 120 公里速度撞墙，这个说法在物理学上正确吗？",
-          "url": "https://www.zhihu.com/question/2018152634184413407",
-          "source": "知乎",
+          "title": "胡塞撑伊朗,或将封锁曼德海峡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352132&amp;topic_name=%E8%83%A1%E5%A1%9E%E6%92%91%E4%BC%8A%E6%9C%97%2C%E6%88%96%E5%B0%86%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1",
+          "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "海湾地区的航空旅行开始复苏",
-          "url": "https://flash.jin10.com/detail/20260321175655845800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时46分]"
-        },
-        {
-          "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
-          "url": "https://wallstreetcn.com/livenews/3074361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            20,
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 09时59分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://flash.jin10.com/detail/20260321183027923800",
+          "title": "伊朗军方消息人士：威慑包括曼德海峡和红海在内的其他海峡，是“抵抗阵线”可选择的方案之一。",
+          "url": "https://flash.jin10.com/detail/20260321224829224800",
           "source": "金十数据",
           "ranks": [
-            6,
-            16
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 19时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://wallstreetcn.com/livenews/3074461",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            20,
-            21,
             22
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时43分 ~ 23时50分]"
-        },
-        {
-          "title": "大连一辆泵车侧翻砸中多辆汽车",
-          "url": "https://www.toutiao.com/trending/7619566626828533769/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
-        },
-        {
-          "title": "雷军回应新一代SU7涨价",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时33分 ~ 06时29分]"
-        },
-        {
-          "title": "雷军“60+60=120”言论引争议",
-          "url": "https://www.toutiao.com/trending/7619291330099052594/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "00时32分"
         },
         {
-          "title": "雷军说确实说错了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E7%A1%AE%E5%AE%9E%E8%AF%B4%E9%94%99%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "我国电动汽车充电基础设施总数达2101.0万个",
-          "url": "https://flash.jin10.com/detail/20260321152536195800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时34分]"
-        },
-        {
-          "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
-          "url": "https://flash.jin10.com/detail/20260321040036809800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "小米汽车回应为何不公布大定数字",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%B8%83%E5%A4%A7%E5%AE%9A%E6%95%B0%E5%AD%97%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美军在东太平洋袭击一艘所谓“贩毒船”",
-          "url": "https://wallstreetcn.com/livenews/3074291",
+          "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3074444",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时34分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至2%，公用事业板块跌3.96%，房地产板块跌3.13%，科技板块跌2.6%跌幅第三大，能源板块涨0.3%。 纳斯达克100指数跌2.4%，成分股核电公司Constellation Energy跌11.78%，西部数据、美光科技、希捷科技至多跌7.62%，英特尔、阿斯麦ADR、拉姆研究、特斯拉至少跌3.97%，英伟达跌3.61%，Meta跌2.95%，Paychex、Diamondback Energy、Workday、Arm控股至少涨超1%。 纳斯达克综合指数较10月29日收盘位回撤超10%。",
-          "url": "https://wallstreetcn.com/livenews/3074315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时34分]"
-        },
-        {
-          "title": "伊朗战争引发油价飙升，美国民众对电动汽车的兴趣激增",
-          "url": "https://flash.jin10.com/detail/20260321201742306800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时27分]"
-        },
-        {
-          "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3074249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时09分]"
-        },
-        {
-          "title": "马斯克：Optimus+PV将是首个冯·诺依曼探测器，一种能够利用太空中的原材料完全自我复制的机器。",
-          "url": "https://flash.jin10.com/detail/20260321154514979800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时32分]"
-        },
-        {
-          "title": "凌激副部长兼国际贸易谈判副代表会见阿联酋阿尔富泰姆集团首席执行官奥马尔·阿尔富泰姆",
-          "url": "https://flash.jin10.com/detail/20260321175529905800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时54分]"
-        },
-        {
-          "title": "市场消息：以色列对黎巴嫩南部阿尔-曼苏里镇进行了两次袭击。",
-          "url": "https://flash.jin10.com/detail/20260321174848555800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时54分]"
-        },
-        {
-          "title": "周五（3月20日），彭博电动汽车价格回报指数跌0.83%，报3481.29点，本周累计下跌2.66%。",
-          "url": "https://wallstreetcn.com/livenews/3074332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "伊朗军方发言人表示，美国和以色列正以海湾地区的民用和客轮为目标，并警告将采取报复行动。",
-          "url": "https://flash.jin10.com/detail/20260321194718547800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时43分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.92%，报6742.84点，本周累计下跌5.67%，整体持续走低。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。 ETF中，中国科技指数ETF（CQQQ）收跌4.20%，本周累跌6.39%； XtrackersHarvest中证50（ASHS）收跌3.09%，本周累跌7.35%； 中概互联网指数ETF（KWEB）收跌2.96%，本周累跌6.40%； 德银嘉实沪深300指数ETF（ASHR）收跌2.12%，本周累跌3.46%。",
-          "url": "https://wallstreetcn.com/livenews/3074328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时56分]"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅扩大至2%，金山云(KC.O)跌10%、禾赛跌6.7%、小鹏汽车(XPEV.N)跌6%。",
-          "url": "https://flash.jin10.com/detail/20260320232951948800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴：最近针对土耳其和阿曼的袭击“绝不是伊朗武装部队”或盟友所为。这些都是“假旗行动”，是伊朗的敌人用来“在邻国之间制造不和，这种情况也可能发生在其他国家”。",
-          "url": "https://flash.jin10.com/detail/20260320231618688800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "雷军：舒淇让我的朋友圈沸腾",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E8%88%92%E6%B7%87%E8%AE%A9%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B2%B8%E8%85%BE",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "在美国政府拨款僵局持续期间，埃隆·马斯克提出由他来支付运输安全管理局 (TSA) 人员的工资。",
-          "url": "https://flash.jin10.com/detail/20260321193405686800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "00时32分"
         }
       ]
     }
