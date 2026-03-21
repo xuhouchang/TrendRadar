@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:48:59.931287+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-22T06:25:54.307539+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
           "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "吴曼青、赵宪庚、魏毅寅三名院士信息从院士名单中撤下，如何理解两院院士的准出情况？",
@@ -52,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 05时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时28分 ~ 06时25分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -68,8 +69,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "雷军回应“60+60=120”言论",
@@ -81,11 +82,12 @@
             29,
             28,
             27,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -95,8 +97,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 05时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -106,8 +108,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
@@ -117,8 +119,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 05时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
@@ -128,8 +130,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 05时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "七国集团外长声明：对地区伙伴在面对伊朗及其代理势力发动的“毫无根据”袭击时表示坚定支持。",
@@ -144,8 +146,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时25分 ~ 06时25分]"
         },
         {
           "title": "七国集团外长声明：随时准备采取必要措施，支持全球能源供应。",
@@ -160,8 +162,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时25分 ~ 06时25分]"
         },
         {
           "title": "七国集团外长声明：重申维护海上航道和航行安全的重要性，包括霍尔木兹海峡。",
@@ -176,8 +178,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时25分 ~ 06时25分]"
         },
         {
           "title": "七国集团外长声明：呼吁伊朗立即且无条件停止一切袭击。",
@@ -192,8 +194,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 05时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时25分 ~ 06时25分]"
         },
         {
           "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
