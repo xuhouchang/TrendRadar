@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:02:29.365431+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-21T15:09:16.846811+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
             11,
             13,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 14时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 15时09分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -84,11 +85,12 @@
             15,
             17,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 14时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 15时09分]"
         },
         {
           "title": "雷军：舒淇让我的朋友圈沸腾",
@@ -117,20 +119,21 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时09分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队：第70波针对美国和以色列在海湾地区及其他地区利益的报复性打击已针对超过55个地点。",
-          "url": "https://flash.jin10.com/detail/20260321124750248800",
-          "source": "金十数据",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            7
+            12,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时09分]"
         },
         {
           "title": "美国从战略石油储备（SPR）释放4522万桶石油。 这批货物将提供给八家公司，其中包括壳牌、马拉松、Trafigura。",
@@ -180,6 +183,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 03时56分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：第70波针对美国和以色列在海湾地区及其他地区利益的报复性打击已针对超过55个地点。",
+          "url": "https://flash.jin10.com/detail/20260321124750248800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时09分]"
         },
         {
           "title": "日本软银集团：美国俄亥俄州数据中心将是一个5000亿美元的项目。",
@@ -263,18 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时02分]"
         },
         {
           "title": "雷军说确实说错了",
