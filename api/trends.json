@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T00:32:07.036616+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-22T00:57:45.758308+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "雷军就发布会口误道歉",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "乌克兰据称向海湾地区部署230名反无人机专家，已击落多架伊朗无人机。",
-          "url": "https://flash.jin10.com/detail/20260322000356035800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
@@ -48,30 +37,55 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
+        },
+        {
+          "title": "根据伊朗外交部公布的数据，自2月28日战争爆发以来，伊朗外长阿拉格奇与印度外交部长苏杰生通话次数最多，共5次。此外，他还与俄罗斯外长通话两次，与阿曼、法国、土耳其、埃及、巴基斯坦等国外长通话一次。",
+          "url": "https://flash.jin10.com/detail/20260322003520934800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "乌克兰据称向海湾地区部署230名反无人机专家，已击落多架伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260322000356035800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E6%A1%A5%E6%B4%9E%E4%B8%8B%E6%83%8A%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%83%A7%E7%83%A4%E6%91%8A%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "雷军回应“60+60=120”言论",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E2%80%9C60%2B60%3D120%E2%80%9D%E8%A8%80%E8%AE%BA",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -81,8 +95,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
@@ -92,19 +106,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 00时57分]"
         },
         {
           "title": "伊朗军方消息人士：威慑包括曼德海峡和红海在内的其他海峡，是“抵抗阵线”可选择的方案之一。",
           "url": "https://flash.jin10.com/detail/20260321224829224800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -113,9 +128,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
@@ -124,9 +139,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         }
       ]
     }
