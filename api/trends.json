@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T01:52:56.049688+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-03-22T02:37:35.458784+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -50,8 +50,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "雷军回应“60+60=120”言论",
@@ -61,11 +61,12 @@
             20,
             18,
             29,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -75,8 +76,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "胡塞撑伊朗,或将封锁曼德海峡",
@@ -86,8 +87,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 01时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "乌克兰据称向海湾地区部署230名反无人机专家，已击落多架伊朗无人机。",
@@ -108,11 +109,47 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时37分]"
+        },
+        {
+          "title": "吴曼青、赵宪庚、魏毅寅三名院士信息从院士名单中撤下，如何理解两院院士的准出情况？",
+          "url": "https://www.zhihu.com/question/2017219838657918393",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 02时37分]"
+        },
+        {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://wallstreetcn.com/livenews/3074461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
+        },
+        {
+          "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3074444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗军方消息人士：威慑包括曼德海峡和红海在内的其他海峡，是“抵抗阵线”可选择的方案之一。",
@@ -126,40 +163,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 01时52分]"
-        },
-        {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://wallstreetcn.com/livenews/3074461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时52分]"
-        },
-        {
-          "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3074444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时52分]"
-        },
-        {
-          "title": "吴曼青、赵宪庚、魏毅寅三名院士信息从院士名单中撤下，如何理解两院院士的准出情况？",
-          "url": "https://www.zhihu.com/question/2017219838657918393",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 01时52分]"
         }
       ]
     }
