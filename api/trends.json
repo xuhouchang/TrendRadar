@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T21:43:07.746429+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-03-21T22:27:53.393244+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时11分 ~ 21时43分]"
+          "appearance_count": 17,
+          "time_info": "[12时11分 ~ 22时27分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -73,11 +73,12 @@
           "ranks": [
             5,
             7,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时27分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[18时27分 ~ 22时27分]"
         },
         {
           "title": "买车蹭饭260次,4S店:已拉黑",
@@ -95,8 +96,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时05分 ~ 21时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 22时27分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -125,8 +126,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时05分 ~ 21时43分]"
+          "appearance_count": 31,
+          "time_info": "[00时05分 ~ 22时27分]"
         },
         {
           "title": "雷军：舒淇让我的朋友圈沸腾",
@@ -151,11 +152,12 @@
             2,
             6,
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时27分]"
         },
         {
           "title": "国家能源局：截至2月底全国电动汽车充电基础设施（枪）总数达到2101.万个，同比增长47.8%",
@@ -199,16 +201,17 @@
           "time_info": "[19时23分 ~ 19时46分]"
         },
         {
-          "title": "伊朗冲突爆发后，亚洲各地的比亚迪经销店生意火爆",
-          "url": "https://flash.jin10.com/detail/20260321203840216800",
-          "source": "金十数据",
+          "title": "“罕见”！马斯克败诉",
+          "url": "https://www.cls.cn/detail/2320283",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            6
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[18时54分 ~ 22时27分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：第70波针对美国和以色列在海湾地区及其他地区利益的报复性打击已针对超过55个地点。",
@@ -225,6 +228,19 @@
           "time_info": "[13时27分 ~ 15时53分]"
         },
         {
+          "title": "伊朗冲突爆发后，亚洲各地的比亚迪经销店生意火爆",
+          "url": "https://flash.jin10.com/detail/20260321203840216800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时27分]"
+        },
+        {
           "title": "美国从战略石油储备（SPR）释放4522万桶石油。 这批货物将提供给八家公司，其中包括壳牌、马拉松、Trafigura。",
           "url": "https://wallstreetcn.com/livenews/3074373",
           "source": "华尔街见闻-快讯",
@@ -239,18 +255,6 @@
           "time_info": "[06时58分 ~ 12时11分]"
         },
         {
-          "title": "“罕见”！马斯克败诉",
-          "url": "https://www.cls.cn/detail/2320283",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时54分 ~ 21时43分]"
-        },
-        {
           "title": "十人曼联战平伯恩茅斯",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%BA%BA%E6%9B%BC%E8%81%94%E6%88%98%E5%B9%B3%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF",
           "source": "bilibili 热搜",
@@ -262,17 +266,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
-          "url": "https://flash.jin10.com/detail/20260321211140614800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌2.8%，本周累跌约5.5%。 热门中概股里，小鹏初步收跌8.3%，小米跌7.9%，蔚来跌7.8%，百度跌3.99%，阿里巴巴跌1.9%，文远知行涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3074328",
           "source": "华尔街见闻-快讯",
@@ -282,18 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "巴林国王和埃及总统重申安理会决议中谴责伊朗对阿拉伯海湾国家和约旦攻击的内容，并呼吁立即停止这些攻击。",
-          "url": "https://flash.jin10.com/detail/20260321201921517800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时43分]"
         },
         {
           "title": "比尔·阿克曼向美国官员们提及两房（房利美+房地美）。（巴伦周刊）",
@@ -319,6 +300,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 05时56分]"
+        },
+        {
+          "title": "巴林国王和埃及总统重申安理会决议中谴责伊朗对阿拉伯海湾国家和约旦攻击的内容，并呼吁立即停止这些攻击。",
+          "url": "https://flash.jin10.com/detail/20260321201921517800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时27分]"
         },
         {
           "title": "雷军“60+60=120”言论引争议",
@@ -465,6 +459,18 @@
           "time_info": "04时34分"
         },
         {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时27分]"
+        },
+        {
           "title": "小米汽车回应为何不公布大定数字",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%AC%E5%B8%83%E5%A4%A7%E5%AE%9A%E6%95%B0%E5%AD%97%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -499,6 +505,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时34分]"
+        },
+        {
+          "title": "伊朗战争引发油价飙升，美国民众对电动汽车的兴趣激增",
+          "url": "https://flash.jin10.com/detail/20260321201742306800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时27分]"
         },
         {
           "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
@@ -537,18 +556,6 @@
           "time_info": "[18时28分 ~ 18时54分]"
         },
         {
-          "title": "伊朗战争引发油价飙升，美国民众对电动汽车的兴趣激增",
-          "url": "https://flash.jin10.com/detail/20260321201742306800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时43分]"
-        },
-        {
           "title": "市场消息：以色列对黎巴嫩南部阿尔-曼苏里镇进行了两次袭击。",
           "url": "https://flash.jin10.com/detail/20260321174848555800",
           "source": "金十数据",
@@ -571,6 +578,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://wallstreetcn.com/livenews/3074461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时27分]"
         },
         {
           "title": "伊朗军方发言人表示，美国和以色列正以海湾地区的民用和客轮为目标，并警告将采取报复行动。",
@@ -605,17 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
-          "url": "https://wallstreetcn.com/livenews/3074461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴：最近针对土耳其和阿曼的袭击“绝不是伊朗武装部队”或盟友所为。这些都是“假旗行动”，是伊朗的敌人用来“在邻国之间制造不和，这种情况也可能发生在其他国家”。",
