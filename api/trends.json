@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T04:55:21.060370+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-23T05:27:43.788320+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
@@ -28,8 +28,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时27分]"
+        },
+        {
+          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
+          "url": "https://www.zhihu.com/question/2018971986232132974",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时51分 ~ 05时27分]"
         },
         {
           "title": "英联杯决赛阿森纳vs曼城",
@@ -41,20 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
-          "url": "https://www.zhihu.com/question/2018971986232132974",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时51分 ~ 04时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "“罕见”！马斯克败诉",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 05时27分]"
         },
         {
           "title": "阿联酋总统顾问：伊朗的攻击加深了其作为海湾战略思考中心焦点的危险性。",
@@ -91,6 +91,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "马斯克：除非我们实行带照片的身份证件投票制度，否则选举显然很容易发生大规模且无法查证的舞弊行为。",
+          "url": "https://flash.jin10.com/detail/20260323050157962800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "俄罗斯航天集团称，国际空间站内的宇航员将远程控制进步MS-33货运飞船，将其与国际空间站对接，他们已做好相应的准备。",
+          "url": "https://flash.jin10.com/detail/20260323044017419800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "2026 联赛杯决赛，曼城 2-0 战胜阿森纳，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2019052484988019155",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "罗氏集团董事会主席施万：发展商业健康保险支持行业创新",
