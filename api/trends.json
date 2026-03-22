@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:53:06.435706+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-03-22T15:39:26.868247+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -137,8 +137,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 15时39分]"
         },
         {
           "title": "雷军回应“60+60=120”言论",
@@ -175,11 +175,12 @@
           "ranks": [
             25,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 15时39分]"
         },
         {
           "title": "商务部副部长凌激会见阿联酋阿尔富泰姆集团首席执行官",
@@ -211,23 +212,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时39分]"
         },
         {
-          "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
-          "url": "https://flash.jin10.com/detail/20260322132322239800",
-          "source": "金十数据",
+          "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            9
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 15时39分]"
         },
         {
           "title": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -256,16 +258,17 @@
           "time_info": "[00时57分 ~ 03时25分]"
         },
         {
-          "title": "对话｜海湾战事三周（下）：战争使伊朗政权更军事化，国家性质将发生改变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802326",
-          "source": "澎湃新闻",
+          "title": "马斯克：“Terafab”项目将落户奥斯汀，由特斯拉和SpaceX共同运营",
+          "url": "https://flash.jin10.com/detail/20260322132322239800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            7
+            1,
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时39分]"
         },
         {
           "title": "乌克兰据称向海湾地区部署230名反无人机专家，已击落多架伊朗无人机。",
@@ -293,6 +296,19 @@
           "time_info": "[10时12分 ~ 12时32分]"
         },
         {
+          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
+          "url": "https://flash.jin10.com/detail/20260322125424155800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时39分]"
+        },
+        {
           "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
           "url": "https://flash.jin10.com/detail/20260322113616560800",
           "source": "金十数据",
@@ -304,18 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 14时53分]"
-        },
-        {
-          "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
-          "url": "https://flash.jin10.com/detail/20260322125424155800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时53分]"
         },
         {
           "title": "伊朗军方消息人士：威慑包括曼德海峡和红海在内的其他海峡，是“抵抗阵线”可选择的方案之一。",
