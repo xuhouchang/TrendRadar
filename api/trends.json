@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T06:35:49.928090+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-03-24T07:33:31.895646+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -17,11 +17,12 @@
             4,
             5,
             8,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时33分]"
         },
         {
           "title": "雷军官宣小米与国内三大顶级汽车赛事正式签约，这释放了怎样的信号？对小米汽车的品牌定位有何意义？",
@@ -44,11 +45,12 @@
           "ranks": [
             26,
             10,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时33分]"
         },
         {
           "title": "阿森纳杯赛惨败,曼城笑纳冠军",
@@ -59,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时33分]"
         },
         {
           "title": "曼城捧起联赛杯冠军奖杯",
@@ -73,8 +75,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 07时33分]"
         },
         {
           "title": "战术复盘曼城如何战胜阿森纳",
@@ -92,15 +94,48 @@
           "time_info": "[02时09分 ~ 06时35分]"
         },
         {
+          "title": "新西兰联储主席布雷曼：金融状况正在收紧，可能在短期内抑制经济增长，我们正在密切关注。",
+          "url": "https://flash.jin10.com/detail/20260324071744730800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "宁德时代为什么没做出闪充电池",
           "url": "https://www.toutiao.com/trending/7619590665828024361/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：目前现金利率处于合适水平，必要时可以提高或降低利率。有针对性的临时政府措施不太可能导致通胀上升。",
+          "url": "https://flash.jin10.com/detail/20260324071355976800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：不排除加息或降息。",
+          "url": "https://flash.jin10.com/detail/20260324071226148800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         },
         {
           "title": "道达尔能源首席执行官：道达尔能源很高兴与美国签署协议，并支持美国政府的能源政策。",
@@ -281,6 +316,50 @@
           "time_info": "[05时02分 ~ 05时57分]"
         },
         {
+          "title": "新西兰联储主席布雷曼：企业很难将成本转嫁给消费者。不想过早对通胀压力作出反应。",
+          "url": "https://flash.jin10.com/detail/20260324070810752800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：希望确保长期通胀不会走高。",
+          "url": "https://flash.jin10.com/detail/20260324070544940800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：将关注企业是转嫁成本还是自行消化。正在寻找第二轮效应的迹象，若通胀预期发生转变将采取行动。",
+          "url": "https://flash.jin10.com/detail/20260324070247813800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：近期通胀将走高，将对增长产生一定影响。",
+          "url": "https://flash.jin10.com/detail/20260324065901437800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
           "title": "巴基斯坦总理：我与马苏德·佩泽希齐扬进行了交谈，我们讨论了海湾地区的严峻形势，并一致认为迫切需要降级、对话和外交。我还强调了团结在穆斯林共同体中的重要性，并重申巴基斯坦致力于在推动地区和平方面发挥建设性作用。",
           "url": "https://flash.jin10.com/detail/20260324002821058800",
           "source": "金十数据",
@@ -298,7 +377,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         }
