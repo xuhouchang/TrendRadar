@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T19:25:50.570998+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-24T20:04:06.952604+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时04分]"
         },
         {
           "title": "油价上涨 上海新能源汽车销售火爆",
@@ -76,11 +76,12 @@
             15,
             12,
             11,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时04分]"
         },
         {
           "title": "阿森纳杯赛惨败,曼城笑纳冠军",
@@ -139,6 +140,17 @@
           "time_info": "[17时28分 ~ 17时29分]"
         },
         {
+          "title": "少刷手机就是在保养气血",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%BF%9D%E5%85%BB%E6%B0%94%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
+        },
+        {
           "title": "小米集团 全年营收4,572.9亿元人民币，预估4,607.9亿元人民币；全年调整后净利润391.7亿元人民币，预估391.2亿元人民币。",
           "url": "https://wallstreetcn.com/livenews/3075833",
           "source": "华尔街见闻-快讯",
@@ -193,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "市场消息：大众汽车召回近10万辆电动汽车，其中2.8万辆在德国境内。",
+          "url": "https://flash.jin10.com/detail/20260324193808547800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "蜜雪集团2025年全年营收335.6亿元人民币，预估329.4亿元人民币； 全年归母净利润58.9亿元人民币，预估58.3亿元人民币。 分店数目59823，同比+29%，预估57676。 研发支出1.013亿元人民币，同比-3.4%，预估1.172亿元人民币。 销售及分销开支20.4亿元人民币，上年同期16.0亿元人民币，预估20.7亿元人民币。",
@@ -266,11 +289,12 @@
           "url": "https://www.toutiao.com/trending/7620751369233780250/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时04分]"
         },
         {
           "title": "新西兰联储主席布雷曼：不排除加息或降息。",
@@ -282,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "理想汽车宣布10亿美元股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3075918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "道达尔能源首席执行官：道达尔能源很高兴与美国签署协议，并支持美国政府的能源政策。",
@@ -326,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
-        },
-        {
-          "title": "小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户",
-          "url": "https://wallstreetcn.com/livenews/3075916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "问界M6凭什么比竞品贵两三万",
@@ -373,6 +375,18 @@
           "time_info": "[05时57分 ~ 06时35分]"
         },
         {
+          "title": "理想汽车宣布10亿美元股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3075918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时04分]"
+        },
+        {
           "title": "据BleepingComputer：在黑客声称窃取680万用户数据后，索尼集团旗下的美国知名流媒体服务商Crunchyroll展开调查。",
           "url": "https://flash.jin10.com/detail/20260324032645511800",
           "source": "金十数据",
@@ -395,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时57分]"
+        },
+        {
+          "title": "小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户",
+          "url": "https://wallstreetcn.com/livenews/3075916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时04分]"
         },
         {
           "title": "比亚迪5分钟极速充电震惊美媒",
@@ -505,6 +531,18 @@
           "time_info": "[05时02分 ~ 05时57分]"
         },
         {
+          "title": "沈竹林会见德国巴斯夫集团执行董事会主席凯礼",
+          "url": "https://flash.jin10.com/detail/20260324190850092800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时04分]"
+        },
+        {
           "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
           "url": "https://flash.jin10.com/detail/20260324040119124800",
           "source": "金十数据",
@@ -527,6 +565,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时57分]"
+        },
+        {
+          "title": "小米集团CFO林世伟：小米2025年回购股票约63亿元，2026年继续加码回购力度",
+          "url": "https://wallstreetcn.com/livenews/3075903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时04分]"
         },
         {
           "title": "何小鹏参考欧阳娜娜建议改款新MONA",
@@ -650,17 +700,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "沈竹林会见德国巴斯夫集团执行董事会主席凯礼",
-          "url": "https://flash.jin10.com/detail/20260324190850092800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "巴基斯坦总理：我与马苏德·佩泽希齐扬进行了交谈，我们讨论了海湾地区的严峻形势，并一致认为迫切需要降级、对话和外交。我还强调了团结在穆斯林共同体中的重要性，并重申巴基斯坦致力于在推动地区和平方面发挥建设性作用。",
           "url": "https://flash.jin10.com/detail/20260324002821058800",
           "source": "金十数据",
@@ -716,17 +755,6 @@
           "time_info": "18时28分"
         },
         {
-          "title": "小米集团CFO林世伟：小米2025年回购股票约63亿元，2026年继续加码回购力度",
-          "url": "https://wallstreetcn.com/livenews/3075903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "深圳：加快智能网联汽车商业化运营",
           "url": "https://wallstreetcn.com/livenews/3075533",
           "source": "华尔街见闻-快讯",
@@ -777,7 +805,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -821,7 +849,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -843,7 +871,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -865,7 +893,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -898,7 +926,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -953,7 +981,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
