@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T18:28:28.285191+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-03-24T19:25:50.570998+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 71,
+      "match_count": 82,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 19时25分]"
         },
         {
           "title": "油价上涨 上海新能源汽车销售火爆",
@@ -79,8 +79,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 19时25分]"
         },
         {
           "title": "阿森纳杯赛惨败,曼城笑纳冠军",
@@ -246,7 +246,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -262,6 +262,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "问界M6 24小时订单突破6万台",
+          "url": "https://www.toutiao.com/trending/7620751369233780250/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "新西兰联储主席布雷曼：不排除加息或降息。",
           "url": "https://flash.jin10.com/detail/20260324071226148800",
           "source": "金十数据",
@@ -271,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "理想汽车宣布10亿美元股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3075918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "道达尔能源首席执行官：道达尔能源很高兴与美国签署协议，并支持美国政府的能源政策。",
@@ -301,9 +323,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户",
+          "url": "https://wallstreetcn.com/livenews/3075916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "问界M6凭什么比竞品贵两三万",
@@ -617,6 +650,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "沈竹林会见德国巴斯夫集团执行董事会主席凯礼",
+          "url": "https://flash.jin10.com/detail/20260324190850092800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "巴基斯坦总理：我与马苏德·佩泽希齐扬进行了交谈，我们讨论了海湾地区的严峻形势，并一致认为迫切需要降级、对话和外交。我还强调了团结在穆斯林共同体中的重要性，并重申巴基斯坦致力于在推动地区和平方面发挥建设性作用。",
           "url": "https://flash.jin10.com/detail/20260324002821058800",
           "source": "金十数据",
@@ -645,7 +689,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -667,9 +711,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "小米集团CFO林世伟：小米2025年回购股票约63亿元，2026年继续加码回购力度",
+          "url": "https://wallstreetcn.com/livenews/3075903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "深圳：加快智能网联汽车商业化运营",
@@ -689,7 +744,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -716,13 +771,24 @@
           "time_info": "17时29分"
         },
         {
+          "title": "理想汽车(LI.O)美股盘前涨超4%，公司此前宣布一项10亿美元的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260324190510540800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "小米集团：预估未来五年累计研发开支将超过人民币2000亿元",
           "url": "https://wallstreetcn.com/livenews/3075842",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -749,6 +815,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "理想汽车(LI.O)美股盘前拉升，涨超1.5%。",
+          "url": "https://flash.jin10.com/detail/20260324190338765800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
           "url": "https://flash.jin10.com/detail/20260324094202817800",
           "source": "金十数据",
@@ -760,15 +837,37 @@
           "time_info": "10时05分"
         },
         {
+          "title": "理想汽车(LI.O)宣布10亿美元的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260324190245418800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
           "url": "https://wallstreetcn.com/livenews/3075834",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见新加坡星展集团首席执行官陈淑珊",
+          "url": "https://wallstreetcn.com/livenews/3075891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "小米集团第四季度营收1,169.2亿元人民币，市场预估1,163亿元人民币。 第四季度调整后净利润63.5亿元人民币，市场预估57.8亿元人民币。 第四季度毛利率20.8％，市场预估20.9％。 第四季度智能手机收入443.4亿元人民币。 第四季度汽车交付总量145115辆；全年汽车交付总量411082辆。 全年营收4,572.9亿元人民币，市场预估4,607.9亿元人民币。 全年调整后净利润391.7亿元人民币，市场预估391.2亿元人民币。",
@@ -777,7 +876,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -793,13 +892,24 @@
           "time_info": "17时29分"
         },
         {
+          "title": "小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户",
+          "url": "https://flash.jin10.com/detail/20260324190131314800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "启境汽车公司正式更名",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -835,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "海底捞：2025年本集团收入为432.25亿元，同比增长1.1%",
+          "url": "https://wallstreetcn.com/livenews/3075885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     }
