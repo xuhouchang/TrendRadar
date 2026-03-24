@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T07:33:31.895646+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-03-24T10:05:31.920664+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 41,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -61,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 10时05分]"
         },
         {
           "title": "曼城捧起联赛杯冠军奖杯",
@@ -87,11 +87,12 @@
             30,
             28,
             22,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时09分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时09分 ~ 10时05分]"
         },
         {
           "title": "新西兰联储主席布雷曼：金融状况正在收紧，可能在短期内抑制经济增长，我们正在密切关注。",
@@ -100,9 +101,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "港股电力设备股反复活跃，伟能集团(01608.HK)涨超13%，东方电气(01072.HK)涨超4%，威胜控股(03393.HK)、哈尔滨电气(01133.HK)均涨3%，潍柴动力(02338.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260324095641960800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+          "url": "https://wallstreetcn.com/livenews/3075563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "宁德时代为什么没做出闪充电池",
@@ -122,7 +145,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -133,7 +156,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -147,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "A股磷肥及磷化工板块持续走低，云天化跌超7%，兴发集团、川金诺、川发龙蟒、六国化工等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260324095032224800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "三环集团澄清：“预计三环集团在2025年度拥有人应占亏损将录得约1.5亿港元至1.9亿港元”传闻不实",
@@ -322,9 +356,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "国家发展改革委副主任沈竹林会见德国巴斯夫集团执行董事会主席凯礼",
+          "url": "https://wallstreetcn.com/livenews/3075548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "新西兰联储主席布雷曼：希望确保长期通胀不会走高。",
@@ -333,7 +378,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -344,7 +389,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -355,9 +400,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "从霍尔木兹到曼德海峡，伊朗手里还有哪些「王炸」未出？战事还有可能升级吗？",
+          "url": "https://www.zhihu.com/question/2016907566488266478",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "巴基斯坦总理：我与马苏德·佩泽希齐扬进行了交谈，我们讨论了海湾地区的严峻形势，并一致认为迫切需要降级、对话和外交。我还强调了团结在穆斯林共同体中的重要性，并重申巴基斯坦致力于在推动地区和平方面发挥建设性作用。",
@@ -369,6 +425,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "印度汽车产业因“气荒”面临供应链中断风险",
+          "url": "https://flash.jin10.com/detail/20260324094524463800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "深圳：加快智能网联汽车商业化运营",
+          "url": "https://wallstreetcn.com/livenews/3075533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816082",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "余承东首次缺席鸿蒙智行发布会",
+          "url": "https://www.toutiao.com/trending/7619722057303031862/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "华晨宝马汽车有限公司、宝马（中国）汽车贸易有限公司召回部分国产及进口宝马汽车",
+          "url": "https://flash.jin10.com/detail/20260324094202817800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "现场见证曼城联赛杯夺冠",
