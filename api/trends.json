@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T03:54:25.386491+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-03-25T04:42:34.316994+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "少刷手机就是在保养气血",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "峰学蔚来总经理称学员员工权益均有保障",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "史上最大造芯计划启动，马斯克胃口为何这么大",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "惠誉评级：全球伊斯兰债券与海湾合作委员会一级债券发行市场流动性受伊朗战争影响各异。",
@@ -71,11 +71,45 @@
           "source": "微博",
           "ranks": [
             8,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 04时42分]"
+        },
+        {
+          "title": "比亚迪二代刀片电池离爆发还有多远",
+          "url": "https://www.toutiao.com/trending/7619947906985017363/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260325041357943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "硫磺价格飙升至2008年以来最高，海湾供应陷入枯竭",
@@ -88,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时34分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3076179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "黑石集团未来三年将对日本投资150亿美元。（日经新闻）",
@@ -111,8 +156,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 04时42分]"
         },
         {
           "title": "经过与伊朗和阿曼协商，一艘泰国油轮安全通过霍尔木兹海峡",
@@ -160,6 +205,28 @@
           "time_info": "02时34分"
         },
         {
+          "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
+          "url": "https://flash.jin10.com/detail/20260325040206836800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼已放弃对公司安全与保障团队的直接监管。",
+          "url": "https://flash.jin10.com/detail/20260325040133911800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
           "url": "https://flash.jin10.com/detail/20260325010324115800",
           "source": "金十数据",
@@ -177,7 +244,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
