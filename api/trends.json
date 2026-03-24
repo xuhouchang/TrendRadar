@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T20:04:06.952604+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-03-24T21:56:47.232157+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "新能源车渗透率都过 50% 了，为什么我就没见过专修新能源车的修理厂？",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 20时04分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 21时56分]"
         },
         {
           "title": "油价上涨 上海新能源汽车销售火爆",
@@ -129,6 +129,18 @@
           "time_info": "[02时09分 ~ 10时05分]"
         },
         {
+          "title": "少刷手机就是在保养气血",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%BF%9D%E5%85%BB%E6%B0%94%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 21时56分]"
+        },
+        {
           "title": "汽车之家",
           "url": "https://s.weibo.com/weibo?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -138,17 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
-          "title": "少刷手机就是在保养气血",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%91%E5%88%B7%E6%89%8B%E6%9C%BA%E5%B0%B1%E6%98%AF%E5%9C%A8%E4%BF%9D%E5%85%BB%E6%B0%94%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
         },
         {
           "title": "小米集团 全年营收4,572.9亿元人民币，预估4,607.9亿元人民币；全年调整后净利润391.7亿元人民币，预估391.2亿元人民币。",
@@ -196,6 +197,17 @@
           "time_info": "[12时31分 ~ 14时02分]"
         },
         {
+          "title": "小米集团 2025 年调整后净利润 391.7 亿元人民币，同比增长 43.8%，怎样解读这一业绩？",
+          "url": "https://www.zhihu.com/question/2019829332076418709",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "港股电力设备股反复活跃，伟能集团(01608.HK)涨超13%，东方电气(01072.HK)涨超4%，威胜控股(03393.HK)、哈尔滨电气(01133.HK)均涨3%，潍柴动力(02338.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260324095641960800",
           "source": "金十数据",
@@ -213,7 +225,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -274,6 +286,19 @@
           "time_info": "18时28分"
         },
         {
+          "title": "问界M6 24小时订单突破6万台",
+          "url": "https://www.toutiao.com/trending/7620751369233780250/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 21时56分]"
+        },
+        {
           "title": "新西兰联储主席布雷曼：目前现金利率处于合适水平，必要时可以提高或降低利率。有针对性的临时政府措施不太可能导致通胀上升。",
           "url": "https://flash.jin10.com/detail/20260324071355976800",
           "source": "金十数据",
@@ -285,18 +310,6 @@
           "time_info": "07时33分"
         },
         {
-          "title": "问界M6 24小时订单突破6万台",
-          "url": "https://www.toutiao.com/trending/7620751369233780250/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 20时04分]"
-        },
-        {
           "title": "新西兰联储主席布雷曼：不排除加息或降息。",
           "url": "https://flash.jin10.com/detail/20260324071226148800",
           "source": "金十数据",
@@ -306,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "英国央行首席经济学家皮尔：由于海湾地区的事件，物价稳定的上行风险正在加剧。",
+          "url": "https://flash.jin10.com/detail/20260324213224129800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "道达尔能源首席执行官：道达尔能源很高兴与美国签署协议，并支持美国政府的能源政策。",
@@ -339,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "小米ADR美股盘前涨近2%，公司2025年营收首破4000亿，经调整净利同增44%亦创新高，汽车业务首度全年盈利。",
+          "url": "https://wallstreetcn.com/livenews/3075995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "问界M6凭什么比竞品贵两三万",
@@ -709,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "佳兆业集团在港交所公告称，预计2025年录得公司拥有人应佔溢利不少于500亿元人民币，2024年净亏损285亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3075983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "印度汽车产业因“气荒”面临供应链中断风险",
