@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T21:11:32.663541+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2026-03-25T22:41:44.722714+08:00",
+  "total_titles_processed": 2040,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[00时12分 ~ 07时33分]"
         },
         {
+          "title": "蹭饭未打码,4S店被迫调解",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 22时41分]"
+        },
+        {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
           "url": "https://wallstreetcn.com/articles/3768269",
           "source": "华尔街见闻",
@@ -53,19 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 21时11分]"
-        },
-        {
-          "title": "蹭饭未打码,4S店被迫调解",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 21时11分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 22时41分]"
         },
         {
           "title": "少刷手机就是在保养气血",
@@ -86,11 +86,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 21时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 22时41分]"
         },
         {
           "title": "评测造假,汽车之家遭官方整治",
@@ -103,11 +104,12 @@
             15,
             17,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时32分 ~ 21时11分]"
+          "appearance_count": 13,
+          "time_info": "[12时32分 ~ 22时41分]"
         },
         {
           "title": "峰学蔚来",
@@ -439,7 +441,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
