@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T01:02:46.004948+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-27T02:34:58.487343+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "“这可能是个幌子”，海湾国家拒绝为美国“背书”",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时34分]"
+        },
+        {
+          "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3077640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时34分"
         },
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -26,8 +37,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时34分]"
+        },
+        {
+          "title": "蹭饭未打码,4S店被迫调解",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时34分]"
+        },
+        {
+          "title": "中国平安现金分红总额达488.91亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E7%8E%B0%E9%87%91%E5%88%86%E7%BA%A2%E6%80%BB%E9%A2%9D%E8%BE%BE488.91%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时34分]"
         },
         {
           "title": "比亚迪宋Ultra EV售15.19万起",
@@ -52,6 +86,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国国务卿鲁比奥：帮助美国维护霍尔木兹海峡符合七国集团的利益。",
+          "url": "https://flash.jin10.com/detail/20260327014537272800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "特斯拉发布自行编制的一季度交付预期，卖方分析师们预计交付365,645辆。 特斯拉将于下周披露2026年一季度交付预期。",
           "url": "https://wallstreetcn.com/livenews/3077587",
           "source": "华尔街见闻-快讯",
@@ -63,26 +108,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "蹭饭未打码,4S店被迫调解",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
-          "source": "贴吧",
+          "title": "20人老头乐工厂称已与小米汽车和解",
+          "url": "https://www.toutiao.com/trending/7621355934992252947/",
+          "source": "今日头条",
           "ranks": [
-            22
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "中国平安现金分红总额达488.91亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E7%8E%B0%E9%87%91%E5%88%86%E7%BA%A2%E6%80%BB%E9%A2%9D%E8%BE%BE488.91%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时34分"
         }
       ]
     }
