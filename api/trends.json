@@ -1,69 +1,12 @@
 {
-  "generated_at": "2026-03-26T23:51:57.090183+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-03-27T01:02:46.004948+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "花是春游出片关键词",
-          "url": "https://www.douyin.com/hot/2442809",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 15时43分]"
-        },
-        {
-          "title": "老头乐起诉小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%B4%E4%B9%90%E8%B5%B7%E8%AF%89%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时35分]"
-        },
-        {
-          "title": "蹭饭未打码,4S店被迫调解",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            14,
-            16,
-            17,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时10分 ~ 23时51分]"
-        },
-        {
-          "title": "评测造假,汽车之家遭官方整治",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 14时13分]"
-        },
         {
           "title": "“这可能是个幌子”，海湾国家拒绝为美国“背书”",
           "url": "https://news.ifeng.com/c/8roN9HfV4s4",
@@ -72,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时51分]"
-        },
-        {
-          "title": "港股恒生指数、恒生科技指数盘中双双跌超1%，快手(01024.HK)跌超12%，泡泡玛特(09992.HK)跌超10%，中国人寿(02628.HK)、石药集团(01093.HK)均跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260326100706765800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "01时02分"
         },
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -94,480 +26,63 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时51分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰希望与大多数海湾国家达成长期无人机合作协议。",
-          "url": "https://flash.jin10.com/detail/20260326022622836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "A股煤化工板块午后回暖拉升，金煤科技封板涨停，诚志股份、华昌化工、江苏索普、金牛化工、华谊集团等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260326135215931800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "埃克森美孚总裁：委内瑞拉在短期内仍有望取得一些进展。",
-          "url": "https://flash.jin10.com/detail/20260325233718375800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "法国军方：法国武装部队总参谋长曼东将于近期与各国陆军参谋长举行视频技术会议，各方均希望在恢复霍尔木兹海峡海上航行安全方面发挥作用。此次会晤与美国的方针毫无关联，属于防御性态势的框架之内。",
-          "url": "https://flash.jin10.com/detail/20260325233551258800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "市场消息：马杜罗在1月被捕后重返曼哈顿联邦法院。",
-          "url": "https://flash.jin10.com/detail/20260326234343114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "雷军辞任金山云董事长",
-          "url": "https://www.douyin.com/hot/2443836",
-          "source": "抖音",
-          "ranks": [
-            7,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 15时43分]"
-        },
-        {
-          "title": "伊朗拒绝美国停战方案，提五条件，称若遭挑衅或开启曼德海峡新战线、美15条提议是“罗列幻想”",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "伊朗拒绝美国停战方案，提五条件，威胁开启曼德海峡新战线，白宫称美伊在对话且有成效",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "伊朗拒绝美国停战方案、提五条件，威胁开启曼德海峡新战线，白宫称美伊在对话且有成效、伊外长否认对话",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "道达尔能源：公司已从阿联酋、卡塔尔、沙特阿拉伯和伊拉克撤离约1300名员工，部分当地员工和承包商仍留在当地。",
-          "url": "https://flash.jin10.com/detail/20260326223407455800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "A股煤化工板块短线拉升，金煤科技涨停，诚志股份、华昌化工、江苏索普、金牛化工、华谊集团等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3077155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "中国平安：归属于母公司股东的扣非净利润1437.73亿元，同比增长22.5%",
-          "url": "https://wallstreetcn.com/livenews/3077326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "泰国总理从劳斯莱斯改开比亚迪",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E4%BB%8E%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E6%94%B9%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时51分]"
-        },
-        {
-          "title": "20人老头乐工厂称已与小米汽车和解",
-          "url": "https://www.toutiao.com/trending/7621355934992252947/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时08分]"
-        },
-        {
-          "title": "周三（3月25日），彭博电动汽车价格回报指数涨1.67%，报3603.47点，亚太盘初以来，大部分时间高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3076885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时40分]"
-        },
-        {
-          "title": "壳牌CEO警告：霍尔木兹海峡若持续受阻 欧洲将于4月面临能源短缺",
-          "url": "https://www.cls.cn/detail/2324908",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时13分]"
-        },
-        {
-          "title": "雷军称新一代小米 SU7 推出「准现车」方案，一周到五周内快速交付，这能彻底解决小米「交付慢」痛点吗？",
-          "url": "https://www.zhihu.com/question/2019382129511850696",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 04时39分]"
+          "time_info": "01时02分"
         },
         {
           "title": "比亚迪宋Ultra EV售15.19万起",
           "url": "https://www.toutiao.com/trending/7620634494043357247/",
           "source": "今日头条",
           "ranks": [
-            14,
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "逐玉最好的售后",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E6%9C%80%E5%A5%BD%E7%9A%84%E5%94%AE%E5%90%8E%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "泰国总理从劳斯莱斯改开比亚迪",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E4%BB%8E%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E6%94%B9%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            28
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时56分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "问界 M6 会对智界 R7 构成严重冲击吗？",
-          "url": "https://www.zhihu.com/question/1999877795145343169",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 14时13分]"
-        },
-        {
-          "title": "埃克森美孚：计划将美国页岩油采收率（recovery rate）提高一倍。",
-          "url": "https://wallstreetcn.com/livenews/3076788",
+          "title": "特斯拉发布自行编制的一季度交付预期，卖方分析师们预计交付365,645辆。 特斯拉将于下周披露2026年一季度交付预期。",
+          "url": "https://wallstreetcn.com/livenews/3077587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时02分"
         },
         {
-          "title": "外交部：美方及其盟友不要把集团对抗、冲突战乱引入亚太",
-          "url": "https://wallstreetcn.com/livenews/3077223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "黑石集团接近就收购数据公司Rowan达成一份协议，对后者的估值超过100亿美元。 Rowan还与Sixth Street有过接触。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3076914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "锂矿股震荡拉升，融捷股份触及涨停，走出3连板，盛新锂能、国城矿业、中矿资源、雅化集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3077033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "伊朗军方消息人士谈及曼德海峡，称：若遭挑衅，伊方可能开启其他战线",
-          "url": "https://wallstreetcn.com/livenews/3076818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "黑石集团房地产部门联席主席Ken Caplan：私人信用市场的违约水平偏低。",
-          "url": "https://wallstreetcn.com/livenews/3076940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "埃克森美孚总裁：埃克森美孚正全力提高产量以支持市场。",
-          "url": "https://flash.jin10.com/detail/20260325232911780800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "海湾地区多个国家批评伊拉克境内那些亲伊朗团体发起的打击。",
-          "url": "https://wallstreetcn.com/livenews/3076938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "埃克森美孚总裁：能源市场正处于中断的“早期阶段”。",
-          "url": "https://flash.jin10.com/detail/20260325232905619800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.8%，创3月16日（收涨0.9%）以来最佳单日表现，报363.20点。 在十个板块中，北欧工业板块涨幅最大。 维斯塔斯风力技术集团涨6.0%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3076815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国财长贝森特：我们不认为霍尔木兹海峡存在所谓的‘瓶颈’。已经开始看到更多进出海湾的船只。",
-          "url": "https://flash.jin10.com/detail/20260326233539936800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时51分"
-        },
-        {
-          "title": "法国财政部长Lescure：七国集团能源部长、财长和央行行长将举行会议。 七国集团会议将于周一举行，讨论中东问题。",
-          "url": "https://wallstreetcn.com/livenews/3077210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "A股油气股午后拉升，蓝焰控股涨停，潜能恒信、首华燃气、海油工程、中曼石油、新天然气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3077135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "王腾警告调侃雷军一律拉黑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E8%AD%A6%E5%91%8A%E8%B0%83%E4%BE%83%E9%9B%B7%E5%86%9B%E4%B8%80%E5%BE%8B%E6%8B%89%E9%BB%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "蹭饭未打码,4S店被迫调解",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352336&amp;topic_name=%E8%B9%AD%E9%A5%AD%E6%9C%AA%E6%89%93%E7%A0%81%2C4S%E5%BA%97%E8%A2%AB%E8%BF%AB%E8%B0%83%E8%A7%A3",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "01时02分"
         },
         {
-          "title": "李云泽会见瑞士再保险集团首席执行官安博思",
-          "url": "https://wallstreetcn.com/livenews/3077302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰对中东和海湾地区安全的贡献也将是对全球安全的真正贡献。",
-          "url": "https://flash.jin10.com/detail/20260326185703945800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "格罗方德半导体（格芯）针对以色列公司Tower Semiconductor Ltd.（TSEM.IT）向美国国际贸易委员会（ITC）和得州联邦法院提起专利诉讼。 要求禁止进口和销售后者（不正当地采用了格芯技术）的芯片，并赔偿任何损失的利润。",
-          "url": "https://wallstreetcn.com/livenews/3077526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "崔东树：2月新能源汽车出口32万辆，同比增长120%",
-          "url": "https://flash.jin10.com/detail/20260326093729478800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "胡塞武装称已准备好控制曼德海峡",
-          "url": "https://flash.jin10.com/detail/20260326152829630800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "道达尔能源：到2050年实现碳中和对全社会而言仍将是难以达成的目标；实现碳中和愿景的路径需要随时间推移重新评估并调整。",
-          "url": "https://flash.jin10.com/detail/20260326194707977800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "马士基中东地区负责人表示，公司正与所有海湾合作委员会国家政府密切合作，确保食品和药品持续流入该地区。",
-          "url": "https://flash.jin10.com/detail/20260326185042391800",
-          "source": "金十数据",
+          "title": "中国平安现金分红总额达488.91亿",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E7%8E%B0%E9%87%91%E5%88%86%E7%BA%A2%E6%80%BB%E9%A2%9D%E8%BE%BE488.91%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "马士基中东地区负责人：海湾合作委员会各国政府已出台更快的通关程序，包括“绿色通道”式解决方案，以加快货物交付。",
-          "url": "https://flash.jin10.com/detail/20260326185038750800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "01时02分"
         }
       ]
     }
