@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T10:25:39.768569+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-03-27T12:56:57.401372+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 10时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 12时56分]"
         },
         {
           "title": "“这可能是个幌子”，海湾国家拒绝为美国“背书”",
@@ -39,11 +39,12 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 10时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 12时56分]"
         },
         {
           "title": "中国平安现金分红总额达488.91亿",
@@ -62,6 +63,30 @@
           "time_info": "[01时02分 ~ 07时42分]"
         },
         {
+          "title": "心脏骤停的「救命神器」 AED，在我国每 10 万人保有量不足 5 台，为什么普及率这么低？",
+          "url": "https://www.zhihu.com/question/2020123553522038679",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时56分]"
+        },
+        {
+          "title": "马斯克粉碎华尔街规矩？SpaceX据称拟将至多30%新股留给散户",
+          "url": "https://www.cls.cn/detail/2326238",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时56分]"
+        },
+        {
           "title": "20人老头乐工厂称已与小米汽车和解",
           "url": "https://www.toutiao.com/trending/7621355934992252947/",
           "source": "今日头条",
@@ -74,26 +99,26 @@
           "time_info": "[02时34分 ~ 07时42分]"
         },
         {
-          "title": "心脏骤停的「救命神器」 AED，在我国每 10 万人保有量不足 5 台，为什么普及率这么低？",
-          "url": "https://www.zhihu.com/question/2020123553522038679",
-          "source": "知乎",
+          "title": "中国平安郭晓涛：2025年综合投资收益率6.3% 黄金为核心策略资产之一",
+          "url": "https://wallstreetcn.com/livenews/3077927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "从Anthropic泄露的文件显示，新一代超强模型Claude Mythos已在测试中，Anthropic认为它“带来了前所未有的网络安全风险”。马斯克就此表示：“令人深感担忧”。",
+          "url": "https://flash.jin10.com/detail/20260327124527758800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "马斯克粉碎华尔街规矩？SpaceX据称拟将至多30%新股留给散户",
-          "url": "https://www.cls.cn/detail/2326238",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时56分"
         },
         {
           "title": "雪佛龙：发生龙卷风过后，两家澳大利亚液化天然气（LNG）工厂停产。",
@@ -107,6 +132,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "中国平安郭晓涛：2025年综合投资收益率6.3% 黄金为核心策略资产之一",
+          "url": "https://flash.jin10.com/detail/20260327124012992800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3077640",
           "source": "华尔街见闻-快讯",
@@ -117,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 04时04分]"
+        },
+        {
+          "title": "平安副总经理付欣：银保是新增长极，平安银行银保渠道人均产能超头部外资险企约10倍",
+          "url": "https://flash.jin10.com/detail/20260327123620843800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "利比亚国家石油公司负责人：公司与雪佛龙签署合作备忘录，将对海上区块NC 146开展技术研究。",
@@ -178,6 +225,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "龙湖集团2025年营收973.1亿元人民币，预估1,152.8亿元人民币；公司拥有人应占利润10.2亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3077915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "泰国总理从劳斯莱斯改开比亚迪",
           "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E4%BB%8E%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E6%94%B9%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
           "source": "百度热搜",
@@ -228,9 +286,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "消息人士：印度将于下月与阿根廷、印度尼西亚和阿曼举行会谈，寻求增加焦煤、铁矿石等炼钢原材料供应，并获取相关技术。会谈预计将于下月在一场全球钢铁峰会期间启动。",
+          "url": "https://flash.jin10.com/detail/20260327123007018800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "雪佛龙澳大利亚公司发言人：与热带气旋“纳雷尔”相关的恶劣天气很可能导致戈尔贡和惠特斯通两大项目的运营中断。",
@@ -244,13 +313,24 @@
           "time_info": "07时42分"
         },
         {
+          "title": "塔塔汽车乘用车业务股价下跌4.3%，此前捷豹路虎宣布将其英国工厂停产最长两周。",
+          "url": "https://flash.jin10.com/detail/20260327122603260800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "美国总统特朗普将于美东时间周五12:30向农民发表讲话。 特朗普将于当地时间周六18:30参加MAGA INC.会议。",
           "url": "https://wallstreetcn.com/livenews/3077826",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -272,9 +352,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "马斯克：Grok Imagine下周有重大发布。",
+          "url": "https://wallstreetcn.com/livenews/3077905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "气旋袭击雪佛龙在澳大利亚的工厂，LNG供应进一步削减",
@@ -294,7 +385,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -305,7 +396,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -338,9 +429,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "龙湖集团(00960.HK)：2025年本公司营业收入为人民币973.1亿元，年本公司拥有人应占溢利为人民币10.2亿元。截至2025年底，本公司综合借贷总额为人民币1,528.1亿元，较上年末下降人民币235.1亿元。",
+          "url": "https://flash.jin10.com/detail/20260327121244514800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     }
