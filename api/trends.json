@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T03:42:01.585445+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-28T04:40:07.739696+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "倾向加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
@@ -27,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
           "url": "https://wallstreetcn.com/articles/3768528",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "雷军壁纸 逆天改命",
@@ -57,14 +58,14 @@
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
-          "url": "https://wallstreetcn.com/livenews/3078461",
-          "source": "华尔街见闻-快讯",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 04时40分]"
         },
         {
           "title": "戈德曼的永生宣传视频",
@@ -78,6 +79,30 @@
           "time_info": "00时56分"
         },
         {
+          "title": "周五（3月27日），彭博电动汽车价格回报指数涨0.89%，报3585点，本周累计上涨3.07%。",
+          "url": "https://wallstreetcn.com/livenews/3078474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "雷军手机背屏壁纸是“逆天改命”",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%8B%E6%9C%BA%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%98%AF%E2%80%9C%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 04时40分]"
+        },
+        {
           "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”。",
           "url": "https://wallstreetcn.com/livenews/3078414",
           "source": "华尔街见闻-快讯",
@@ -89,15 +114,38 @@
           "time_info": "01时51分"
         },
         {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://wallstreetcn.com/livenews/3078461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时40分]"
+        },
+        {
           "title": "加拿大国际贸易部长：欧盟与跨太平洋伙伴关系协定（TPP）达成一致，将推进达成双方之间“历史性”数字贸易协定。",
           "url": "https://flash.jin10.com/detail/20260328030943958800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.90%，报6593.28点，本周累计下跌2.22%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，本周累跌1.13%，延续上周跌6.40%的表现； 中国科技指数ETF（CQQQ）收跌0.66%，本周累跌2.28%，延续上周跌6.39%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，本周累跌1.14%，延续上周跌3.46%的表现； XtrackersHarvest中证50（ASHS）收涨0.81%，本周累跌0.37%，延续上周跌7.35%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3078471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
@@ -106,21 +154,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
         {
-          "title": "雷军手机背屏壁纸是“逆天改命”",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%89%8B%E6%9C%BA%E8%83%8C%E5%B1%8F%E5%A3%81%E7%BA%B8%E6%98%AF%E2%80%9C%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD%E2%80%9D",
-          "source": "百度热搜",
+          "title": "比亚迪2025年营收突破8000亿元",
+          "url": "https://www.toutiao.com/trending/7621929116752678406/",
+          "source": "今日头条",
           "ranks": [
-            25,
-            23
+            22,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时56分 ~ 03时42分]"
+          "time_info": "[01时51分 ~ 04时40分]"
         },
         {
           "title": "道达尔能源与法国电力公司签署长期合作协议，以确保道达尔能源在法国的炼油与化工基地获得低碳电力供应。",
@@ -145,15 +193,15 @@
           "time_info": "02时56分"
         },
         {
-          "title": "比亚迪2025年营收突破8000亿元",
-          "url": "https://www.toutiao.com/trending/7621929116752678406/",
-          "source": "今日头条",
+          "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
+          "url": "https://flash.jin10.com/detail/20260328034803956800",
+          "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "04时40分"
         },
         {
           "title": "据知情人士透露，花旗集团考虑收购美国地区性银行。（彭博）",
@@ -176,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3078467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”，称美方尚未收到伊朗对15点计划的回应。",
