@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T12:56:57.401372+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-03-27T14:13:49.658454+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 12时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 14时13分]"
         },
         {
           "title": "“这可能是个幌子”，海湾国家拒绝为美国“背书”",
@@ -63,18 +63,6 @@
           "time_info": "[01时02分 ~ 07时42分]"
         },
         {
-          "title": "心脏骤停的「救命神器」 AED，在我国每 10 万人保有量不足 5 台，为什么普及率这么低？",
-          "url": "https://www.zhihu.com/question/2020123553522038679",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 12时56分]"
-        },
-        {
           "title": "马斯克粉碎华尔街规矩？SpaceX据称拟将至多30%新股留给散户",
           "url": "https://www.cls.cn/detail/2326238",
           "source": "财联社热门",
@@ -83,8 +71,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 14时13分]"
+        },
+        {
+          "title": "心脏骤停的「救命神器」 AED，在我国每 10 万人保有量不足 5 台，为什么普及率这么低？",
+          "url": "https://www.zhihu.com/question/2020123553522038679",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 14时13分]"
         },
         {
           "title": "20人老头乐工厂称已与小米汽车和解",
@@ -99,15 +100,15 @@
           "time_info": "[02时34分 ~ 07时42分]"
         },
         {
-          "title": "中国平安郭晓涛：2025年综合投资收益率6.3% 黄金为核心策略资产之一",
-          "url": "https://wallstreetcn.com/livenews/3077927",
-          "source": "华尔街见闻-快讯",
+          "title": "A股宁德时代成交额达100亿元，现涨3%。",
+          "url": "https://flash.jin10.com/detail/20260327140638021800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "14时13分"
         },
         {
           "title": "从Anthropic泄露的文件显示，新一代超强模型Claude Mythos已在测试中，Anthropic认为它“带来了前所未有的网络安全风险”。马斯克就此表示：“令人深感担忧”。",
@@ -116,9 +117,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "中国平安联席CEO郭晓涛：今年中国资本市场整体向好 基础设施、医疗健康养老、高股息等就是相对确定性的资产",
+          "url": "https://wallstreetcn.com/livenews/3077959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "雪佛龙：发生龙卷风过后，两家澳大利亚液化天然气（LNG）工厂停产。",
@@ -138,7 +150,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -161,9 +173,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "中国平安郭晓涛：2025年综合投资收益率6.3% 黄金为核心策略资产之一",
+          "url": "https://wallstreetcn.com/livenews/3077927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 14时13分]"
         },
         {
           "title": "利比亚国家石油公司负责人：公司与雪佛龙签署合作备忘录，将对海上区块NC 146开展技术研究。",
@@ -231,7 +255,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -297,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -319,7 +343,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -363,7 +387,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -377,6 +401,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "港股创新药板块午后持续走高，昭衍新药、石药集团涨超10%，信达生物涨超7%，君实生物、诺诚健华跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3077937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "中国平安郭晓涛：今年市场会比较波动，但全年整体向好",
+          "url": "https://wallstreetcn.com/livenews/3077934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "港股恒生指数、恒生科技指数双双转涨，蒙牛乳业(02319.HK)涨近5%，石药集团(01093.HK)、信达生物(01801.HK)均涨超4%，比亚迪股份(01211.HK)、泡泡玛特(09992.HK)、海底捞(06862.HK)均涨超3%。",
@@ -440,7 +486,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
