@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T05:35:35.845149+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-03-28T06:33:38.719247+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "倾向加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "伊朗战争“避风港”：比亚迪3月大涨，电车股成恒科最佳之一",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 06时33分]"
         },
         {
           "title": "雷军壁纸 逆天改命",
@@ -63,11 +63,12 @@
             1,
             5,
             15,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时33分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -76,9 +77,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时33分]"
         },
         {
           "title": "雷军手机背屏壁纸是“逆天改命”",
@@ -88,11 +89,12 @@
             25,
             23,
             18,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时56分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[02时56分 ~ 06时33分]"
         },
         {
           "title": "戈德曼的永生宣传视频",
@@ -185,6 +187,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 04时40分]"
+        },
+        {
+          "title": "据路透社记者：卡塔尔、阿曼和科威特正在私下努力推动尽快结束战争。阿联酋、沙特和巴林则表示，他们已做好应对战争升级的准备，并且不会接受战后伊朗仍然能够利用霍尔木兹海峡作为谈判筹码。",
+          "url": "https://flash.jin10.com/detail/20260328052256182800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "道达尔能源与法国电力公司签署长期合作协议，以确保道达尔能源在法国的炼油与化工基地获得低碳电力供应。",
