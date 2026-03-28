@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T03:55:12.795579+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-29T04:31:30.612384+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
+          "title": "雷军：新一代SU7第一周交付约4000辆。（Auto有范儿）",
+          "url": "https://wallstreetcn.com/livenews/3078625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
@@ -29,22 +40,12 @@
             12,
             10,
             6,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 03时55分]"
-        },
-        {
-          "title": "雷军：新一代SU7第一周交付约4000辆。（Auto有范儿）",
-          "url": "https://wallstreetcn.com/livenews/3078625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -56,11 +57,12 @@
             15,
             12,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
