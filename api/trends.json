@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T19:28:55.379168+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-03-28T19:53:27.909204+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "逼空全亚洲、想发“战争财”？法国石油巨头道达尔3月“历史级别”狂买中东原油，如今或陷入巨亏",
@@ -59,11 +59,12 @@
             12,
             13,
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时08分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时08分 ~ 19时53分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -150,6 +151,17 @@
           "time_info": "[10时08分 ~ 16时54分]"
         },
         {
+          "title": "特斯拉国内规模最大高速服务区超级充电站正式启用",
+          "url": "https://wallstreetcn.com/livenews/3078576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 19时53分]"
+        },
+        {
           "title": "伊朗媒体：美以空袭伊朗克尔曼沙阿省致13人死亡",
           "url": "https://wallstreetcn.com/livenews/3078522",
           "source": "华尔街见闻-快讯",
@@ -177,15 +189,17 @@
           "time_info": "07时33分"
         },
         {
-          "title": "特斯拉国内规模最大高速服务区超级充电站正式启用",
-          "url": "https://wallstreetcn.com/livenews/3078576",
-          "source": "华尔街见闻-快讯",
+          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫讨论了敌对行动；谢里夫通报了其与美国和海湾国家的接触情况。",
+          "url": "https://flash.jin10.com/detail/20260328171958399800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1,
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时53分]"
         },
         {
           "title": "戈德曼的永生宣传视频",
@@ -210,6 +224,18 @@
           "time_info": "10时08分"
         },
         {
+          "title": "马士基：2026年3月28日星期六凌晨，阿曼塞拉莱港发生一起安全事件。",
+          "url": "https://flash.jin10.com/detail/20260328174906334800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时53分]"
+        },
+        {
           "title": "标普500指数跌1%，道指跌1%，纳指跌1.4%，半导体指数跌0.9%，银行指数跌1.5%。 美国向盟友发出信号，暂无入侵伊朗的紧急计划。 国务卿卢比奥敦促七国集团（G7）就伊朗问题做出“最大程度的伙伴贡献”。",
           "url": "https://wallstreetcn.com/livenews/3078414",
           "source": "华尔街见闻-快讯",
@@ -219,19 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "巴基斯坦总理办公室：伊朗总统佩泽希齐扬与巴基斯坦总理谢里夫讨论了敌对行动；谢里夫通报了其与美国和海湾国家的接触情况。",
-          "url": "https://flash.jin10.com/detail/20260328171958399800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -291,6 +304,19 @@
           "time_info": "[04时40分 ~ 05时35分]"
         },
         {
+          "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2020939119086364459",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时53分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：在距离阿曼塞拉莱港“相当远”的地方，瞄准了一艘美国支援舰。",
           "url": "https://flash.jin10.com/detail/20260328165548309800",
           "source": "金十数据",
@@ -301,18 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时38分 ~ 18时33分]"
-        },
-        {
-          "title": "马士基：2026年3月28日星期六凌晨，阿曼塞拉莱港发生一起安全事件。",
-          "url": "https://flash.jin10.com/detail/20260328174906334800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.90%，报6593.28点，本周累计下跌2.22%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，本周累跌1.13%，延续上周跌6.40%的表现； 中国科技指数ETF（CQQQ）收跌0.66%，本周累跌2.28%，延续上周跌6.39%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，本周累跌1.14%，延续上周跌3.46%的表现； XtrackersHarvest中证50（ASHS）收涨0.81%，本周累跌0.37%，延续上周跌7.35%的表现。",
@@ -337,19 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 17时38分]"
-        },
-        {
-          "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
-          "url": "https://www.zhihu.com/question/2020939119086364459",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "比亚迪2025年营收突破8000亿元",
@@ -419,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "比亚迪去年营收8040亿元，拟使用不超过600亿元闲置资金理财",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32844519",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "据伊朗媒体：伊朗西部克尔曼沙赫省的居民区遭美以联合袭击，至少13人遇难。",
