@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:58:11.082866+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-03-30T03:35:57.969631+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 02时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 03时35分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我与约旦国王进行了会面。我们讨论了在安全领域的潜在合作，以及中东和海湾地区的整体局势。乌克兰愿意共同努力，抵御无人机和导弹攻击。",
           "url": "https://flash.jin10.com/detail/20260330021501034800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时35分]"
         },
         {
           "title": "怎样理解费曼 What I cannot create, I do not understand 这句话？",
