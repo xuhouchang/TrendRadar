@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:55:33.151162+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-03-29T22:35:12.161757+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时34分 ~ 21时55分]"
+          "appearance_count": 14,
+          "time_info": "[15时34分 ~ 22时35分]"
         },
         {
           "title": "比亚迪 2025 财报显示年营收 8040 亿元，净利 326 亿元，如何评价这一数据？",
@@ -102,6 +102,17 @@
           "time_info": "[05时37分 ~ 07时40分]"
         },
         {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 22时35分]"
+        },
+        {
           "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
           "url": "https://flash.jin10.com/detail/20260329053745617800",
           "source": "金十数据",
@@ -157,17 +168,6 @@
           "time_info": "[10时28分 ~ 17时37分]"
         },
         {
-          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
-          "url": "https://wallstreetcn.com/articles/3768659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时55分]"
-        },
-        {
           "title": "天能集团与首驱科技达成战略合作",
           "url": "https://flash.jin10.com/detail/20260329134425677800",
           "source": "金十数据",
@@ -210,6 +210,21 @@
           "time_info": "[10时28分 ~ 17时37分]"
         },
         {
+          "title": "阿联酋总统外交顾问：针对伊朗袭击海湾国家的任何政治解决方案都应包含明确的保障措施，以防止此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20260329184931525800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            18,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时30分 ~ 22时35分]"
+        },
+        {
           "title": "市场血战，比亚迪单车利润见底了吗？",
           "url": "https://wallstreetcn.com/articles/3768643",
           "source": "华尔街见闻",
@@ -233,20 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时41分 ~ 19时30分]"
-        },
-        {
-          "title": "阿联酋总统外交顾问：针对伊朗袭击海湾国家的任何政治解决方案都应包含明确的保障措施，以防止此类事件再次发生。",
-          "url": "https://flash.jin10.com/detail/20260329184931525800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 21时55分]"
         },
         {
           "title": "雪佛龙：澳大利亚WheatStone天然气设施遭受损坏，将影响到风暴过后的重启。",
