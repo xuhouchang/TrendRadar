@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T16:56:13.163094+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-03-30T18:17:57.190619+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 16时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 18时17分]"
         },
         {
           "title": "中东将何去何从？万斯称美无意滞留伊朗，但海湾局势却越搅越浑",
@@ -52,8 +52,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 18时17分]"
+        },
+        {
+          "title": "上报集团总经理胡明华：通过四大变革，闯出媒体核心竞争力和可持续发展力新路径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32858185",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 18时17分]"
         },
         {
           "title": "Kpler：曼德海峡3月原油运输量升至2023年以来高位",
@@ -62,7 +74,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -98,18 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "上报集团总经理胡明华：通过四大变革，闯出媒体核心竞争力和可持续发展力新路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32858185",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 16时56分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我与约旦国王进行了会面。我们讨论了在安全领域的潜在合作，以及中东和海湾地区的整体局势。乌克兰愿意共同努力，抵御无人机和导弹攻击。",
