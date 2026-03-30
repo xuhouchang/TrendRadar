@@ -1,408 +1,88 @@
 {
-  "generated_at": "2026-03-30T22:50:16.916345+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-03-31T00:06:51.136360+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 7,
       "titles": [
         {
-          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
-          "url": "https://wallstreetcn.com/articles/3768660",
-          "source": "华尔街见闻",
+          "title": "英国方面表示，贷款机构面临75亿欧元的汽车贷款赔偿账单，而此前的赔偿金额为82亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260330234920036800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 13时13分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "马斯克撕破了一块遮羞布",
-          "url": "https://news.ifeng.com/c/8ruED34F9fY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 22时50分]"
-        },
-        {
-          "title": "王曼昱3比0速胜夺得世界杯开门红",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E9%80%9F%E8%83%9C%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 22时50分]"
-        },
-        {
-          "title": "上报集团总经理胡明华：通过四大变革，闯出媒体核心竞争力和可持续发展力新路径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32858185",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 21时20分]"
-        },
-        {
-          "title": "中东将何去何从？万斯称美无意滞留伊朗，但海湾局势却越搅越浑",
-          "url": "https://www.cls.cn/detail/2328351",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时56分]"
-        },
-        {
-          "title": "日本告知七国集团，如有必要，应做好进一步释放石油的准备。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3079401",
+          "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
+          "url": "https://wallstreetcn.com/livenews/3079499",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时20分"
+          "time_info": "00时06分"
         },
         {
-          "title": "Kpler：曼德海峡3月原油运输量升至2023年以来高位",
-          "url": "https://flash.jin10.com/detail/20260330164657598800",
-          "source": "金十数据",
+          "title": "马斯克撕破了一块遮羞布",
+          "url": "https://news.ifeng.com/c/8ruED34F9fY",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "00时06分"
         },
         {
-          "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3078908",
+          "title": "七国集团召开跨部门会议，拟在必要时协同稳定能源市场",
+          "url": "https://wallstreetcn.com/livenews/3079495",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
-          "url": "https://flash.jin10.com/detail/20260330095924126800",
-          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://flash.jin10.com/detail/20260330130759464800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "日本经济再生大臣赤泽亮正：七国集团确认，仍准备在必要时采取一切适当措施，以稳定能源市场。",
-          "url": "https://flash.jin10.com/detail/20260330211310671800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "惠誉评级：受伊朗战争影响，海湾合作委员会债券发行利差升至五年来高位；但仍低于疫情暴发时水平。",
-          "url": "https://flash.jin10.com/detail/20260330223203106800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我与约旦国王进行了会面。我们讨论了在安全领域的潜在合作，以及中东和海湾地区的整体局势。乌克兰愿意共同努力，抵御无人机和导弹攻击。",
-          "url": "https://flash.jin10.com/detail/20260330021501034800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时33分]"
-        },
-        {
-          "title": "西太平洋银行目前预计澳洲联储将在5月、6月和8月加息，预计最终利率将从目前的4.1%升至4.85%。",
-          "url": "https://wallstreetcn.com/livenews/3078957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://www.cls.cn/detail/2328703",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时20分]"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 22时50分]"
-        },
-        {
-          "title": "怎样理解费曼 What I cannot create, I do not understand 这句话？",
-          "url": "https://www.zhihu.com/question/68612969",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
-        },
-        {
-          "title": "港股汽车股多数走低，蔚来-SW(09866.HK)、小鹏集团(09868.HK)跌超5%，北京汽车(01958.HK)跌超3%，广汽集团(02238.HK)、理想汽车(02015.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260330095201400800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港交所公告：小米集团(01810.HK)3月30日以1.616亿港元回购500万股B类股。",
-          "url": "https://flash.jin10.com/detail/20260330184921443800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "豪威集团：2025年归母净利润同比增长21.73%，拟10派1元",
-          "url": "https://wallstreetcn.com/livenews/3079279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团参会方就公报达成一致。 七国集团讨论了中东局势对市场的影响。 告诉七国集团，日本正怀着紧迫感关注汇市。 原油期货价格波动波及汇市。 各国意识到中东局势对通胀的影响。 市场中存在投机因素。 没有具体讨论石油市场干预问题。",
-          "url": "https://wallstreetcn.com/livenews/3079383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "丰田：2月对美汽车出口同比下降16%，至43,017辆。",
-          "url": "https://flash.jin10.com/detail/20260330125037769800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "港股比亚迪股份逆转早盘跌势，转为上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3078879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "房利美和房地美飙升，知名投资人阿克曼称股价“便宜得离谱”",
-          "url": "https://wallstreetcn.com/livenews/3079452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "马斯克多次提到的「第一性原理」究竟是什么？",
-          "url": "https://www.zhihu.com/question/1999151801996423693",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：面对伊朗在该地区持续发动的空袭，欧盟与海湾合作委员会国家站在一起。",
-          "url": "https://flash.jin10.com/detail/20260329225234145800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团财长和央行行长讨论了协调应对私人信贷困境、债券市场波动等问题的必要性。",
-          "url": "https://flash.jin10.com/detail/20260330210346482800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "布伦特原油一度下跌2美元，现小幅反弹至113.7美元/桶，此前七国集团国家表示准备采取一切必要措施，以维护能源市场的稳定与安全。",
-          "url": "https://flash.jin10.com/detail/20260330222533781800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "A股煤炭板块早盘走强，郑州煤电直线涨停，陕西黑猫逼近涨停，云煤能源、甘肃能化、大有能源、安泰集团等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3078871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "印度否认“马斯克参与特朗普与莫迪通话”",
-          "url": "https://wallstreetcn.com/livenews/3078931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "捷克总理巴比什：政府同意向奥伦集团旗下的捷克炼油厂释放10万吨原油。",
-          "url": "https://flash.jin10.com/detail/20260330222400948800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "A10订单放量，零跑汽车上周末大定订单冲新高",
-          "url": "https://wallstreetcn.com/livenews/3078929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "00时06分"
         },
         {
           "title": "逐帧分析贝尔曼F1撞车",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90%E8%B4%9D%E5%B0%94%E6%9B%BCF1%E6%92%9E%E8%BD%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时20分"
+          "time_info": "00时06分"
         },
         {
-          "title": "乌克兰总统泽连斯基：与芬兰总统进行了交谈，向他通报了这几天在中东和海湾地区的进行的会议和谈判情况。",
-          "url": "https://flash.jin10.com/detail/20260330183644500800",
-          "source": "金十数据",
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
           "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "00时06分"
         },
         {
-          "title": "亿纬锂能：子公司亿纬动力拟与沙洋县人民政府、荆门高新技术产业开发区管理委员会亿纬动力在荆门市投资建设60GWh动力储能电池项目相关事宜签订合同书，本项目计划总投资60亿元。",
-          "url": "https://wallstreetcn.com/livenews/3079362",
-          "source": "华尔街见闻-快讯",
+          "title": "王曼昱3比0速胜夺得世界杯开门红",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E9%80%9F%E8%83%9C%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "百度热搜",
           "ranks": [
-            29
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时20分"
+          "time_info": "00时06分"
         }
       ]
     }
