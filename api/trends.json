@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:33:09.923869+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-31T03:56:03.628029+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时56分]"
         },
         {
           "title": "马斯克撕破了一块遮羞布",
@@ -47,11 +48,35 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 03时56分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时56分]"
+        },
+        {
+          "title": "王曼昱3比0速胜夺得世界杯开门红",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E9%80%9F%E8%83%9C%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 03时56分]"
         },
         {
           "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
@@ -76,29 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 01时29分]"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时33分]"
-        },
-        {
-          "title": "王曼昱3比0速胜夺得世界杯开门红",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E9%80%9F%E8%83%9C%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时33分]"
         },
         {
           "title": "英国称贷款机构面临的汽车贷款补偿金额降至75亿英镑",
