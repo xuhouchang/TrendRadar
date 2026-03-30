@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T13:13:07.041756+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-03-30T15:07:59.525536+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时07分]"
         },
         {
           "title": "香港恒生指数跌超2%，恒生科技指数跌2.8%。蔚来跌超6%，华虹半导体、中芯国际跌超5%。",
@@ -60,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -78,13 +78,25 @@
           "time_info": "[02时58分 ~ 04时33分]"
         },
         {
+          "title": "中东将何去何从？万斯称美无意滞留伊朗，但海湾局势却越搅越浑",
+          "url": "https://www.cls.cn/detail/2328351",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时07分]"
+        },
+        {
           "title": "西太平洋银行目前预计澳洲联储将在5月、6月和8月加息，预计最终利率将从目前的4.1%升至4.85%。",
           "url": "https://wallstreetcn.com/livenews/3078957",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时13分]"
-        },
-        {
-          "title": "中东将何去何从？万斯称美无意滞留伊朗，但海湾局势却越搅越浑",
-          "url": "https://www.cls.cn/detail/2328351",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "怎样理解费曼 What I cannot create, I do not understand 这句话？",
@@ -139,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -183,7 +184,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -194,7 +195,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
