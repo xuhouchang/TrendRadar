@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T15:02:21.706640+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-04-01T16:20:36.613164+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时10分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[03时10分 ~ 16时20分]"
         },
         {
           "title": "中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议，哪些信息值得关注？",
@@ -101,8 +101,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 10时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 16时20分]"
         },
         {
           "title": "中巴提出恢复海湾和中东和平五点倡议",
@@ -147,7 +147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -370,7 +370,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
