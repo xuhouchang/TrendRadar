@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:42:27.994915+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-04-02T06:38:24.059501+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时42分]"
-        },
-        {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时38分]"
         },
         {
           "title": "雷军投的“中年人泡泡玛特”上市了",
@@ -43,8 +33,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 06时38分]"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "影视飓风梦幻联动曼城",
@@ -54,11 +55,12 @@
             28,
             21,
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时38分]"
         },
         {
           "title": "航运数据显示，3月份雪佛龙(CVX.N)在委内瑞拉的石油出口量升至约26.7万桶/日。",
@@ -67,7 +69,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -149,7 +151,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
