@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T00:57:42.434199+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-03T01:52:07.982428+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3081714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "孙颖莎击败蒯曼晋级世界杯女单8强",
@@ -37,41 +26,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3081714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
           "url": "https://www.zhihu.com/question/2023111270262465086",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "张雪的爆火像极了2年前的雷军",
           "url": "https://www.toutiao.com/trending/7623294526719836166/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "消息人士称，意大利将于6月起从卡塔尔能源与埃克森美孚合资的黄金通道液化天然气设施接收液化天然气。来自黄金通道的液化天然气将帮助意大利弥补来自海湾地区的短缺供应。",
-          "url": "https://flash.jin10.com/detail/20260403000437330800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
@@ -81,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -90,6 +82,17 @@
           "source": "百度热搜",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "消息人士称，意大利将于6月起从卡塔尔能源与埃克森美孚合资的黄金通道液化天然气设施接收液化天然气。来自黄金通道的液化天然气将帮助意大利弥补来自海湾地区的短缺供应。",
+          "url": "https://flash.jin10.com/detail/20260403000437330800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
