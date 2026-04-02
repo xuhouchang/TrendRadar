@@ -1,198 +1,12 @@
 {
-  "generated_at": "2026-04-02T23:35:42.209978+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-04-03T00:57:42.434199+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 74,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "绕过霍尔木兹！海湾国家“不惜下血本”：考虑修建新输油管道",
-          "url": "https://www.cls.cn/detail/2333199",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时47分 ~ 22时03分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆雪人集团 量化与游资激烈博弈圣阳股份",
-          "url": "https://www.cls.cn/detail/2332225",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时36分]"
-        },
-        {
-          "title": "雷军投的“中年人泡泡玛特”上市了",
-          "url": "https://www.toutiao.com/trending/7623658574400458267/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            28,
-            10,
-            2,
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时36分]"
-        },
-        {
-          "title": "王曼昱横扫伊藤美诚",
-          "url": "https://www.douyin.com/hot/2452456",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7,
-            11,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 23时35分]"
-        },
-        {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时43分]"
-        },
-        {
-          "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
-          "url": "https://www.cls.cn/detail/2332689",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 14时13分]"
-        },
-        {
-          "title": "影视飓风梦幻联动曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            15,
-            24,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 10时14分]"
-        },
-        {
-          "title": "雷军 4 月 2 号要对新一代 su7 进行拆车直播，如何看待此举？",
-          "url": "https://www.zhihu.com/question/2022656796351893760",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 22时03分]"
-        },
-        {
-          "title": "孙颖莎击败蒯曼晋级世界杯女单8强",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BB%E8%B4%A5%E8%92%AF%E6%9B%BC%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%B3%E5%8D%958%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时07分 ~ 23时35分]"
-        },
-        {
-          "title": "胖东来订29辆长城汽车奖励高管",
-          "url": "https://www.toutiao.com/trending/7623268920863916095/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
-          "title": "曝海湾国家考虑新建输油管道绕开霍尔木兹海峡，可行性有多大？能在短期内解决全球能源危机问题吗？",
-          "url": "https://www.zhihu.com/question/2023015996944904385",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时12分 ~ 20时07分]"
-        },
-        {
-          "title": "王曼昱横扫伊藤美诚",
-          "url": "https://www.toutiao.com/trending/7623268239980003347/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 16时57分]"
-        },
-        {
-          "title": "王曼昱回应首局0比6逆转获胜",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E9%A6%96%E5%B1%800%E6%AF%946%E9%80%86%E8%BD%AC%E8%8E%B7%E8%83%9C",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 20时07分]"
-        },
-        {
-          "title": "王曼昱4比0战胜伊藤美诚晋级8强",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E6%88%98%E8%83%9C%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%E6%99%8B%E7%BA%A78%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 14时13分]"
-        },
         {
           "title": "人民日报评汽车“销冠”易主",
           "url": "https://www.toutiao.com/trending/7624133928287748142/",
@@ -200,274 +14,64 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "孙颖莎vs蒯曼",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时07分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "特朗普将于美东时间周四下午2点签署行政命令。",
-          "url": "https://wallstreetcn.com/livenews/3081251",
+          "title": "意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3081714",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "00时57分"
         },
         {
-          "title": "章小蕙李若彤公布优思益售后方案",
-          "url": "https://www.baidu.com/s?wd=%E7%AB%A0%E5%B0%8F%E8%95%99%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%85%AC%E5%B8%83%E4%BC%98%E6%80%9D%E7%9B%8A%E5%94%AE%E5%90%8E%E6%96%B9%E6%A1%88",
+          "title": "孙颖莎击败蒯曼晋级世界杯女单8强",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BB%E8%B4%A5%E8%92%AF%E6%9B%BC%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%B3%E5%8D%958%E5%BC%BA",
           "source": "百度热搜",
-          "ranks": [
-            8,
-            16,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 18时04分]"
-        },
-        {
-          "title": "奇瑞集团3月出口近15万辆汽车",
-          "url": "https://flash.jin10.com/detail/20260402140420986800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "美国地质调查局称，印尼特尔纳特西北偏西119公里处发生7.8级地震。 太平洋海啸预警中心称，印尼沿海可能发生海啸。",
-          "url": "https://wallstreetcn.com/livenews/3081156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "2026款小鹏MONA M03上市，起售价为11.98万元",
-          "url": "https://wallstreetcn.com/livenews/3081639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "孙颖莎vs蒯曼",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "主播陆续回应优思益售后",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%86%E7%BB%AD%E5%9B%9E%E5%BA%94%E4%BC%98%E6%80%9D%E7%9B%8A%E5%94%AE%E5%90%8E%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 15时47分]"
-        },
-        {
-          "title": "花旗：预计全球石油供应可能短缺440万桶/日；若部分海湾国家拒绝同意伊朗所谓的“过境费”，则可能短缺800万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260402214634371800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "海湾国家考虑新的输油管道以绕过霍尔木兹海峡。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3081302",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "00时57分"
         },
         {
-          "title": "乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。",
-          "url": "https://wallstreetcn.com/livenews/3081496",
-          "source": "华尔街见闻-快讯",
+          "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
+          "url": "https://www.zhihu.com/question/2023111270262465086",
+          "source": "知乎",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "00时57分"
         },
         {
-          "title": "航运数据显示，3月份雪佛龙(CVX.N)在委内瑞拉的石油出口量升至约26.7万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260402052518294800",
+          "title": "张雪的爆火像极了2年前的雷军",
+          "url": "https://www.toutiao.com/trending/7623294526719836166/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "消息人士称，意大利将于6月起从卡塔尔能源与埃克森美孚合资的黄金通道液化天然气设施接收液化天然气。来自黄金通道的液化天然气将帮助意大利弥补来自海湾地区的短缺供应。",
+          "url": "https://flash.jin10.com/detail/20260403000437330800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "雪佛龙与微软、Engine No.1洽谈供电问题。",
-          "url": "https://wallstreetcn.com/livenews/3081087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时43分]"
-        },
-        {
-          "title": "法航荷航集团提交对葡萄牙航空的股份竞购提议",
-          "url": "https://wallstreetcn.com/livenews/3081429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 16时57分]"
-        },
-        {
-          "title": "港股OpenClaw概念股多数下跌，智谱(02513.HK)跌超15%，MINIMAX-W(00100.HK)跌超9%，金山云(03896.HK)、小米集团(01810.HK)跌超3%，阿里巴巴(09988.HK)、美团(03690.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260402095326116800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3081077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "亚马逊洽谈90亿美元收购卫星集团GlobalStar。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3081149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "特斯拉股价下跌4.6%，创2月4日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3081632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "比亚迪销量",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "美股盘初大跌：纳指跌1.7%，特斯拉跌约4%，Blue Owl跌约6%",
-          "url": "https://wallstreetcn.com/livenews/3081631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3081107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时42分]"
-        },
-        {
-          "title": "宁德时代曾毓群向母校捐20亿元",
-          "url": "https://www.toutiao.com/trending/7623398719794905094/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 03时38分]"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 23时35分]"
+          "time_info": "00时57分"
         },
         {
           "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
@@ -477,394 +81,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 23时35分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "泽连斯基旋风式访问海湾国家：反无人机技术换“爱国者”能否奏效？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32872311",
-          "source": "澎湃新闻",
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
-          "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3081039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时11分]"
-        },
-        {
-          "title": "理想比亚迪车主斗气致小米车主撞伤",
-          "url": "https://www.toutiao.com/trending/7623687563333632043/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
-          "title": "孙颖莎力克蒯曼晋级女单八强",
-          "url": "https://www.toutiao.com/trending/7624120831588699654/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
-          "title": "美国私募信贷公司股价下跌，此前Blue Owl限制两只基金的赎回。KKR下跌1.3%，凯雷集团下跌2.3%，阿波罗全球管理下跌2.4%，黑石集团下跌2.8%。",
-          "url": "https://flash.jin10.com/detail/20260402214021505800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "市场消息：Stellantis(STLA.N)正洽谈在加拿大一家闲置工厂生产中国电动汽车。",
-          "url": "https://flash.jin10.com/detail/20260402023450326800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "联合国、非洲联盟和非洲开发银行联合发布的一份报告指出，海湾战争持续时间延长将使非洲2026年GDP增速下降0.2个百分点。",
-          "url": "https://flash.jin10.com/detail/20260402195017789800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "法国政府：法国已向海军集团订购第五艘防御与干预型护卫舰。",
-          "url": "https://flash.jin10.com/detail/20260402231757757800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
-          "url": "https://www.zhihu.com/question/2023111270262465086",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美国石油公司股价随油价大涨上扬，埃克森美孚石油(XOM.N)上涨3%，雪佛龙(CVX.N)上涨3.3%，康菲石油(COP.N)上涨4.1%，西方石油(OXY.N)上涨5.3%。",
-          "url": "https://flash.jin10.com/detail/20260402213840989800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
+          "time_info": "00时57分"
         },
         {
           "title": "小米集团调整子公司股东，雷军持股比例增加",
           "url": "https://wallstreetcn.com/livenews/3081686",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "国产「张雪机车」夺得 WSBK 两连冠，如何评价它的技术实力？会成为摩托车界的「比亚迪」吗？",
-          "url": "https://www.zhihu.com/question/2021921598555398146",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "张雪的爆火像极了2年前的雷军",
-          "url": "https://www.toutiao.com/trending/7623294526719836166/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
-          "url": "https://flash.jin10.com/detail/20260402051214401800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "海湾合作委员会（GCC）秘书长告诉联合国安理会，海湾地区诸国寻求与伊朗实现正常关系。 海湾多国希望，在安全问题上与伊朗保持透明度。 WTI原油5分钟内上涨0.67美元/桶，报109.3美元/桶。 现货黄金5分钟内下跌5.49美元/盎司，报4680.94美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3081685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "绕开霍尔木兹海峡 海湾国家拟斥巨资打造管道出口计划",
-          "url": "https://flash.jin10.com/detail/20260402120239939800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "A股油气股午后再度拉升，科力股份涨超10%，此前中油工程、贝肯能源、蓝焰控股、康普顿涨停，科力股份涨超10%，山东墨龙、通源石油、中曼石油、准油股份、洲际油气等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3081335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
-          "url": "https://flash.jin10.com/detail/20260402064145625800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "长安汽车等成立天枢智能机器人公司 注册资本4.5亿元",
-          "url": "https://flash.jin10.com/detail/20260402135134704800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "特斯拉美股盘前跌超4%，公司一季度交付量不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3081618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "王曼昱挑战TTR失败",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%8C%91%E6%88%98TTR%E5%A4%B1%E8%B4%A5&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "恒生指数跌1%，龙湖集团(00960.HK)、阿里巴巴(09988.HK)跌3%领跌成份股。",
-          "url": "https://flash.jin10.com/detail/20260402094902791800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特斯拉第一季度交付量不及预期",
-          "url": "https://wallstreetcn.com/livenews/3081615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "伊朗与阿曼起草霍尔木兹海峡通行协议，标普转涨，新兴市场货币走高",
-          "url": "https://wallstreetcn.com/livenews/3081679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "港股汽车股多数走强，奇瑞汽车(09973.HK)、吉利汽车(00175.HK)涨超4%，长城汽车(02333.HK)涨超3%，零跑汽车(09863.HK)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260402094810717800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "A股光纤概念活跃，中利集团、新能泰山、汇源通信三股涨停，光库科技涨超10%，长飞光纤涨超6%，华脉科技、仕佳光子跟涨。",
-          "url": "https://flash.jin10.com/detail/20260402094713555800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "2026款小鹏MONA大大大大大升级",
-          "url": "https://s.weibo.com/weibo?q=%232026%E6%AC%BE%E5%B0%8F%E9%B9%8FMONA%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "亨通股份：控股股东亨通集团已增持1.80%，耗资超1.5亿元",
-          "url": "https://flash.jin10.com/detail/20260402163035371800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "上汽集团：2026年3月份整车合计销量375,870辆，同比减少2.56%；其中新能源汽车销量113,101辆，同比减少10.03%。",
-          "url": "https://wallstreetcn.com/livenews/3081430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "广汽集团第一季度累计销量近38万辆",
-          "url": "https://wallstreetcn.com/livenews/3081468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "孙颖莎蒯曼争八强",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%92%AF%E6%9B%BC%E4%BA%89%E5%85%AB%E5%BC%BA&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "2026款比亚迪海豹06系列上市",
-          "url": "https://www.toutiao.com/trending/7624052291960373289/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "报道：海湾顶级铝业巨头EGA在伊朗袭击后关停冶炼厂",
-          "url": "https://wallstreetcn.com/livenews/3080992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "2026款小鹏MONA M03上市 首次将1500TOPS有效算力带入2万美元级别",
-          "url": "https://wallstreetcn.com/livenews/3081602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "土耳其汽车制造商协会数据显示，3月份土耳其汽车销量同比下降12.75%。",
-          "url": "https://flash.jin10.com/detail/20260402133729774800",
-          "source": "金十数据",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "00时57分"
         }
       ]
     }
