@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:12:23.330467+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2026-04-03T23:09:57.487634+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "人民日报评汽车“销冠”易主",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时23分 ~ 22时12分]"
+          "appearance_count": 15,
+          "time_info": "[10时23分 ~ 23时09分]"
         },
         {
           "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时23分 ~ 22时12分]"
+          "appearance_count": 15,
+          "time_info": "[10时23分 ~ 23时09分]"
         },
         {
           "title": "孙颖莎击败蒯曼晋级世界杯女单8强",
@@ -101,6 +101,20 @@
           "time_info": "[10时23分 ~ 16时55分]"
         },
         {
+          "title": "优思益：已无力售后 处于崩溃边缘",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%98%E6%80%9D%E7%9B%8A%EF%BC%9A%E5%B7%B2%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E+%E5%A4%84%E4%BA%8E%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            2,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时09分]"
+        },
+        {
           "title": "一季度主动权益“黑马图鉴”：29只回报超20%，七家公募上演“集团军”突围",
           "url": "https://www.cls.cn/detail/2334255",
           "source": "财联社热门",
@@ -141,19 +155,6 @@
           "time_info": "[00时57分 ~ 07时35分]"
         },
         {
-          "title": "优思益：已无力售后 处于崩溃边缘",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%98%E6%80%9D%E7%9B%8A%EF%BC%9A%E5%B7%B2%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E+%E5%A4%84%E4%BA%8E%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时12分]"
-        },
-        {
           "title": "美股三大指数低开 特斯拉跌逾4%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
           "source": "百度热搜",
@@ -182,6 +183,19 @@
           "time_info": "[12时42分 ~ 16时55分]"
         },
         {
+          "title": "优思益称无力售后",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时09分]"
+        },
+        {
           "title": "王曼昱横扫伊藤美诚",
           "url": "https://www.douyin.com/hot/2452456",
           "source": "抖音",
@@ -193,18 +207,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时57分 ~ 07时35分]"
-        },
-        {
-          "title": "优思益称无力售后",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时12分]"
         },
         {
           "title": "贸易消息人士及船舶追踪数据显示，卡塔尔能源公司与埃克森美孚合作推进的美国Golden Pass天然气项目将于本月装载首船出口货物，并正持续增加原料气的进气量。",
@@ -241,18 +243,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "优思益：已无力售后处于崩溃边缘",
-          "url": "https://www.toutiao.com/trending/7624134611689799706/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时12分]"
-        },
-        {
           "title": "人民日报评汽车“销冠”易主",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%80%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB",
           "source": "百度热搜",
@@ -263,6 +253,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 12时42分]"
+        },
+        {
+          "title": "优思益：已无力售后处于崩溃边缘",
+          "url": "https://www.toutiao.com/trending/7624134611689799706/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 23时09分]"
         },
         {
           "title": "江淮汽车：2025年归母净亏损17.03亿元，亏损同比收窄",
@@ -285,6 +288,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32893543",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 23时09分]"
         },
         {
           "title": "据南华早报：零跑汽车拟设欧洲研发中心以推动全球增长，并考虑在加拿大组装。",
@@ -368,19 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时54分]"
-        },
-        {
-          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32893543",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 22时12分]"
         },
         {
           "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
@@ -574,7 +578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -766,6 +770,17 @@
           "time_info": "16时55分"
         },
         {
+          "title": "比亚迪推出限时优惠政策",
+          "url": "https://www.toutiao.com/trending/7624299443176751123/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "金十期货4月3日讯，上期所发布关于同意中远海运物流供应链有限公司及下属子公司开展集团交割业务的公告。",
           "url": "https://flash.jin10.com/detail/20260403151005990800",
           "source": "金十数据",
@@ -797,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "伊朗媒体报道称，任何找到坠毁美军飞行员的公民将获得100亿托曼（约6万美元）的奖励。",
+          "url": "https://flash.jin10.com/detail/20260403221556445800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "大商所：取消聚氯乙烯品种集团交割库、线型低密度聚乙烯、聚丙烯品种指定交割仓库",
