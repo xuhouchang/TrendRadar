@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T04:49:36.000844+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-04T05:34:50.833878+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "优思益称无力售后",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             5,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "优思益：已无力售后处于崩溃边缘",
@@ -41,11 +42,12 @@
             8,
             24,
             5,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
@@ -57,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 04时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时34分]"
         },
         {
           "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
@@ -77,11 +79,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时34分]"
         },
         {
           "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
