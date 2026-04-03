@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T00:02:29.947605+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:04:27.209271+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
+        {
+          "title": "优思益称无力售后",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
@@ -24,17 +36,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "优思益称无力售后",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,11 +57,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32893543",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
+        },
+        {
+          "title": "优思益：已无力售后处于崩溃边缘",
+          "url": "https://www.toutiao.com/trending/7624134611689799706/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时04分]"
         },
         {
           "title": "优思益：已无力售后 处于崩溃边缘",
@@ -68,17 +82,6 @@
           "source": "百度热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "优思益：已无力售后处于崩溃边缘",
-          "url": "https://www.toutiao.com/trending/7624134611689799706/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
