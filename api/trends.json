@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T19:38:14.501248+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-04-03T21:04:36.604691+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "人民日报评汽车“销冠”易主",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 21时04分]"
         },
         {
           "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 21时04分]"
         },
         {
           "title": "孙颖莎击败蒯曼晋级世界杯女单8强",
@@ -67,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[04时36分 ~ 19时38分]"
+          "appearance_count": 18,
+          "time_info": "[04时36分 ~ 21时04分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
@@ -177,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 21时04分]"
         },
         {
           "title": "王曼昱横扫伊藤美诚",
@@ -204,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
+          "title": "优思益称无力售后",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E7%A7%B0%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "A股锂电池板块震荡下挫，圣阳股份、闽东电力双双跌停，石大胜华、常铝股份跌超8%，华盛锂电、乐凯胶片跟跌，宁德时代跌超3%。",
@@ -249,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "优思益：已无力售后处于崩溃边缘",
+          "url": "https://www.toutiao.com/trending/7624134611689799706/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "特斯拉再度产销失衡",
@@ -405,6 +427,18 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
+          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32893543",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 21时04分]"
+        },
+        {
           "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3081782",
           "source": "华尔街见闻-快讯",
@@ -451,17 +485,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
-        },
-        {
-          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32893543",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         },
         {
           "title": "nctdream 小拇指",
@@ -514,7 +537,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -646,7 +669,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -682,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "金地集团：2025年净利润亏损132.81亿元",
+          "url": "https://wallstreetcn.com/livenews/3082187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "俄罗斯汽车市场分析机构Autostat：俄罗斯3月份汽车销量同比增长30.6%，达到104,278辆。",
@@ -737,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "一季度不足三成百强房企拿地，越秀集团、保利发展拿地金额最多",
+          "url": "https://wallstreetcn.com/livenews/3082182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "大商所：取消聚氯乙烯品种集团交割库、线型低密度聚乙烯、聚丙烯品种指定交割仓库",
