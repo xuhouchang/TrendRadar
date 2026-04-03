@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T06:34:17.715472+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-04T07:34:43.015363+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "优思益称无力售后",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "优思益：已无力售后处于崩溃边缘",
@@ -44,11 +44,12 @@
             5,
             10,
             22,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
@@ -60,19 +61,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时34分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
           "url": "https://flash.jin10.com/detail/20260404061656452800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "报道：继F-15被击落后，第二架美军战机在海湾坠毁",
