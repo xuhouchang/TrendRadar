@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T16:55:30.204275+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-04-03T17:54:15.040908+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "人民日报评汽车“销冠”易主",
@@ -40,8 +40,35 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时36分 ~ 16时55分]"
+          "appearance_count": 14,
+          "time_info": "[04时36分 ~ 17时54分]"
+        },
+        {
+          "title": "霍尔木兹海峡现“新迹象”：400万桶原油、首艘LNG船“似乎”已通过，且走靠近阿曼海岸的“南线”",
+          "url": "https://wallstreetcn.com/articles/3769154",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
+          "url": "https://wallstreetcn.com/articles/3769135",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 17时54分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
@@ -68,32 +95,6 @@
             3,
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 16时55分]"
-        },
-        {
-          "title": "霍尔木兹海峡现“新迹象”：400万桶原油、首艘LNG船“似乎”已通过，且走靠近阿曼海岸的“南线”",
-          "url": "https://wallstreetcn.com/articles/3769154",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 16时55分]"
-        },
-        {
-          "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
-          "url": "https://wallstreetcn.com/articles/3769135",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -166,6 +167,19 @@
           "time_info": "[02时57分 ~ 07时35分]"
         },
         {
+          "title": "一季度主动权益“黑马图鉴”：29只回报超20%，七家公募上演“集团军”突围",
+          "url": "https://www.cls.cn/detail/2334255",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 17时54分]"
+        },
+        {
           "title": "贸易消息人士及船舶追踪数据显示，卡塔尔能源公司与埃克森美孚合作推进的美国Golden Pass天然气项目将于本月装载首船出口货物，并正持续增加原料气的进气量。",
           "url": "https://flash.jin10.com/detail/20260403061920403800",
           "source": "金十数据",
@@ -212,6 +226,17 @@
           "time_info": "[10时23分 ~ 12时42分]"
         },
         {
+          "title": "航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3082123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "特斯拉再度产销失衡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%86%8D%E5%BA%A6%E4%BA%A7%E9%94%80%E5%A4%B1%E8%A1%A1%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -221,17 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%",
-          "url": "https://wallstreetcn.com/livenews/3082098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "据南华早报：零跑汽车拟设欧洲研发中心以推动全球增长，并考虑在加拿大组装。",
@@ -254,17 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
-        },
-        {
-          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
-          "url": "https://wallstreetcn.com/livenews/3082097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
@@ -302,6 +305,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%",
+          "url": "https://wallstreetcn.com/livenews/3082098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时54分]"
+        },
+        {
+          "title": "优思益：公司已无力进行相关售后及客诉服务，整体处于崩溃边缘",
+          "url": "https://wallstreetcn.com/livenews/3082097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 17时54分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。 一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。（路透）",
@@ -352,18 +379,6 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
-          "title": "一季度主动权益“黑马图鉴”：29只回报超20%，七家公募上演“集团军”突围",
-          "url": "https://www.cls.cn/detail/2334255",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 16时55分]"
-        },
-        {
           "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3081782",
           "source": "华尔街见闻-快讯",
@@ -410,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
+          "title": "优思益：已无力售后 处于崩溃边缘",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%98%E6%80%9D%E7%9B%8A%EF%BC%9A%E5%B7%B2%E6%97%A0%E5%8A%9B%E5%94%AE%E5%90%8E+%E5%A4%84%E4%BA%8E%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "nctdream 小拇指",
@@ -506,7 +532,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -539,7 +565,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -616,7 +642,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -627,7 +653,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -641,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "伊朗战术缓和：联手阿曼细化霍尔木兹海峡通行规则丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260403171130410800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "大商所：取消聚氯乙烯品种集团交割库、线型低密度聚乙烯、聚丙烯品种指定交割仓库",
@@ -660,7 +697,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
