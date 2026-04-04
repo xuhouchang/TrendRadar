@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T12:31:24.953185+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-04-04T13:42:41.494786+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "霍尔木兹海峡现“新迹象”：400万桶原油、首艘LNG船“似乎”已通过，且走靠近阿曼海岸的“南线”",
@@ -45,8 +45,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时42分]"
         },
         {
           "title": "优思益：已无力售后处于崩溃边缘",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时42分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车",
@@ -85,11 +85,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时42分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
@@ -104,15 +105,16 @@
           "time_info": "[06时34分 ~ 07时34分]"
         },
         {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%86%8D%E6%8E%A8%E4%B8%A4%E6%AC%BE12%E4%B8%87%E7%BA%A7%E5%88%AB%E6%96%B0%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "小鹏回应澳大利亚独家经销商合作破裂",
+          "url": "https://wallstreetcn.com/livenews/3082377",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
+          "time_info": "[12时31分 ~ 13时42分]"
         },
         {
           "title": "报道：继F-15被击落后，第二架美军战机在海湾坠毁",
@@ -140,26 +142,42 @@
           "time_info": "00时02分"
         },
         {
-          "title": "小鹏回应澳大利亚独家经销商合作破裂",
-          "url": "https://wallstreetcn.com/livenews/3082377",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.toutiao.com/trending/7623711798637740068/",
+          "source": "今日头条",
           "ranks": [
-            7
+            13,
+            23,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时42分]"
         },
         {
-          "title": "小鹏回应澳大利亚独家经销商合作破裂",
-          "url": "https://flash.jin10.com/detail/20260404111211062800",
-          "source": "金十数据",
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%86%8D%E6%8E%A8%E4%B8%A4%E6%AC%BE12%E4%B8%87%E7%BA%A7%E5%88%AB%E6%96%B0%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            8
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时42分]"
+        },
+        {
+          "title": "非盟欢迎中巴关于恢复海湾和中东地区和平稳定的倡议",
+          "url": "https://wallstreetcn.com/livenews/3082364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时42分]"
         },
         {
           "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
@@ -172,18 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时12分]"
-        },
-        {
-          "title": "非盟欢迎中巴关于恢复海湾和中东地区和平稳定的倡议",
-          "url": "https://wallstreetcn.com/livenews/3082364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 12时31分]"
         },
         {
           "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
@@ -200,16 +206,16 @@
           "time_info": "[02时02分 ~ 04时49分]"
         },
         {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.toutiao.com/trending/7623711798637740068/",
-          "source": "今日头条",
+          "title": "小鹏回应澳大利亚独家经销商合作破裂",
+          "url": "https://flash.jin10.com/detail/20260404111211062800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            23
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时31分]"
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时42分]"
         },
         {
           "title": "比亚迪推出限时优惠政策",
@@ -234,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 12时31分]"
+        },
+        {
+          "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "优思益：已无力售后 处于崩溃边缘",
