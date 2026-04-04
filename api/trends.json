@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T19:37:35.630248+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-04-04T20:56:56.025509+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "霍尔木兹海峡现“新迹象”：400万桶原油、首艘LNG船“似乎”已通过，且走靠近阿曼海岸的“南线”",
@@ -111,6 +111,21 @@
           "time_info": "[10时08分 ~ 17时07分]"
         },
         {
+          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时06分 ~ 20时56分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
           "url": "https://flash.jin10.com/detail/20260404061656452800",
           "source": "金十数据",
@@ -134,20 +149,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时30分 ~ 15时02分]"
-        },
-        {
-          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 19时37分]"
         },
         {
           "title": "小鹏回应澳大利亚独家经销商合作破裂",
@@ -220,6 +221,17 @@
           "time_info": "[10时09分 ~ 15时02分]"
         },
         {
+          "title": "王曼昱战日本选手冲击4强",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%86%B2%E5%87%BB4%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "伊朗与阿曼起草协议共管霍尔木兹，阿联酋称愿参与海峡航道安全保障",
           "url": "https://wallstreetcn.com/articles/3769135",
           "source": "华尔街见闻",
@@ -250,7 +262,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -400,6 +412,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "伊朗阿曼拟“共同监督”霍尔木兹海峡，巴林推动联合国授权武力开放海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32893949",
           "source": "澎湃新闻",
@@ -431,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "亿纬锂能全球首发6.9MWh储能系统，大电池签约超50GWh",
+          "url": "https://flash.jin10.com/detail/20260404193512764800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
