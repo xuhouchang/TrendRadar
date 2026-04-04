@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T01:31:38.741401+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-05T01:59:39.202601+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "利物浦0-4不敌曼城",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "苏莱曼尼的亲属在美被捕",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -58,11 +59,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -70,11 +72,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "王曼昱4:2桥本帆乃香",
@@ -119,8 +122,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时59分]"
         },
         {
           "title": "曼城4:0利物浦",
@@ -162,7 +165,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
