@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T04:33:10.585618+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-04-05T05:32:48.977816+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "利物浦0-4不敌曼城",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "苏莱曼尼的亲属在美被捕",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -65,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "王曼昱4比2桥本帆乃香 晋级四强",
@@ -76,8 +76,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时32分]"
+        },
+        {
+          "title": "比亚迪再推两款12万级别新车",
+          "url": "https://www.toutiao.com/trending/7623711798637740068/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时32分]"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -93,28 +106,16 @@
           "time_info": "[00时36分 ~ 01时59分]"
         },
         {
-          "title": "王曼昱4:2桥本帆乃香",
-          "url": "https://www.douyin.com/hot/2455487",
-          "source": "抖音",
+          "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
+          "url": "https://www.zhihu.com/question/2022807584403465039",
+          "source": "知乎",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "比亚迪再推两款12万级别新车",
-          "url": "https://www.toutiao.com/trending/7623711798637740068/",
-          "source": "今日头条",
-          "ranks": [
-            28,
             18,
             15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时31分 ~ 04时33分]"
+          "time_info": "[03时32分 ~ 05时32分]"
         },
         {
           "title": "UP主解说曼城晋级足总杯四强",
@@ -129,6 +130,18 @@
           "time_info": "[00时36分 ~ 01时31分]"
         },
         {
+          "title": "王曼昱4:2桥本帆乃香",
+          "url": "https://www.douyin.com/hot/2455487",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 05时32分]"
+        },
+        {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2023866765038413037",
           "source": "知乎",
@@ -141,26 +154,16 @@
           "time_info": "[00时36分 ~ 01时31分]"
         },
         {
-          "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
-          "url": "https://www.zhihu.com/question/2022807584403465039",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 04时33分]"
-        },
-        {
           "title": "曼城4:0利物浦",
           "url": "https://www.douyin.com/hot/2455475",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "王曼昱比赛打到数板",
