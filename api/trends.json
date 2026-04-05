@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T13:02:07.377273+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-04-05T14:43:10.836269+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 13时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 14时43分]"
         },
         {
           "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时32分 ~ 13时02分]"
+          "appearance_count": 14,
+          "time_info": "[03时32分 ~ 14时43分]"
         },
         {
           "title": "曼城4:0利物浦",
@@ -131,6 +131,30 @@
           "time_info": "[00时36分 ~ 07时01分]"
         },
         {
+          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
+          "url": "https://wallstreetcn.com/articles/3769253",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 14时43分]"
+        },
+        {
           "title": "王曼昱4:2桥本帆乃香",
           "url": "https://www.douyin.com/hot/2455487",
           "source": "抖音",
@@ -141,18 +165,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 07时40分]"
-        },
-        {
-          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
-          "url": "https://wallstreetcn.com/articles/3769253",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 13时02分]"
         },
         {
           "title": "伊朗媒体：苏莱曼尼女儿否认他的亲属在美被捕",
@@ -180,6 +192,17 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
+          "title": "王曼昱4:2申裕斌",
+          "url": "https://www.douyin.com/hot/2455929",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
           "title": "日本选手被王曼昱“打”哭",
           "url": "https://www.toutiao.com/trending/7623943690548936747/",
           "source": "今日头条",
@@ -192,17 +215,6 @@
           "time_info": "[07时40分 ~ 10时31分]"
         },
         {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
           "title": "王曼昱大战韩国一姐",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%A7%E6%88%98%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%A7%90",
           "source": "百度热搜",
@@ -212,6 +224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "足总杯 1/4 决赛，曼城 4-0 利物浦，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2023839265725969312",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "UP主解说曼城晋级足总杯四强",
@@ -228,6 +251,41 @@
           "time_info": "[00时36分 ~ 07时40分]"
         },
         {
+          "title": "王曼昱逆转取胜 与孙颖莎会师决赛",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%80%86%E8%BD%AC%E5%8F%96%E8%83%9C+%E4%B8%8E%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
+          "title": "王曼昱申裕斌爆分",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%94%B3%E8%A3%95%E6%96%8C%E7%88%86%E5%88%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
+          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904727",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时43分]"
+        },
+        {
           "title": "王曼昱国际赛场首次触发轮换发球",
           "url": "https://www.toutiao.com/trending/7624399368072134662/",
           "source": "今日头条",
@@ -237,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
-          "url": "https://wallstreetcn.com/livenews/3082537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "王楚钦孙颖莎王曼昱今日冲冠",
@@ -261,6 +308,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美媒：伊朗议长威胁切断曼德海峡航运",
+          "url": "https://wallstreetcn.com/livenews/3082555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
           "url": "https://flash.jin10.com/detail/20260405000820854800",
           "source": "金十数据",
@@ -272,6 +330,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时59分]"
+        },
+        {
+          "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
+          "url": "https://wallstreetcn.com/livenews/3082537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 14时43分]"
         },
         {
           "title": "伊朗军方：无人机打击海湾地区多处美军目标和阿联酋铝工业设施",
@@ -298,16 +368,15 @@
           "time_info": "[00时36分 ~ 01时31分]"
         },
         {
-          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904727",
-          "source": "澎湃新闻",
+          "title": "王曼昱说和莎莎经历了不同程度的困难",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%92%8C%E8%8E%8E%E8%8E%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            14
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时02分]"
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "一年关189家门店 知名餐饮集团回应",
@@ -321,13 +390,24 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
+          "title": "美媒：伊朗议长威胁切断曼德海峡航运",
+          "url": "https://flash.jin10.com/detail/20260405133118343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "韩国政府声明：韩国财政部长向海湾国家大使请求确保石油、液化天然气、石脑油和尿素的稳定供应。",
           "url": "https://flash.jin10.com/detail/20260405110239625800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -338,7 +418,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -371,7 +451,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
