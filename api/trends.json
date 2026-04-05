@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T07:40:57.369222+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-04-05T10:31:26.433448+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时31分]"
         },
         {
           "title": "利物浦0-4不敌曼城",
@@ -54,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 10时31分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -69,6 +70,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时36分 ~ 07时40分]"
+        },
+        {
+          "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
+          "url": "https://www.zhihu.com/question/2022807584403465039",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时32分 ~ 10时31分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
@@ -97,17 +112,19 @@
           "time_info": "[00时36分 ~ 07时01分]"
         },
         {
-          "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
-          "url": "https://www.zhihu.com/question/2022807584403465039",
-          "source": "知乎",
+          "title": "曼城4:0利物浦",
+          "url": "https://www.douyin.com/hot/2455475",
+          "source": "抖音",
           "ranks": [
-            18,
-            15,
-            13
+            16,
+            21,
+            13,
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时32分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 10时31分]"
         },
         {
           "title": "王曼昱4:2桥本帆乃香",
@@ -128,25 +145,36 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 07时40分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 10时31分]"
         },
         {
-          "title": "曼城4:0利物浦",
-          "url": "https://www.douyin.com/hot/2455475",
-          "source": "抖音",
+          "title": "日本选手被王曼昱“打”哭",
+          "url": "https://www.toutiao.com/trending/7623943690548936747/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            21,
-            13,
-            12
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 07时40分]"
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时31分]"
+        },
+        {
+          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
+          "url": "https://wallstreetcn.com/articles/3769253",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 10时31分]"
         },
         {
           "title": "UP主解说曼城晋级足总杯四强",
@@ -163,15 +191,26 @@
           "time_info": "[00时36分 ~ 07时40分]"
         },
         {
-          "title": "日本选手被王曼昱“打”哭",
-          "url": "https://www.toutiao.com/trending/7623943690548936747/",
+          "title": "王曼昱国际赛场首次触发轮换发球",
+          "url": "https://www.toutiao.com/trending/7624399368072134662/",
           "source": "今日头条",
           "ranks": [
-            4
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "10时31分"
+        },
+        {
+          "title": "王楚钦孙颖莎王曼昱今日冲冠",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BB%8A%E6%97%A5%E5%86%B2%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -187,15 +226,15 @@
           "time_info": "[00时36分 ~ 01时59分]"
         },
         {
-          "title": "前雷曼交易员：私募信贷是“这一周期的次贷”，远离“拥挤”的科技股，拥抱“稀缺”的资源股",
-          "url": "https://wallstreetcn.com/articles/3769253",
-          "source": "华尔街见闻",
+          "title": "伊朗军方：无人机打击海湾地区多处美军目标和阿联酋铝工业设施",
+          "url": "https://wallstreetcn.com/livenews/3082512",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "10时31分"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
@@ -208,6 +247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904727",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "王曼昱比赛打到数板",
@@ -230,6 +280,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼女儿否认他的亲属在美被捕",
+          "url": "https://wallstreetcn.com/livenews/3082469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国一辆汽车冲撞游行队伍 已致超20人受伤",
+          "url": "https://wallstreetcn.com/livenews/3082467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "美国一辆汽车冲撞游行队伍",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%86%B2%E6%92%9E%E6%B8%B8%E8%A1%8C%E9%98%9F%E4%BC%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
