@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T17:39:36.227759+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-04-05T18:34:39.888192+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
@@ -62,6 +62,18 @@
           "time_info": "[00时36分 ~ 13时02分]"
         },
         {
+          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
+          "url": "https://wallstreetcn.com/articles/3769270",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时34分]"
+        },
+        {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
           "source": "澎湃新闻",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时36分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 17时39分]"
         },
         {
           "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
@@ -115,6 +116,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 13时02分]"
+        },
+        {
+          "title": "王曼昱4:2申裕斌",
+          "url": "https://www.douyin.com/hot/2455929",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 18时34分]"
         },
         {
           "title": "比亚迪再推两款12万级别新车",
@@ -156,16 +169,18 @@
           "time_info": "[07时40分 ~ 14时43分]"
         },
         {
-          "title": "王曼昱4:2申裕斌",
-          "url": "https://www.douyin.com/hot/2455929",
-          "source": "抖音",
+          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904727",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            5
+            15,
+            14,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 18时34分]"
         },
         {
           "title": "王曼昱4:2桥本帆乃香",
@@ -191,20 +206,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时42分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗“圣城旅”已故指挥官苏莱曼尼的亲属在美被逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904727",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 17时39分]"
         },
         {
           "title": "伊朗媒体：苏莱曼尼女儿否认他的亲属在美被捕",
@@ -261,22 +262,34 @@
           "ranks": [
             2,
             5,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 18时34分]"
         },
         {
-          "title": "晋钢控股集团1750ESP产线正式开工",
-          "url": "https://flash.jin10.com/detail/20260405171607096800",
+          "title": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+          "url": "https://flash.jin10.com/detail/20260405181551390800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "阿曼外交部今日在社交媒体上表示，阿曼与伊朗于4月4日星期六举行副外长级别会谈，讨论确保霍尔木兹海峡船只顺畅通行的多种方案。",
+          "url": "https://flash.jin10.com/detail/20260405180846057800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时39分"
+          "time_info": "18时34分"
         },
         {
           "title": "UP主解说曼城晋级足总杯四强",
@@ -375,6 +388,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时55分 ~ 17时39分]"
+        },
+        {
+          "title": "晋钢控股集团1750ESP产线正式开工",
+          "url": "https://flash.jin10.com/detail/20260405171607096800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时34分]"
         },
         {
           "title": "巴林海湾石化工业公司称伊朗无人机袭击后装置起火已得到控制",
