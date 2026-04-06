@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T15:09:22.884532+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-04-06T16:53:46.233647+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
@@ -82,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 16时53分]"
         },
         {
           "title": "世界周刊之夹缝中的海湾盟友",
@@ -104,11 +104,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 16时53分]"
         },
         {
           "title": "伊朗称或将封锁曼德海峡",
@@ -141,7 +142,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -181,6 +182,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "据知情人士透露，三井住友金融集团和日本生命保险公司正在洽谈设立一只私人信贷基金，初始资本至少为5000亿日元（约合31亿美元）。这些日本金融巨头希望借此抓住企业交易激增的机遇。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "据报道，伊朗西部克尔曼沙赫发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260406000547467800",
           "source": "金十数据",
@@ -205,6 +217,18 @@
           "time_info": "[10时31分 ~ 13时25分]"
         },
         {
+          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时53分]"
+        },
+        {
           "title": "孙颖莎与王曼昱颁奖典礼上热聊",
           "url": "https://www.toutiao.com/trending/7625312769474072107/",
           "source": "今日头条",
@@ -214,18 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时31分 ~ 13时25分]"
-        },
-        {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时09分]"
         },
         {
           "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
@@ -239,15 +251,37 @@
           "time_info": "10时32分"
         },
         {
+          "title": "小牛电动(NIU.O)：2026年第一季度售出261624辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260406160316698800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "据日经新闻：马自达已暂停在日本生产面向中东市场的汽车，直至5月。",
           "url": "https://flash.jin10.com/detail/20260406140957219800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "报道：宁德时代计划今年将船舶业务部门规模扩大一倍",
+          "url": "https://wallstreetcn.com/livenews/3082753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "伊朗称或将封锁曼德海峡",
@@ -256,9 +290,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "机器人保姆“上岗”了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "消息人士：阿曼推动与伊朗达成霍尔木兹海峡“安全通行协议”",
