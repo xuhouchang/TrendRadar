@@ -1,405 +1,66 @@
 {
-  "generated_at": "2026-04-06T23:47:50.659010+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-04-07T00:48:55.374259+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
-          "url": "https://wallstreetcn.com/articles/3769270",
-          "source": "华尔街见闻",
+          "title": "爱你老己将会是年度报告关键词",
+          "url": "https://www.douyin.com/hot/2457219",
+          "source": "抖音",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
-          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
-          "url": "https://news.ifeng.com/c/8s65QJ9Vrbr",
-          "source": "凤凰网",
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时31分 ~ 22时47分]"
-        },
-        {
-          "title": "莲花汽车称「不受控制的马力不值一提」，如何评价此观点？",
-          "url": "https://www.zhihu.com/question/2023668175066120925",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 10时32分]"
-        },
-        {
-          "title": "孙颖莎4-1王曼昱 3连冠创历史",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E9%A2%96%E8%8E%8E4-1%E7%8E%8B%E6%9B%BC%E6%98%B1+3%E8%BF%9E%E5%86%A0%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "世界杯女单决赛孙颖莎战胜王曼昱，创历史实现三连冠",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909286",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时31分 ~ 20时06分]"
-        },
-        {
-          "title": "2026 澳门世界杯，孙颖莎 4-1 战胜王曼昱夺得冠军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2024206797448242856",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 03时34分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "机器人保姆“上岗”了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BF%9D%E5%A7%86%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            29,
-            1,
-            5,
-            4,
-            13,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 23时47分]"
-        },
-        {
-          "title": "世界周刊之夹缝中的海湾盟友",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E6%B5%B7%E6%B9%BE%E7%9B%9F%E5%8F%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            11,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 20时06分]"
-        },
-        {
-          "title": "王曼昱与孙颖莎会师决赛，国乒锁定世界杯女单冠亚军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32908041",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 10时32分]"
-        },
-        {
-          "title": "爱你老己将会是年度报告关键词",
-          "url": "https://www.douyin.com/hot/2457219",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 23时47分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "伊朗警告美国或封锁曼德海峡反制",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%E5%8F%8D%E5%88%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            28,
-            10,
-            13,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 22时47分]"
-        },
-        {
-          "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909372",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 20时06分]"
-        },
-        {
-          "title": "伊朗称或将封锁曼德海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%88%96%E5%B0%86%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "比亚迪海豹06DM-i卖到8万级",
-          "url": "https://www.toutiao.com/trending/7625148942854032923/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时34分]"
-        },
-        {
-          "title": "国轩高科：2GWh全固态电池量产线建设受技术、研发、市场等多项因素影响",
-          "url": "https://wallstreetcn.com/livenews/3082815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时06分"
-        },
-        {
-          "title": "郭焱感谢孙颖莎王曼昱：女乒双保险",
-          "url": "https://www.toutiao.com/trending/7625087256341069860/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时09分]"
-        },
-        {
-          "title": "三家海湾基金同意支持派拉蒙以810亿美元收购华纳的交易 ，沙特阿拉伯公共投资基金（PIF）已同意为派拉蒙提供近240亿美元融资中的约100亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3082689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
-          "url": "https://wallstreetcn.com/livenews/3082707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "据报道，伊朗西部克尔曼沙赫发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260406000547467800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
-        },
-        {
-          "title": "伊朗警告美国或封锁曼德海峡反制",
-          "url": "https://www.toutiao.com/trending/7625453500595621385/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时25分]"
-        },
-        {
-          "title": "孙颖莎与王曼昱颁奖典礼上热聊",
-          "url": "https://www.toutiao.com/trending/7625312769474072107/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时25分]"
-        },
-        {
-          "title": "据知情人士透露，三井住友金融集团和日本生命保险公司正在洽谈设立一只私人信贷基金，初始资本至少为5000亿日元（约合31亿美元）。这些日本金融巨头希望借此抓住企业交易激增的机遇。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3082771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 18时10分]"
-        },
-        {
-          "title": "小米汽车卖不动了吗",
-          "url": "https://www.toutiao.com/trending/7624553671460175935/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "联想集团董事长向上海交大捐赠2亿",
           "url": "https://www.toutiao.com/trending/7625583826920112174/",
           "source": "今日头条",
           "ranks": [
-            22,
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时47分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
-          "url": "https://flash.jin10.com/detail/20260406092154276800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "小牛电动(NIU.O)：2026年第一季度售出261624辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260406160316698800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "据日经新闻：马自达已暂停在日本生产面向中东市场的汽车，直至5月。",
-          "url": "https://flash.jin10.com/detail/20260406140957219800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：已结束对估计约259万辆在美特斯拉车辆的初步评估，该评估此前启动旨在调查“Actually Smart Summon”功能的使用情况。",
-          "url": "https://flash.jin10.com/detail/20260406171938277800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
-          "url": "https://wallstreetcn.com/livenews/3082868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "报道：宁德时代计划今年将船舶业务部门规模扩大一倍",
-          "url": "https://wallstreetcn.com/livenews/3082753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "伊朗称或将封锁曼德海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%88%96%E5%B0%86%E5%B0%81%E9%94%81%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "消息人士：阿曼推动与伊朗达成霍尔木兹海峡“安全通行协议”",
-          "url": "https://flash.jin10.com/detail/20260405230634181800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "00时48分"
         }
       ]
     }
