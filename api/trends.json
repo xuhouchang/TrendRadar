@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T20:06:33.315595+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-04-06T21:52:30.267686+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时31分 ~ 20时06分]"
+          "appearance_count": 11,
+          "time_info": "[10时31分 ~ 21时52分]"
         },
         {
           "title": "莲花汽车称「不受控制的马力不值一提」，如何评价此观点？",
@@ -121,11 +121,12 @@
           "ranks": [
             29,
             1,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 20时06分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时52分]"
         },
         {
           "title": "诺奖得主、国际原子能机构前总干事敦促海湾各国：阻止特朗普",
@@ -149,11 +150,12 @@
             7,
             28,
             10,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 20时06分]"
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 21时52分]"
         },
         {
           "title": "爱你老己将会是年度报告关键词",
@@ -164,8 +166,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时52分]"
         },
         {
           "title": "伊朗称或将封锁曼德海峡",
@@ -198,7 +200,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
