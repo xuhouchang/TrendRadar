@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:04:57.889391+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-04-07T18:34:52.162781+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "爱你老己将会是年度报告关键词",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时34分]"
         },
         {
           "title": "小米汽车卖不动了吗",
@@ -44,18 +44,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时44分 ~ 07时36分]"
-        },
-        {
-          "title": "Faker称已准备好迎战马斯克AI",
-          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时04分]"
         },
         {
           "title": "伊朗警告美国或封锁曼德海峡反制",
@@ -73,6 +61,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时48分 ~ 07时36分]"
+        },
+        {
+          "title": "Faker称已准备好迎战马斯克AI",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时34分]"
         },
         {
           "title": "机器人保姆“上岗”了",
@@ -96,11 +97,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 18时34分]"
         },
         {
           "title": "Faker回应马斯克",
@@ -115,6 +117,20 @@
           "time_info": "[15时56分 ~ 17时04分]"
         },
         {
+          "title": "富华国际集团荣誉主席陈丽华去世：享年85岁，曾多次上榜内地女首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915504",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时34分]"
+        },
+        {
           "title": "伊朗提出把海峡“过路费”用于重建 阿曼分五成",
           "url": "https://flash.jin10.com/detail/20260407070455652800",
           "source": "金十数据",
@@ -124,6 +140,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "中使馆发布重要提醒：请在阿曼中国公民务必加强安全防范",
+          "url": "https://news.ifeng.com/c/8s8Cfn5nXcN",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时34分]"
+        },
+        {
+          "title": "陈丽华儿子担任富华国际集团总裁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E5%84%BF%E5%AD%90%E6%8B%85%E4%BB%BB%E5%AF%8C%E5%8D%8E%E5%9B%BD%E9%99%85%E9%9B%86%E5%9B%A2%E6%80%BB%E8%A3%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 18时34分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
@@ -146,18 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "陈丽华儿子担任富华国际集团总裁",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%8D%8E%E5%84%BF%E5%AD%90%E6%8B%85%E4%BB%BB%E5%AF%8C%E5%8D%8E%E5%9B%BD%E9%99%85%E9%9B%86%E5%9B%A2%E6%80%BB%E8%A3%81%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 17时04分]"
         },
         {
           "title": "联想集团董事长向上海交大捐赠2亿",
@@ -184,17 +212,15 @@
           "time_info": "14时22分"
         },
         {
-          "title": "富华国际集团荣誉主席陈丽华去世：享年85岁，曾多次上榜内地女首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915504",
-          "source": "澎湃新闻",
+          "title": "云汉芯城：预计一季度净利润4,904.41万元–5,420.66万元，同比增长139.40%–164.60%；第一季度，人工智能算力、新能源汽车等领域需求旺盛，带动相关电子元器件需求持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3083382",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "陈丽华逝世，富华国际集团发讣告",
@@ -219,17 +245,6 @@
           "time_info": "12时58分"
         },
         {
-          "title": "中使馆发布重要提醒：请在阿曼中国公民务必加强安全防范",
-          "url": "https://news.ifeng.com/c/8s8Cfn5nXcN",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
           "title": "英国汽车制造商和贸易商协会：随着伊朗危机加剧了消费者信心的不确定性，业界要求对向纯电动汽车（BEV）转型计划进行紧急审查的呼声日益高涨。",
           "url": "https://flash.jin10.com/detail/20260407123035272800",
           "source": "金十数据",
@@ -239,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "龙净环保：拟与亿纬锂能在上杭县设立合资公司，共同投资建设60GWh大容量储能电池工厂，聚焦大容量、长循环储能电芯制造，本项目总投资金额预计为人民币60亿元。",
+          "url": "https://wallstreetcn.com/livenews/3083379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "周一（4月6日），彭博电动汽车价格回报指数涨0.31%，报3599.75点。",
@@ -260,7 +286,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -338,6 +364,17 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
+          "title": "富华国际集团荣誉主席陈丽华逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915449",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时34分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
           "url": "https://flash.jin10.com/detail/20260407040042993800",
           "source": "金十数据",
@@ -360,6 +397,17 @@
           "time_info": "15时57分"
         },
         {
+          "title": "携程集团将启动“无理由事假”管理实验",
+          "url": "https://wallstreetcn.com/livenews/3083371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "中使馆发布重要提醒：请在阿曼中国公民务必加强安全防范",
           "url": "https://flash.jin10.com/detail/20260407154036279800",
           "source": "金十数据",
@@ -380,17 +428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
-        },
-        {
-          "title": "富华国际集团荣誉主席陈丽华逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915449",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         },
         {
           "title": "零跑汽车：意大利市场一季度上牌量达11637台",
@@ -446,6 +483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "曼联续约马奎尔",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E7%BB%AD%E7%BA%A6%E9%A9%AC%E5%A5%8E%E5%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "宁德时代聘请紫金矿业创始人陈景河",
+          "url": "https://wallstreetcn.com/livenews/3083339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
