@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T18:34:52.162781+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-04-07T19:55:27.606591+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "爱你老己将会是年度报告关键词",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 19时55分]"
         },
         {
           "title": "小米汽车卖不动了吗",
@@ -98,11 +98,27 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[15时56分 ~ 19时55分]"
+        },
+        {
+          "title": "富华国际集团荣誉主席陈丽华去世：享年85岁，曾多次上榜内地女首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915504",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 19时55分]"
         },
         {
           "title": "Faker回应马斯克",
@@ -115,20 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时56分 ~ 17时04分]"
-        },
-        {
-          "title": "富华国际集团荣誉主席陈丽华去世：享年85岁，曾多次上榜内地女首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915504",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 18时34分]"
         },
         {
           "title": "伊朗提出把海峡“过路费”用于重建 阿曼分五成",
@@ -218,7 +220,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -262,7 +264,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -340,6 +342,17 @@
           "time_info": "[06时37分 ~ 07时36分]"
         },
         {
+          "title": "富华国际集团荣誉主席陈丽华逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915449",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时55分]"
+        },
+        {
           "title": "联合健康美股盘后涨11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
           "url": "https://wallstreetcn.com/livenews/3082970",
           "source": "华尔街见闻-快讯",
@@ -364,15 +377,15 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
-          "title": "富华国际集团荣誉主席陈丽华逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915449",
-          "source": "澎湃新闻",
+          "title": "东芯股份：东方恒信集团拟通过询价转让方式减持1.00%股份",
+          "url": "https://flash.jin10.com/detail/20260407193349433800",
+          "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
@@ -403,7 +416,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -474,6 +487,17 @@
           "time_info": "12时58分"
         },
         {
+          "title": "碰撞后散架？小鹏汽车法务部：为救人破拆车辆",
+          "url": "https://wallstreetcn.com/livenews/3083421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
           "url": "https://flash.jin10.com/detail/20260407024258088800",
           "source": "金十数据",
@@ -491,7 +515,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -502,7 +526,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
