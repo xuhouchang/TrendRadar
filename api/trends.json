@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T17:17:42.812519+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-04-08T18:08:36.417827+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "富华国际集团荣誉主席陈丽华逝世，享年85岁",
@@ -56,11 +56,12 @@
             18,
             23,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 17时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 18时08分]"
         },
         {
           "title": "富华国际集团荣誉主席陈丽华逝世",
@@ -84,8 +85,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 18时08分]"
+        },
+        {
+          "title": "消息称停火期间伊朗和阿曼将对通过霍尔木兹海峡船只收费",
+          "url": "https://www.cls.cn/detail/2337344",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时39分 ~ 17时17分]"
+          "time_info": "[11时39分 ~ 18时08分]"
         },
         {
           "title": "墨西哥总统洛佩斯：我们欢迎黑石集团主席拉里·芬克，讨论他们在我们国家的未来投资。",
@@ -110,28 +124,29 @@
           "time_info": "13时47分"
         },
         {
-          "title": "卡塔尔：伊朗不得再次对海湾地区发动袭击。",
-          "url": "https://wallstreetcn.com/livenews/3084207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "华为余承东批评团队“设计不高级”",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BD%99%E6%89%BF%E4%B8%9C%E6%89%B9%E8%AF%84%E5%9B%A2%E9%98%9F%E2%80%9C%E8%AE%BE%E8%AE%A1%E4%B8%8D%E9%AB%98%E7%BA%A7%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             9,
             5,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 18时08分]"
+        },
+        {
+          "title": "三安光电：三安电子和三安集团所持公司总股本的29.47%均被冻结",
+          "url": "https://wallstreetcn.com/livenews/3084231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "新西兰联储主席布雷曼：紧缩政策可能在每次或每隔一次会议上实施，这取决于情况。",
@@ -178,18 +193,6 @@
           "time_info": "11时39分"
         },
         {
-          "title": "消息称停火期间伊朗和阿曼将对通过霍尔木兹海峡船只收费",
-          "url": "https://www.cls.cn/detail/2337344",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 17时17分]"
-        },
-        {
           "title": "新西兰联储主席布雷曼：尚未看到物价上涨已融入通胀预期。",
           "url": "https://flash.jin10.com/detail/20260408112416513800",
           "source": "金十数据",
@@ -223,6 +226,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时05分]"
+        },
+        {
+          "title": "卡塔尔：伊朗不得再次对海湾地区发动袭击。",
+          "url": "https://wallstreetcn.com/livenews/3084207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时08分]"
         },
         {
           "title": "美国国家公路交通安全管理局：通用汽车有限责任公司召回271,770辆美国境内车辆，原因是后视图像无法正确显示，这会降低驾驶员对车辆后方的视野，从而增加发生碰撞的风险。",
@@ -286,6 +301,18 @@
           "time_info": "[11时39分 ~ 15时20分]"
         },
         {
+          "title": "阿里新设集团技术委员会，升级通义大模型事业部",
+          "url": "https://wallstreetcn.com/livenews/3084190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时08分]"
+        },
+        {
           "title": "曝伊朗阿曼将收霍尔木兹海峡通行费",
           "url": "https://www.toutiao.com/trending/7625265990843482118/",
           "source": "今日头条",
@@ -331,17 +358,6 @@
           "time_info": "15时20分"
         },
         {
-          "title": "阿里新设集团技术委员会，升级通义大模型事业部",
-          "url": "https://wallstreetcn.com/livenews/3084190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "市场消息：太平洋投资管理公司（PIMCO）考虑为甲骨文(ORCL.N)数据中心提供大约140亿美元债务融资，该公司正与美国银行洽谈。",
           "url": "https://flash.jin10.com/detail/20260408022852463800",
           "source": "金十数据",
@@ -381,7 +397,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -403,7 +419,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
