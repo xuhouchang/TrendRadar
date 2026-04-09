@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T14:23:12.929471+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-04-09T16:02:46.052511+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "报道：停火期间，伊朗和阿曼将对通过霍尔木兹海峡船只收费",
@@ -26,11 +26,23 @@
           "ranks": [
             12,
             9,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 16时02分]"
+        },
+        {
+          "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
+          "url": "https://flash.jin10.com/detail/20260409160118305800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "阿联酋外交部发言人表示，伊朗对海湾国家的袭击要求国际社会对伊朗采取坚定立场，并敦促德黑兰就人员伤亡和财产损失给予全额赔偿。",
@@ -92,6 +104,19 @@
           "time_info": "01时05分"
         },
         {
+          "title": "余承东批评团队零售设计审美差、不高级，华为现在的设计有什么问题？什么样的设计才算「高级感的审美」？",
+          "url": "https://www.zhihu.com/question/2025185741731361690",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 16时02分]"
+        },
+        {
           "title": "据知情人士透露，太平洋投资管理公司（Pimco）正计划出售其为甲骨文公司在密歇根州建设的大型数据中心提供的140亿美元债务融资的一部分。",
           "url": "https://flash.jin10.com/detail/20260409072016857800",
           "source": "金十数据",
@@ -103,25 +128,13 @@
           "time_info": "08时01分"
         },
         {
-          "title": "余承东批评团队零售设计审美差、不高级，华为现在的设计有什么问题？什么样的设计才算「高级感的审美」？",
-          "url": "https://www.zhihu.com/question/2025185741731361690",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 14时23分]"
-        },
-        {
           "title": "A股电网设备板块局部走低，新能泰山跌停，中利集团跌超9%，亿能电力、泽宇智能、东方电缆跟跌。",
           "url": "https://flash.jin10.com/detail/20260409133509877800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -229,6 +242,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "港股AI应用板块午后持续走弱，金蝶国际(00268.HK)跌超7%，金山软件(03888.HK)2跌超4%，阜博集团(03738.HK)、涂鸦智能(02391.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260409154818939800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "巴西法院发布指令，豁免道达尔、雷普索尔、佩特罗加尔、壳牌和挪威国家石油公司缴纳石油出口税。",
           "url": "https://flash.jin10.com/detail/20260409052347573800",
           "source": "金十数据",
@@ -246,7 +270,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -257,7 +281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
