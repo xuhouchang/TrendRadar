@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T19:59:10.079242+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-04-09T22:02:24.578052+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "报道：停火期间，伊朗和阿曼将对通过霍尔木兹海峡船只收费",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时57分 ~ 19时59分]"
+          "appearance_count": 10,
+          "time_info": "[12时57分 ~ 22时02分]"
         },
         {
           "title": "电视剧《情深深雨濛濛》中，为什么依萍做歌女能「洁身自好」，顾曼璐做舞女却「自甘堕落」？",
@@ -98,6 +98,18 @@
           "time_info": "[02时47分 ~ 12时57分]"
         },
         {
+          "title": "蔚来ES9",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "港股汽车股持续走强，吉利汽车(00175.HK)、奇瑞汽车(09973.HK)涨超4%，蔚来-SW(09866.HK)涨超3%，零跑汽车(09863.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260409100444510800",
           "source": "金十数据",
@@ -115,7 +127,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -189,6 +201,17 @@
           "time_info": "[05时39分 ~ 06时39分]"
         },
         {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "吉利销量连续两个月超越比亚迪",
           "url": "https://www.toutiao.com/trending/7626325823544364586/",
           "source": "今日头条",
@@ -221,6 +244,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 05时42分]"
+        },
+        {
+          "title": "蔚来ES9中国元素",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5ES9%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
@@ -267,6 +301,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "法国外交部：确保霍尔木兹海峡航行自由的任务将与相关方协调进行，即与伊朗和阿曼。",
+          "url": "https://flash.jin10.com/detail/20260409213728562800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "港股AI应用板块午后持续走弱，金蝶国际(00268.HK)跌超7%，金山软件(03888.HK)2跌超4%，阜博集团(03738.HK)、涂鸦智能(02391.HK)等跟跌。",
           "url": "https://flash.jin10.com/detail/20260409154818939800",
           "source": "金十数据",
@@ -298,6 +343,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "美股三大股指涨跌不一，道指跌0.14%，标普500指数跌0.05%，纳指涨0.06%。蔚来涨超3%，蔚来ES9预售发布，52.8万元起；黑莓涨超8%，公司预计2027年营收5.84亿美元至6.11亿美元；CoreWeave涨约2%，公司拿下Meta210亿美元大单，锁定至2032年算力供应。",
+          "url": "https://wallstreetcn.com/livenews/3085145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "蔚来ES9要来了，国内最大纯电SUV，42万元起！",
+          "url": "https://wallstreetcn.com/livenews/3085135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "巴西法院发布指令，豁免道达尔、雷普索尔、佩特罗加尔、壳牌和挪威国家石油公司缴纳石油出口税。",
@@ -344,6 +411,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://wallstreetcn.com/livenews/3085133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "据知情人士透露，特斯拉正在开发一款全新、更小、更便宜的电动SUV。这款紧凑型SUV将在中国生产，特斯拉还计划将产能扩展到美国和欧洲。（路透）",
           "url": "https://wallstreetcn.com/livenews/3084996",
           "source": "华尔街见闻-快讯",
@@ -353,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
+        },
+        {
+          "title": "任鸿斌会见泰国正大集团资深董事长谢国民一行",
+          "url": "https://wallstreetcn.com/livenews/3085131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     }
