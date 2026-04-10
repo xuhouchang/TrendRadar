@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T21:10:56.895459+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-04-10T22:34:53.009449+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时51分 ~ 19时50分]"
+        },
+        {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时33分 ~ 22时34分]"
         },
         {
           "title": "日本财务大臣片山皋月：七国集团财长一致认为，中东局势不应长期持续。",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 21时10分]"
         },
         {
           "title": "比亚迪把山搬进厂里是疯了还是清醒",
