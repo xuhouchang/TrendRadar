@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:50:06.412762+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-04-10T21:10:56.895459+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             26,
             5,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 21时10分]"
         },
         {
           "title": "巴基斯坦部署上万人保障美伊会谈",
@@ -113,6 +114,18 @@
           "time_info": "18时34分"
         },
         {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时10分]"
+        },
+        {
           "title": "比亚迪把山搬进厂里是疯了还是清醒",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%8A%E5%B1%B1%E6%90%AC%E8%BF%9B%E5%8E%82%E9%87%8C%E6%98%AF%E7%96%AF%E4%BA%86%E8%BF%98%E6%98%AF%E6%B8%85%E9%86%92",
           "source": "百度热搜",
@@ -145,17 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 08时02分]"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 19时50分]"
         },
         {
           "title": "周四（4月9日），彭博电动汽车价格回报指数跌0.41%，报3726.85点。",
@@ -411,7 +413,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -455,7 +457,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -466,7 +468,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
