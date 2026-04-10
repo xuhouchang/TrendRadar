@@ -1,499 +1,77 @@
 {
-  "generated_at": "2026-04-10T23:54:40.864521+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-04-11T00:52:24.019315+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 6,
       "titles": [
         {
-          "title": "雷军回应小米冰淇淋",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%B7%87%E6%B7%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时10分 ~ 21时10分]"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%83%A8%E7%BD%B2%E4%B8%8A%E4%B8%87%E4%BA%BA%E4%BF%9D%E9%9A%9C%E7%BE%8E%E4%BC%8A%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时50分]"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 22时34分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团财长一致认为，中东局势不应长期持续。",
-          "url": "https://flash.jin10.com/detail/20260410075220354800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "长安汽车：2025年净利润40.75亿元，同比下滑44.34%",
-          "url": "https://flash.jin10.com/detail/20260410182412123800",
+          "title": "市场消息：黑石集团将与高盛、花旗和摩根士丹利进行合作。",
+          "url": "https://flash.jin10.com/detail/20260411003734671800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "00时52分"
         },
         {
-          "title": "蔚来 ES9 发布会宣传了多个「技术之最」，其中哪些是真正顶尖的产品力，哪些只是噱头？",
-          "url": "https://www.zhihu.com/question/2025670504049111564",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "海湾国家慌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E6%85%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时47分]"
-        },
-        {
-          "title": "A股盐湖提锂板块午后走高，欣旺达涨超15%，威领股份封板涨停，天齐锂业、赣锋锂业、盛新锂能、华友钴业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3085603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "中国汽车动力电池产业创新联盟：3月我国动力和储能电池合计产量为177.7GWh，同比增长50.2%",
-          "url": "https://wallstreetcn.com/livenews/3085684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "土耳其称开辟经沙特至海湾地区陆路货运路线",
-          "url": "https://wallstreetcn.com/livenews/3085795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "纳斯达克100指数涨0.5%，刷新日高。成分股迈威尔科技涨6.7%，博通涨6.1%，AMD涨5%，阿斯麦ADR涨3.5%，核电股CEG涨3.2%，拉姆研究涨3.1%，Autodesk目前跌3.6%，财捷Intuit跌4.1%，Zscaler跌4.6%，CrowdStrike跌5.6%，Datadog跌7.2%，派拓网络PANW跌8.2%。",
-          "url": "https://wallstreetcn.com/livenews/3086006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "比亚迪把山搬进厂里是疯了还是清醒",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%8A%E5%B1%B1%E6%90%AC%E8%BF%9B%E5%8E%82%E9%87%8C%E6%98%AF%E7%96%AF%E4%BA%86%E8%BF%98%E6%98%AF%E6%B8%85%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "小鹏GX联合福耀玻璃打造并量产交付首块AI调光隐私玻璃",
-          "url": "https://wallstreetcn.com/livenews/3085599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "汽车产业链成本端承压，多家跨国车企调整排产",
-          "url": "https://wallstreetcn.com/livenews/3085376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时02分]"
-        },
-        {
-          "title": "周四（4月9日），彭博电动汽车价格回报指数跌0.41%，报3726.85点。",
-          "url": "https://wallstreetcn.com/livenews/3085320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时09分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3085314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时09分]"
-        },
-        {
-          "title": "华为小鹏为何纷纷闯入摩托车赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E9%B9%8F%E4%B8%BA%E4%BD%95%E7%BA%B7%E7%BA%B7%E9%97%AF%E5%85%A5%E6%91%A9%E6%89%98%E8%BD%A6%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
-          "url": "https://wallstreetcn.com/livenews/3085367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时02分]"
-        },
-        {
-          "title": "蔚来ES9开启预售",
-          "url": "https://www.toutiao.com/trending/7626949765531455014/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "伊斯兰堡部署上万人保障美伊会谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%E9%83%A8%E7%BD%B2%E4%B8%8A%E4%B8%87%E4%BA%BA%E4%BF%9D%E9%9A%9C%E7%BE%8E%E4%BC%8A%E4%BC%9A%E8%B0%88%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
-        },
-        {
-          "title": "阿拉斯加航空集团：上调北美地区阿拉斯加航空公司和夏威夷航空公司的航班托运行李费。首件托运行李的费用将上调5美元，第二件托运行李的费用将上调10美元。",
-          "url": "https://flash.jin10.com/detail/20260410035652556800",
+          "title": "市场消息：黑石集团考虑为一家数据中心收购公司进行20亿美元的首次公开募股（IPO）。",
+          "url": "https://flash.jin10.com/detail/20260411003658275800",
           "source": "金十数据",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时09分]"
-        },
-        {
-          "title": "蔚来ES9定价多少能走量",
-          "url": "https://www.toutiao.com/trending/7626731450104368650/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "摩根士丹利：宁德时代收购中恒电气股权扩大AI供电能力 评级与大市同步",
-          "url": "https://flash.jin10.com/detail/20260410111540905800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "00时52分"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，KWEB跌1.1%，CQQQ跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3085315",
+          "title": "黑石集团考虑围绕数据中心收购公司的IPO与高盛为首的（银行）团体合作。",
+          "url": "https://wallstreetcn.com/livenews/3086028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "港股收盘：宁德时代大涨超9%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%A4%A7%E6%B6%A8%E8%B6%859%25",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "00时52分"
         },
         {
           "title": "雷军回应小米冰淇淋",
           "url": "https://www.cls.cn/detail/2340697",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "00时52分"
         },
         {
-          "title": "宁德时代成交额达100亿元，现涨4.55%。",
-          "url": "https://wallstreetcn.com/livenews/3085592",
+          "title": "纳斯达克100指数涨0.5%，刷新日高。成分股迈威尔科技涨6.7%，博通涨6.1%，AMD涨5%，阿斯麦ADR涨3.5%，核电股CEG涨3.2%，拉姆研究涨3.1%，Autodesk目前跌3.6%，财捷Intuit跌4.1%，Zscaler跌4.6%，CrowdStrike跌5.6%，Datadog跌7.2%，派拓网络PANW跌8.2%。",
+          "url": "https://wallstreetcn.com/livenews/3086006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "00时52分"
         },
         {
-          "title": "合景泰富集团(01813.HK)：2026年3月，本集团及其合营企业及联营公司之预售额为人民币3.52亿元，与去年同期相比减少56.1%。",
-          "url": "https://flash.jin10.com/detail/20260410165707035800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "北京现代汽车有限公司召回部分索纳塔汽车",
-          "url": "https://flash.jin10.com/detail/20260410180955188800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "壳牌寻求明年开始开发委内瑞拉-特立尼达跨境巨型气田Loran-Manatee",
-          "url": "https://wallstreetcn.com/livenews/3085306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
-          "url": "https://wallstreetcn.com/livenews/3085581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股盐湖提锂板块午后走高，欣旺达涨超15%，威领股份封板涨停，天齐锂业、赣锋锂业、盛新锂能、华友钴业跟涨。",
-          "url": "https://flash.jin10.com/detail/20260410133345552800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "比亚迪在巴黎发布高端品牌",
-          "url": "https://www.toutiao.com/trending/7625609185591541803/",
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
           "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "比亚迪腾势N8L闪充版预售",
-          "url": "https://www.toutiao.com/trending/7626967190658453033/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
-          "url": "https://flash.jin10.com/detail/20260410044609661800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.32%，报6786.05点。 热门中概股里，蔚来初步收跌4.8%，百度跌4.6%，晶科能源跌3.9%，比亚迪跌3.4%，小马智行跌3.3%，拼多多跌3%，金山云涨1.5%，阿里巴巴涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.07%，中国科技指数ETF（CQQQ）收跌0.84%。 德银嘉实沪深300指数ETF（ASHR）收跌0.36%，XtrackersHarvest中证50（ASHS）收跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3085315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "起亚将在美国启用机器人，并首推软件汽车与混动皮卡",
-          "url": "https://wallstreetcn.com/livenews/3085358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "长安汽车：2025年净利润40.75亿元，同比下降44.34%。",
-          "url": "https://wallstreetcn.com/livenews/3085812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "市场消息：阿曼油6月交货的原油官方价格达到了100.19美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260410164850518800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "张真源鼓励开思源参加超越班",
-          "url": "https://www.douyin.com/hot/2461797",
-          "source": "抖音",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "比亚迪寻找新技术红利",
-          "url": "https://www.toutiao.com/trending/7627010717912141321/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
-          "title": "东风商用车有限公司召回15104辆东风牌汽车",
-          "url": "https://wallstreetcn.com/livenews/3085804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "北京现代汽车有限公司召回953辆索纳塔汽车",
-          "url": "https://wallstreetcn.com/livenews/3085803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "00时52分"
         }
       ]
     }
