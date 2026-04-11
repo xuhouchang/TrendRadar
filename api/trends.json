@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T05:33:39.505935+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-12T06:33:13.570762+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时33分]"
         },
         {
           "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
@@ -26,8 +26,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时33分]"
+        },
+        {
+          "title": "理想汽车：遭遇大量恶意拉踩 已报案",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            18,
+            16,
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 06时33分]"
         },
         {
           "title": "问界M6预订量突破10万台",
@@ -60,20 +77,16 @@
           "time_info": "[00时38分 ~ 05时33分]"
         },
         {
-          "title": "理想汽车：遭遇大量恶意拉踩 已报案",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
-          "source": "百度热搜",
+          "title": "卡塔尔方面表示将于周日恢复海湾地区的“全面”海上交通",
+          "url": "https://flash.jin10.com/detail/20260412041310109800",
+          "source": "金十数据",
           "ranks": [
-            27,
-            26,
-            18,
-            16,
-            24,
-            23
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 05时33分]"
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时33分]"
         },
         {
           "title": "美宇航员平安返回 诸多问题让人后怕",
@@ -85,17 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "卡塔尔方面表示将于周日恢复海湾地区的“全面”海上交通",
-          "url": "https://flash.jin10.com/detail/20260412041310109800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         }
       ]
     }
