@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-11T19:03:43.142648+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-04-11T19:54:26.842674+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
       "match_count": 36,
       "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 19时54分]"
+        },
         {
           "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
           "url": "https://www.zhihu.com/question/2025584159024838298",
@@ -32,21 +47,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时52分 ~ 10时12分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 19时03分]"
         },
         {
           "title": "美宜佳通报问题卷烟事件处置进展，称已与 606 家加盟商解除合作关系，能彻底杜绝假烟吗？问题出在哪个环节？",
@@ -78,6 +78,42 @@
           "time_info": "[00时52分 ~ 04时38分]"
         },
         {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 19时54分]"
+        },
+        {
+          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
+          "url": "https://www.zhihu.com/question/2025926047250605746",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 19时54分]"
+        },
+        {
+          "title": "美宇航员平安返回 诸多问题让人后怕",
+          "url": "https://www.toutiao.com/trending/7627416475003469866/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 19时54分]"
+        },
+        {
           "title": "广汽集团董事长：广汽集团具身智能机器人即将量产",
           "url": "https://wallstreetcn.com/livenews/3086178",
           "source": "华尔街见闻-快讯",
@@ -90,30 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时14分 ~ 18时05分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 19时03分]"
-        },
-        {
-          "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
-          "url": "https://www.zhihu.com/question/2025926047250605746",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 19时03分]"
         },
         {
           "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
@@ -129,17 +141,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 17时09分]"
-        },
-        {
-          "title": "美宇航员平安返回 诸多问题让人后怕",
-          "url": "https://www.toutiao.com/trending/7627416475003469866/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时04分 ~ 19时03分]"
         },
         {
           "title": "广汽集团董事长冯兴亚：广汽集团具身智能机器人即将量产",
@@ -230,6 +231,20 @@
           "time_info": "05时38分"
         },
         {
+          "title": "吉利汽车：2030年吉利控股集团全球销量要突破650万辆",
+          "url": "https://wallstreetcn.com/livenews/3086187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 19时54分]"
+        },
+        {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
           "url": "https://wallstreetcn.com/livenews/3086157",
           "source": "华尔街见闻-快讯",
@@ -242,19 +257,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时34分 ~ 16时04分]"
-        },
-        {
-          "title": "吉利汽车：2030年吉利控股集团全球销量要突破650万辆",
-          "url": "https://wallstreetcn.com/livenews/3086187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时09分 ~ 19时03分]"
         },
         {
           "title": "蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化",
