@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T14:02:05.990411+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-04-11T15:14:59.720533+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "雷军回应小米冰淇淋",
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时52分 ~ 10时12分]"
+        },
+        {
+          "title": "美宜佳通报问题卷烟事件处置进展，称已与 606 家加盟商解除合作关系，能彻底杜绝假烟吗？问题出在哪个环节？",
+          "url": "https://www.zhihu.com/question/2025904437755994133",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            17,
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 15时14分]"
         },
         {
           "title": "巴基斯坦部署上万人保障美伊会谈",
@@ -35,20 +50,6 @@
           "time_info": "[00时52分 ~ 04时38分]"
         },
         {
-          "title": "美宜佳通报问题卷烟事件处置进展，称已与 606 家加盟商解除合作关系，能彻底杜绝假烟吗？问题出在哪个环节？",
-          "url": "https://www.zhihu.com/question/2025904437755994133",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时38分 ~ 14时02分]"
-        },
-        {
           "title": "美国游客在墨西哥坐比亚迪发出赞叹",
           "url": "https://www.toutiao.com/trending/7626765575343669290/",
           "source": "今日头条",
@@ -58,6 +59,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "广汽集团董事长冯兴亚：广汽集团具身智能机器人即将量产",
+          "url": "https://flash.jin10.com/detail/20260411150945202800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "广汽集团董事长：广汽集团具身智能机器人即将量产",
+          "url": "https://wallstreetcn.com/livenews/3086178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "美国游客在墨西哥坐完比亚迪懵了",
@@ -73,16 +96,16 @@
           "time_info": "[10时12分 ~ 14时02分]"
         },
         {
-          "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
-          "url": "https://wallstreetcn.com/livenews/3086161",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
+          "url": "https://www.zhihu.com/question/2025584159024838298",
+          "source": "知乎",
           "ranks": [
-            3,
-            10
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 15时14分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -96,6 +119,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国国家公路交通安全管理局：五十铃汽车召回14,028辆美国市场车辆，原因是线束故障可能导致发动机熄火，或制动灯和驻车制动失效，从而增加碰撞风险。受损的电线还可能熔化，进一步增加火灾风险。",
+          "url": "https://flash.jin10.com/detail/20260411150756325800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "特斯拉：受监督管理的FSD（全自动驾驶）在荷兰获批。",
           "url": "https://wallstreetcn.com/livenews/3086115",
           "source": "华尔街见闻-快讯",
@@ -107,16 +141,17 @@
           "time_info": "05时38分"
         },
         {
-          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
-          "url": "https://www.zhihu.com/question/2025584159024838298",
-          "source": "知乎",
+          "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
+          "url": "https://wallstreetcn.com/livenews/3086161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            14
+            3,
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 15时14分]"
         },
         {
           "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
@@ -125,11 +160,24 @@
           "ranks": [
             1,
             12,
-            19
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 15时14分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时12分 ~ 14时02分]"
+          "time_info": "[14时01分 ~ 15时14分]"
         },
         {
           "title": "蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化",
@@ -169,6 +217,19 @@
           "time_info": "[00时52分 ~ 02时54分]"
         },
         {
+          "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
+          "url": "https://wallstreetcn.com/livenews/3086157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 15时14分]"
+        },
+        {
           "title": "市场消息：黑石集团将与高盛、花旗和摩根士丹利进行合作。",
           "url": "https://flash.jin10.com/detail/20260411003734671800",
           "source": "金十数据",
@@ -191,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时49分]"
-        },
-        {
-          "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
-          "url": "https://wallstreetcn.com/livenews/3086157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 14时02分]"
         },
         {
           "title": "能源情报集团记者阿蒙娜•巴克尔：拥有财力和技术资源的海湾国家将会建设替代管道以绕过霍尔木兹海峡。这的确需要时间并且耗资数十亿美元，但如果没有沙特的东西方管道和阿联酋的富查伊拉，目前的出口将会完全停滞。",
@@ -276,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 14时02分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "华尔街打造新款工具，来对赌私人信用。 银行业正与标普全球合作，将推出信用违约掉期（CDS）指数。 CDS指数将有助于保护买家不至于受到违约的冲击。 美国银行、高盛等下周将销售相关衍生品。 阿波罗、Ares、黑石集团多只基金将在指数至多12%。 Saba Capital等投资者推广相关新产品。（华尔街日报）",
