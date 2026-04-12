@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T01:35:36.603036+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-13T02:51:44.056198+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
         },
@@ -23,22 +23,24 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 02时51分]"
         },
         {
           "title": "“赌王”何鸿燊女儿、信德集团执行董事何超蕸逝世",
           "url": "https://m.thepaper.cn/newsDetail_forward_32955108",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 02时51分]"
         },
         {
           "title": "一镜到底模仿所有奥特曼战吼",
@@ -47,11 +49,12 @@
           "ranks": [
             24,
             21,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 01时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 02时51分]"
         },
         {
           "title": "特朗普：北约有意愿帮助我们维护海峡安全、海湾盟友已展开协助",
