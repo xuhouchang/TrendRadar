@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:07:44.699127+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-04-12T19:57:41.149089+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 19时57分]"
         },
         {
           "title": "华为、小鹏等科技巨头纷纷闯入摩托车赛道，是战略卡位还是新风口已至？他们有哪些底气？",
@@ -98,28 +98,18 @@
           "time_info": "[00时38分 ~ 05时33分]"
         },
         {
-          "title": "何超蕸逝世 信德集团官网变黑白",
-          "url": "https://www.toutiao.com/trending/7627790033964859433/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时07分]"
-        },
-        {
           "title": "张国清在中国雅江集团调研时强调，扛牢工程建设主体责任，全面提升运营管理能力",
           "url": "https://wallstreetcn.com/livenews/3086363",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             4,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时07分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时57分]"
         },
         {
           "title": "郑丽文参访小米汽车工厂 频频惊叹",
@@ -131,6 +121,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "何超蕸逝世 信德集团官网变黑白",
+          "url": "https://www.toutiao.com/trending/7627790033964859433/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时57分]"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼向本地及国际石油公司提供五个油气特许区块。",
+          "url": "https://flash.jin10.com/detail/20260412165200048800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时57分]"
+        },
+        {
+          "title": "中东股市收盘播报｜周日（4月12日），卡塔尔证交所指数收跌0.28%，报10612.03点，整体呈现出低开高走的长尾V形走势。 科威特证交所超级市场价格回报指数收涨0.15%，报9227.77点，跳空低开、迅速在北京时间10:42刷新日低至9170点下方。 阿曼MSM 30指数收涨0.30%，报8186.95点，4月6日曾涨至8308.14点——逼近2008年9月29日收盘位8493.56点。 沙特股市低开，随后回升，早盘曾三度转涨。",
+          "url": "https://wallstreetcn.com/livenews/3086376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "一镜到底模仿所有奥特曼战吼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E6%A8%A1%E4%BB%BF%E6%89%80%E6%9C%89%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%88%98%E5%90%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            22,
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 19时57分]"
         },
         {
           "title": "SU7飙车险撞人 停下后司机还在笑",
@@ -157,31 +199,17 @@
           "time_info": "[13时24分 ~ 16时03分]"
         },
         {
-          "title": "据阿曼国家通讯社：阿曼向本地及国际石油公司提供五个油气特许区块。",
-          "url": "https://flash.jin10.com/detail/20260412165200048800",
+          "title": "张国清在中国雅江集团调研时强调 扛牢工程建设主体责任 全面提升运营管理能力",
+          "url": "https://flash.jin10.com/detail/20260412170737583800",
           "source": "金十数据",
           "ranks": [
-            4,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时07分]"
-        },
-        {
-          "title": "一镜到底模仿所有奥特曼战吼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E6%A8%A1%E4%BB%BF%E6%89%80%E6%9C%89%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%88%98%E5%90%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            22,
-            19,
+            8,
+            17,
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时57分]"
         },
         {
           "title": "马斯克的“西方微信”要上线了",
@@ -194,18 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时53分 ~ 16时03分]"
-        },
-        {
-          "title": "张国清在中国雅江集团调研时强调 扛牢工程建设主体责任 全面提升运营管理能力",
-          "url": "https://flash.jin10.com/detail/20260412170737583800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时07分]"
         },
         {
           "title": "「赌王」何鸿燊女儿、信德集团执行董事何超蕸去世，终年 60 岁，你对她有哪些印象？",
