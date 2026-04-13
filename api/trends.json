@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T05:51:25.418693+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-04-14T06:43:40.388059+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时43分]"
         },
         {
           "title": "“马斯克版微信”真的来了！",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时43分]"
         },
         {
           "title": "如何看待问界 M6 预订量突破 100000 台？",
@@ -37,22 +37,24 @@
             9,
             14,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时43分]"
         },
         {
           "title": "美若封锁霍尔木兹就将失去曼德海峡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8B%A5%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B0%B1%E5%B0%86%E5%A4%B1%E5%8E%BB%E6%9B%BC%E5%BE%B7%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时43分]"
         },
         {
           "title": "西班牙首相试坐YU7 雷军陪同讲解",
@@ -65,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时43分]"
         },
         {
           "title": "比亚迪财务总监年薪 1013 万元，多名高管薪酬迈入千万级，在业内是什么水平？车企薪资在市场上竞争力如何？",
@@ -76,19 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时51分]"
-        },
-        {
-          "title": "壳牌、雪佛龙将在委内瑞拉签署石油与天然气区块协议。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3087121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时43分]"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -101,8 +92,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 06时43分]"
+        },
+        {
+          "title": "壳牌、雪佛龙将在委内瑞拉签署石油与天然气区块协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3087121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "西班牙首相和雷军自拍",
@@ -117,6 +119,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 05时51分]"
+        },
+        {
+          "title": "中方回应巴西将比亚迪移出相关名单",
+          "url": "https://www.toutiao.com/trending/7627501811481657380/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 06时43分]"
         },
         {
           "title": "全新问界M9外观亮点曝光",
@@ -153,6 +168,19 @@
           "time_info": "[04时32分 ~ 05时51分]"
         },
         {
+          "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
+          "url": "https://www.zhihu.com/question/15061113534",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 06时43分]"
+        },
+        {
           "title": "阿克曼为Pershing Square USA的IPO启动路演，预计将于4月28日定价",
           "url": "https://wallstreetcn.com/livenews/3087083",
           "source": "华尔街见闻-快讯",
@@ -176,16 +204,28 @@
           "time_info": "[03时26分 ~ 05时51分]"
         },
         {
-          "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
-          "url": "https://www.zhihu.com/question/15061113534",
-          "source": "知乎",
+          "title": "雪佛龙对PetroIndependenCIA合资公司的持股增加13.21%。 雪佛龙同意，与PetroLeos de Venezuela置换资产。",
+          "url": "https://wallstreetcn.com/livenews/3087160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时51分]"
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时43分]"
+        },
+        {
+          "title": "雪佛龙与委内瑞拉石油公司PDVSA签署协议，计划通过合资公司提高在委的石油产量。（委内瑞拉国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3087157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时43分]"
         },
         {
           "title": "比亚迪女高管年薪1013.5万打破天花板",
@@ -197,29 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "中方回应巴西将比亚迪移出相关名单",
-          "url": "https://www.toutiao.com/trending/7627501811481657380/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时26分]"
-        },
-        {
-          "title": "雪佛龙对PetroIndependenCIA合资公司的持股增加13.21%。 雪佛龙同意，与PetroLeos de Venezuela置换资产。",
-          "url": "https://wallstreetcn.com/livenews/3087160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
@@ -250,18 +267,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "雪佛龙与委内瑞拉石油公司PDVSA签署协议，计划通过合资公司提高在委的石油产量。（委内瑞拉国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3087157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -294,7 +300,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -316,7 +322,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -338,7 +344,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         }
