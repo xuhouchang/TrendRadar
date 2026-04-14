@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T18:45:44.682880+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-04-14T19:57:46.438967+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 70,
+      "match_count": 76,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
@@ -33,6 +33,19 @@
           "time_info": "[00时42分 ~ 10时34分]"
         },
         {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 19时57分]"
+        },
+        {
           "title": "西班牙首相试坐YU7 雷军陪同讲解",
           "url": "https://www.toutiao.com/trending/7627133253799051270/",
           "source": "今日头条",
@@ -58,19 +71,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时43分]"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 18时45分]"
         },
         {
           "title": "如何看待问界 M6 预订量突破 100000 台？",
@@ -108,11 +108,27 @@
             13,
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时33分 ~ 19时57分]"
+        },
+        {
+          "title": "恒大集团、恒大地产及许家印案一审开庭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32966074",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时33分 ~ 19时57分]"
         },
         {
           "title": "官方通报深圳比亚迪车库起火",
@@ -123,11 +139,12 @@
             13,
             17,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时33分 ~ 18时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时33分 ~ 19时57分]"
         },
         {
           "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
@@ -150,20 +167,6 @@
             6,
             22,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 18时45分]"
-        },
-        {
-          "title": "恒大集团、恒大地产及许家印案一审开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32966074",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            6,
-            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -220,6 +223,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时57分]"
         },
         {
           "title": "曼联1-2利兹联",
@@ -279,17 +294,6 @@
           "time_info": "17时02分"
         },
         {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时45分]"
-        },
-        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
@@ -312,6 +316,30 @@
           "time_info": "17时02分"
         },
         {
+          "title": "担心曼德海峡也瘫痪！沙特被曝施压美国：要求放弃对霍尔木兹封锁",
+          "url": "https://www.cls.cn/detail/2343343",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时57分]"
+        },
+        {
+          "title": "英国：阿曼湾海域发生一起船只遇袭事件",
+          "url": "https://news.ifeng.com/c/8sJtOetdj80",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时57分]"
+        },
+        {
           "title": "深圳坪山比亚迪突发大火 消防通报",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B6%88%E9%98%B2%E9%80%9A%E6%8A%A5",
           "source": "百度热搜",
@@ -322,6 +350,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 13时33分]"
+        },
+        {
+          "title": "阿曼航空表示，将于4月18日起恢复每日飞往迪拜的航班。",
+          "url": "https://flash.jin10.com/detail/20260414194507211800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "壳牌、雪佛龙将在委内瑞拉签署石油与天然气区块协议。（路透）",
@@ -355,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
-        },
-        {
-          "title": "担心曼德海峡也瘫痪！沙特被曝施压美国：要求放弃对霍尔木兹封锁",
-          "url": "https://www.cls.cn/detail/2343343",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "印度汽车制造商协会：不断演变的地缘政治局势将对汽车产量、投入品和燃料价格以及运费产生不利影响。",
@@ -414,17 +442,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时33分 ~ 15时08分]"
-        },
-        {
-          "title": "英国：阿曼湾海域发生一起船只遇袭事件",
-          "url": "https://news.ifeng.com/c/8sJtOetdj80",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -484,6 +501,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 02时01分]"
+        },
+        {
+          "title": "现场看曼联不敌利兹",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9C%8B%E6%9B%BC%E8%81%94%E4%B8%8D%E6%95%8C%E5%88%A9%E5%85%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时57分]"
         },
         {
           "title": "巴西将比亚迪移出所谓涉“奴役劳动”名单，外交部回应",
@@ -643,6 +672,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "雅化集团在互动易平台表示，公司已获得津巴布韦6个月期锂精矿出口配额批文，出口配额能够保障公司卡玛蒂维矿山正常生产，目前正在办理恢复出口手续。",
+          "url": "https://wallstreetcn.com/livenews/3087676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "贝宁反对党总统候选人保罗·翁佩承认败选",
           "url": "https://flash.jin10.com/detail/20260414022336332800",
           "source": "金十数据",
@@ -652,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "陈国基：建设更高水平的“平安香港”",
+          "url": "https://wallstreetcn.com/livenews/3087675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "据委内瑞拉国家电视台：雪佛龙与委内瑞拉就奥里诺科油带阿亚库乔8区块签署新协议。",
@@ -671,7 +722,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -720,6 +771,17 @@
           "time_info": "13时33分"
         },
         {
+          "title": "美的集团与中集集团签署全面战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260414192443182800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "恒大集团、恒大地产及许家印案一审开庭，许家印当庭表示认罪悔罪",
           "url": "https://wallstreetcn.com/livenews/3087402",
           "source": "华尔街见闻-快讯",
@@ -740,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国电动汽车制造商Lucid任命新首席执行官，沙特公共投资基金（PIF）和Uber承诺投资7.5亿美元。Lucid盘前大涨逾12%。",
+          "url": "https://wallstreetcn.com/livenews/3087669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报6855.75点。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，中国科技指数ETF（CQQQ）收涨1.13%，中概互联网指数ETF（KWEB）收涨0.07%。 德银嘉实沪深300指数ETF（ASHR）收涨1.01%，XtrackersHarvest中证50（ASHS）收涨0.70%。",
@@ -770,7 +843,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -784,17 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "现场看曼联不敌利兹",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E5%9C%BA%E7%9C%8B%E6%9B%BC%E8%81%94%E4%B8%8D%E6%95%8C%E5%88%A9%E5%85%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "中国石化集团董事长侯启军会见阿布扎比国家石油公司首席执行官",
@@ -828,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "工信部等三部门：要稳妥有序开展智能网联汽车道路测试与示范应用",
+          "url": "https://wallstreetcn.com/livenews/3087661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     }
