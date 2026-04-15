@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:15:40.543941+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-04-15T19:56:52.058193+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -50,6 +50,18 @@
           "time_info": "[10时32分 ~ 15时09分]"
         },
         {
+          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
+          "url": "https://www.cls.cn/detail/2344645",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时56分]"
+        },
+        {
           "title": "美军称在东太平洋打击“贩毒船” 致4人死亡",
           "url": "https://flash.jin10.com/detail/20260415070101232800",
           "source": "金十数据",
@@ -61,15 +73,16 @@
           "time_info": "07时42分"
         },
         {
-          "title": "李力耘将加入众擎机器人，曾是小鹏智驾负责人",
-          "url": "https://wallstreetcn.com/livenews/3088462",
-          "source": "华尔街见闻-快讯",
+          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
+          "url": "https://www.zhihu.com/question/2025880105268855857",
+          "source": "知乎",
           "ranks": [
-            1
+            17,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时56分]"
         },
         {
           "title": "现场看曼联不敌利兹",
@@ -87,15 +100,26 @@
           "time_info": "[00时40分 ~ 07时42分]"
         },
         {
-          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
-          "url": "https://www.cls.cn/detail/2344645",
-          "source": "财联社热门",
+          "title": "宁德时代：每10股派发现金分红人民币69.57元",
+          "url": "https://flash.jin10.com/detail/20260415195032628800",
+          "source": "金十数据",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 19时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "宁德时代：2025年度A股权益分派实施，拟10派69.57元；本次权益分派的股权登记日为2026年4月21日，除权除息日为2026年4月22日。",
+          "url": "https://wallstreetcn.com/livenews/3088493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "一架以色列无人机在黎巴嫩南部袭击了一辆汽车。",
@@ -118,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "Stellantis据悉考虑与东风汽车在欧洲和中国的汽车生产协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3088459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "开云集团CFO：重申年底前至少减少100家门店的目标。",
@@ -175,36 +188,13 @@
           "time_info": "15时09分"
         },
         {
-          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
-          "url": "https://www.zhihu.com/question/2025880105268855857",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 19时15分]"
-        },
-        {
-          "title": "小米集团4月15日在港交所公告，4月15日回购572万股股份，耗资176,997,532港元。",
-          "url": "https://wallstreetcn.com/livenews/3088456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "国泰集团：2025年净利润同比增长39.55% 拟10派1.3元",
           "url": "https://flash.jin10.com/detail/20260415185826418800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -234,13 +224,25 @@
           "time_info": "[03时49分 ~ 04时54分]"
         },
         {
+          "title": "李力耘将加入众擎机器人，曾是小鹏智驾负责人",
+          "url": "https://wallstreetcn.com/livenews/3088462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时56分]"
+        },
+        {
           "title": "市场消息：Stellantis(STLA.N)正考虑与东风汽车的合作协议。",
           "url": "https://flash.jin10.com/detail/20260415185701601800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -312,6 +314,30 @@
           "time_info": "[06时45分 ~ 07时42分]"
         },
         {
+          "title": "Stellantis据悉考虑与东风汽车在欧洲和中国的汽车生产协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3088459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时56分]"
+        },
+        {
+          "title": "小米集团4月15日在港交所公告，4月15日回购572万股股份，耗资176,997,532港元。",
+          "url": "https://wallstreetcn.com/livenews/3088456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时56分]"
+        },
+        {
           "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
           "url": "https://wallstreetcn.com/livenews/3087975",
           "source": "华尔街见闻-快讯",
@@ -357,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "一年狂发300+汽车成为快消品",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "雷军会见阿布扎比王储",
@@ -414,6 +451,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "小鹏GX把四大安全测试场搬到发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E6%8A%8A%E5%9B%9B%E5%A4%A7%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E5%9C%BA%E6%90%AC%E5%88%B0%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "开云集团一季度古驰Gucci同店销售下滑8%，分析师预期下降4.28%。",
           "url": "https://wallstreetcn.com/livenews/3087860",
           "source": "华尔街见闻-快讯",
@@ -431,7 +479,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -508,7 +556,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
