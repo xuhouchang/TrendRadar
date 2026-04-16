@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T02:32:01.540599+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-04-17T03:16:09.467321+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "我的弹簧裙摆很曼妙",
@@ -26,8 +26,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
+        },
+        {
+          "title": "世茂集团继承者一个项目亏171亿",
+          "url": "https://www.toutiao.com/trending/7629269616484810803/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "倍耐力：中东冲突的演变仍然不确定。",
@@ -41,17 +53,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "世茂集团继承者一个项目亏171亿",
-          "url": "https://www.toutiao.com/trending/7629269616484810803/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
           "title": "马斯克要求“光速”推进Terafab 已向供应商询问设备报价与交付时间",
           "url": "https://www.cls.cn/detail/2346267",
           "source": "财联社热门",
@@ -59,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -71,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "雷军将从京到沪直播15小时",
@@ -80,11 +81,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "一年狂发300+汽车成为快消品",
@@ -94,8 +96,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时16分]"
         },
         {
           "title": "倍耐力确认2026年（财务）目标。 预计2026年调整后EBIT将处于指引区间的低端。",
@@ -126,7 +128,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
