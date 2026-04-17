@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T00:02:36.931799+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-18T01:14:34.331384+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "雷军回应是否做10万以内车型",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
         },
         {
           "title": "中国经济在风浪中稳住了发展底盘",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
         },
         {
           "title": "雷军：从没说过1300公里只充一次电",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "雷军15小时不眠直播手机却被“偷家”",
-          "url": "https://www.toutiao.com/trending/7629720876350443049/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
         },
         {
           "title": "雷军达成京沪高速只充一次电",
@@ -59,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
         },
         {
           "title": "如何评价 4 月 17 日雷军开启 15 小时新 SU7 测试直播?",
@@ -70,8 +59,77 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "雷军15小时不眠直播手机却被“偷家”",
+          "url": "https://www.toutiao.com/trending/7629720876350443049/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "曼宁格因火车撞击去世",
+          "url": "https://www.douyin.com/hot/2468966",
+          "source": "抖音",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "雷军：从没说过1300公里只充一次电",
+          "url": "https://www.toutiao.com/trending/7629357035789664283/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
+          "url": "https://www.zhihu.com/question/2028032486530184431",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "奥特曼60周年纪念作预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BD%9C%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时14分]"
+        },
+        {
+          "title": "详解35年前的美军海湾战争",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A335%E5%B9%B4%E5%89%8D%E7%9A%84%E7%BE%8E%E5%86%9B%E6%B5%B7%E6%B9%BE%E6%88%98%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时14分"
         },
         {
           "title": "特斯拉(TSLA.O)涨幅扩大至5%。",
@@ -85,15 +143,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "雷军：从没说过1300公里只充一次电",
-          "url": "https://www.toutiao.com/trending/7629357035789664283/",
-          "source": "今日头条",
+          "title": "雷军到达上海后还有余电",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%88%B0%E8%BE%BE%E4%B8%8A%E6%B5%B7%E5%90%8E%E8%BF%98%E6%9C%89%E4%BD%99%E7%94%B5%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时14分"
         },
         {
           "title": "惠誉：截至目前，大多数海湾合作委员会成员国对伊朗战争的冲击表现出了较强的抵御能力。",
@@ -107,26 +165,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
-          "url": "https://www.zhihu.com/question/2028032486530184431",
-          "source": "知乎",
+          "title": "雷军回应15小时长途直播累不累",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%9415%E5%B0%8F%E6%97%B6%E9%95%BF%E9%80%94%E7%9B%B4%E6%92%AD%E7%B4%AF%E4%B8%8D%E7%B4%AF",
+          "source": "百度热搜",
           "ranks": [
-            20
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "奥特曼60周年纪念作预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BD%9C%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时14分"
         },
         {
           "title": "道指飙涨将近1000点，涨幅扩大至2%。成分股波音涨约5%，SHW涨4.6%，家得宝涨4.1%，美国运通、3M、Salesforce涨超3%，雪佛龙目前跌5%。",
@@ -140,15 +187,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "曼宁格因火车撞击去世",
-          "url": "https://www.douyin.com/hot/2468966",
-          "source": "抖音",
+          "title": "土耳其总统：海湾国家通往公海的通行权不应受限",
+          "url": "https://wallstreetcn.com/livenews/3090226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时14分"
+        },
+        {
+          "title": "马士基：暂时暂停经由吉达港和阿曼各港口运往阿联酋及卡塔尔的陆侧货运订舱。 暂时暂停从吉达港运往阿联酋、阿曼及卡塔尔的陆侧货运订舱。 暂时暂停从萨拉拉和苏哈尔运往阿联酋、沙特阿拉伯、科威特、巴林及卡塔尔的陆侧货运订舱。",
+          "url": "https://wallstreetcn.com/livenews/3090231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "提欧奥特曼预告上线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         }
       ]
     }
