@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T17:55:09.070830+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-04-17T18:57:11.574579+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
@@ -37,11 +37,12 @@
             2,
             5,
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 18时57分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -111,6 +112,17 @@
           "time_info": "[00时37分 ~ 07时10分]"
         },
         {
+          "title": "雷军：从没说过1300公里只充一次电",
+          "url": "https://www.toutiao.com/trending/7629357035789664283/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时57分]"
+        },
+        {
           "title": "雷军回应是否做10万以内车型",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%81%9A10%E4%B8%87%E4%BB%A5%E5%86%85%E8%BD%A6%E5%9E%8B%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -123,15 +135,42 @@
           "time_info": "[11时51分 ~ 16时13分]"
         },
         {
-          "title": "雷军：从没说过1300公里只充一次电",
-          "url": "https://www.toutiao.com/trending/7629357035789664283/",
-          "source": "今日头条",
+          "title": "奥特曼60周年纪念作预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BD%9C%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            6,
+            12,
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 18时57分]"
+        },
+        {
+          "title": "雷军：未来几年不做10万元以下汽车",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E4%B8%8D%E5%81%9A10%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时12分 ~ 18时57分]"
+        },
+        {
+          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
+          "url": "https://www.zhihu.com/question/2028032486530184431",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时12分 ~ 18时57分]"
         },
         {
           "title": "曼宁格因火车撞击去世",
@@ -143,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "提欧奥特曼预告上线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E9%A2%84%E5%91%8A%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "雷军称考虑过出大众配置车型",
@@ -167,30 +217,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "奥特曼60周年纪念作预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BD%9C%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 16时13分]"
-        },
-        {
-          "title": "远景动力据悉考虑通过港股IPO至多募资20亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3089964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "中国导弹驱逐舰首次亮相太平洋",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%E9%A9%B1%E9%80%90%E8%88%B0%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E5%A4%AA%E5%B9%B3%E6%B4%8B",
           "source": "百度热搜",
@@ -200,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "雷军问直播放歌有没有版权问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E9%97%AE%E7%9B%B4%E6%92%AD%E6%94%BE%E6%AD%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E9%97%AE%E9%A2%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "雷军说最大的心理负担是不能说错话",
@@ -259,6 +296,17 @@
           "time_info": "14时04分"
         },
         {
+          "title": "海湾地区官员：特朗普迫切希望结束战争，或将接受更多妥协",
+          "url": "https://flash.jin10.com/detail/20260417182105937800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "雷军直播",
           "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -283,6 +331,30 @@
           "time_info": "[04时46分 ~ 06时07分]"
         },
         {
+          "title": "远景动力据悉考虑通过港股IPO至多募资20亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3089964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 18时57分]"
+        },
+        {
+          "title": "曼宁格因火车撞击去世",
+          "url": "https://www.douyin.com/hot/2468966",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 18时57分]"
+        },
+        {
           "title": "雷军回应是否做10万以内车型",
           "url": "https://www.douyin.com/hot/2469004",
           "source": "抖音",
@@ -295,27 +367,16 @@
           "time_info": "[11时51分 ~ 16时13分]"
         },
         {
-          "title": "雷军：未来几年不做10万元以下汽车",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E4%B8%8D%E5%81%9A10%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "雷军回应友商“截胡”小米汽车订单",
+          "url": "https://www.toutiao.com/trending/7629364371693666340/",
+          "source": "今日头条",
           "ranks": [
-            17
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时12分 ~ 17时55分]"
-        },
-        {
-          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
-          "url": "https://www.zhihu.com/question/2028032486530184431",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时12分 ~ 17时55分]"
+          "time_info": "[17时54分 ~ 18时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -379,28 +440,6 @@
           "time_info": "[06时07分 ~ 07时10分]"
         },
         {
-          "title": "曼宁格因火车撞击去世",
-          "url": "https://www.douyin.com/hot/2468966",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
-          "title": "雷军回应友商“截胡”小米汽车订单",
-          "url": "https://www.toutiao.com/trending/7629364371693666340/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
           "title": "丁薛祥会见土库曼斯坦总统别尔德穆哈梅多夫",
           "url": "https://wallstreetcn.com/livenews/3089553",
           "source": "华尔街见闻-快讯",
@@ -411,6 +450,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时11分]"
+        },
+        {
+          "title": "费曼学什么这么贵啊",
+          "url": "https://s.weibo.com/weibo?q=%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E8%B4%B5%E5%95%8A&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
+          "title": "曼城官宣B席今夏离队",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E5%AE%98%E5%AE%A3B%E5%B8%AD%E4%BB%8A%E5%A4%8F%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "鸿蒙智行：问界M6预售订单突破10万。4月22日，问界M6即将正式上市。",
@@ -430,7 +491,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -466,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "两连板株冶集团：公司目前生产经营正常 不存在应披露 而未披露的重大信息",
+          "url": "https://flash.jin10.com/detail/20260417181755660800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "倍耐力确认2026年（财务）目标。 预计2026年调整后EBIT将处于指引区间的低端。",
