@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T02:02:42.576121+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-20T03:23:19.376276+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时23分]"
         },
         {
           "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时23分]"
         },
         {
           "title": "染指“白色石油” “家里有矿”才能治好宁德时代的焦虑？",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时23分]"
         },
         {
           "title": "曼城vs阿森纳",
@@ -48,11 +49,12 @@
           "source": "微博",
           "ranks": [
             9,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 03时23分]"
         },
         {
           "title": "维多集团Q1利润约20亿美元，战争导致部分业务亏损但整体强劲",
@@ -67,6 +69,28 @@
           "time_info": "[01时06分 ~ 02时02分]"
         },
         {
+          "title": "美国财长贝森特：周五与卡塔尔财长进行了会面，讨论美国与卡塔尔之间的持续合作，特别是在伊朗对海湾合作委员会国家的攻击期间。",
+          "url": "https://flash.jin10.com/detail/20260420030549138800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
+          "url": "https://flash.jin10.com/detail/20260420024447488800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
           "url": "https://www.cls.cn/detail/2348368",
           "source": "财联社热门",
@@ -74,8 +98,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时23分]"
         },
         {
           "title": "雷军亲测,SU7跑1313km充1次电",
@@ -86,8 +110,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时23分]"
         },
         {
           "title": "尽管战争造成损失，维多能源集团在第一季度的盈利仍达到约20亿美元。",
@@ -114,6 +138,17 @@
           "time_info": "[00时02分 ~ 01时06分]"
         },
         {
+          "title": "2526 赛季英超联赛英超第 33 轮曼城 2:1 阿森纳，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2029341763345589264",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
           "title": "为什么电动汽车比燃油车更费轮胎？",
           "url": "https://www.zhihu.com/question/661604242",
           "source": "知乎",
@@ -134,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "吊车险触铁路接触网 多趟列车晚点",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8A%E8%BD%A6%E9%99%A9%E8%A7%A6%E9%93%81%E8%B7%AF%E6%8E%A5%E8%A7%A6%E7%BD%91+%E5%A4%9A%E8%B6%9F%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     }
