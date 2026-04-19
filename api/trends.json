@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:11:51.018785+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-04-19T17:14:12.731288+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 16时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时14分]"
         },
         {
           "title": "雷军称未来几年不会推 10 万内车型，智能化成本难控制在 10 万以内，如何看待该表态及背后商业逻辑？",
@@ -44,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 16时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时14分]"
         },
         {
           "title": "长大告诉孩子是轮胎生的",
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时23分 ~ 07时35分]"
+        },
+        {
+          "title": "切尔西0-1曼联",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF0-1%E6%9B%BC%E8%81%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 17时14分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
@@ -115,19 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时40分 ~ 14时59分]"
-        },
-        {
-          "title": "切尔西0-1曼联",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%87%E5%B0%94%E8%A5%BF0-1%E6%9B%BC%E8%81%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时11分]"
         },
         {
           "title": "俄原子能集团总裁：俄原子能集团准备协助伊朗运出浓缩铀",
