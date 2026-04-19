@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T19:59:17.007588+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-19T21:17:20.310971+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "染指“白色石油” “家里有矿”才能治好宁德时代的焦虑？",
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 19时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时17分]"
         },
         {
           "title": "雷军称未来几年不会推 10 万内车型，智能化成本难控制在 10 万以内，如何看待该表态及背后商业逻辑？",
@@ -44,11 +44,12 @@
             30,
             16,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时40分 ~ 19时59分]"
+          "appearance_count": 11,
+          "time_info": "[10时40分 ~ 21时17分]"
         },
         {
           "title": "雷军亲测,SU7跑1313km充1次电",
@@ -63,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 19时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 21时17分]"
         },
         {
           "title": "长大告诉孩子是轮胎生的",
@@ -94,6 +95,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时23分 ~ 07时35分]"
+        },
+        {
+          "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时17分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
@@ -136,15 +149,16 @@
           "time_info": "[10时40分 ~ 14时59分]"
         },
         {
-          "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
-          "url": "https://wallstreetcn.com/articles/3770211",
-          "source": "华尔街见闻",
+          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
+          "url": "https://www.cls.cn/detail/2348368",
+          "source": "财联社热门",
           "ranks": [
+            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时17分]"
         },
         {
           "title": "也门胡塞武装警告：局势升级或致曼德海峡被关闭",
@@ -270,15 +284,16 @@
           "time_info": "[13时29分 ~ 14时59分]"
         },
         {
-          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
-          "url": "https://www.cls.cn/detail/2348368",
-          "source": "财联社热门",
+          "title": "东部战区舰艇编队赴西太平洋演训",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BC%94%E8%AE%AD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            19,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时08分 ~ 19时59分]"
+          "time_info": "[19时58分 ~ 21时17分]"
         },
         {
           "title": "直播15小时 雷军为何要“极限自证”",
@@ -304,17 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时59分]"
-        },
-        {
-          "title": "东部战区舰艇编队赴西太平洋演训",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BC%94%E8%AE%AD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "2526 赛季英超联赛英超第 33 轮切尔西 0:1 曼联，如何评价这场比赛？",
@@ -383,6 +387,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "为什么电动汽车比燃油车更费轮胎？",
+          "url": "https://www.zhihu.com/question/661604242",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "曼联1:0切尔西",
           "url": "https://www.douyin.com/hot/2471280",
           "source": "抖音",
@@ -403,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "英国财政大臣里夫斯将于下周三与英国各大银行的高管会面，原因是持续发酵的伊朗危机正对英国经济造成压力。 巴克莱银行、汇丰控股、劳埃德银行集团、国民西敏寺银行集团以及西班牙桑坦德银行英国分行的高管已受邀出席与里夫斯的会议。 里夫斯很可能会在会议上提及银行需持续承诺支持受此次危机引发的通胀压力所影响的客户。 其他讨论议题将包括银行资本改革，以及对2008年金融危机后引入的“围栏”制度可能进行的修订。（英国天空新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "英国海上贸易行动办公室：已收到关于在阿曼东部3海里处发生事件的报告。一艘游轮的船长报告称，在该船附近发现水花溅起。",
