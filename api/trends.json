@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:06:51.817115+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-04-20T02:02:42.576121+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "染指“白色石油” “家里有矿”才能治好宁德时代的焦虑？",
@@ -38,30 +39,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
-        },
-        {
-          "title": "维多集团Q1利润约20亿美元，战争导致部分业务亏损但整体强劲",
-          "url": "https://flash.jin10.com/detail/20260420001355761800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "曼城vs阿森纳",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时02分]"
+        },
+        {
+          "title": "维多集团Q1利润约20亿美元，战争导致部分业务亏损但整体强劲",
+          "url": "https://flash.jin10.com/detail/20260420001355761800",
+          "source": "金十数据",
+          "ranks": [
+            4,
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时02分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -71,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
           "title": "雷军亲测,SU7跑1313km充1次电",
@@ -83,8 +86,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "尽管战争造成损失，维多能源集团在第一季度的盈利仍达到约20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260419235842884800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "time_info": "[01时06分 ~ 02时02分]"
         },
         {
           "title": "杜华被雷军问还有哪些艺人的反应",
@@ -97,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时06分]"
-        },
-        {
-          "title": "尽管战争造成损失，维多能源集团在第一季度的盈利仍达到约20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260419235842884800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时06分"
         },
         {
           "title": "为什么电动汽车比燃油车更费轮胎？",
