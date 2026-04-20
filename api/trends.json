@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T10:40:54.088013+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-04-20T13:42:25.133130+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时42分]"
         },
         {
           "title": "染指“白色石油” “家里有矿”才能治好宁德时代的焦虑？",
@@ -80,11 +80,12 @@
           "ranks": [
             20,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时42分]"
         },
         {
           "title": "2526 赛季英超联赛英超第 33 轮曼城 2:1 阿森纳，如何评价这场比赛？",
@@ -98,6 +99,53 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时23分 ~ 06时36分]"
+        },
+        {
+          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 13时42分]"
+        },
+        {
+          "title": "小米回应网传“雷军被堵车里维权”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9B%B7%E5%86%9B%E8%A2%AB%E5%A0%B5%E8%BD%A6%E9%87%8C%E7%BB%B4%E6%9D%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 13时42分]"
+        },
+        {
+          "title": "曼城2:1阿森纳",
+          "url": "https://www.douyin.com/hot/2472121",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 13时42分]"
+        },
+        {
+          "title": "阿森纳不敌曼城,争冠局势逆转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353440&amp;topic_name=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8D%E6%95%8C%E6%9B%BC%E5%9F%8E%2C%E4%BA%89%E5%86%A0%E5%B1%80%E5%8A%BF%E9%80%86%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 13时42分]"
         },
         {
           "title": "特朗普：美军在阿曼湾武力拦截并控制一艘伊朗货船",
@@ -139,57 +187,13 @@
           "time_info": "[03时23分 ~ 04时50分]"
         },
         {
-          "title": "小米回应网传“雷军被堵车里维权”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9B%B7%E5%86%9B%E8%A2%AB%E5%A0%B5%E8%BD%A6%E9%87%8C%E7%BB%B4%E6%9D%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
-          "url": "https://wallstreetcn.com/articles/3770211",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "阿森纳不敌曼城,争冠局势逆转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353440&amp;topic_name=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8D%E6%95%8C%E6%9B%BC%E5%9F%8E%2C%E4%BA%89%E5%86%A0%E5%B1%80%E5%8A%BF%E9%80%86%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
           "title": "曼城2-1阿森纳",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E2-1%E9%98%BF%E6%A3%AE%E7%BA%B3",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "曼城2:1阿森纳",
-          "url": "https://www.douyin.com/hot/2472121",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -200,7 +204,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -236,7 +240,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -302,13 +306,24 @@
           "time_info": "[00时02分 ~ 01时06分]"
         },
         {
+          "title": "小鹏汽车发布最贵车型，何小鹏再度向上探索",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005322",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "逃离波斯湾！埃克森美孚、雪佛龙等巨头拟斥资数千亿，全球“抢油”",
           "url": "https://flash.jin10.com/detail/20260420101940428800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -319,7 +334,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -330,7 +345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -363,7 +378,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
