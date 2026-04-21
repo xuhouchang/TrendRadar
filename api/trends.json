@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:12:07.532095+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-22T06:08:34.331691+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时08分]"
         },
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             2,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时08分]"
         },
         {
           "title": "宁德时代新电池续航可超1500km",
@@ -43,8 +44,22 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时08分]"
+        },
+        {
+          "title": "宁德时代发布第三代神行超充电池",
+          "url": "https://www.toutiao.com/trending/7630684576390332454/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22,
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时08分]"
         },
         {
           "title": "伊朗军官：警告海湾邻国不要帮助美国发动对伊袭击",
@@ -58,19 +73,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "宁德时代发布第三代神行超充电池",
-          "url": "https://www.toutiao.com/trending/7630684576390332454/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时12分]"
-        },
-        {
           "title": "宁德时代",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -78,8 +80,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 06时08分]"
         },
         {
           "title": "周二（4月21日），彭博电动汽车价格回报指数涨1.14%，报4045.08点，北京时间09:30以来持续高位震荡。",
@@ -88,7 +90,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -110,7 +112,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -121,7 +123,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
