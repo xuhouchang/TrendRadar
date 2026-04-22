@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T01:28:19.837917+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-04-23T02:38:20.026816+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "问界M9价格",
           "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
@@ -37,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -48,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -59,19 +60,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "问界M6上市",
           "url": "https://www.toutiao.com/trending/7631374675020369427/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 02时38分]"
         },
         {
           "title": "雪佛龙表示，4月22日，其位于得克萨斯州帕萨迪纳的帕萨迪纳炼油厂雷德布拉夫储罐区（Red Bluff Tank Farm）的一个原油储罐发生了泄漏事故。 目前泄漏已被控制在厂区范围内，清理工作正在进行中。 截至目前，尚未收到任何人员伤亡或厂区外影响的报告，公司已部署加强型环境监测。",
