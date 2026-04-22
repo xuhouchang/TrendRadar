@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T04:06:00.166588+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-23T05:26:35.853200+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何看待宁德时代超充电池从 10% 充到 98% 只需要 6 分 27 秒？",
@@ -16,19 +16,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时26分]"
         },
         {
           "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
           "url": "https://wallstreetcn.com/articles/3770568",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时26分]"
+        },
+        {
+          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
+          "url": "https://wallstreetcn.com/articles/3770558",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时26分]"
         },
         {
           "title": "问界M9价格",
@@ -37,34 +51,23 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时26分]"
         },
         {
-          "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
-          "url": "https://wallstreetcn.com/articles/3770558",
-          "source": "华尔街见闻",
+          "title": "特斯拉一季度自由现金流意外转正",
+          "url": "https://flash.jin10.com/detail/20260423043513916800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时06分]"
-        },
-        {
-          "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
-          "url": "https://wallstreetcn.com/livenews/3092819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "05时26分"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -74,8 +77,64 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 05时26分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：正在为得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
+          "url": "https://flash.jin10.com/detail/20260423041028780800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：预计未来芯片需求将超过现有和计划中的行业产能。",
+          "url": "https://flash.jin10.com/detail/20260423040852965800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：Optimus第一代生产线设计年产100万台机器人，将取代位于弗里蒙特的Model S和Model X生产线。",
+          "url": "https://flash.jin10.com/detail/20260423040838460800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
+          "url": "https://flash.jin10.com/detail/20260423040735598800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
+          "url": "https://wallstreetcn.com/livenews/3092819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时26分]"
         },
         {
           "title": "问界M6上市",
@@ -91,6 +150,149 @@
           "time_info": "[01时28分 ~ 04时06分]"
         },
         {
+          "title": "特斯拉(TSLA.O)：计划在今年将服务中心数量翻倍，并扩大在日本的超级充电桩覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260423040644986800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉：正在为美国得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
+          "url": "https://wallstreetcn.com/livenews/3092836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：一旦开始生产，Cybercab预计将逐步取代现有的Model Y车队，并将在未来成为车队中最大的量产车型。",
+          "url": "https://flash.jin10.com/detail/20260423040622317800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：第一季度毛利率为21.1%。",
+          "url": "https://flash.jin10.com/detail/20260423040551930800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉：SpaceX合作伙伴关系意在打造历史上最大的芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3092833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：正在安装首代Optimus生产线，以期实现大规模生产。",
+          "url": "https://flash.jin10.com/detail/20260423040545741800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：Cybercab、Tesla Semi及Megapack 3计划于2026年开始大规模生产。",
+          "url": "https://flash.jin10.com/detail/20260423040535260800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "拉姆研究/泛林集团第三财季营收58.4亿美元，分析师预期57.5亿美元。 第三财季调整后EPS为调整后每股收益（EPS）为1.47美元，分析师预期1.37美元。 预计第四财季营收62亿-70亿美元，分析师预期60.4亿美元。 预计第四财季调整后EPS为1.50-1.80美元，分析师预期1.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3092831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉：Cybercar、特斯拉Semi、Megapack 3都处于正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3092830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉一季度营收223.9亿美元，分析师预期221.9亿美元。 一季度调整后每股收益（EPS）为0.41美元，分析师预期0.34美元；一季度EPS为0.13美元，去年同期0.12美元。 一季度毛利润率21.1%，分析师预期17.7%。 特斯拉盘后涨3.85%。",
+          "url": "https://wallstreetcn.com/livenews/3092828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)第一季度调整后每股收益0.41美元。",
+          "url": "https://flash.jin10.com/detail/20260423040449197800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)第一季度资本支出为24.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423040446915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260423040428719800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "雪佛龙表示，4月22日，其位于得克萨斯州帕萨迪纳的帕萨迪纳炼油厂雷德布拉夫储罐区（Red Bluff Tank Farm）的一个原油储罐发生了泄漏事故。 目前泄漏已被控制在厂区范围内，清理工作正在进行中。 截至目前，尚未收到任何人员伤亡或厂区外影响的报告，公司已部署加强型环境监测。",
           "url": "https://wallstreetcn.com/livenews/3092748",
           "source": "华尔街见闻-快讯",
@@ -100,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2026年Q1营收223.87亿美元，上年同期193.35亿美元，市场预期227.92亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423040335549800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     }
