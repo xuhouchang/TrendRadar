@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-24T06:44:19.433025+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-24T07:46:01.990343+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3770645",
@@ -20,16 +33,18 @@
           "time_info": "[01时01分 ~ 06时44分]"
         },
         {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
           "ranks": [
-            10,
-            9
+            9,
+            14,
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -43,20 +58,6 @@
           "time_info": "[01时01分 ~ 04时53分]"
         },
         {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            9,
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时44分]"
-        },
-        {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -75,8 +76,22 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时46分]"
+        },
+        {
+          "title": "何立峰会见美国黑石集团董事长",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            17,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时12分 ~ 07时46分]"
         },
         {
           "title": "纽曼矿业(NEM.N)：一季度实现黄金平均价格为每盎司4,900美元。",
@@ -112,29 +127,27 @@
           "time_info": "01时01分"
         },
         {
+          "title": "市场消息：文件显示，埃隆·马斯克的SpaceX上个月获得了200亿美元的过渡贷款，以在美国IPO前重组其大部分债务。",
+          "url": "https://flash.jin10.com/detail/20260424070959737800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "加拿大总理：解决酒类禁令取决于美方行动，钢铝、汽车、木材关税才让人心烦",
           "url": "https://wallstreetcn.com/livenews/3093557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时44分"
-        },
-        {
-          "title": "何立峰会见美国黑石集团董事长",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            17,
-            27,
-            28
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时12分 ~ 06时44分]"
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时46分]"
         },
         {
           "title": "英特尔：数据中心CPU需求强劲，期待与马斯克合作",
