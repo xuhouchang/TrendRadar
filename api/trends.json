@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T14:06:45.130626+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-04-23T16:20:11.746455+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 91,
+      "match_count": 99,
       "titles": [
         {
           "title": "如何看待宁德时代超充电池从 10% 充到 98% 只需要 6 分 27 秒？",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 14时06分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 16时20分]"
         },
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -56,11 +56,24 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 14时06分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 16时20分]"
+        },
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 16时20分]"
         },
         {
           "title": "问界M6上市",
@@ -93,16 +106,17 @@
           "time_info": "[01时28分 ~ 05时26分]"
         },
         {
-          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770645",
-          "source": "华尔街见闻",
+          "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
+          "url": "https://www.cls.cn/detail/2353097",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6
+            11,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 16时20分]"
         },
         {
           "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 特斯拉美股盘后转而下跌0.63%。",
@@ -114,6 +128,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "港股收盘，恒生指数收跌0.95%，恒生科技指数收跌1.98%；汽车、贵金属概念股普遍收跌。",
+          "url": "https://flash.jin10.com/detail/20260423160850339800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
+          "url": "https://www.cls.cn/detail/2353290",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。",
@@ -158,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美股盘前，特斯拉跌约2%，ServiceNow跌约12%，诺基亚涨超9%",
+          "url": "https://wallstreetcn.com/livenews/3093160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "特斯拉(TSLA.O)：正在为得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
@@ -377,18 +435,6 @@
           "time_info": "[04时06分 ~ 05时26分]"
         },
         {
-          "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
-          "url": "https://www.cls.cn/detail/2353097",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时06分]"
-        },
-        {
           "title": "特斯拉CFO：预计今年资本支出超过250亿美元。",
           "url": "https://flash.jin10.com/detail/20260423055007923800",
           "source": "金十数据",
@@ -509,6 +555,42 @@
           "time_info": "[06时11分 ~ 07时26分]"
         },
         {
+          "title": "问界M9系列1小时预订量突破11500台",
+          "url": "https://www.toutiao.com/trending/7631788757309640230/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 16时20分]"
+        },
+        {
+          "title": "问界M6上市15分钟大定突破10000台",
+          "url": "https://www.toutiao.com/trending/7631788502019231282/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 16时20分]"
+        },
+        {
+          "title": "曼城登顶英超榜首",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E7%99%BB%E9%A1%B6%E8%8B%B1%E8%B6%85%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 16时20分]"
+        },
+        {
           "title": "特斯拉CFO：尚未从最近的最高法院关税裁决中获得任何好处。",
           "url": "https://flash.jin10.com/detail/20260423054617260800",
           "source": "金十数据",
@@ -591,6 +673,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "特斯拉股价在盘前交易中下跌2%，因其第一季度业绩公布后，公司将2026年支出计划上调了25%。",
+          "url": "https://flash.jin10.com/detail/20260423160308511800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "特斯拉：正在为美国得州超级工厂准备第二代生产线，设计年产能为1000万台机器人。",
           "url": "https://wallstreetcn.com/livenews/3092836",
           "source": "华尔街见闻-快讯",
@@ -630,18 +723,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "问界M9系列1小时预订量突破11500台",
-          "url": "https://www.toutiao.com/trending/7631788757309640230/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -707,7 +789,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -789,17 +871,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "问界M6上市15分钟大定突破10000台",
-          "url": "https://www.toutiao.com/trending/7631788502019231282/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
           "title": "特斯拉CEO埃隆·马斯克：特斯拉计划大幅提高生产能力。",
           "url": "https://flash.jin10.com/detail/20260423053733112800",
           "source": "金十数据",
@@ -872,7 +943,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -899,6 +970,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "英国海上贸易行动办公室：已观察到有船只通过阿曼领海通行，这是减少暴露于可疑危险区域的首选航线。虽然在该海域尚无已确认的海上基础设施袭击报告，但风险仍然“较高”。",
+          "url": "https://flash.jin10.com/detail/20260423155427595800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
           "url": "https://wallstreetcn.com/livenews/3092850",
           "source": "华尔街见闻-快讯",
@@ -919,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "英国海上贸易行动办公室：红海、巴布·曼德布海峡和亚丁湾仍被评估为“中等”威胁等级，无已确认的海上事件发生，船只通行未受重大干扰。尽管如此，地区紧张局势持续存在，局势可能在无预警的情况下发生变化。",
+          "url": "https://flash.jin10.com/detail/20260423155348698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "雪佛龙表示，4月22日，其位于得克萨斯州帕萨迪纳的帕萨迪纳炼油厂雷德布拉夫储罐区（Red Bluff Tank Farm）的一个原油储罐发生了泄漏事故。 目前泄漏已被控制在厂区范围内，清理工作正在进行中。 截至目前，尚未收到任何人员伤亡或厂区外影响的报告，公司已部署加强型环境监测。",
@@ -954,13 +1047,24 @@
           "time_info": "05时26分"
         },
         {
+          "title": "英国海上贸易行动办公室：阿拉伯湾、阿曼湾和霍尔木兹海峡的海上安全环境仍然处于“危急”状态。商业通行仍然受限，过境受到制约，航线不确定性持续存在。",
+          "url": "https://flash.jin10.com/detail/20260423155320112800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "蔚来向松延动力创始人交付第10万台新ES8",
           "url": "https://wallstreetcn.com/livenews/3093057",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -971,7 +1075,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -985,17 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "曼城登顶英超榜首",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E7%99%BB%E9%A1%B6%E8%8B%B1%E8%B6%85%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
         },
         {
           "title": "特斯拉：预计下半年的光伏需求强劲。",
@@ -1037,7 +1130,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -1048,7 +1141,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
