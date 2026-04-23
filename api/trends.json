@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T08:11:07.524791+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-04-23T11:54:42.262806+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "如何看待宁德时代超充电池从 10% 充到 98% 只需要 6 分 27 秒？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 08时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 11时54分]"
         },
         {
           "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 08时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 11时54分]"
         },
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -53,11 +54,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 08时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 11时54分]"
         },
         {
           "title": "问界M6上市",
@@ -99,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770645",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。",
@@ -212,6 +225,17 @@
           "time_info": "[06时11分 ~ 07时26分]"
         },
         {
+          "title": "特斯拉Q1利润超预期 自由现金流意外转正 盘后股价涨近4%",
+          "url": "https://www.cls.cn/detail/2352871",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：Optimus第一代生产线设计年产100万台机器人，将取代位于弗里蒙特的Model S和Model X生产线。",
           "url": "https://flash.jin10.com/detail/20260423040838460800",
           "source": "金十数据",
@@ -268,6 +292,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时26分]"
+        },
+        {
+          "title": "余承东：一体化压铸已经落后",
+          "url": "https://www.toutiao.com/trending/7630825709916946486/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
@@ -519,6 +554,17 @@
           "time_info": "[07时26分 ~ 08时11分]"
         },
         {
+          "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
+          "url": "https://www.cls.cn/detail/2353097",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：计划在今年将服务中心数量翻倍，并扩大在日本的超级充电桩覆盖范围。",
           "url": "https://flash.jin10.com/detail/20260423040644986800",
           "source": "金十数据",
@@ -759,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗外长：美以是海湾不安全的根源 一切后果由他们承担",
+          "url": "https://flash.jin10.com/detail/20260423113309889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特斯拉(TSLA.O)第一季度资本支出为24.93亿美元。",
