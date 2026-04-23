@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T18:06:10.465323+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-23T19:41:15.515280+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 103,
+      "match_count": 109,
       "titles": [
         {
           "title": "如何看待宁德时代超充电池从 10% 充到 98% 只需要 6 分 27 秒？",
@@ -59,21 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 18时06分]"
-        },
-        {
-          "title": "马斯克算法撕开日本遮羞布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时28分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时41分]"
         },
         {
           "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
@@ -83,11 +70,12 @@
             11,
             6,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时41分]"
         },
         {
           "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
@@ -98,8 +86,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时06分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时41分]"
+        },
+        {
+          "title": "马斯克算法撕开日本遮羞布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            15,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时28分 ~ 19时41分]"
+        },
+        {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 19时41分]"
         },
         {
           "title": "问界M6上市",
@@ -132,15 +145,27 @@
           "time_info": "[01时28分 ~ 05时26分]"
         },
         {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时06分]"
+          "time_info": "[18时05分 ~ 19时41分]"
+        },
+        {
+          "title": "64岁大叔6年斥资600万研发轮胎",
+          "url": "https://www.baidu.com/s?wd=64%E5%B2%81%E5%A4%A7%E5%8F%946%E5%B9%B4%E6%96%A5%E8%B5%84600%E4%B8%87%E7%A0%94%E5%8F%91%E8%BD%AE%E8%83%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 特斯拉美股盘后转而下跌0.63%。",
@@ -152,17 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "港股收盘，恒生指数收跌0.95%，恒生科技指数收跌1.98%；汽车、贵金属概念股普遍收跌。",
@@ -248,7 +262,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -638,6 +652,17 @@
           "time_info": "[06时11分 ~ 07时26分]"
         },
         {
+          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
+          "url": "https://www.zhihu.com/question/2030242148881101121",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "马斯克表示，限制Robotaxi部署的并非安全问题，而是便利性问题。 “有时候，车子会不敢穿过铁路道口”或者卡在红绿灯前。 他还提到，有一批Robotaxi被困在左转车道，因为一辆Waymo“撞上了一辆巴士”。",
           "url": "https://wallstreetcn.com/livenews/3092888",
           "source": "华尔街见闻-快讯",
@@ -648,6 +673,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 08时11分]"
+        },
+        {
+          "title": "问界M9“宣战”蔚来ES9",
+          "url": "https://www.toutiao.com/trending/7631440971965661194/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "特斯拉CEO马斯克表示，我们长期的产量中大部分将是Cybercab（自动驾驶出租车）。 长远来看，唯一保留人工驾驶的车型将是新款Roadster。 新款Roadster或许能在一个月左右首次亮相。",
@@ -725,7 +761,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -1115,6 +1151,17 @@
           "time_info": "14时06分"
         },
         {
+          "title": "欣旺达：第一季度净利润1.14亿元，同比下降70.49%",
+          "url": "https://wallstreetcn.com/livenews/3093245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "全新一代问界M9开启预售",
           "url": "https://www.toutiao.com/trending/7631778504417447474/",
           "source": "今日头条",
@@ -1135,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "特斯拉将于6月前在德国超级工厂新增1000个工作岗位。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3093244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "特斯拉：预计下半年的光伏需求强劲。",
@@ -1179,6 +1237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
+        },
+        {
+          "title": "特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "欧洲汽车制造商协会（ACEA）表示，上月新车注册量增长11%至158万辆。所有主要市场的销量均实现扩张，电动汽车交付量飙升42%。",
