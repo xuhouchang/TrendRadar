@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T21:25:33.816661+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-04-24T22:54:15.126965+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,21 @@
           "time_info": "[01时01分 ~ 04时53分]"
         },
         {
+          "title": "雷军玩梗送李想“听我讲完”T恤",
+          "url": "https://www.toutiao.com/trending/7631901455554609195/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15,
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 22时54分]"
+        },
+        {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
@@ -128,20 +143,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "雷军玩梗送李想“听我讲完”T恤",
-          "url": "https://www.toutiao.com/trending/7631901455554609195/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 21时25分]"
-        },
-        {
           "title": "纽曼矿业(NEM.N)：一季度实现黄金平均价格为每盎司4,900美元。",
           "url": "https://flash.jin10.com/detail/20260424042901417800",
           "source": "金十数据",
@@ -181,7 +182,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -275,6 +276,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时46分]"
+        },
+        {
+          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
+          "url": "https://www.zhihu.com/question/2029938790186182052",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 22时54分]"
+        },
+        {
+          "title": "上汽集团原副总裁陈德美获刑12年",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E9%9B%86%E5%9B%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E8%A3%81%E9%99%88%E5%BE%B7%E7%BE%8E%E8%8E%B7%E5%88%9112%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 22时54分]"
         },
         {
           "title": "老外再现整齐“蔚来蹲” 围观换电",
@@ -446,17 +470,6 @@
           "time_info": "16时04分"
         },
         {
-          "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
-          "url": "https://www.zhihu.com/question/2029938790186182052",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "李斌回应雷军直播使用蔚来充电桩",
           "url": "https://www.toutiao.com/trending/7632177533568417842/",
           "source": "今日头条",
@@ -606,7 +619,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -639,7 +652,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -661,18 +674,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "上汽集团原副总裁陈德美获刑12年",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B1%BD%E9%9B%86%E5%9B%A2%E5%8E%9F%E5%89%AF%E6%80%BB%E8%A3%81%E9%99%88%E5%BE%B7%E7%BE%8E%E8%8E%B7%E5%88%9112%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
