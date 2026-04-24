@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T06:09:56.255492+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-04-25T07:08:19.855561+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             18,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 06时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时08分]"
         },
         {
           "title": "雷军玩梗送李想“听我讲完”T恤",
@@ -40,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 07时08分]"
         },
         {
           "title": "雷军北京车展上给王传福送T恤",
