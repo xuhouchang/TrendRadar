@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T03:29:53.939426+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-25T04:10:33.237484+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 03时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时10分]"
         },
         {
           "title": "雷军玩梗送李想“听我讲完”T恤",
@@ -30,8 +30,21 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时10分]"
+        },
+        {
+          "title": "雷军北京车展上给王传福送T恤",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%BB%99%E7%8E%8B%E4%BC%A0%E7%A6%8F%E9%80%81T%E6%81%A4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 04时10分]"
         },
         {
           "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时08分]"
-        },
-        {
-          "title": "雷军北京车展上给王传福送T恤",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%BB%99%E7%8E%8B%E4%BC%A0%E7%A6%8F%E9%80%81T%E6%81%A4",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 03时29分]"
         }
       ]
     }
