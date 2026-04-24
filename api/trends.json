@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T16:04:28.595815+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-04-24T18:05:30.649436+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -112,7 +112,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -150,17 +150,6 @@
           "time_info": "04时53分"
         },
         {
-          "title": "张彬彬郑业成KO美人师兄售后",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E9%83%91%E4%B8%9A%E6%88%90KO%E7%BE%8E%E4%BA%BA%E5%B8%88%E5%85%84%E5%94%AE%E5%90%8E&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
           "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
           "url": "https://www.cls.cn/detail/2353290",
           "source": "财联社热门",
@@ -189,7 +178,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -200,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -214,6 +203,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "中国商务部部长王文涛会见美国奥尔布赖特石桥集团高级顾问薄迈伦",
+          "url": "https://wallstreetcn.com/livenews/3093933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "张彬彬郑业成KO美人师兄售后",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%BD%AC%E5%BD%AC%E9%83%91%E4%B8%9A%E6%88%90KO%E7%BE%8E%E4%BA%BA%E5%B8%88%E5%85%84%E5%94%AE%E5%90%8E&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 18时05分]"
         },
         {
           "title": "加拿大总理：解决酒类禁令取决于美方行动，钢铝、汽车、木材关税才让人心烦",
@@ -252,6 +264,18 @@
           "time_info": "[13时36分 ~ 16时04分]"
         },
         {
+          "title": "雷军玩梗送李想“听我讲完”T恤",
+          "url": "https://www.toutiao.com/trending/7631901455554609195/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 18时05分]"
+        },
+        {
           "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
           "url": "https://www.zhihu.com/question/2030579939343380868",
           "source": "知乎",
@@ -274,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 16时04分]"
+        },
+        {
+          "title": "王文涛部长会见美国奥尔布赖特石桥集团高级顾问薄迈伦",
+          "url": "https://flash.jin10.com/detail/20260424174715040800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "索马里官员：将限制与以色列有关船只通过曼德海峡",
@@ -320,6 +355,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "现代汽车：未来五年内将在中国推出20款新车，目标年销量升至50万辆",
+          "url": "https://flash.jin10.com/detail/20260424174304387800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "比尔·阿克曼管理的对冲基金申请美国IPO",
           "url": "https://wallstreetcn.com/livenews/3093527",
           "source": "华尔街见闻-快讯",
@@ -342,26 +388,37 @@
           "time_info": "04时53分"
         },
         {
+          "title": "白敬亭现身北京车展问界展台",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%B0%E8%BA%AB%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E9%97%AE%E7%95%8C%E5%B1%95%E5%8F%B0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "蔚来全新ES8玄金特别版北京车展上市",
           "url": "https://www.toutiao.com/trending/7631883386492043327/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
         {
-          "title": "雷军玩梗送李想“听我讲完”T恤",
-          "url": "https://www.toutiao.com/trending/7631901455554609195/",
-          "source": "今日头条",
+          "title": "据美国汽车协会（AAA）的数据显示，美国汽油价格小幅上涨3美分，至每加仑4.06美元。",
+          "url": "https://flash.jin10.com/detail/20260424174135130800",
+          "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "18时05分"
         },
         {
           "title": "据知情人士透露，贝索斯旗下Project Prometheus按380亿美元估值完成100亿美元规模的融资。 摩根大通、贝莱德集团等参投。（彭博）",
@@ -381,7 +438,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -392,7 +449,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -441,6 +498,28 @@
           "time_info": "10时38分"
         },
         {
+          "title": "外国友人在北京车展上被长城汽车圈粉",
+          "url": "https://www.toutiao.com/trending/7632169584321593390/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "【伊朗德黑兰机场将恢复国际航班】据伊朗塔斯尼姆通讯社24日报道，位于伊朗首都德黑兰的伊玛目霍梅尼国际机场25日起将恢复飞往土耳其伊斯坦布尔和阿曼马斯喀特的国际航班。(新华社)",
+          "url": "https://wallstreetcn.com/livenews/3093905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "雷军亮相北京车展 拆解版小米SU7曝光",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%BA%AE%E7%9B%B8%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95+%E6%8B%86%E8%A7%A3%E7%89%88%E5%B0%8F%E7%B1%B3SU7%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -463,13 +542,35 @@
           "time_info": "13时36分"
         },
         {
+          "title": "长城汽车：第一季度净利润9.45亿元，同比下降46.01%",
+          "url": "https://wallstreetcn.com/livenews/3093902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "南向资金今日净买入34.6亿元。港股通（沪）方面，中国海洋石油、中国移动分别获净买入8.5亿港元、5.46亿港元；中芯国际净卖出额居首，金额为15.21亿港元；港股通（深）方面，中芯国际、华虹半导体分别获净买入10.5亿港元、2.65亿港元；吉利汽车净卖出额居首，金额为8.56亿港元。",
+          "url": "https://flash.jin10.com/detail/20260424173340187800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "马斯克在X上发文指出，“Cybercab已开始生产”。",
           "url": "https://wallstreetcn.com/livenews/3093799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         }
