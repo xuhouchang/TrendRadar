@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:05:25.482736+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-04-26T06:02:30.717316+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时02分]"
         },
         {
           "title": "宁德时代飞机规模量产在即",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时02分]"
         },
         {
           "title": "蔚来全新ES8玄金特别版正式上市，售价45.68万元",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 06时02分]"
         },
         {
           "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
@@ -53,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时02分]"
         },
         {
           "title": "哪吒汽车走下神坛",
@@ -67,21 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时05分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260426030037606800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 06时02分]"
         },
         {
           "title": "亿纬锂能：BBU电池预计2026年5—6月输出A样向客户送样",
@@ -91,8 +78,34 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 05时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 06时02分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260426030037606800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 06时02分]"
+        },
+        {
+          "title": "伊朗最高领袖敦促海湾国家对“邪恶势力”的虚假承诺保持警惕",
+          "url": "https://flash.jin10.com/detail/20260426043541017800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 06时02分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -109,27 +122,17 @@
           "time_info": "[00时05分 ~ 05时05分]"
         },
         {
-          "title": "伊朗最高领袖敦促海湾国家对“邪恶势力”的虚假承诺保持警惕",
-          "url": "https://flash.jin10.com/detail/20260426043541017800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
           "title": "伊朗外交部发言人：伊朗与阿曼的关系证明了伊朗致力于与其波斯湾南部邻国建立相互尊重和互利共赢关系的真诚承诺。",
           "url": "https://flash.jin10.com/detail/20260426032417188800",
           "source": "金十数据",
           "ranks": [
             2,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时02分]"
         },
         {
           "title": "伊朗外长抵达阿曼",
