@@ -1,583 +1,88 @@
 {
-  "generated_at": "2026-04-26T23:42:36.612829+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-04-27T00:43:10.037853+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 45,
+      "match_count": 7,
       "titles": [
         {
-          "title": "人民锐评：投资哪吒汽车与布局张雪机车，是“成王败寇”逻辑？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33049547",
-          "source": "澎湃新闻",
+          "title": "汽车区UP主组团探车展",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E5%8C%BAUP%E4%B8%BB%E7%BB%84%E5%9B%A2%E6%8E%A2%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 08时04分]"
-        },
-        {
-          "title": "宁德时代飞机规模量产在即",
-          "url": "https://www.toutiao.com/trending/7632251790507786294/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            17,
-            30,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8,
-            10,
-            21,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时02分 ~ 23时42分]"
-        },
-        {
-          "title": "蔚来全新ES8玄金特别版正式上市，售价45.68万元",
-          "url": "https://wallstreetcn.com/livenews/3094404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 08时04分]"
-        },
-        {
-          "title": "哪吒汽车走下神坛",
-          "url": "https://www.toutiao.com/trending/7632688215803039238/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            27,
-            21,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时05分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
           "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            12,
-            11,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时02分 ~ 23时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
-          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
-          "url": "https://www.zhihu.com/question/2030972645903004124",
-          "source": "知乎",
+          "title": "马斯克：如果他们愿意为暗杀而死，想象一下如果他们获得政治权力会做什么。",
+          "url": "https://flash.jin10.com/detail/20260426235113948800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            17,
-            13,
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "余承东：尊界新车价格在200万左右",
+          "url": "https://www.toutiao.com/trending/7632305048357666879/",
+          "source": "今日头条",
+          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 20时04分]"
-        },
-        {
-          "title": "伊朗最高领袖敦促海湾国家保持警惕",
-          "url": "https://www.toutiao.com/trending/7632514962371464758/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23,
-            26,
-            24,
-            29,
-            28,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时02分 ~ 21时46分]"
-        },
-        {
-          "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
-          "url": "https://www.zhihu.com/question/2010916446084015187",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 08时04分]"
-        },
-        {
-          "title": "华为余承东：尊界新车价格在200万左右",
-          "url": "https://wallstreetcn.com/livenews/3094448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            13,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 20时04分]"
-        },
-        {
-          "title": "亿纬锂能：BBU电池预计2026年5—6月输出A样向客户送样",
-          "url": "https://wallstreetcn.com/livenews/3094383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "曼城挺进足总杯决赛",
-          "url": "https://www.douyin.com/hot/2479338",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗克尔曼沙阿防空系统启动",
-          "url": "https://flash.jin10.com/detail/20260426055251082800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时05分 ~ 08时04分]"
-        },
-        {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://wallstreetcn.com/livenews/3094478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时04分]"
-        },
-        {
-          "title": "媒体：比亚迪正在改写世界汽车格局",
-          "url": "https://www.toutiao.com/trending/7632229863222427711/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            23,
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗克尔曼沙赫地区拉响防空警报，原因不明。",
-          "url": "https://flash.jin10.com/detail/20260426054104648800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗最高领袖敦促海湾国家对“邪恶势力”的虚假承诺保持警惕",
-          "url": "https://flash.jin10.com/detail/20260426043541017800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时05分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260426030037606800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时02分]"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗与阿曼的关系证明了伊朗致力于与其波斯湾南部邻国建立相互尊重和互利共赢关系的真诚承诺。",
-          "url": "https://flash.jin10.com/detail/20260426032417188800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时02分 ~ 08时04分]"
-        },
-        {
-          "title": "全新问界M9汽车72小时预订量破两万五",
-          "url": "https://www.toutiao.com/trending/7632586090117058054/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24,
-            21,
-            25,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 20时04分]"
-        },
-        {
-          "title": "马斯克把方向盘删了",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8A%8A%E6%96%B9%E5%90%91%E7%9B%98%E5%88%A0%E4%BA%86&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "余承东检讨称以前做车不重视外观",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%E7%A7%B0%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            9,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时11分]"
-        },
-        {
-          "title": "余承东检讨称以前做车不重视外观",
-          "url": "https://www.toutiao.com/trending/7632858323850903561/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时32分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周日（4月26日），阿曼MSM 30指数收跌0.44%，连续六个交易日下跌（4月16日结束交易以来累计回撤2.59%），报8123.73点，4月16日曾涨至8388.28点——逼近2008年9月29日顶部8563.41点和当年7月8日顶部11957.75点。 卡塔尔证交所指数收涨0.05%，报10668.05点。 科威特证交所超级市场价格回报指数收涨0.26%，报946903点。",
-          "url": "https://wallstreetcn.com/livenews/3094499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://flash.jin10.com/detail/20260426153521787800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗外长离开阿曼马斯喀特前往巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3094524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗外长离开阿曼马斯喀特前往巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260426211718448800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗外长抵达阿曼",
-          "url": "https://flash.jin10.com/detail/20260426014305795800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时27分]"
-        },
-        {
-          "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260426013818173800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 03时27分]"
-        },
-        {
-          "title": "伊朗外交部：外交部长阿拉格齐与阿曼苏丹讨论安全问题、霍尔木兹海峡的安全、以及地区安全。 伊朗外长强调，地区国家有必要构建摆脱“美国干预”的集体安全机制。",
-          "url": "https://wallstreetcn.com/livenews/3094498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 21时46分]"
-        },
-        {
-          "title": "余承东检讨：以前做车不重视外观",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%EF%BC%9A%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时11分]"
-        },
-        {
-          "title": "据阿曼国家通讯社：阿会晤期间，阿曼国家元首与伊朗外长就地区形势的发展和调解努力进行了磋商。",
-          "url": "https://flash.jin10.com/detail/20260426151121805800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时32分]"
-        },
-        {
-          "title": "唐宁街发言人：英国首相斯塔默周日与美国总统特朗普通话，对枪击事件后特朗普及第一夫人平安无事表示欣慰，斯塔默还与特朗普在通话中讨论了在霍尔木兹海峡恢复航运的紧迫需求。",
-          "url": "https://flash.jin10.com/detail/20260426211115942800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时43分]"
-        },
-        {
-          "title": "据阿曼国家通讯社：阿曼国家元首在马斯喀特会见了伊朗外长阿拉格奇。",
-          "url": "https://flash.jin10.com/detail/20260426151101191800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时32分]"
+          "time_info": "[00时42分 ~ 00时43分]"
         },
         {
           "title": "造谣“雷军被堵车内维权”，小米：李某华被行拘10日",
           "url": "https://wallstreetcn.com/livenews/3094532",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
             11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 23时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗外长离开阿曼马斯喀特前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         },
         {
           "title": "中东股市收盘播报｜埃及股市继续创收盘历史新高，阿曼股指连跌六天",
           "url": "https://wallstreetcn.com/livenews/3094499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            28,
             29
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗最高领袖敦促海湾国家：保持警惕",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%95%A6%E4%BF%83%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%EF%BC%9A%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "乘联分会崔东树：1-3月中国汽车进口10万辆 同比增3%",
-          "url": "https://flash.jin10.com/detail/20260426142845192800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时32分]"
-        },
-        {
-          "title": "尊界S800上市10个月交付1.6万台",
-          "url": "https://www.toutiao.com/trending/7632941960495451674/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外交部长与阿曼苏丹讨论了霍尔木兹海峡的安全及安全通行问题，还有地区安全事宜。",
-          "url": "https://flash.jin10.com/detail/20260426191626695800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外部长抵达阿曼马斯喀特。",
-          "url": "https://flash.jin10.com/detail/20260426003543420800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外交部长抵达阿曼马斯喀特。",
-          "url": "https://flash.jin10.com/detail/20260426003543420800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "汽车区UP主组团探车展",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E5%8C%BAUP%E4%B8%BB%E7%BB%84%E5%9B%A2%E6%8E%A2%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "比亚迪能越野的MPV来了",
-          "url": "https://www.toutiao.com/trending/7632963848034700851/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "曼城挺进足总杯决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E%E6%8C%BA%E8%BF%9B%E8%B6%B3%E6%80%BB%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "00时43分"
         }
       ]
     }
