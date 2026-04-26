@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:26:31.159730+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-04-26T19:11:41.570582+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 19时11分]"
         },
         {
           "title": "伊朗最高领袖敦促海湾国家保持警惕",
@@ -96,11 +96,24 @@
             26,
             24,
             29,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 19时11分]"
+        },
+        {
+          "title": "余承东：尊界新车价格在200万左右",
+          "url": "https://www.toutiao.com/trending/7632305048357666879/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时11分]"
         },
         {
           "title": "亿纬锂能：BBU电池预计2026年5—6月输出A样向客户送样",
@@ -114,16 +127,19 @@
           "time_info": "[00时05分 ~ 07时05分]"
         },
         {
-          "title": "余承东：尊界新车价格在200万左右",
-          "url": "https://www.toutiao.com/trending/7632305048357666879/",
-          "source": "今日头条",
+          "title": "华为余承东：尊界新车价格在200万左右",
+          "url": "https://wallstreetcn.com/livenews/3094448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            2,
+            5,
+            8,
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 19时11分]"
         },
         {
           "title": "曼城挺进足总杯决赛",
@@ -137,20 +153,6 @@
           "time_info": "[17时31分 ~ 18时26分]"
         },
         {
-          "title": "华为余承东：尊界新车价格在200万左右",
-          "url": "https://wallstreetcn.com/livenews/3094448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 18时26分]"
-        },
-        {
           "title": "伊朗克尔曼沙阿防空系统启动",
           "url": "https://flash.jin10.com/detail/20260426055251082800",
           "source": "金十数据",
@@ -160,6 +162,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
+          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
+          "url": "https://wallstreetcn.com/livenews/3094478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时11分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -201,18 +216,6 @@
           "time_info": "[05时05分 ~ 08时04分]"
         },
         {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://wallstreetcn.com/livenews/3094478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时26分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
           "url": "https://flash.jin10.com/detail/20260426030037606800",
           "source": "金十数据",
@@ -242,6 +245,20 @@
         },
         {
           "title": "余承东检讨称以前做车不重视外观",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%E7%A7%B0%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            9,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时11分]"
+        },
+        {
+          "title": "余承东检讨称以前做车不重视外观",
           "url": "https://www.toutiao.com/trending/7632858323850903561/",
           "source": "今日头条",
           "ranks": [
@@ -254,17 +271,30 @@
           "time_info": "[14时24分 ~ 17时32分]"
         },
         {
-          "title": "余承东检讨称以前做车不重视外观",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%E7%A7%B0%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            9,
-            22
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时11分]"
+        },
+        {
+          "title": "全新问界M9汽车72小时预订量破两万五",
+          "url": "https://www.toutiao.com/trending/7632586090117058054/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            24,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时11分]"
         },
         {
           "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
@@ -304,29 +334,16 @@
           "time_info": "[02时05分 ~ 03时27分]"
         },
         {
-          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
-          "source": "澎湃新闻",
+          "title": "余承东检讨：以前做车不重视外观",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%EF%BC%9A%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82",
+          "source": "百度热搜",
           "ranks": [
             18,
-            12
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时26分]"
-        },
-        {
-          "title": "全新问界M9汽车72小时预订量破两万五",
-          "url": "https://www.toutiao.com/trending/7632586090117058054/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时26分]"
+          "time_info": "[17时31分 ~ 19时11分]"
         },
         {
           "title": "据阿曼国家通讯社：阿会晤期间，阿曼国家元首与伊朗外长就地区形势的发展和调解努力进行了磋商。",
@@ -351,17 +368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 17时32分]"
-        },
-        {
-          "title": "余承东检讨：以前做车不重视外观",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%A3%80%E8%AE%A8%EF%BC%9A%E4%BB%A5%E5%89%8D%E5%81%9A%E8%BD%A6%E4%B8%8D%E9%87%8D%E8%A7%86%E5%A4%96%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时26分]"
         },
         {
           "title": "伊朗最高领袖敦促海湾国家：保持警惕",
@@ -427,7 +433,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
