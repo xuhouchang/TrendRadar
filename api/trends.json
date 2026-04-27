@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T00:27:02.364820+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-28T01:50:03.779050+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2031783897910990078",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时50分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -26,19 +27,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时50分]"
         },
         {
           "title": "宁德时代获全球最大钠离子电池订单",
           "url": "https://www.toutiao.com/trending/7633204063064113195/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时50分]"
         },
         {
           "title": "理想汽车：正式进入阿联酋、沙特阿拉伯市场，启动亚太区域布局",
@@ -47,7 +49,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
