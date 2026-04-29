@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:31:37.501367+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-04-30T07:31:40.199353+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时31分]"
         },
         {
           "title": "马斯克出庭控诉奥特曼",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 07时31分]"
         },
         {
           "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
@@ -55,13 +55,26 @@
           "time_info": "05时05分"
         },
         {
+          "title": "马斯克为何不惜重金拿下Cursor",
+          "url": "https://www.toutiao.com/trending/7634165333766442539/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时31分]"
+        },
+        {
           "title": "福特汽车CEO Jim Farley：公司与美国政府谈判国防相关的若干项目，磋商处于早期阶段。",
           "url": "https://wallstreetcn.com/livenews/3096967",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "马斯克为何不惜重金拿下Cursor",
-          "url": "https://www.toutiao.com/trending/7634165333766442539/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 03时43分]"
         },
         {
           "title": "比亚迪净利润为何腰斩",
@@ -152,7 +153,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
