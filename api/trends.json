@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:02:38.515326+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-04-29T22:38:19.565426+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "马上评｜“为举报人保密”不该沦为纸面规定",
@@ -20,6 +20,19 @@
           "time_info": "[01时47分 ~ 10时52分]"
         },
         {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 22时38分]"
+        },
+        {
           "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
           "url": "https://www.zhihu.com/question/2032535175213441716",
           "source": "知乎",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 07时56分]"
-        },
-        {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 20时02分]"
         },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
@@ -137,9 +137,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "马斯克拥有将自己踢出SpaceX董事会的“唯一权限”。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3096773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "曼城官宣斯通斯今夏离队",
@@ -159,9 +170,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "IPO文件：马斯克在SpaceX对自身罢免拥有否决权",
+          "url": "https://flash.jin10.com/detail/20260429221551143800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "A股券商股震荡走强，首创证券涨超5%，国金证券、中国银河、太平洋、西南证券、广发证券等个股跟涨。",
@@ -220,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "蔚来李斌：不急于入局具身智能机器人，先观望再入场",
+          "url": "https://wallstreetcn.com/livenews/3096767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -288,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "比尔·阿克曼：（众多）封闭基金应该按折扣销售。 下调对机构投资者的售股规模之后，PSUS（潘兴广场美国）IPO获得超额认购。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3096764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "比亚迪短期借款飙升至纪录高位，季度利润降至数年来最低",
@@ -410,7 +454,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -443,7 +487,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -547,6 +591,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "英国大曼彻斯特市市长：英国政府需要走上一条不同的道路。",
+          "url": "https://flash.jin10.com/detail/20260429215340839800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
           "url": "https://wallstreetcn.com/livenews/3095988",
           "source": "华尔街见闻-快讯",
@@ -597,9 +652,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "英国大曼彻斯特市市长伯纳姆：有理由考虑在财政规则之外的国防支出。",
+          "url": "https://flash.jin10.com/detail/20260429215320672800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
@@ -633,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "英国大曼彻斯特市市长伯纳姆：选民有权认为英国政治未能有效运作。",
+          "url": "https://flash.jin10.com/detail/20260429215312613800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "乐道L80预售，蔚来港股涨超8%",
