@@ -1,510 +1,77 @@
 {
-  "generated_at": "2026-04-30T23:28:48.991254+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2026-05-01T00:59:41.446023+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "成功率在70%以上！国铁集团公布官方候补攻略",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079222",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 21时07分]"
-        },
-        {
-          "title": "马斯克出庭控诉奥特曼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%BA%E5%BA%AD%E6%8E%A7%E8%AF%89%E5%A5%A5%E7%89%B9%E6%9B%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时42分 ~ 09时19分]"
-        },
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.toutiao.com/trending/7633726705320099883/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            18,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时31分]"
-        },
-        {
-          "title": "探索世界首艘万车级汽车运输船",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%B4%A2%E4%B8%96%E7%95%8C%E9%A6%96%E8%89%98%E4%B8%87%E8%BD%A6%E7%BA%A7%E6%B1%BD%E8%BD%A6%E8%BF%90%E8%BE%93%E8%88%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 17时35分]"
-        },
-        {
-          "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
-          "url": "https://www.zhihu.com/question/2032817462966577108",
-          "source": "知乎",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时56分]"
-        },
         {
           "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
           "url": "https://www.cls.cn/detail/2361424",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 23时28分]"
-        },
-        {
-          "title": "Telsey顾问集团：将亚马逊(AMZN.O)目标价从300美元上调至315美元。",
-          "url": "https://flash.jin10.com/detail/20260430171014045800",
-          "source": "金十数据",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "00时59分"
         },
         {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "吉利汽车：与曹操出行订立服务协议",
-          "url": "https://flash.jin10.com/detail/20260430170812740800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。 预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096935",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克庭审交叉询问环节多次失控",
+          "url": "https://www.toutiao.com/trending/7634565775876951571/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "00时59分"
         },
         {
-          "title": "广信股份：因涉嫌广信股份持股变动信息披露违法违规，中国证监会决定对广信集团立案。",
-          "url": "https://wallstreetcn.com/livenews/3097374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗与海湾邻国命运相连",
-          "url": "https://wallstreetcn.com/livenews/3097435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "特斯拉Semi首辆量产车下线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E9%A6%96%E8%BE%86%E9%87%8F%E4%BA%A7%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时35分]"
-        },
-        {
-          "title": "欧洲能源股走高，雷普索尔 、道达尔能源 、意大利油企埃尼集团 、壳牌 、英国石油均上涨，涨幅在1-2.5%之间。",
-          "url": "https://flash.jin10.com/detail/20260430151134325800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "吉利汽车：与LEVC汽车订立整车成套件及汽车部件购买协议",
-          "url": "https://wallstreetcn.com/livenews/3097371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "比亚迪和宁德时代捅破超充的窗户纸",
-          "url": "https://www.toutiao.com/trending/7634198638670908969/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时56分]"
-        },
-        {
-          "title": "上海三中院裁定受理集度汽车重整申请",
-          "url": "https://wallstreetcn.com/livenews/3097431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数涨超1.3%，刷新日高至6880点上方。 热门中概股里，百度涨超4.6%，贝壳涨4.4%，再鼎医药涨4.3%，美团涨3.4%，网易涨2.8%，携程涨2.7%，新东方涨1.7%，拼多多涨1.5%，阿里巴巴涨0.4%，蔚来跌约1.9%。 ETF中，CQQQ涨超3%，KWEB涨1.7%，ASHS涨1.5%，ASHR涨1.1%。 富时A50夜期涨约0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3097607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
-          "url": "https://www.zhihu.com/question/2033103134843720731",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 23时28分]"
-        },
-        {
-          "title": "马斯克为何不惜重金拿下Cursor",
-          "url": "https://www.toutiao.com/trending/7634165333766442539/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 07时31分]"
-        },
-        {
-          "title": "能源情报集团记者阿蒙娜•巴克尔：我对欧佩克了解的一件事就是，这个组织不断演变。有国家加入，有其他国家退出，但这个组织依然存在。",
-          "url": "https://flash.jin10.com/detail/20260430123342370800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "福特汽车CEO Jim Farley：公司与美国政府谈判国防相关的若干项目，磋商处于早期阶段。",
-          "url": "https://wallstreetcn.com/livenews/3096967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "吉利汽车：与曹操出行订立服务协议",
-          "url": "https://wallstreetcn.com/livenews/3097369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "UMG（环球音乐集团）一季度营收29亿欧元，分析师预期29.5亿欧元。 一季度EBITDA为5.71亿欧元，分析师预期6.094亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3096813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "极越汽车合并重整获受理",
-          "url": "https://flash.jin10.com/detail/20260430123015489800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：海湾和霍尔木兹海峡正在开启新篇章。 伊朗将消除美国对霍尔木兹海峡的“剥削”。 美国在海湾地区的存在是造成不安全的主因。 霍尔木兹海峡的新管理将惠及该地区。",
-          "url": "https://wallstreetcn.com/livenews/3097426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "比亚迪净利润为何腰斩",
-          "url": "https://www.toutiao.com/trending/7634181884787822143/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 01时58分]"
-        },
-        {
-          "title": "国铁集团公布官方候补攻略",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%93%81%E9%9B%86%E5%9B%A2%E5%85%AC%E5%B8%83%E5%AE%98%E6%96%B9%E5%80%99%E8%A1%A5%E6%94%BB%E7%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时31分]"
-        },
-        {
-          "title": "马斯克天价薪酬与火星移民挂钩",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC%E4%B8%8E%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91%E6%8C%82%E9%92%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "道达尔能源10亿美元规模风电场租赁协议遭到美国民主党的调查。",
-          "url": "https://wallstreetcn.com/livenews/3096834",
+          "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
+          "url": "https://wallstreetcn.com/livenews/3097631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "00时59分"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3096924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "乘联分会崔东树：2026年1—3月中国占世界汽车份额32%",
-          "url": "https://flash.jin10.com/detail/20260430082447277800",
+          "title": "谷歌：Gemini软件更新将首先在美国汽车中推出。",
+          "url": "https://flash.jin10.com/detail/20260501000334674800",
           "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "江淮汽车：拟投资引望智能技术有限公司",
-          "url": "https://wallstreetcn.com/livenews/3097423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "大商所：增加万华化学集团（烟台）烯烃有限公司为聚氯乙烯品种指定交割仓库。上述事项自即日起生效。",
-          "url": "https://flash.jin10.com/detail/20260430150314706800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "周三（4月29日）纽约尾盘，彭博电动汽车价格回报指数涨2.30%，报4035.95点，亚太时段持续上涨，北京时间13:25以来持续交投于4020点上方、持续窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3096920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "第十四届全国人民代表大会常务委员会第二十二次会议决定：批准2025年6月17日由中华人民共和国代表在阿斯塔纳签署的《中华人民共和国和哈萨克斯坦共和国、吉尔吉斯共和国、塔吉克斯坦共和国、土库曼斯坦、乌兹别克斯坦共和国永久睦邻友好合作条约》。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3097421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "据知情人士透露，汽车供应商Tenneco准备今年IPO，该公司投资方包括阿波罗。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3096957",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
+          "time_info": "00时59分"
         },
         {
-          "title": "先正达集团：一季度营业收入64亿美元 同比增长2%",
-          "url": "https://wallstreetcn.com/livenews/3097270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "贝莱德集团Jeff Rosenberg：美联储联邦公开市场委员会（FOMC）的意见分歧状态料将延续下去。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3096918",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：在配备谷歌内置应用的汽车中推出Gemini人工智能。",
+          "url": "https://flash.jin10.com/detail/20260501000320477800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "00时59分"
         },
         {
-          "title": "软银集团股价下跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3097031",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
+          "url": "https://www.zhihu.com/question/2033103134843720731",
+          "source": "知乎",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "马斯克OpenAI案二日庭审证词总结",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8BOpenAI%E6%A1%88%E4%BA%8C%E6%97%A5%E5%BA%AD%E5%AE%A1%E8%AF%81%E8%AF%8D%E6%80%BB%E7%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "伊朗强调尊重其人民意愿方能保障海湾地区安宁",
-          "url": "https://wallstreetcn.com/livenews/3097587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
-          "url": "https://wallstreetcn.com/livenews/3096820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "据港交所文件：深圳菲亚兰德科技集团股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260430120743545800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "00时59分"
         }
       ]
     }
