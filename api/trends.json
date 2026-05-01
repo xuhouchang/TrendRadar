@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T04:29:00.007587+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-02T05:27:45.266785+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -15,8 +15,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 05时27分]"
+        },
+        {
+          "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
+          "url": "https://www.cls.cn/detail/2361886",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 05时27分]"
         },
         {
           "title": "特朗普威胁提高欧盟汽车进口关税 欧盟：不可接受",
@@ -30,19 +43,6 @@
           "time_info": "01时59分"
         },
         {
-          "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
-          "url": "https://www.cls.cn/detail/2361886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 04时28分]"
-        },
-        {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）将迫使公司将生产转移至美国。",
           "url": "https://flash.jin10.com/detail/20260502002856166800",
           "source": "金十数据",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。",
+          "url": "https://wallstreetcn.com/livenews/3098062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）欧盟未遵守协议。",
@@ -71,7 +82,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -111,6 +122,18 @@
           "time_info": "[03时22分 ~ 04时28分]"
         },
         {
+          "title": "美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术",
+          "url": "https://flash.jin10.com/detail/20260502030841077800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时27分]"
+        },
+        {
           "title": "朝鲜代表称日本谈和平安全可笑至极",
           "url": "https://www.toutiao.com/trending/7634768436769947691/",
           "source": "今日头条",
@@ -121,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 03时22分]"
+        },
+        {
+          "title": "朝鲜代表：日本谈和平安全可笑至极",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%B0%88%E5%92%8C%E5%B9%B3%E5%AE%89%E5%85%A8%E5%8F%AF%E7%AC%91%E8%87%B3%E6%9E%81",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时27分]"
         },
         {
           "title": "雪佛龙首席执行官Mike Wirth：由于油价上涨，公司正在以更快的速度收回在委内瑞拉的债务。 预计将于今年晚些时候推进微软数据中心的最终投资决策。 预计到2027年将完全偿清委内瑞拉的债务。",
@@ -140,7 +175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -178,15 +213,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术",
-          "url": "https://flash.jin10.com/detail/20260502030841077800",
-          "source": "金十数据",
+          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098052",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "05时27分"
         },
         {
           "title": "德国汽车工业协会：美国总统宣布将从欧盟进口的卡车和汽车关税提高至25%，这对跨大西洋关系构成了新的严重压力。",
@@ -198,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国总统特朗普：可能会去法国参加七国集团（G7）峰会。",
@@ -244,6 +290,28 @@
           "time_info": "03时22分"
         },
         {
+          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3098047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
           "title": "美国总统特朗普：美国将提高欧盟汽车关税，因为他们没有遵守协议。",
           "url": "https://wallstreetcn.com/livenews/3097974",
           "source": "华尔街见闻-快讯",
@@ -266,15 +334,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "朝鲜代表：日本谈和平安全可笑至极",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%B0%88%E5%92%8C%E5%B9%B3%E5%AE%89%E5%85%A8%E5%8F%AF%E7%AC%91%E8%87%B3%E6%9E%81",
-          "source": "百度热搜",
+          "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3098037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "05时27分"
         }
       ]
     }
