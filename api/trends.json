@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T17:59:06.499914+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-05-02T18:58:07.446984+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 17时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 18时58分]"
+        },
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 18时58分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 18时58分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -32,33 +58,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 17时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 18时58分]"
         },
         {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
+          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
+          "url": "https://www.zhihu.com/question/2033553770588714004",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 17时59分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时58分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
@@ -71,29 +95,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时40分 ~ 15时02分]"
-        },
-        {
-          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
-          "url": "https://www.zhihu.com/question/2033553770588714004",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时59分]"
         },
         {
           "title": "特朗普威胁提高欧盟汽车进口关税 欧盟：不可接受",
@@ -187,6 +188,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时22分]"
+        },
+        {
+          "title": "美国人为何远赴墨西哥代购中国汽车",
+          "url": "https://www.toutiao.com/trending/7635206213906468394/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 18时58分]"
         },
         {
           "title": "美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术",
@@ -310,17 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 09时12分]"
-        },
-        {
-          "title": "美国人为何远赴墨西哥代购中国汽车",
-          "url": "https://www.toutiao.com/trending/7635206213906468394/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
         },
         {
           "title": "朝鲜代表称日本谈和平安全可笑至极",
