@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T19:50:09.966724+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-05-02T21:12:16.256797+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 19时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 21时12分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -46,8 +46,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时12分 ~ 19时50分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 21时12分]"
+        },
+        {
+          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
+          "url": "https://www.zhihu.com/question/2033553770588714004",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时58分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时49分 ~ 21时12分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -61,32 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 19时50分]"
-        },
-        {
-          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
-          "url": "https://www.zhihu.com/question/2033553770588714004",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时58分 ~ 19时50分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时49分 ~ 19时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 21时12分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
@@ -114,15 +114,15 @@
           "time_info": "[17时58分 ~ 19时50分]"
         },
         {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普威胁提高欧盟汽车进口关税 欧盟：不可接受",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "研究：美提高汽车关税将致德损失150亿欧元",
+          "url": "https://flash.jin10.com/detail/20260502204548643800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "朝鲜代表：日本谈和平安全可笑至极",
@@ -177,7 +188,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -229,6 +240,18 @@
           "time_info": "[01时59分 ~ 03时22分]"
         },
         {
+          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
+          "url": "https://wallstreetcn.com/livenews/3098147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时12分]"
+        },
+        {
           "title": "美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术",
           "url": "https://flash.jin10.com/detail/20260502030841077800",
           "source": "金十数据",
@@ -263,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时13分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时12分]"
         },
         {
           "title": "比亚迪汉EV闪充版广州区域上市",
@@ -314,17 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时28分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "德国汽车工业协会（VDA）：美国总统宣布将从欧盟进口到美国的卡车和轿车关税提高至25%，这代表着跨大西洋关系再次面临严重的紧张局势。 汽车行业紧急呼吁双方缓和局势并立即开展谈判。 欧盟与美国之间签署的贸易协议必须由双方共同遵守。 在当前已经极具挑战性的时期，这些额外关税带来的成本对于德国和欧洲汽车工业来说将是巨大的，并且很可能也会影响美国的消费者。",
@@ -385,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时13分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至3月31日的股权投资总公允价值中，61%集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。",
+          "url": "https://flash.jin10.com/detail/20260502201859997800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "雪佛龙首席执行官Mike Wirth：由于油价上涨，公司正在以更快的速度收回在委内瑞拉的债务。 预计将于今年晚些时候推进微软数据中心的最终投资决策。 预计到2027年将完全偿清委内瑞拉的债务。",
@@ -517,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美欧关税冲突升温 德国汽车工业呼吁紧急降级",
+          "url": "https://flash.jin10.com/detail/20260502194947008800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
