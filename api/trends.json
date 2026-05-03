@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:42:13.297748+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-05-04T07:45:33.157525+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,23 @@
             6,
             16,
             23,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时45分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时45分]"
         },
         {
           "title": "比亚迪大唐EV实车到店",
@@ -34,17 +46,6 @@
             28,
             23,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时42分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
