@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T15:23:18.839742+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-05-05T17:28:00.300831+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 09时11分]"
+        },
+        {
+          "title": "曼城3-3埃弗顿",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-3%E5%9F%83%E5%BC%97%E9%A1%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            23,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 17时28分]"
         },
         {
           "title": "汽车短短10秒全是违规驾驶",
@@ -53,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "赛力斯：2026年4月新能源汽车销量同比增长5.22%",
+          "url": "https://wallstreetcn.com/livenews/3098751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -90,19 +115,6 @@
           "time_info": "[06时01分 ~ 09时11分]"
         },
         {
-          "title": "曼城3-3埃弗顿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-3%E5%9F%83%E5%BC%97%E9%A1%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 15时23分]"
-        },
-        {
           "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
           "url": "https://wallstreetcn.com/livenews/3098711",
           "source": "华尔街见闻-快讯",
@@ -124,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "比亚迪：4月新能源汽车产量32.23万辆、销量32.11万辆",
+          "url": "https://wallstreetcn.com/livenews/3098746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
@@ -184,6 +207,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 06时01分]"
+        },
+        {
+          "title": "长安汽车：4月产量18.09万辆、销量17.93万辆，同比下降",
+          "url": "https://wallstreetcn.com/livenews/3098745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "雪佛龙(CVX.N)CEO：石油库存缓冲正在被消耗。",
@@ -274,13 +308,46 @@
           "time_info": "04时48分"
         },
         {
+          "title": "巴克莱：美对欧汽车关税存不确定性 欧系车企利润或承压",
+          "url": "https://flash.jin10.com/detail/20260505170105107800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "英国4月新车总销量同比增长22.4%，至144,222辆。 特斯拉英国4月新车销量同比增长48.6%，至838辆。",
+          "url": "https://wallstreetcn.com/livenews/3098738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "赛力斯：4月份新能源汽车销量33132辆，同比增长5.22%",
+          "url": "https://flash.jin10.com/detail/20260505165519212800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "阿联酋总统顾问安瓦尔：这些立场确认伊朗是侵略方，负责加剧海湾危机，是其安全与稳定的危险和威胁源。",
           "url": "https://flash.jin10.com/detail/20260505144514092800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -291,9 +358,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "零跑汽车(09863.HK)：订于2026年5月15日举行董事会会议，以批准本集团截至2026年3月31日止三个月的第一季度业绩及其刊发。",
+          "url": "https://flash.jin10.com/detail/20260505165124572800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "58岁妮可·基德曼离婚后红毯首秀",
@@ -302,7 +380,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -327,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美国和海湾阿拉伯国家正在起草一项联合国安理会决议，旨在谴责伊朗因回应美以轰炸行动而封锁霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260505164705984800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
