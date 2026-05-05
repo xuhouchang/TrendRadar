@@ -1,447 +1,55 @@
 {
-  "generated_at": "2026-05-05T20:47:21.632438+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-05-06T01:11:53.852477+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 38,
+      "match_count": 4,
       "titles": [
         {
-          "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
-          "url": "https://www.zhihu.com/question/2032516572552671242",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 09时11分]"
-        },
-        {
-          "title": "曼城3-3埃弗顿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-3%E5%9F%83%E5%BC%97%E9%A1%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            23,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 17时28分]"
-        },
-        {
-          "title": "汽车短短10秒全是违规驾驶",
-          "url": "https://www.toutiao.com/trending/7635103286466904083/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 15时23分]"
-        },
-        {
-          "title": "对冲基金潘兴广场创始人兼CEO比尔·阿克曼：对美国纽约市长Mamdani的感觉“并不怎么好”。 你们（纽约市）无法让城堡Ken Griffins从这个世界上消失。 赶走那些收入推手无助于改善纽约市的经适性（经济可承担水平）。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3098564",
+          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
+          "url": "https://wallstreetcn.com/livenews/3098859",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
-          "url": "https://flash.jin10.com/detail/20260505022512889800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
-          "url": "https://wallstreetcn.com/livenews/3098593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "又一架美军加油机飞越海湾时请求紧急降落",
-          "url": "https://wallstreetcn.com/livenews/3098787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "雪佛龙CEO：石油供应短缺即将出现",
-          "url": "https://wallstreetcn.com/livenews/3098654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 09时11分]"
-        },
-        {
-          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
-          "url": "https://wallstreetcn.com/livenews/3098711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 15时23分]"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：伊朗冲突导致石油供应形势趋紧。",
-          "url": "https://flash.jin10.com/detail/20260505015448536800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "赛力斯：2026年4月新能源汽车销量同比增长5.22%",
-          "url": "https://wallstreetcn.com/livenews/3098751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时02分]"
-        },
-        {
-          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
-          "url": "https://wallstreetcn.com/livenews/3098637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时01分]"
-        },
-        {
-          "title": "市场消息：马士基表示，其一艘悬挂美国国旗的汽车运输船经霍尔木兹海峡离开海湾。",
-          "url": "https://flash.jin10.com/detail/20260505042155807800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时01分]"
-        },
-        {
-          "title": "抖音集团副总裁：网传所谓红果短剧收费的消息不实",
-          "url": "https://wallstreetcn.com/livenews/3098679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 12时41分]"
-        },
-        {
-          "title": "比亚迪：4月新能源汽车产量32.23万辆、销量32.11万辆",
-          "url": "https://wallstreetcn.com/livenews/3098746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时02分]"
-        },
-        {
-          "title": "长安汽车：4月产量18.09万辆、销量17.93万辆，同比下降",
-          "url": "https://wallstreetcn.com/livenews/3098745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时02分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.09%，报6881.09点。 热门中概股里，阿特斯太阳能初步收跌5.1%，携程跌2.5%，蔚来涨2.7%，大全新能源涨4%，小马智行涨5.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.66%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收跌1.02%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%。",
-          "url": "https://wallstreetcn.com/livenews/3098628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时01分]"
-        },
-        {
-          "title": "周一（5月4日）纽约尾盘，彭博电动汽车价格回报指数涨0.53%，报4090.14点，全天处于上涨状态、北京时间21:30曾涨至4109.36点。",
-          "url": "https://wallstreetcn.com/livenews/3098622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时01分]"
-        },
-        {
-          "title": "英国4月新车总销量同比增长22.4%，至144,222辆。 特斯拉英国4月新车销量同比增长48.6%，至838辆。",
-          "url": "https://wallstreetcn.com/livenews/3098738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时02分]"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：石油库存缓冲正在被消耗。",
-          "url": "https://flash.jin10.com/detail/20260505015310104800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "01时11分"
         },
         {
-          "title": "雪佛龙：由于伊朗战争的缘故，石油供应形势“趋紧”。",
-          "url": "https://wallstreetcn.com/livenews/3098584",
+          "title": "市场消息：黑石集团与KKR正与Alphabet(GOOG.O)进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260506001934717800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "周二（5月5日），阿斯麦控股收涨3.50%，领跑欧股“十一罗汉”，LVMH集团、德国思爱普Sap、诺和诺德至多涨1.35%，阿斯利康则收跌1.35%，葛兰素史克跌2.32%。",
+          "url": "https://wallstreetcn.com/livenews/3098858",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "01时11分"
         },
         {
-          "title": "法庭纪录显示，该和解协议不包含任何承认过错的内容，将撤销埃隆·马斯克作为个人被告的身份，并将“彻底解决本案”。",
-          "url": "https://flash.jin10.com/detail/20260505041155711800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "澳洲联储：海湾冲突是加剧通胀和经济增长前景的冲击。",
-          "url": "https://flash.jin10.com/detail/20260505123103194800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "标普500指数初步收跌0.4%，原材料板块跌1.6%，工业板块跌1.1%，科技板块跌0.3%，能源板块涨0.7%。 纳斯达克100指数初步收跌0.2%，成分股中，ODFL初步收跌6.8%，AMD跌5.3%，高通跌4.8%，特许通讯、Arm控股跌3.8%，Insmed则涨4.9%，闪迪涨5.3%，美光科技涨6.5%。 家得宝跌3.4%，波音跌2.7%，耐克跌2.5%，领跌道指成分股，雪佛龙、Salesforce则涨0.9%，亚马逊涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3098626",
+          "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
+          "url": "https://wallstreetcn.com/livenews/3098845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "法庭纪录显示，和解协议要求埃隆·马斯克的可撤销信托支付150万美元的民事罚款。",
-          "url": "https://flash.jin10.com/detail/20260505041041738800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "美国国防部：国防部长赫格塞思与美军参谋长联席会议主席凯恩将于美东时间明日上午8点（北京时间今晚20点）召开“史诗狂怒行动”新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260505082136793800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "法庭记录显示，美国证交会与埃隆·马斯克就其首次披露推特股份的诉讼达成和解。",
-          "url": "https://flash.jin10.com/detail/20260505040911491800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        },
-        {
-          "title": "巴克莱：美对欧汽车关税存不确定性 欧系车企利润或承压",
-          "url": "https://flash.jin10.com/detail/20260505170105107800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "赛力斯：4月份新能源汽车销量33132辆，同比增长5.22%",
-          "url": "https://flash.jin10.com/detail/20260505165519212800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "阿联酋总统顾问安瓦尔：这些立场确认伊朗是侵略方，负责加剧海湾危机，是其安全与稳定的危险和威胁源。",
-          "url": "https://flash.jin10.com/detail/20260505144514092800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "知情人士透露，阿曼海岸附近的海域布满岩石，导致这两艘商船既无法驶离，也无法从该区域返航。",
-          "url": "https://flash.jin10.com/detail/20260505181447699800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "阿联酋总统顾问安瓦尔：我们感谢并重视来自海湾、阿拉伯和国际社会对阿联酋的团结信息，谴责和指责“阴险的伊朗袭击”。",
-          "url": "https://flash.jin10.com/detail/20260505144506105800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "零跑汽车(09863.HK)：订于2026年5月15日举行董事会会议，以批准本集团截至2026年3月31日止三个月的第一季度业绩及其刊发。",
-          "url": "https://flash.jin10.com/detail/20260505165124572800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "58岁妮可·基德曼离婚后红毯首秀",
-          "url": "https://www.toutiao.com/trending/7635723948789071914/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "据耶路撒冷邮报：鉴于海湾地区最近发生的事件，以色列国防军已在多个作战系统中提高了警戒级别。",
-          "url": "https://flash.jin10.com/detail/20260505003121733800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "瑞士议会委员会：关于瑞银集团资本规则的讨论将于八月继续进行。希望审查当前提案的替代方案。",
-          "url": "https://flash.jin10.com/detail/20260505013407962800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美国和海湾阿拉伯国家正在起草一项联合国安理会决议，旨在谴责伊朗因回应美以轰炸行动而封锁霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260505164705984800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "01时11分"
         }
       ]
     }
