@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T01:11:53.852477+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-06T02:54:46.496758+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
@@ -41,6 +41,28 @@
           "time_info": "01时11分"
         },
         {
+          "title": "荷兰国际集团（ING）大宗商品策略师Warren Patterson和Ewa Manthey表示，随着波斯湾局势再度升级，市场再次对供应中断的持续时间进行重新定价，原油和天然气价格在周一再次跳涨。",
+          "url": "https://wallstreetcn.com/livenews/3098889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国战争部：商用船只将在海湾看到、听到、感受到美国的作战力量，我们预计未来几天将有更多船只通过。",
+          "url": "https://wallstreetcn.com/livenews/3098884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
           "url": "https://wallstreetcn.com/livenews/3098845",
           "source": "华尔街见闻-快讯",
@@ -50,6 +72,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "欧洲汽车制造概念股普遍收涨，戴姆勒卡车涨2.94%，法雷奥涨2.54%，保时捷P911涨2.26%，法拉利米兰股价则收跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3098879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "两艘美国船只被困在霍尔木兹海峡南部靠近阿曼的附近海域。",
+          "url": "https://flash.jin10.com/detail/20260506015004846800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
+          "url": "https://wallstreetcn.com/livenews/3098877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "欧洲奢侈品概念股多数收涨，人头马君度涨3.65%，LVMH集团涨1.35%，博柏利则跌1.62%。",
+          "url": "https://wallstreetcn.com/livenews/3098875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     }
