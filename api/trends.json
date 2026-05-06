@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-06T21:13:44.762618+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-05-06T23:41:29.424631+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "张雪之后是四轮？比亚迪瞄准F1、长城打造GT3 中国车企驶向全球顶级赛车赛事",
+          "url": "https://www.cls.cn/detail/2363597",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时41分]"
+        },
         {
           "title": "伊朗战争丨美媒：海湾地区一货船疑遭导弹袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
@@ -17,6 +29,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
+          "url": "https://www.zhihu.com/question/2028883532005525054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 23时41分]"
         },
         {
           "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
@@ -43,18 +67,6 @@
           "time_info": "10时49分"
         },
         {
-          "title": "张雪之后是四轮？比亚迪瞄准F1、长城打造GT3 中国车企驶向全球顶级赛车赛事",
-          "url": "https://www.cls.cn/detail/2363597",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时13分]"
-        },
-        {
           "title": "“五一”期间高速公路新能源汽车日均充电量同比增长超50%",
           "url": "https://flash.jin10.com/detail/20260506185155723800",
           "source": "金十数据",
@@ -77,15 +89,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
-          "url": "https://www.zhihu.com/question/2028883532005525054",
-          "source": "知乎",
+          "title": "特斯拉将召回美国市场近21.9万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3099468",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "23时41分"
         },
         {
           "title": "港股黄金股午后再度走强，山东黄金(01787.HK)涨超5%，灵宝黄金(03330.HK)、赤峰黄金(0693.HK)、紫金黄金国际(02259.HK)均涨超4.5%，紫金矿业(02899.HK)、中国白银集团(00815.HK)均正常2.5%。",
@@ -115,11 +127,24 @@
           "source": "今日头条",
           "ranks": [
             10,
-            28
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时41分]"
+        },
+        {
+          "title": "比亚迪员工告别免费充电",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时13分]"
+          "time_info": "[21时13分 ~ 23时41分]"
         },
         {
           "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
@@ -205,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -227,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -252,17 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "宝马集团：第一季度汽车板块息税前利润率为5.0%，公司预期为4.7%。",
@@ -326,7 +340,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -406,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "曾经的王 人造曼德拉效应",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E7%BB%8F%E7%9A%84%E7%8E%8B%20%E4%BA%BA%E9%80%A0%E6%9B%BC%E5%BE%B7%E6%8B%89%E6%95%88%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "A股民爆概念板块午后上扬，晓程科技涨超6%，金奥博涨超4%，航天智造、国泰集团、金石资源、新余国科等跟涨。",
