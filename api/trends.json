@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T05:16:51.716005+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-05-07T06:14:27.094307+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
@@ -16,19 +16,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时14分]"
         },
         {
-          "title": "海湾合作委员会表示，伊朗的误导性言论是其针对该地区国家采取的升级对峙、挑衅性做法的延续。",
-          "url": "https://flash.jin10.com/detail/20260507051148673800",
+          "title": "新西兰联储主席布雷曼：尽管全球存在不确定性，但银行体系承受的压力非常小。",
+          "url": "https://flash.jin10.com/detail/20260507053804779800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时14分"
         },
         {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
@@ -42,15 +42,37 @@
           "time_info": "03时47分"
         },
         {
-          "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260507050830869800",
+          "title": "新西兰联储主席布雷曼：预计经济增长会有所放缓，但我们仍然预期今年会有增长。",
+          "url": "https://flash.jin10.com/detail/20260507053048308800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时14分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：预计近期通胀将有所上升。",
+          "url": "https://flash.jin10.com/detail/20260507052957562800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼：预计新西兰房价将保持平稳，随着时间推移略有上涨。",
+          "url": "https://flash.jin10.com/detail/20260507052819731800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
@@ -96,6 +118,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "海湾合作委员会表示，伊朗的误导性言论是其针对该地区国家采取的升级对峙、挑衅性做法的延续。",
+          "url": "https://flash.jin10.com/detail/20260507051148673800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260507050830869800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时14分]"
+        },
+        {
+          "title": "比亚迪员工告别免费充电",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 06时14分]"
         },
         {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
@@ -176,23 +234,12 @@
         },
         {
           "title": "比亚迪员工告别免费充电",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
           "url": "https://www.toutiao.com/trending/7635692932594466852/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
