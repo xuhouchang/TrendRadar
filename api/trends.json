@@ -1,491 +1,110 @@
 {
-  "generated_at": "2026-05-06T23:41:29.424631+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-05-07T01:50:45.275856+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 9,
       "titles": [
         {
-          "title": "张雪之后是四轮？比亚迪瞄准F1、长城打造GT3 中国车企驶向全球顶级赛车赛事",
-          "url": "https://www.cls.cn/detail/2363597",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 23时41分]"
-        },
-        {
-          "title": "伊朗战争丨美媒：海湾地区一货船疑遭导弹袭击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "欧洲汽车制造概念股普遍收涨，德国大陆集团涨8.95%，法雷奥涨6.60%，佛瑞亚涨6.59%，阿斯顿马丁涨6.49%，宝马涨5.41%，斯泰兰蒂斯集团Stellantis涨4.65%，德国大众汽车涨3.92%表现靠后。",
+          "url": "https://wallstreetcn.com/livenews/3099510",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
+          "url": "https://flash.jin10.com/detail/20260507011223424800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
           "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
           "url": "https://www.zhihu.com/question/2028883532005525054",
           "source": "知乎",
           "ranks": [
-            9,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时55分 ~ 21时13分]"
-        },
-        {
-          "title": "港股内房股盘中持续走强，中国金茂(00817.HK)、越秀地产(00123.HK)均涨超6%，建发国际集团(01908.HK)涨超5.5%，华润置地(01109.HK)、中国海外发展(00688.HK)、绿城中国(03900.HK)、龙湖集团(00960.HK)等多股涨超4%。",
-          "url": "https://flash.jin10.com/detail/20260506104206438800",
+          "title": "美国军方：周三，美军在阿曼湾使一艘悬挂伊朗国旗、试图驶向伊朗港口的空载油轮丧失能力。",
+          "url": "https://flash.jin10.com/detail/20260507010517000800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "“五一”期间高速公路新能源汽车日均充电量同比增长超50%",
-          "url": "https://flash.jin10.com/detail/20260506185155723800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "宝马集团第一季度营收为310亿欧元，预期为322亿欧元。 第一季度汽车板块息税前利润率为5.0%，预期为4.7%。 第一季度税前利润为23亿欧元，预期为22亿欧元。 维持2026年展望，继续预计关税相关的不确定性将较高。",
-          "url": "https://wallstreetcn.com/livenews/3099142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "特斯拉将召回美国市场近21.9万辆汽车",
-          "url": "https://wallstreetcn.com/livenews/3099468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "港股黄金股午后再度走强，山东黄金(01787.HK)涨超5%，灵宝黄金(03330.HK)、赤峰黄金(0693.HK)、紫金黄金国际(02259.HK)均涨超4.5%，紫金矿业(02899.HK)、中国白银集团(00815.HK)均正常2.5%。",
-          "url": "https://flash.jin10.com/detail/20260506134012767800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "雷军官宣新一代SU7首销期锁单超8万，四天大增上万订单",
-          "url": "https://wallstreetcn.com/livenews/3099140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.toutiao.com/trending/7635692932594466852/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 23时41分]"
-        },
-        {
-          "title": "比亚迪员工告别免费充电",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
-          "source": "百度热搜",
-          "ranks": [
-            20,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 23时41分]"
-        },
-        {
-          "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
-          "url": "https://www.zhihu.com/question/2032516572552671242",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 06时56分]"
-        },
-        {
-          "title": "A股电池产业链震荡拉升，容百科技涨超10%，丰元股份此前涨停，宁德时代涨近7%，蔚蓝锂芯、海科新源、国轩高科多股涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3099139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "01时50分"
         },
         {
-          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
-          "url": "https://wallstreetcn.com/livenews/3098859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "市场消息：黑石集团与KKR正与Alphabet(GOOG.O)进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260506001934717800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "港股PCB概念股盘中上涨，广合科技(01989.HK)涨超10%，建滔积层板(01888.HK)涨近9%，建滔集团(00148.HK)涨4.5%，大族数控(03200.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260506102621449800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "周二（5月5日），阿斯麦控股收涨3.50%，领跑欧股“十一罗汉”，LVMH集团、德国思爱普Sap、诺和诺德至多涨1.35%，阿斯利康则收跌1.35%，葛兰素史克跌2.32%。",
-          "url": "https://wallstreetcn.com/livenews/3098858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "荷兰国际集团（ING）大宗商品策略师Warren Patterson和Ewa Manthey表示，随着波斯湾局势再度升级，市场再次对供应中断的持续时间进行重新定价，原油和天然气价格在周一再次跳涨。",
-          "url": "https://wallstreetcn.com/livenews/3098889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "“五一”假期高速公路新能源汽车充电量同比增长52.8%",
-          "url": "https://wallstreetcn.com/livenews/3099392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "工信部公开征求《轻型汽车电子稳定性控制系统性能要求及试验方法》等2项强制性国家标准（报批稿）、《专用校车安全技术条件》强制性国家标准外文版（报批稿）意见。",
-          "url": "https://wallstreetcn.com/livenews/3099312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "王曼昱11比0卡尔伯格",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B111%E6%AF%940%E5%8D%A1%E5%B0%94%E4%BC%AF%E6%A0%BC%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "宝马集团：第一季度集团营收310亿欧元，公司预期为322亿欧元；第一季度集团税前利润23亿欧元，公司预期为22亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260506133141277800",
+          "title": "马斯克：上周与Anthropic团队的高管会面了很长时间。",
+          "url": "https://flash.jin10.com/detail/20260507005850804800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "01时50分"
         },
         {
-          "title": "美国战争部：商用船只将在海湾看到、听到、感受到美国的作战力量，我们预计未来几天将有更多船只通过。",
-          "url": "https://wallstreetcn.com/livenews/3098884",
+          "title": "欧洲奢侈品概念股普遍上涨，开云集团收涨6.74%，瑞士历峰集团涨6.17%，爱马仕涨5.26%，LVMH集团涨5.11%。",
+          "url": "https://wallstreetcn.com/livenews/3099492",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "01时50分"
         },
         {
-          "title": "宝马集团：第一季度汽车板块息税前利润率为5.0%，公司预期为4.7%。",
-          "url": "https://flash.jin10.com/detail/20260506133100043800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "男子凭发票抽中价值29万红旗汽车",
-          "url": "https://www.toutiao.com/trending/7636363778520055844/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "宝马集团：展望假设中东冲突不会持久。",
-          "url": "https://flash.jin10.com/detail/20260506133042907800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
-          "url": "https://wallstreetcn.com/livenews/3098845",
+          "title": "Anthropic与马斯克旗下SpaceX宣布：达成一项包含太空开发内容的计算合作协议",
+          "url": "https://wallstreetcn.com/livenews/3099490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "01时50分"
         },
         {
-          "title": "海湾地区一货船疑遭导弹袭击 多名船员受伤",
-          "url": "https://wallstreetcn.com/livenews/3099037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "女子下车险些坠落 男子一把拉住",
-          "url": "https://www.toutiao.com/trending/7636236026315161642/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "欧洲汽车制造概念股普遍收涨，戴姆勒卡车涨2.94%，法雷奥涨2.54%，保时捷P911涨2.26%，法拉利米兰股价则收跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3098879",
+          "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3099488",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "01时50分"
         },
         {
-          "title": "比亚迪成为英国最大电动汽车品牌",
-          "url": "https://www.toutiao.com/trending/7636441036167839807/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "两艘美国船只被困在霍尔木兹海峡南部靠近阿曼的附近海域。",
-          "url": "https://flash.jin10.com/detail/20260506015004846800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "金融街：北京市西城区国资委正在筹划对下属部分企业集团进行重组",
-          "url": "https://wallstreetcn.com/livenews/3099299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
-          "url": "https://wallstreetcn.com/livenews/3098877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "欧洲奢侈品概念股多数收涨，人头马君度涨3.65%，LVMH集团涨1.35%，博柏利则跌1.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.12%，报6889.48点。 热门中概股里，阿特斯太阳能初步收涨5.9%，万国数据涨4.5%，新东方涨1.1%，阿里跌0.8%，小鹏、网易跌0.9%，拼多多跌1%，蔚来跌2.3%。 ETF中，中国科技指数ETF（CQQQ）收平，中概互联网指数ETF（KWEB）收跌0.21%。 贝莱德集团旗下MSCI新兴市场ex中国ETF涨2.50%，德银嘉实沪深300指数ETF（ASHR）收涨0.68%，XtrackersHarvest中证50（ASHS）收涨0.55%。",
-          "url": "https://wallstreetcn.com/livenews/3098925",
-          "source": "华尔街见闻-快讯",
+          "title": "比亚迪员工告别免费充电",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%91%98%E5%B7%A5%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E5%85%85%E7%94%B5",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "曾经的王 人造曼德拉效应",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BE%E7%BB%8F%E7%9A%84%E7%8E%8B%20%E4%BA%BA%E9%80%A0%E6%9B%BC%E5%BE%B7%E6%8B%89%E6%95%88%E5%BA%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "A股民爆概念板块午后上扬，晓程科技涨超6%，金奥博涨超4%，航天智造、国泰集团、金石资源、新余国科等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260506132434787800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "小米汽车宣布，新一代SU7上市仅48天，锁单已超过80000台。",
-          "url": "https://wallstreetcn.com/livenews/3099025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "国轩高科：预计2026年公司出货量将保持增长态势",
-          "url": "https://wallstreetcn.com/livenews/3099111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "港股半导体股盘中持续上攻，澜起科技(06809.HK)涨超18%，兆易创新(03986.HK)涨超14%，中芯国际(00981.HK)、华虹半导体(01347.HK)均涨超10%，豪威集团(00501.HK)、晶门半导体(02878.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260506100513109800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "宁德时代港股配售交易完成后 空头兴趣迅速降温",
-          "url": "https://flash.jin10.com/detail/20260506132305209800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "01时50分"
         }
       ]
     }
