@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T15:25:35.169525+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-05-07T18:02:42.455606+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
@@ -22,6 +22,19 @@
           "time_info": "[01时50分 ~ 12时13分]"
         },
         {
+          "title": "如何看待有博主直播比亚迪闪充，磷酸铁锂电池单体电芯最高温达到 76℃？",
+          "url": "https://www.zhihu.com/question/2035375161361307626",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 18时02分]"
+        },
+        {
           "title": "欧冠半决赛次回合拜仁 1:1 巴黎圣日耳曼，如何评价这场比赛?",
           "url": "https://www.zhihu.com/question/2035586372069745829",
           "source": "知乎",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时26分 ~ 08时13分]"
-        },
-        {
-          "title": "如何看待有博主直播比亚迪闪充，磷酸铁锂电池单体电芯最高温达到 76℃？",
-          "url": "https://www.zhihu.com/question/2035375161361307626",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 15时25分]"
         },
         {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
@@ -69,6 +70,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时50分 ~ 08时13分]"
+        },
+        {
+          "title": "王曼昱vs申裕斌",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%94%B3%E8%A3%95%E6%96%8C&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
@@ -200,6 +212,28 @@
           "time_info": "[05时16分 ~ 07时27分]"
         },
         {
+          "title": "3-0！王曼昱横扫申裕斌",
+          "url": "https://www.baidu.com/s?wd=3-0%EF%BC%81%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%A8%AA%E6%89%AB%E7%94%B3%E8%A3%95%E6%96%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "乘联分会：根据月度初步乘联数据综合，2026年4月全国乘用车厂商新能源批发预估122万辆，同比增长7%，环比增长7%。其中特斯拉中国批发销量79478辆。",
+          "url": "https://wallstreetcn.com/livenews/3099885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
           "url": "https://flash.jin10.com/detail/20260507030331856800",
           "source": "金十数据",
@@ -294,7 +328,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -308,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "宁德时代与Togg达成磐石底盘量产合作",
+          "url": "https://wallstreetcn.com/livenews/3099872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
