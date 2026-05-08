@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:02:17.212674+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-05-08T18:25:57.279413+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "你用小拇指当手机支架吗？快改",
@@ -72,9 +72,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗国家电视台称，伊朗军方在阿曼湾扣押了一艘油轮。",
+          "url": "https://wallstreetcn.com/livenews/3100624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "俄罗斯驻联合国代表团：我们谴责中东地区及海湾合作委员会国家境内的袭击事件。",
@@ -94,7 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "曝小米汽车将推独立子品牌寻天",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E6%8E%A8%E7%8B%AC%E7%AB%8B%E5%AD%90%E5%93%81%E7%89%8C%E5%AF%BB%E5%A4%A9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "壳牌首席执行官：纸原油与现货价格趋同尚需数月时间。",
@@ -222,6 +244,18 @@
           "time_info": "[00时24分 ~ 02时08分]"
         },
         {
+          "title": "小米汽车高层调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%AB%98%E5%B1%82%E8%B0%83%E6%95%B4%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时00分 ~ 18时25分]"
+        },
+        {
           "title": "5月新发基金近90只，46家基金公司都行动了，关键词有三：ETF、固收+、科技",
           "url": "https://www.cls.cn/detail/2365591",
           "source": "财联社热门",
@@ -253,17 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "小米汽车高层调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%AB%98%E5%B1%82%E8%B0%83%E6%95%B4%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时02分]"
         },
         {
           "title": "追觅CEO俞浩称中国仅3人懂汽车设计",
@@ -363,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "【中央决定：陈扬帆任中国移动董事、总经理、党组副书记】5月8日，中国移动通信集团有限公司召开领导班子（扩大）会议。受中央组织部领导委托，中央组织部有关干部局负责同志宣布了党中央关于中国移动通信集团有限公司总经理调整的决定：陈扬帆同志任中国移动通信集团有限公司董事、总经理、党组副书记，免去其中国电子信息产业集团有限公司董事、党组副书记职务。相关职务任免，按有关法律和章程的规定办理。",
+          "url": "https://wallstreetcn.com/livenews/3100600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "据半岛电视台：以色列无人机对南黎巴嫩的克弗舒巴和克弗哈曼镇之间的道路进行了空袭。",
