@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T06:44:25.128811+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-10T07:51:06.953165+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,31 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时51分]"
+        },
+        {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
           "url": "https://www.zhihu.com/question/2036439996056457663",
           "source": "知乎",
           "ranks": [
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时44分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时51分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -40,11 +42,25 @@
             18,
             17,
             14,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时51分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时51分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -57,21 +73,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时44分]"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时44分]"
+          "time_info": "[01时02分 ~ 07时51分]"
         },
         {
           "title": "王曼昱3-0战胜斯佐科斯",
@@ -96,6 +99,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
+          "url": "https://flash.jin10.com/detail/20260510043001446800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时51分]"
+        },
+        {
           "title": "埃及外交部：巴林王国及其他海湾国家的安全是埃及国家安全不可分割的一部分。",
           "url": "https://flash.jin10.com/detail/20260510003658094800",
           "source": "金十数据",
@@ -106,18 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时13分]"
-        },
-        {
-          "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
-          "url": "https://flash.jin10.com/detail/20260510043001446800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时44分]"
         },
         {
           "title": "肯尼亚曼德拉郡发生武装袭击事件 已致6人死亡",
