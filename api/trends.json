@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T02:13:55.850188+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-05-10T03:40:51.063650+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
+        },
+        {
+          "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
+          "url": "https://www.zhihu.com/question/2036439996056457663",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -28,30 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
-        },
-        {
-          "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
-          "url": "https://www.zhihu.com/question/2036439996056457663",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
         },
         {
           "title": "埃及外交部：巴林王国及其他海湾国家的安全是埃及国家安全不可分割的一部分。",
@@ -70,11 +71,25 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
         },
         {
           "title": "王曼昱3-0战胜斯佐科斯",
@@ -84,20 +99,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时40分]"
         },
         {
           "title": "肯尼亚曼德拉郡发生武装袭击事件 已致6人死亡",
