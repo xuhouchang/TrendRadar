@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:13:11.107716+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-05-10T16:27:20.548547+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 14时13分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 16时27分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -190,7 +190,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
