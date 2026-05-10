@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T17:55:02.491174+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-10T19:02:02.951532+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 17时55分]"
+          "appearance_count": 17,
+          "time_info": "[01时02分 ~ 19时02分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -83,6 +83,50 @@
           "time_info": "[01时02分 ~ 14时13分]"
         },
         {
+          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
+          "url": "https://news.ifeng.com/c/8t0moPsqScq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时02分]"
+        },
+        {
+          "title": "伊媒称美军一战机在阿曼湾遇紧急情况",
+          "url": "https://www.toutiao.com/trending/7638178061543804479/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时02分]"
+        },
+        {
+          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
+          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时02分]"
+        },
+        {
+          "title": "王曼昱vs张本美和",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "王曼昱3-0战胜斯佐科斯",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B13-0%E6%88%98%E8%83%9C%E6%96%AF%E4%BD%90%E7%A7%91%E6%96%AF",
           "source": "百度热搜",
@@ -92,17 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时44分]"
-        },
-        {
-          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
-          "url": "https://news.ifeng.com/c/8t0moPsqScq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
@@ -116,17 +149,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "伊媒称美军一战机在阿曼湾遇紧急情况",
-          "url": "https://www.toutiao.com/trending/7638178061543804479/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
           "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
           "url": "https://flash.jin10.com/detail/20260510095522522800",
           "source": "金十数据",
@@ -136,28 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
-          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜平均价升水4.30美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260510170923190800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "巴林外交大臣：巴林谴责并强烈不满伊朗持续干涉其内政、威胁海湾国家安全与稳定的行为。",
@@ -194,6 +194,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "伊朗媒体：美F-35战机在阿曼湾上空请求紧急降落",
+          "url": "https://flash.jin10.com/detail/20260510180115271800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "埃及外交部：巴林王国及其他海湾国家的安全是埃及国家安全不可分割的一部分。",
           "url": "https://flash.jin10.com/detail/20260510003658094800",
           "source": "金十数据",
@@ -206,6 +217,18 @@
           "time_info": "[01时02分 ~ 02时13分]"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜平均价升水4.30美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260510170923190800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时02分]"
+        },
+        {
           "title": "伊媒：美军一战机在阿曼湾遇紧急情况",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%80%E6%88%98%E6%9C%BA%E5%9C%A8%E9%98%BF%E6%9B%BC%E6%B9%BE%E9%81%87%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5",
           "source": "百度热搜",
@@ -213,8 +236,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时02分]"
+        },
+        {
+          "title": "王曼昱4比11张本美和",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%9411%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "曼城3-0布伦特福德",
