@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T01:53:51.102324+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-11T03:04:44.833882+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "王曼昱哭了",
@@ -26,30 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市涨1.9%继续创收盘历史新高，阿曼股指最近一年已涨超90%",
           "url": "https://wallstreetcn.com/livenews/3101149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时04分]"
         },
         {
           "title": "王曼昱赢球后立马和孙颖莎拥抱",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%B5%A2%E7%90%83%E5%90%8E%E7%AB%8B%E9%A9%AC%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%A5%E6%8A%B1",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
@@ -59,32 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
-        },
-        {
-          "title": "王曼昱哭了",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
-        },
-        {
-          "title": "王曼昱2:3张本美和",
-          "url": "https://www.douyin.com/hot/2494476",
-          "source": "抖音",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "王曼昱说孙颖莎站了出来",
@@ -92,11 +70,12 @@
           "source": "微博",
           "ranks": [
             30,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "比亚迪高管回应闪充温度高伤电池，具体说了什么，打消疑虑了吗？",
@@ -104,11 +83,38 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
+        },
+        {
+          "title": "王曼昱哭了",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%93%AD%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
+        },
+        {
+          "title": "王曼昱2:3张本美和",
+          "url": "https://www.douyin.com/hot/2494476",
+          "source": "抖音",
+          "ranks": [
+            5,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -116,11 +122,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -128,11 +135,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "王曼昱2-3不敌张本美和",
@@ -143,8 +151,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         }
       ]
     }
