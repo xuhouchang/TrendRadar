@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T06:10:59.696458+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-05-11T07:27:10.115120+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -15,31 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
-        },
-        {
-          "title": "王曼昱哭了",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
-        },
-        {
-          "title": "王曼昱赢球后立马和孙颖莎拥抱",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%B5%A2%E7%90%83%E5%90%8E%E7%AB%8B%E9%A9%AC%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%A5%E6%8A%B1",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
@@ -49,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "王曼昱说孙颖莎站了出来",
@@ -60,11 +37,37 @@
             30,
             8,
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
+        },
+        {
+          "title": "王曼昱赢球后立马和孙颖莎拥抱",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%B5%A2%E7%90%83%E5%90%8E%E7%AB%8B%E9%A9%AC%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%A5%E6%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
+        },
+        {
+          "title": "王曼昱哭了",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "比亚迪高管回应闪充温度高伤电池，具体说了什么，打消疑虑了吗？",
@@ -75,11 +78,12 @@
             10,
             9,
             8,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "王曼昱2:3张本美和",
@@ -93,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "王曼昱哭了",
@@ -108,8 +112,39 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
+        },
+        {
+          "title": "央视曝光危险的“手搓汽车”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8D%B1%E9%99%A9%E7%9A%84%E2%80%9C%E6%89%8B%E6%90%93%E6%B1%BD%E8%BD%A6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            18,
+            16,
+            19,
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时27分]"
+        },
+        {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时27分]"
         },
         {
           "title": "中东股市收盘播报｜埃及股市涨1.9%继续创收盘历史新高，阿曼股指最近一年已涨超90%",
@@ -127,22 +162,6 @@
           "time_info": "[01时53分 ~ 06时10分]"
         },
         {
-          "title": "央视曝光危险的“手搓汽车”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8D%B1%E9%99%A9%E7%9A%84%E2%80%9C%E6%89%8B%E6%90%93%E6%B1%BD%E8%BD%A6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12,
-            18,
-            16,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时10分]"
-        },
-        {
           "title": "王曼昱2-3不敌张本美和",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%9B%BC%E6%98%B12-3%E4%B8%8D%E6%95%8C%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C",
           "source": "bilibili 热搜",
@@ -157,18 +176,26 @@
           "time_info": "[00时56分 ~ 06时10分]"
         },
         {
-          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
-          "url": "https://www.zhihu.com/question/265062196",
-          "source": "知乎",
+          "title": "据BNO新闻：据警方消息，美国得克萨斯州拉雷多靠近美墨边境的一列联合太平洋货运列车内发现多具尸体，具体数字尚未公布。",
+          "url": "https://flash.jin10.com/detail/20260511064720113800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            20,
-            17,
-            18
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "孙颖莎不停支招王曼昱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E5%81%9C%E6%94%AF%E6%8B%9B%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 06时10分]"
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
         },
         {
           "title": "沙特外交部：沙特重申与海湾兄弟国家站在一起，共同维护其安全与稳定。",
