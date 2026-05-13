@@ -1,244 +1,55 @@
 {
-  "generated_at": "2026-05-13T21:36:55.759805+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-05-14T00:37:46.225557+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 46,
+      "match_count": 10,
       "titles": [
         {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 09时24分]"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩1款油车",
-          "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 09时24分]"
-        },
-        {
-          "title": "抖音集团超15亿扶持真人短剧",
-          "url": "https://www.toutiao.com/trending/7638892019435245065/",
+          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
+          "url": "https://www.toutiao.com/trending/7639359418274512902/",
           "source": "今日头条",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时02分]"
-        },
-        {
-          "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
-          "url": "https://www.cls.cn/detail/2369623",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 16时16分]"
-        },
-        {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 07时02分]"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时02分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
           "url": "https://www.zhihu.com/question/2037653159107982760",
           "source": "知乎",
           "ranks": [
-            15,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 21时36分]"
-        },
-        {
-          "title": "赛轮轮胎：自5月11日起，国内市场非公路轮胎价格整体上调7%—9%",
-          "url": "https://flash.jin10.com/detail/20260513155517770800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "恒指高开0.08%，报26369.99点；恒生科技指数跌0.3%。京东集团、京东健康涨超3%，此前京东发布财报。中芯国际跌近3%，华虹半导体跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3102601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "软银集团净资产达到40.1万亿日元，较去年同期的25.7万亿日元大幅增长。",
-          "url": "https://wallstreetcn.com/livenews/3102831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "00时37分"
         },
         {
           "title": "抖音集团超15亿扶持真人短剧",
           "url": "https://www.douyin.com/hot/2497347",
           "source": "抖音",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时36分]"
-        },
-        {
-          "title": "数看4月新能源汽车产业成绩单",
-          "url": "https://www.toutiao.com/trending/7639196565483048457/",
-          "source": "今日头条",
-          "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时09分"
+          "time_info": "00时37分"
         },
         {
-          "title": "我国全年汽车出口量有望再创新高",
-          "url": "https://www.douyin.com/hot/2497186",
-          "source": "抖音",
+          "title": "年内唯一翻倍ETF！溢价率飙升至30%，近期高涨基金盘点，这些方向成关键词",
+          "url": "https://www.cls.cn/detail/2370244",
+          "source": "财联社热门",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "马斯克点赞宇树载人机甲",
-          "url": "https://www.toutiao.com/trending/7638867621416386614/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "美的集团与中兴通讯战略签约",
-          "url": "https://flash.jin10.com/detail/20260513190101119800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "三井住友金融集团预计本财年净利润为1.70万亿日元，市场预期为1.76万亿日元。 第四季度净利润为1882.1亿日元，市场预期为2269.1亿日元。 第四季度每股股息为79.00日元。",
-          "url": "https://wallstreetcn.com/livenews/3102828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "马斯克称赞宇树载人机甲GDO1",
-          "url": "https://flash.jin10.com/detail/20260513090003133800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩一款油车",
-          "url": "https://www.toutiao.com/trending/7638216494090289158/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 16时16分]"
-        },
-        {
-          "title": "沙特原油产量自2月来暴跌42%，创海湾战争以来新低！",
-          "url": "https://flash.jin10.com/detail/20260513210307228800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "马斯克点赞宇树载人机甲：很酷",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时16分]"
+          "time_info": "00时37分"
         },
         {
           "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
@@ -248,284 +59,63 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 21时36分]"
-        },
-        {
-          "title": "纯电动汽车保值排名：小米跌出前十",
-          "url": "https://www.toutiao.com/trending/7638539260280258579/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 13时09分]"
-        },
-        {
-          "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
-          "url": "https://flash.jin10.com/detail/20260513050414696800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "Venture Global与道达尔能源、维多集团签署新LNG供应协议",
-          "url": "https://wallstreetcn.com/livenews/3102410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "【英国将向霍尔木兹海峡多国护航行动派遣战机及军舰】总台记者从英国国防部获悉，英国将向在霍尔木兹海峡执行任务的多国护航行动提供无人机、战机及军舰支持，进一步强化海湾地区安全部署。英国国防部声明称，英方此次投入将包括“台风”战斗机以及英国“龙”号驱逐舰等。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3102455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "【伊拉克和巴基斯坦据称已分别同伊朗签订协议以运输能源】伊拉克和巴基斯坦已分别同伊朗签订协议，以从海湾地区运输石油和液化天然气。根据协议，伊拉克确保了两艘超大型原油运输船的安全通行，这两艘船于5月10日通过了霍尔木兹海峡，每艘船载有约200万桶原油。而根据巴基斯坦和伊朗之间达成的另一项双边协议，两艘装载卡塔尔液化天然气的油轮正驶往巴基斯坦。消息人士称，伊拉克和巴基斯坦均未就过境事宜直接向伊朗或其伊朗伊斯兰革命卫队支付任何款项。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3102475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国总统特朗普：凯尔·迪阿曼塔斯将以代理身份接替马卡里担任美国食品药品监督管理局（FDA）局长。",
-          "url": "https://flash.jin10.com/detail/20260513033011116800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "道达尔能源服务：如果大宗商品价格持续上涨，预计将为北美行业活动的增加提供助力。",
-          "url": "https://flash.jin10.com/detail/20260513061218126800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "道达尔能源服务：全球不确定性及大宗商品价格波动持续拖累北美地区第一季度钻井与完井作业活动。2026年1月，公司停止在美国的油井服务业务，绝大部分运营设备已于2月完成出售。",
-          "url": "https://flash.jin10.com/detail/20260513060925599800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "数据显示：全球电动汽车需求连续第二个月同比增长",
-          "url": "https://flash.jin10.com/detail/20260513123440910800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "比亚迪第三代元PLUS将于5月21日上市",
-          "url": "https://www.toutiao.com/trending/7638101776076603398/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "声明显示：伊朗外交部驳斥科威特关于德黑兰计划对该海湾国家采取“敌对行动”的声明。",
-          "url": "https://flash.jin10.com/detail/20260513031717822800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "恒生科技指数转涨，此前一度跌超1%。京东集团涨超6%，美团涨4%。 香港恒生指数转涨，此前跌约0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3102690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "马斯克：星舰（Starship）V4版本还将再加长15%至20%。",
-          "url": "https://flash.jin10.com/detail/20260513082259949800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "宁德时代员工工资为何没跟着利润大涨",
-          "url": "https://www.toutiao.com/trending/7638938713099095595/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "00时37分"
         },
         {
           "title": "比亚迪方程豹豹8/豹5闪充版上市",
           "url": "https://www.toutiao.com/trending/7638890947837411378/",
           "source": "今日头条",
           "ranks": [
-            23
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "00时37分"
         },
         {
-          "title": "当雷军开始造电池 宁德时代慌了吗",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E9%9B%B7%E5%86%9B%E5%BC%80%E5%A7%8B%E9%80%A0%E7%94%B5%E6%B1%A0+%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%85%8C%E4%BA%86%E5%90%97",
+          "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
+          "url": "https://wallstreetcn.com/livenews/3103127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "交易商称，俄罗斯远东科兹米诺港5月太平洋（ESPO）管道混合原油出口量预计将从4月的410万吨增至430万吨。",
+          "url": "https://flash.jin10.com/detail/20260513235226982800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "比亚迪鲨鱼皮卡今年将在国内销售",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%B2%A8%E9%B1%BC%E7%9A%AE%E5%8D%A1%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E5%9B%BD%E5%86%85%E9%94%80%E5%94%AE",
           "source": "百度热搜",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "00时37分"
         },
         {
-          "title": "不止阿联酋 沙特此前对伊朗发动袭击 海湾国家开始“还手”",
-          "url": "https://flash.jin10.com/detail/20260513020336709800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "德国官员：期待中国车企来德合作生产汽车",
-          "url": "https://flash.jin10.com/detail/20260513121614928800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "北约拟邀四个海湾国家参加安卡拉峰会",
-          "url": "https://flash.jin10.com/detail/20260513205306110800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "阿里健康发布医学AI氢离子，与英国BMJ集团达成期刊内容独家合作",
-          "url": "https://wallstreetcn.com/livenews/3102798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3102499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "据英国金融时报：三菱日联金融集团寻求转移与20亿美元私人信贷贷款相关的风险。",
-          "url": "https://flash.jin10.com/detail/20260513120728925800",
-          "source": "金十数据",
+          "title": "特斯拉推出“轻松贷”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E2%80%9C%E8%BD%BB%E6%9D%BE%E8%B4%B7%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "理想汽车CEO李想：公司不会主动裁员",
-          "url": "https://wallstreetcn.com/livenews/3102793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "深铁集团再借万科25亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E9%93%81%E9%9B%86%E5%9B%A2%E5%86%8D%E5%80%9F%E4%B8%87%E7%A7%9125%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "黎巴嫩媒体称，以色列军方击中黎巴嫩高速公路上的第二辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260513152613912800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "00时37分"
         }
       ]
     }
