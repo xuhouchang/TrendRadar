@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T09:28:37.224102+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-14T13:07:37.232853+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
         {
           "title": "抖音集团超15亿扶持真人短剧",
@@ -161,15 +161,15 @@
           "time_info": "[00时37分 ~ 07时07分]"
         },
         {
-          "title": "曼城3-0水晶宫",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E6%B0%B4%E6%99%B6%E5%AE%AB",
-          "source": "bilibili 热搜",
+          "title": "小米、特斯拉、比亚迪相继调价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E3%80%81%E7%89%B9%E6%96%AF%E6%8B%89%E3%80%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9B%B8%E7%BB%A7%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "13时07分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨3.9%。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，KWEB涨5%，CQQQ涨5%。",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "本田首次录得年度亏损，受巨额电动汽车相关支出拖累",
+          "url": "https://flash.jin10.com/detail/20260514124413225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "当雷军开始造电池 宁德时代慌了吗",
@@ -206,6 +217,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时07分]"
+        },
+        {
+          "title": "联合国机构新增海湾地区内陆口岸代码绕开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3103432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "曼城3-0水晶宫",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E6%B0%B4%E6%99%B6%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 13时07分]"
         },
         {
           "title": "福特汽车收涨13%，创2020年以来最佳单日表现。",
@@ -268,6 +302,39 @@
           "time_info": "02时24分"
         },
         {
+          "title": "本田股价涨超7%。本田汽车2027财年全年预计经营利润5,000.0亿日元，市场预估2,123.6亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3103428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "本田汽车2027财年全年预计经营利润5,000.0亿日元，市场预估2,123.6亿日元。 全年预计销售净额23.15万亿日元，市场预估22.02万亿日元。 全年预计净利润2,600.0亿日元，市场预估1,553.9亿日元。 第四财季经营亏损1.01万亿日元，市场预估亏损8,039.6亿日元。 第四财季净亏损8,893.8亿日元，市场预估亏损9,621.5亿日元 第四财季销售净额5.82万亿日元，市场预估5.2万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3103427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "马斯克库克黄仁勋等进入会谈现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E8%BF%9B%E5%85%A5%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "美国负责马斯克与证券交易委员会（SEC）关于推特（Twitter）和解案的联邦法官表示，该案中表现出的“暗道沟通”（back channel communications）是一个“危险信号”。",
           "url": "https://wallstreetcn.com/livenews/3103195",
           "source": "华尔街见闻-快讯",
@@ -285,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -301,6 +368,28 @@
           "time_info": "07时07分"
         },
         {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "本田汽车预计2026/27财年北美汽车销量将达到170.5万辆。",
+          "url": "https://flash.jin10.com/detail/20260514123052794800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
           "url": "https://wallstreetcn.com/livenews/3103127",
           "source": "华尔街见闻-快讯",
@@ -310,6 +399,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "日本Eneos斥资22亿美元收购雪佛龙部分亚洲石油资产",
+          "url": "https://wallstreetcn.com/livenews/3103422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "联合国机构新增海湾地区内陆口岸代码绕开霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260514122955559800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
@@ -351,7 +462,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
