@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-14T07:07:01.514017+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-14T09:28:37.224102+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "抖音集团超15亿扶持真人短剧",
+          "url": "https://www.douyin.com/hot/2497347",
+          "source": "抖音",
+          "ranks": [
+            7,
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 09时28分]"
+        },
         {
           "title": "年内唯一翻倍ETF！溢价率飙升至30%，近期高涨基金盘点，这些方向成关键词",
           "url": "https://www.cls.cn/detail/2370244",
@@ -21,20 +36,6 @@
           "time_info": "[00时37分 ~ 07时07分]"
         },
         {
-          "title": "抖音集团超15亿扶持真人短剧",
-          "url": "https://www.douyin.com/hot/2497347",
-          "source": "抖音",
-          "ranks": [
-            7,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时07分]"
-        },
-        {
           "title": "比亚迪鲨鱼皮卡今年将在国内销售",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%B2%A8%E9%B1%BC%E7%9A%AE%E5%8D%A1%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%9C%A8%E5%9B%BD%E5%86%85%E9%94%80%E5%94%AE",
           "source": "百度热搜",
@@ -43,11 +44,12 @@
             8,
             6,
             7,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 09时28分]"
         },
         {
           "title": "比亚迪鲨鱼皮卡今年将在国内销售",
@@ -80,6 +82,21 @@
           "time_info": "[00时37分 ~ 07时07分]"
         },
         {
+          "title": "4S店回应顾客提车6天引擎盖飞了",
+          "url": "https://www.baidu.com/s?wd=4S%E5%BA%97%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E6%8F%90%E8%BD%A66%E5%A4%A9%E5%BC%95%E6%93%8E%E7%9B%96%E9%A3%9E%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            13,
+            9,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时24分 ~ 09时28分]"
+        },
+        {
           "title": "4月汽车销量前十名仅剩一款油车",
           "url": "https://www.toutiao.com/trending/7638216494090289158/",
           "source": "今日头条",
@@ -91,6 +108,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时24分 ~ 07时07分]"
+        },
+        {
+          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
+          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 09时28分]"
         },
         {
           "title": "特斯拉推出“轻松贷”",
@@ -107,20 +135,6 @@
           "time_info": "[00时37分 ~ 07时07分]"
         },
         {
-          "title": "4S店回应顾客提车6天引擎盖飞了",
-          "url": "https://www.baidu.com/s?wd=4S%E5%BA%97%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E6%8F%90%E8%BD%A66%E5%A4%A9%E5%BC%95%E6%93%8E%E7%9B%96%E9%A3%9E%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时24分 ~ 07时07分]"
-        },
-        {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
           "url": "https://flash.jin10.com/detail/20260514034444194800",
           "source": "金十数据",
@@ -130,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
-          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时07分]"
         },
         {
           "title": "比亚迪方程豹豹8/豹5闪充版上市",
@@ -156,6 +159,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 07时07分]"
+        },
+        {
+          "title": "曼城3-0水晶宫",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E5%9F%8E3-0%E6%B0%B4%E6%99%B6%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨3.9%。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，KWEB涨5%，CQQQ涨5%。",
@@ -265,13 +279,24 @@
           "time_info": "04时18分"
         },
         {
+          "title": "花旗集团今年将把亚洲主要经纪业务人员增加10%。",
+          "url": "https://wallstreetcn.com/livenews/3103291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "德国汽车工业协会：德汽车业到2035年或再流失12.5万个岗位",
           "url": "https://wallstreetcn.com/livenews/3103234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -318,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "据花旗集团亚洲南区市场主管：花旗集团今年将把亚洲主要经纪业务员工人数增加10%，此次扩张以新加坡和印度为核心。",
+          "url": "https://flash.jin10.com/detail/20260514083434114800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国联邦法官：马斯克与SEC关于推特和解案存在“危险信号”",
