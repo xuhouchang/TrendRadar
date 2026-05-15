@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T04:40:36.624260+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-05-16T06:01:17.205128+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "跨越太平洋的握手",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时01分]"
         },
         {
           "title": "赵露思演唱会曼谷站幕后",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时01分]"
         },
         {
           "title": "以色列空袭加沙城住宅楼和汽车 造成4人死亡",
@@ -42,17 +42,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3104625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
           "title": "以色列空袭加沙城住宅楼和汽车，造成4人死亡",
           "url": "https://wallstreetcn.com/livenews/3104591",
           "source": "华尔街见闻-快讯",
@@ -64,48 +53,52 @@
           "time_info": "03时06分"
         },
         {
-          "title": "美国司法部调查贝莱德集团旗下私人信用的估值。",
-          "url": "https://wallstreetcn.com/livenews/3104623",
-          "source": "华尔街见闻-快讯",
+          "title": "余承东全程对标埃尔法",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%85%A8%E7%A8%8B%E5%AF%B9%E6%A0%87%E5%9F%83%E5%B0%94%E6%B3%95",
+          "source": "百度热搜",
           "ranks": [
-            4
+            25,
+            20,
+            22,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时01分]"
         },
         {
-          "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
-          "url": "https://wallstreetcn.com/livenews/3104621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "惠誉确认力拓集团评级为A，展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260516034747256800",
+          "title": "美国证交会文件显示：伯克希尔哈撒韦将所持雪佛龙(CVX.N)股份减持35.2%，降至8440万股。",
+          "url": "https://flash.jin10.com/detail/20260516041813488800",
           "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美联储官宣鲍威尔将担任临时主席，直至沃什宣誓就职，鲍曼和米兰持异议",
+          "url": "https://wallstreetcn.com/livenews/3104632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时40分"
+          "time_info": "06时01分"
         },
         {
-          "title": "加拿大总理卡尼：我认为从阿尔伯塔到太平洋沿岸的新原油管道将会引起广泛关注。",
-          "url": "https://flash.jin10.com/detail/20260516033851746800",
-          "source": "金十数据",
+          "title": "比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3104625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
         },
         {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
@@ -117,6 +110,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国司法部调查贝莱德集团旗下私人信用的估值。",
+          "url": "https://wallstreetcn.com/livenews/3104623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
+        },
+        {
+          "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
+          "url": "https://wallstreetcn.com/livenews/3104621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
         },
         {
           "title": "5个月9个IPO 雷军投出4000亿",
@@ -131,28 +148,52 @@
           "time_info": "[01时09分 ~ 03时06分]"
         },
         {
-          "title": "余承东全程对标埃尔法",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%85%A8%E7%A8%8B%E5%AF%B9%E6%A0%87%E5%9F%83%E5%B0%94%E6%B3%95",
-          "source": "百度热搜",
+          "title": "惠誉确认力拓集团评级为A，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260516034747256800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            20,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
+        },
+        {
+          "title": "加拿大总理卡尼：我认为从阿尔伯塔到太平洋沿岸的新原油管道将会引起广泛关注。",
+          "url": "https://flash.jin10.com/detail/20260516033851746800",
+          "source": "金十数据",
+          "ranks": [
+            10,
             22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
+        },
+        {
+          "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
+          "url": "https://www.zhihu.com/question/2038053798040576268",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时40分]"
+          "time_info": "[04时40分 ~ 06时01分]"
         },
         {
           "title": "福特汽车收跌7.4%，创2025年2月份以来最大单日跌幅。",
           "url": "https://wallstreetcn.com/livenews/3104615",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 06时01分]"
         },
         {
           "title": "英国工党委员会允许曼彻斯特市长Burnham竞选议员。（泰晤士报）",
@@ -172,18 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
-          "url": "https://www.zhihu.com/question/2038053798040576268",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
@@ -194,7 +224,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
