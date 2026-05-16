@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T22:40:57.976209+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-05-16T23:59:07.503852+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "跨越太平洋的握手",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 09时15分]"
+        },
+        {
+          "title": "切尔西vs曼城",
+          "url": "https://www.douyin.com/hot/2501474",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时51分 ~ 23时59分]"
         },
         {
           "title": "赵露思演唱会曼谷站幕后",
@@ -32,16 +45,19 @@
           "time_info": "[01时09分 ~ 07时05分]"
         },
         {
-          "title": "切尔西vs曼城",
-          "url": "https://www.douyin.com/hot/2501474",
-          "source": "抖音",
+          "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
+          "url": "https://www.zhihu.com/question/2038307987094249499",
+          "source": "知乎",
           "ranks": [
-            5,
-            1
+            15,
+            13,
+            16,
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 22时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 23时59分]"
         },
         {
           "title": "余承东全程对标埃尔法",
@@ -72,18 +88,6 @@
           "time_info": "[09时15分 ~ 12时52分]"
         },
         {
-          "title": "特斯拉美国官网显示，Model Y长续航全轮驱动版在美国的售价从48990美元上调至49990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211319504800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时40分]"
-        },
-        {
           "title": "以色列空袭加沙城住宅楼和汽车 造成4人死亡",
           "url": "https://flash.jin10.com/detail/20260516023143706800",
           "source": "金十数据",
@@ -93,6 +97,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "特斯拉美国官网显示，Model Y长续航全轮驱动版在美国的售价从48990美元上调至49990美元。",
+          "url": "https://flash.jin10.com/detail/20260516211319504800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 23时59分]"
         },
         {
           "title": "为什么宁德时代市值比比亚迪高这么多？",
@@ -121,19 +138,17 @@
           "time_info": "03时06分"
         },
         {
-          "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
-          "url": "https://www.zhihu.com/question/2038307987094249499",
-          "source": "知乎",
+          "title": "内蒙古交通集团有限公司原党委副书记、总经理、董事刘学武严重违纪违法被开除党籍。（中央纪委国家监委网站）",
+          "url": "https://wallstreetcn.com/livenews/3104793",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            13,
-            16,
-            20,
-            11
+            8,
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时11分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[19时51分 ~ 23时59分]"
         },
         {
           "title": "比亚迪首款皮卡「鲨鱼」将在国内销售，能否改变现有市场格局？",
@@ -162,17 +177,6 @@
           "time_info": "[06时01分 ~ 09时15分]"
         },
         {
-          "title": "特斯拉美国官网显示，Model Y高性能全轮驱动版在美国的售价从57490美元上调至57990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211843761800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "惠誉确认力拓集团评级为A，展望稳定。",
           "url": "https://flash.jin10.com/detail/20260516034747256800",
           "source": "金十数据",
@@ -183,17 +187,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 07时05分]"
-        },
-        {
-          "title": "特斯拉美国官网显示，Model Y长续航后轮驱动版在美国的售价从44990美元上调至45990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211618797800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "加拿大总理卡尼：我认为从阿尔伯塔到太平洋沿岸的新原油管道将会引起广泛关注。",
@@ -316,19 +309,6 @@
           "time_info": "[18时45分 ~ 21时22分]"
         },
         {
-          "title": "内蒙古交通集团有限公司原党委副书记、总经理、董事刘学武严重违纪违法被开除党籍。（中央纪委国家监委网站）",
-          "url": "https://wallstreetcn.com/livenews/3104793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 22时40分]"
-        },
-        {
           "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
           "url": "https://wallstreetcn.com/livenews/3104621",
           "source": "华尔街见闻-快讯",
@@ -339,6 +319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 06时01分]"
+        },
+        {
+          "title": "特斯拉美国官网显示，Model Y高性能全轮驱动版在美国的售价从57490美元上调至57990美元。",
+          "url": "https://flash.jin10.com/detail/20260516211843761800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时59分]"
         },
         {
           "title": "中国航空工业集团与中国东航共商战略协同与高质量发展",
@@ -363,6 +355,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 03时06分]"
+        },
+        {
+          "title": "特斯拉美国官网显示，Model Y长续航后轮驱动版在美国的售价从44990美元上调至45990美元。",
+          "url": "https://flash.jin10.com/detail/20260516211618797800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时59分]"
         },
         {
           "title": "美联储官宣鲍威尔将担任临时主席，直至沃什宣誓就职，鲍曼和米兰持异议",
@@ -468,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "泰国曼谷火车撞公交车 现场视频曝光",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E7%81%AB%E8%BD%A6%E6%92%9E%E5%85%AC%E4%BA%A4%E8%BD%A6+%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
