@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T00:01:55.433704+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-18T01:08:58.826516+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -14,53 +14,45 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "市场消息：英国与海湾国家的贸易协议接近达成。",
-          "url": "https://flash.jin10.com/detail/20260517233650068800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "曼联3-2诺丁汉森林",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
+          "time_info": "[00时01分 ~ 01时08分]"
         },
         {
           "title": "英超曼联3:2诺丁汉森林",
           "url": "https://www.douyin.com/hot/2502602",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
+        },
+        {
+          "title": "曼联3-2诺丁汉森林",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时08分]"
+        },
+        {
+          "title": "市场消息：英国与海湾国家的贸易协议接近达成。",
+          "url": "https://flash.jin10.com/detail/20260517233650068800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时01分]"
-        },
-        {
-          "title": "据阿联酋国家通讯社：阿联酋部长在无人机袭击海湾国家核电站后与国际原子能机构负责人通话。",
-          "url": "https://flash.jin10.com/detail/20260517225431318800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "[00时01分 ~ 01时08分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -69,7 +61,18 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时08分]"
+        },
+        {
+          "title": "据阿联酋国家通讯社：阿联酋部长在无人机袭击海湾国家核电站后与国际原子能机构负责人通话。",
+          "url": "https://flash.jin10.com/detail/20260517225431318800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
         }
