@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:08:58.826516+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-05-18T02:36:16.944315+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时36分]"
         },
         {
           "title": "英超曼联3:2诺丁汉森林",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时36分]"
         },
         {
           "title": "曼联3-2诺丁汉森林",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时36分]"
         },
         {
           "title": "市场消息：英国与海湾国家的贸易协议接近达成。",
@@ -62,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时36分]"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋部长在无人机袭击海湾国家核电站后与国际原子能机构负责人通话。",
