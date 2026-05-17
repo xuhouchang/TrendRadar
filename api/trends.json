@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:27:46.746929+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-18T06:27:51.060922+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时27分]"
         },
         {
           "title": "曼联3-2诺丁汉森林",
@@ -26,11 +27,12 @@
           "ranks": [
             18,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 06时27分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -41,8 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 05时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "市场消息：英国与海湾国家的贸易协议接近达成。",
