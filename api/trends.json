@@ -1,301 +1,77 @@
 {
-  "generated_at": "2026-05-18T22:07:15.407414+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-05-19T01:18:09.245578+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "曼联3-2诺丁汉森林",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%943-2%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            9,
-            11,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 09时31分]"
-        },
-        {
-          "title": "英超曼联3:2诺丁汉森林",
-          "url": "https://www.douyin.com/hot/2502602",
-          "source": "抖音",
-          "ranks": [
-            20,
-            8,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时31分]"
-        },
-        {
-          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
-          "url": "https://wallstreetcn.com/livenews/3104897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 07时31分]"
-        },
-        {
-          "title": "小米汽车宣布，小米YU7GT，5月21日19:00正式上市。",
-          "url": "https://flash.jin10.com/detail/20260518091206354800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "法国财长Lescure：未来如有需要，七国集团将再次释放石油储备。 欧洲经济展现出相当强的韧性，欧洲经济正在放缓，但并未陷入衰退。 欧洲经济并未处于高通胀状态。",
-          "url": "https://wallstreetcn.com/livenews/3105131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "4 名中国人赴泰考察失联，行程被强改，胁迫打电话报平安，具体怎么回事？背后可能涉及怎样的犯罪链条？",
-          "url": "https://www.zhihu.com/question/2039292429149237740",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 22时07分]"
-        },
-        {
-          "title": "小米汽车：小米YU7 GT 5月21日19:00 正式上市。",
-          "url": "https://wallstreetcn.com/livenews/3104985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "理想汽车(LI.O)美股盘前跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260518174719751800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
         {
           "title": "如何看待才神道直播拆解比亚迪闪充电池组？",
           "url": "https://www.zhihu.com/question/2039014779122136217",
           "source": "知乎",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 22时07分]"
-        },
-        {
-          "title": "马斯克的xAI为员工提供了420美元的报税补贴，但尚未支付。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3105445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "花旗：蔚来-SW(09866.HK)库存处于健康水平；短期内表现优于理想汽車-W(02015.HK)。",
-          "url": "https://flash.jin10.com/detail/20260518133415859800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "百度集团：2026年第一季度，智能云基础设施收入为人民币88亿元，同比增长79%。 第一季度，GPU云的收入同比增长184%。 第一季度，AI应用收入为人民币25亿元，同比大致持平。",
-          "url": "https://wallstreetcn.com/livenews/3105302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "市场消息：英国与海湾国家的贸易协议接近达成。",
-          "url": "https://flash.jin10.com/detail/20260517233650068800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时08分]"
+          "time_info": "[01时17分 ~ 01时18分]"
         },
         {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://wallstreetcn.com/livenews/3104875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 09时31分]"
-        },
-        {
-          "title": "王力宏买了比亚迪股票",
-          "url": "https://www.toutiao.com/trending/7640797950033231923/",
+          "title": "马斯克发视频点赞重庆东站",
+          "url": "https://www.toutiao.com/trending/7641179836287877146/",
           "source": "今日头条",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
+          "time_info": "[01时17分 ~ 01时18分]"
         },
         {
-          "title": "美股开盘：百度集团涨近4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%BF%914%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时06分 ~ 22时07分]"
-        },
-        {
-          "title": "百度集团：第一季度百度核心AI新业务收入超过人民币136亿元，同比增长49%。",
-          "url": "https://wallstreetcn.com/livenews/3105293",
+          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3105527",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "百度集团第一季度营收320.8亿元人民币，预估314.9亿元人民币。 调整后营业利润38.1亿元人民币，预估33.4亿元人民币。 经调整每ADS利润12.06元人民币，预估11.84元人民币。 调整后息税折旧及摊销前利润59.5亿元人民币，预估52.3亿元人民币。 第一季度爱奇艺收入62.3亿元人民币，预估64.3亿元人民币。 百度美股盘前一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3105289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "美股开盘，道指涨0.04%，标普500指数涨0.15%，纳指涨0.14%。美光科技(MU.O)涨4%，英伟达(NVDA.O)涨2%，英特尔(INTC.O)涨5.3%，百度(BIDU.O)涨3.6%，理想汽车(LI.O)跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260518213035840800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "01时18分"
         },
         {
-          "title": "恒指收跌1.11% 理想汽车跌超14%",
-          "url": "https://www.baidu.com/s?wd=%E6%81%92%E6%8C%87%E6%94%B6%E8%B7%8C1.11%25+%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25",
+          "title": "王力宏回应用代言费买比亚迪股票",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
           "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时18分]"
         },
         {
-          "title": "据阿联酋国家通讯社：阿联酋部长在无人机袭击海湾国家核电站后与国际原子能机构负责人通话。",
-          "url": "https://flash.jin10.com/detail/20260517225431318800",
+          "title": "巴基斯坦总理办公室：巴基斯坦总理今天在总理办公室主持了与巴基斯坦驻伊朗及海湾合作委员会（GCC）国家大使的会议。",
+          "url": "https://flash.jin10.com/detail/20260519001101356800",
           "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "01时18分"
         },
         {
-          "title": "英国曼彻斯特市长安迪·伯纳姆：英国40年来一直走在错误的道路上。 如果政治不能带来公平，人们就会失去信心。 我并非建议英国考虑重新加入欧盟。 投票给我，就是投票支持工党变革。",
-          "url": "https://wallstreetcn.com/livenews/3105427",
+          "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
+          "url": "https://wallstreetcn.com/livenews/3105513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "马斯克称希望尽快推进SpaceX的IPO计划",
-          "url": "https://wallstreetcn.com/livenews/3105277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "理想汽车跌超14%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "市场消息：马斯克的xAI为员工提供了420美元用于报税，但尚未支付。",
-          "url": "https://flash.jin10.com/detail/20260518211730504800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "01时18分"
         }
       ]
     }
