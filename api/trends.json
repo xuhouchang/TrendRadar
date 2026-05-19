@@ -1,645 +1,143 @@
 {
-  "generated_at": "2026-05-19T22:09:39.091376+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-05-20T01:26:14.295099+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 56,
+      "match_count": 12,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 22时09分]"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "马斯克发视频点赞重庆东站",
-          "url": "https://www.toutiao.com/trending/7641179836287877146/",
+          "title": "日本汽车产业遇重创",
+          "url": "https://www.toutiao.com/trending/7640521586860916762/",
           "source": "今日头条",
           "ranks": [
-            9,
-            8,
-            7,
-            21,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时36分]"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "“国产3D NAND第一股”要来了！长存集团启动IPO辅导",
           "url": "https://www.cls.cn/detail/2375577",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 22时09分]"
-        },
-        {
-          "title": "瓜迪奥拉或将离开曼城",
-          "url": "https://search.bilibili.com/all?keyword=%E7%93%9C%E8%BF%AA%E5%A5%A5%E6%8B%89%E6%88%96%E5%B0%86%E7%A6%BB%E5%BC%80%E6%9B%BC%E5%9F%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 19时18分]"
-        },
-        {
-          "title": "马斯克怒喷达美航空弃用星链服务 高管反击：亚马逊竞品更便宜、功能更多",
-          "url": "https://www.cls.cn/detail/2374760",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 15时45分]"
-        },
-        {
-          "title": "尚界汽车报案",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8C%E6%B1%BD%E8%BD%A6%E6%8A%A5%E6%A1%88%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "如何看待才神道直播拆解比亚迪闪充电池组？",
-          "url": "https://www.zhihu.com/question/2039014779122136217",
-          "source": "知乎",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时53分]"
-        },
-        {
-          "title": "王力宏回应用代言费买比亚迪股票",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            21,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时36分]"
-        },
-        {
-          "title": "上交所对密尔克卫智能供应链服务集团股份有限公司及有关责任人予以监管警示。",
-          "url": "https://flash.jin10.com/detail/20260519215147175800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "工信部：深入实施“人工智能+制造”专项行动 加力智能网联新能源汽车、高端装备、航空航天等新兴产业领域挖潜扩容",
-          "url": "https://wallstreetcn.com/livenews/3105892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "中国石油集团：因地制宜发展新质生产力 打造“热电氢”“生精材”两大新兴支柱产业",
-          "url": "https://wallstreetcn.com/livenews/3105753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "特朗普：应海湾国家请求，取消原定周二对伊朗的打击",
-          "url": "https://flash.jin10.com/detail/20260519064859874800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "特斯拉放弃印度建厂",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "金十图示：2026年05月19日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260519110525372800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3105527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时03分]"
-        },
-        {
-          "title": "丁薛祥会见俄罗斯第一副总理曼图罗夫",
-          "url": "https://wallstreetcn.com/livenews/3105985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "周一（5月18日），彭博电动汽车价格回报指数跌1.76%，报3920.31点。 全天处于下跌状态，亚太早盘持续走低，北京时间11:23-21:26持续收复失地，之后加速下跌，22:33以来低位持稳。",
-          "url": "https://wallstreetcn.com/livenews/3105596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时03分]"
-        },
-        {
-          "title": "马斯克转发视频点赞重庆东站",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%B9%E8%B5%9E%E9%87%8D%E5%BA%86%E4%B8%9C%E7%AB%99",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 19时18分]"
-        },
-        {
-          "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
-          "url": "https://www.cls.cn/detail/2374520",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时03分]"
-        },
-        {
-          "title": "小米汽车为寻天引入新电池供应商",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E5%AF%BB%E5%A4%A9%E5%BC%95%E5%85%A5%E6%96%B0%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "车主团购买丰田亚洲龙比4S店还贵",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%B8%BB%E5%9B%A2%E8%B4%AD%E4%B9%B0%E4%B8%B0%E7%94%B0%E4%BA%9A%E6%B4%B2%E9%BE%99%E6%AF%944S%E5%BA%97%E8%BF%98%E8%B4%B5",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时03分]"
-        },
-        {
-          "title": "马浚伟出任高管 衍生集团股价涨超200%",
-          "url": "https://www.toutiao.com/trending/7640664635813101594/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "马斯克起诉OpenAI为何败诉",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B5%B7%E8%AF%89OpenAI%E4%B8%BA%E4%BD%95%E8%B4%A5%E8%AF%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
           "url": "https://www.zhihu.com/question/2039753147992781785",
           "source": "知乎",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
-          "url": "https://flash.jin10.com/detail/20260519040054557800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "巴基斯坦总理办公室：巴基斯坦总理今天在总理办公室主持了与巴基斯坦驻伊朗及海湾合作委员会（GCC）国家大使的会议。",
-          "url": "https://flash.jin10.com/detail/20260519001101356800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3105589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "海军辽宁舰航母编队赴西太平洋开展演训活动",
-          "url": "https://wallstreetcn.com/livenews/3105738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3105587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3105609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
           "source": "澎湃新闻",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "瓜迪奥拉结束十年曼城生涯",
+          "url": "https://www.douyin.com/hot/2504775",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "“叫的特斯拉来的比亚迪” 平台回应",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AB%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E6%9D%A5%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E2%80%9D+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
-          "url": "https://flash.jin10.com/detail/20260519044502123800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "三井住友金融集团、富士通、软银集团同意结成联盟，打造日本本土可持续医疗保健平台。",
-          "url": "https://wallstreetcn.com/livenews/3105732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "马斯克预测：10年后，自己开车将是一种非常小众的行为",
           "url": "https://m.thepaper.cn/newsDetail_forward_33197981",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260519044208799800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "新紫光集团与北汽集团战略签约",
-          "url": "https://flash.jin10.com/detail/20260519183600621800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团（G7）并没有考虑针对债券抛售采取协调行动，每个国家将针对自身市场形势做出回应。 需要针对汇率进行适当的应对。 投机交易是市场波动的一个因素。",
-          "url": "https://wallstreetcn.com/livenews/3105547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "周一（5月18日），美股信息科技指数收跌2.77%，报374.24点。 成分股Credo科技集团控股收跌9.24%，Nebius集团跌9.13%，Lumentum控股跌8.83%，Ondas Inc.跌8.66%，应用数字公司跌8.04%，Astera Labs跌7.35%，康宁公司跌6.91%，Rigetti计算跌6.89%，希捷科技跌6.87%，D-Wave Quantum跌6.34%，美光科技跌5.95%跌幅第十一大。 Adobe则收涨3.25%表现第九，Salesforce涨3.44%，CrowdStrike涨4.17%，Snowflake涨4.30%，摩托罗拉解决方案（MSI）涨4.32%，埃森哲涨5.17%，MongoDB涨5.72%，FICO涨7.58%，ServiceNOW涨8.87%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3105603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "日产汽车考虑在横滨（Yokohama）工厂减产。（读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3105638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
-          "url": "https://wallstreetcn.com/livenews/3105513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：向七国集团（G7）表示，需要密切关注市场。 需要采取行动来纠正全球失衡问题。 我们需要解决与Mythos相关的风险。",
-          "url": "https://wallstreetcn.com/livenews/3105542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "瑞典国防部长：快速交付是选择法国海军集团的主要原因之一。护卫舰将使瑞典空中防御能力提升三倍。",
-          "url": "https://flash.jin10.com/detail/20260519151542267800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "马斯克：美国法官颁发了掠夺慈善机构的“免罪符”。",
-          "url": "https://wallstreetcn.com/livenews/3105600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "丁薛祥会见俄罗斯第一副总理曼图罗夫",
-          "url": "https://flash.jin10.com/detail/20260519183206412800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "比亚迪：快充迭代屡遭伤电池质疑",
-          "url": "https://www.toutiao.com/trending/7640884791541514249/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "壳牌首席执行官：过去几个月的事件表明，满足石油需求在未来几十年将至关重要。",
-          "url": "https://flash.jin10.com/detail/20260519183020897800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
         },
         {
           "title": "特斯拉正式放弃印度建厂计划",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AD%A3%E5%BC%8F%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%E8%AE%A1%E5%88%92",
           "source": "百度热搜",
           "ranks": [
-            28
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "特斯拉放弃印度建厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 01时26分]"
+        },
+        {
+          "title": "日本央行行长植田和男：七国集团（G7）央行行长们同意，能源价格上涨正影响到通胀预期、经济、金融市场。 最新GDP数据与央行的预期大体上吻合，中东局势已经开始影响（日本经济）。 需要密切留意关于价格上涨压力的那些迹象。 意识到长期利率正迅猛上涨。 （关于日本央行缩表计划）将评估市场形势和功能。",
+          "url": "https://wallstreetcn.com/livenews/3106169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时26分"
         },
         {
-          "title": "美再延长俄海运石油制裁豁免30天；应海湾盟友请求，特朗普取消原定19日的对伊军事打击，国际油价应声跳水。当前美油空头仍占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260519103859683800",
+          "title": "日本央行行长植田和男：七国集团央行一致认为，能源价格上涨正在影响通胀预期、经济和金融市场。",
+          "url": "https://flash.jin10.com/detail/20260520000804718800",
           "source": "金十数据",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "瑞典首相克里斯特松：（谈从法国海军集团购买4艘海军护卫舰）这是自20世纪80年代的鹰狮战斗机以来，瑞典最大的国防投资之一。",
-          "url": "https://flash.jin10.com/detail/20260519151037370800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "伊朗与阿塞拜疆边境恢复汽车进口通关业务",
-          "url": "https://wallstreetcn.com/livenews/3105951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "专家：马斯克几大布局颠覆传统行业",
-          "url": "https://www.toutiao.com/trending/7641563459351481910/",
-          "source": "今日头条",
-          "ranks": [
-            30
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "花旗集团认为铝价迎来50年来最看涨行情",
-          "url": "https://wallstreetcn.com/livenews/3105702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "01时26分"
         }
       ]
     }
