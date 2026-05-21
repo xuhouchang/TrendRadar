@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T08:08:41.150474+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-05-21T12:53:37.724890+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
@@ -41,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 08时08分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 12时53分]"
         },
         {
           "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
@@ -76,7 +77,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -117,6 +118,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "埃克森美孚：与埃及签署谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3106850",
           "source": "华尔街见闻-快讯",
@@ -126,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "特斯拉官宣监督版FSD入华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E5%AE%A3%E7%9B%91%E7%9D%A3%E7%89%88FSD%E5%85%A5%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
@@ -162,6 +185,19 @@
           "time_info": "[06时53分 ~ 08时08分]"
         },
         {
+          "title": "小鹏 GX 正式上市，26.98 万起，有哪些技术亮点？预计销量如何，能否脱颖而出？",
+          "url": "https://www.zhihu.com/question/2040426374658093580",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 12时53分]"
+        },
+        {
           "title": "小鹏GX价格炸裂",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E4%BB%B7%E6%A0%BC%E7%82%B8%E8%A3%82%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -172,18 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 03时25分]"
-        },
-        {
-          "title": "小鹏 GX 正式上市，26.98 万起，有哪些技术亮点？预计销量如何，能否脱颖而出？",
-          "url": "https://www.zhihu.com/question/2040426374658093580",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 08时08分]"
         },
         {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
@@ -230,13 +254,24 @@
           "time_info": "06时53分"
         },
         {
+          "title": "特斯拉月薪3万抢“老司机”",
+          "url": "https://www.toutiao.com/trending/7641158841577930815/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "美股三大指数均涨超1% 特斯拉涨3.25%",
           "url": "https://www.toutiao.com/trending/7642114363104431662/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -263,6 +298,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "雷军晒YU7GT团队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92YU7GT%E5%9B%A2%E9%98%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "被判赔3家车企共226万 汽车博主回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%88%A4%E8%B5%943%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%B1226%E4%B8%87+%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "SpaceX：马斯克可以选举、罢免或填补B类董事的空缺。",
           "url": "https://flash.jin10.com/detail/20260521045052638800",
           "source": "金十数据",
@@ -280,9 +337,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "小鹏GX上市12小时大定24863台",
+          "url": "https://www.toutiao.com/trending/7642169330456727049/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "SpaceX：IPO后，马斯克将担任首席执行官、首席技术官及董事会主席。",
@@ -316,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "特斯拉宣布监督版 FSD 登陆中国，意味着什么？你看好它的市场前景吗？",
+          "url": "https://www.zhihu.com/question/2040736336265443002",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "SpaceX：马斯克拥有12.3%的A类股份和93.6%的B类股份。",
@@ -360,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "马斯克冲击全球首位万亿美元富翁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%B2%E5%87%BB%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%8C%E7%BF%81%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "SpaceX：马斯克的投票权合计为85.1%。",
