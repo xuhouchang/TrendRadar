@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T01:51:27.872152+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-23T03:44:59.271742+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2040917243547105108",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时44分]"
         },
         {
           "title": "雷军余承东预警：手机只会越来越贵",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时44分]"
         },
         {
           "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
@@ -37,19 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时44分]"
         },
         {
           "title": "诈骗数额超24亿元，缅北果敢魏家犯罪集团主案一审开庭",
           "url": "https://m.thepaper.cn/newsDetail_forward_33210687",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时44分]"
         },
         {
           "title": "七国集团高层接连访华 除了日本",
@@ -59,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时44分]"
         },
         {
           "title": "报道：道达尔能源拟出售50%欧洲绿能资产股权",
