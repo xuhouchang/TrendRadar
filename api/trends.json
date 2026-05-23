@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T00:32:21.260843+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T02:02:19.298583+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
-          "url": "https://flash.jin10.com/detail/20260524000820436800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时02分]"
         },
         {
           "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
@@ -37,19 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时02分]"
         },
         {
           "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
           "url": "https://www.zhihu.com/question/2041247388258362911",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时02分]"
+        },
+        {
+          "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260524000820436800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时02分]"
         },
         {
           "title": "雷军透露小米下一步规划",
