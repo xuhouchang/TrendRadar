@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T17:20:50.199185+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-23T18:53:11.243289+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "诈骗数额超24亿元，缅北果敢魏家犯罪集团主案一审开庭",
@@ -60,6 +60,42 @@
           "time_info": "[01时51分 ~ 08时08分]"
         },
         {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时53分]"
+        },
+        {
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致 90 人遇难，123 人送医，现场情况如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2041501077955142768",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 18时53分]"
+        },
+        {
+          "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820871",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 18时53分]"
+        },
+        {
           "title": "七国集团高层接连访华 除了日本",
           "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E9%AB%98%E5%B1%82%E6%8E%A5%E8%BF%9E%E8%AE%BF%E5%8D%8E+%E9%99%A4%E4%BA%86%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -71,15 +107,26 @@
           "time_info": "[01时51分 ~ 08时08分]"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
+          "title": "国际货币基金组织（IMF）：如果放任不管，欧盟的公共债务将踏上一条不可持续的绝路。 在现有政策不作调整的路径下，到2040年，欧洲平均每个国家的债务规模将达到其GDP的130%——这几乎是今天水平的两倍。 为了阻止这一恶劣情景的发生，欧盟各国必须加大激励力度，促进劳动力在这一拥有27个成员国的经济集团内部自由流动以寻找工作，同时也应鼓励企业跨国招聘。 欧盟还应当深度整合其能源市场，打破壁垒，让各国民众的储蓄能够更顺畅地跨国流动、转化为高回报的投资，并致力于统一目前在各国之间往往大相径庭的法律法规。",
+          "url": "https://wallstreetcn.com/livenews/3108339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时53分"
+        },
+        {
+          "title": "国家卫健委组织多学科专家赴山西通洲集团留神峪煤矿瓦斯爆炸事故现场开展医疗救治",
+          "url": "https://flash.jin10.com/detail/20260523174916148800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
@@ -105,6 +152,19 @@
           "time_info": "[05时09分 ~ 06时35分]"
         },
         {
+          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 18时53分]"
+        },
+        {
           "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
           "url": "https://wallstreetcn.com/livenews/3108305",
           "source": "华尔街见闻-快讯",
@@ -118,40 +178,39 @@
           "time_info": "[12时25分 ~ 17时20分]"
         },
         {
-          "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超82人遇难。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3108319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 17时20分]"
-        },
-        {
           "title": "山西通洲集团留神峪煤矿瓦斯爆炸事故已致超50人遇难",
           "url": "https://wallstreetcn.com/livenews/3108315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 18时53分]"
         },
         {
-          "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820871",
-          "source": "澎湃新闻",
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            10
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时53分]"
+        },
+        {
+          "title": "曝恩佐是曼城夏窗目标",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E6%81%A9%E4%BD%90%E6%98%AF%E6%9B%BC%E5%9F%8E%E5%A4%8F%E7%AA%97%E7%9B%AE%E6%A0%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时15分 ~ 17时20分]"
+          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "曼城官宣瓜迪奥拉将离任",
@@ -163,17 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 06时35分]"
-        },
-        {
-          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
-          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
@@ -237,7 +285,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -270,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -303,7 +351,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
