@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T03:44:22.314546+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-05-24T04:52:41.845555+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时52分]"
         },
         {
           "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时52分]"
         },
         {
           "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
@@ -36,22 +36,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 03时44分]"
-        },
-        {
-          "title": "据法新社援引知情人士报道，法国总统马克龙与特朗普及海湾领导人通话，呼吁通过谈判解决与伊朗的问题。",
-          "url": "https://flash.jin10.com/detail/20260524031522354800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 04时52分]"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
@@ -64,6 +54,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 02时02分]"
+        },
+        {
+          "title": "据法新社援引知情人士报道，法国总统马克龙与特朗普及海湾领导人通话，呼吁通过谈判解决与伊朗的问题。",
+          "url": "https://flash.jin10.com/detail/20260524031522354800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时52分]"
         },
         {
           "title": "雷军透露小米下一步规划",
