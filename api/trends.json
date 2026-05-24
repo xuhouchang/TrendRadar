@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T05:57:35.929216+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-05-25T07:00:20.301816+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时00分]"
         },
         {
           "title": "阿曼与伊朗讨论霍尔木兹海峡通航问题",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 07时00分]"
         },
         {
           "title": "阿曼与伊朗就霍尔木兹海峡航运等议题举行磋商",
