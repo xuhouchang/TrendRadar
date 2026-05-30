@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T12:35:13.389000+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-05-30T15:42:15.627558+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 15时42分]"
         },
         {
           "title": "比亚迪智驾出事全额赔付",
@@ -27,22 +27,73 @@
           "source": "贴吧",
           "ranks": [
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 15时42分]"
+        },
+        {
+          "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 15时42分]"
+        },
+        {
+          "title": "雷军称被何小鹏李斌骗了，「他们说造车很有意思，实际很苦」，从当前发展看，如何评价小米入局造车这一选择？",
+          "url": "https://www.zhihu.com/question/2043773481611786018",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时42分]"
+        },
+        {
+          "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
+          "url": "https://wallstreetcn.com/articles/3773436",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时42分]"
+        },
+        {
+          "title": "435万法拉利电车撞脸13万蔚来萤火虫",
+          "url": "https://www.baidu.com/s?wd=435%E4%B8%87%E6%B3%95%E6%8B%89%E5%88%A9%E7%94%B5%E8%BD%A6%E6%92%9E%E8%84%B813%E4%B8%87%E8%94%9A%E6%9D%A5%E8%90%A4%E7%81%AB%E8%99%AB",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时42分]"
         },
         {
           "title": "435万法拉利电车撞脸13万蔚来萤火虫",
           "url": "https://www.toutiao.com/trending/7644397891674619931/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 15时42分]"
         },
         {
           "title": "如何看待小鹏一季度财报，亏损 18.7 个亿？",
@@ -59,42 +110,6 @@
           "time_info": "[05时23分 ~ 12时35分]"
         },
         {
-          "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时35分]"
-        },
-        {
-          "title": "雷军称被何小鹏李斌骗了，「他们说造车很有意思，实际很苦」，从当前发展看，如何评价小米入局造车这一选择？",
-          "url": "https://www.zhihu.com/question/2043773481611786018",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
-          "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
-          "url": "https://wallstreetcn.com/articles/3773436",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
-        },
-        {
           "title": "百胜餐饮集团（YUM）洽谈出售Pizza Hut给Longrange。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3111646",
           "source": "华尔街见闻-快讯",
@@ -106,15 +121,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "435万法拉利电车撞脸13万蔚来萤火虫",
-          "url": "https://www.baidu.com/s?wd=435%E4%B8%87%E6%B3%95%E6%8B%89%E5%88%A9%E7%94%B5%E8%BD%A6%E6%92%9E%E8%84%B813%E4%B8%87%E8%94%9A%E6%9D%A5%E8%90%A4%E7%81%AB%E8%99%AB",
-          "source": "百度热搜",
+          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
+          "url": "https://flash.jin10.com/detail/20260530151755010800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "特斯拉满血版FSD体验",
@@ -140,6 +155,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 08时10分]"
+        },
+        {
+          "title": "东方电气集团与中国稀土集团举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3111741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "神21航天员平安抵京",
@@ -202,13 +228,24 @@
           "time_info": "[05时23分 ~ 08时10分]"
         },
         {
+          "title": "10名中国车主诉特斯拉FSD欺诈索395万",
+          "url": "https://www.toutiao.com/trending/7645193705930018346/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
           "title": "宁德时代首席科学家吴凯：今年将实现钠离子电池规模量产 下一步聚焦锂空气电池研发",
           "url": "https://flash.jin10.com/detail/20260530105527091800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -252,7 +289,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -296,7 +333,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
