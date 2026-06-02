@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T08:14:12.859064+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-02T13:11:17.952392+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 08时14分]"
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 13时11分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -61,9 +61,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 13时11分]"
+        },
+        {
+          "title": "长安汽车5月交付209100辆，海外同比增长38%",
+          "url": "https://wallstreetcn.com/livenews/3112817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "标普500指数初步收涨0.2%，公用事业板块跌2.9%，可选消费板块跌2.5%，电信板块跌1.5%，科技板块涨2.4%。 纳斯达克100指数初步收涨0.4%，成分股中，Arm控股收涨15.7%，Datadog涨12.1%，Zscaler涨11.9%，铿腾电子涨10.2%，汤森路透涨8.5%，Workday、Autodesk涨7.5%，德州仪器跌4.3%，特斯拉跌4.4%，Meta跌5.1%，英特尔跌5.1%，Strategy跌5.9%，核电股CEG跌7.6%，高通跌8.9%。 Salesforce初步收涨9.5%，IBM、英伟达至少涨6.1%，领跑道指成分股，苹果则跌1.5%，波音跌2.9%，Merck跌3.1%，亚马逊跌3.4%。",
@@ -75,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "据韩联社：韩国SK集团会长崔泰源1日会见英伟达(NVDA.O)CEO黄仁勋，两人就AI存储芯片合作进行交流。",
+          "url": "https://flash.jin10.com/detail/20260602123157650800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.5%。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。",
@@ -111,18 +146,6 @@
           "time_info": "[04时18分 ~ 06时41分]"
         },
         {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 08时14分]"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗革命卫队圣城旅指挥官卡尼表示，以色列在黎巴嫩和加沙的行动将导致抵抗轴心将“曼德海峡的航运状况与霍尔木兹海峡的情况对等看待”。",
           "url": "https://flash.jin10.com/detail/20260602031955651800",
           "source": "金十数据",
@@ -140,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -154,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美航空航天局：美东北部“火球”现象由流星解体引发",
+          "url": "https://flash.jin10.com/detail/20260602121734982800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "比亚迪5月销量38.35万辆",
@@ -200,6 +234,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "74岁男子点燃杨絮致20辆汽车被烧毁",
+          "url": "https://www.baidu.com/s?wd=74%E5%B2%81%E7%94%B7%E5%AD%90%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE%E8%87%B420%E8%BE%86%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
           "url": "https://flash.jin10.com/detail/20260602024742744800",
           "source": "金十数据",
@@ -209,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
+          "url": "https://wallstreetcn.com/livenews/3112791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     }
