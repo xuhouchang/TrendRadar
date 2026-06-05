@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T18:32:19.011281+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-06-05T21:53:11.038079+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "870亿市值蜜雪集团卖咖啡均价6.9元",
@@ -22,6 +22,17 @@
           "time_info": "[01时29分 ~ 07时10分]"
         },
         {
+          "title": "新金主!比亚迪官宣赞助LPL",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354891&amp;topic_name=%E6%96%B0%E9%87%91%E4%B8%BB%21%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%98%E5%AE%A3%E8%B5%9E%E5%8A%A9LPL",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 21时53分]"
+        },
+        {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
           "url": "https://wallstreetcn.com/articles/3773813",
           "source": "华尔街见闻",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 05时42分]"
-        },
-        {
-          "title": "新金主!比亚迪官宣赞助LPL",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354891&amp;topic_name=%E6%96%B0%E9%87%91%E4%B8%BB%21%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%98%E5%AE%A3%E8%B5%9E%E5%8A%A9LPL",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 18时32分]"
         },
         {
           "title": "马斯克：如果让火星热闹起来，可以让它像地球一样。",
@@ -72,7 +72,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -142,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "小米雷军与特斯拉陶琳互动",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%9B%B7%E5%86%9B%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%B6%E7%90%B3%E4%BA%92%E5%8A%A8&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "俄外长：俄已更新海湾地区安全构想并递交各方",
@@ -262,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -309,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "宁德时代与中钢协启动钢铁行业两项新能源团标",
+          "url": "https://wallstreetcn.com/livenews/3115146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     }
