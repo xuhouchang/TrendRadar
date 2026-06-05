@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T00:32:09.582528+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-06-06T02:25:32.433535+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时25分]"
         },
         {
           "title": "印度央行：印度政府已重新任命斯瓦米纳坦·贾纳基拉曼（Swaminathan Janakiraman）为印度央行副行长，任期两年，自6月26日起生效。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
