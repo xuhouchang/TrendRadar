@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T16:33:47.384450+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-06-06T18:54:09.416126+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,23 @@
             3,
             5,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 18时54分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时54分]"
         },
         {
           "title": "怪物猎人荒野凌越预告公布",
@@ -33,24 +45,13 @@
           "time_info": "09时29分"
         },
         {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "俄罗斯石油公司Rosneft CEO谢钦警告称，霍尔木兹海峡关闭后，全球其他航道，如马六甲海峡、巴布曼德海峡和直布罗陀海峡，也可能面临中断威胁。",
           "url": "https://flash.jin10.com/detail/20260606160138308800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -90,6 +91,19 @@
           "time_info": "13时34分"
         },
         {
+          "title": "字节跳动：没有造车或推出汽车品牌的计划",
+          "url": "https://wallstreetcn.com/livenews/3115424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时34分 ~ 18时54分]"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊拉克库尔德斯坦苏莱曼尼亚郊区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260606041802053800",
           "source": "金十数据",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 07时12分]"
-        },
-        {
-          "title": "字节跳动：没有造车或推出汽车品牌的计划",
-          "url": "https://wallstreetcn.com/livenews/3115424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 16时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
@@ -237,7 +239,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
