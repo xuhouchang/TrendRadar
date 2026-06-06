@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T02:48:38.822120+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-06-07T04:09:40.246695+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时09分]"
         },
         {
           "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
@@ -24,22 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时48分]"
-        },
-        {
-          "title": "据卡塔尔通讯社：卡塔尔参加海湾合作委员会劳动部长协调会议。",
-          "url": "https://flash.jin10.com/detail/20260607020235206800",
-          "source": "金十数据",
-          "ranks": [
+            8,
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时09分]"
         },
         {
           "title": "小鹏集团再拓摩洛哥、突尼斯市场，北非“战略铁三角”成型",
@@ -47,11 +37,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时09分]"
+        },
+        {
+          "title": "据卡塔尔通讯社：卡塔尔参加海湾合作委员会劳动部长协调会议。",
+          "url": "https://flash.jin10.com/detail/20260607020235206800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时48分]"
+          "time_info": "[02时48分 ~ 04时09分]"
         },
         {
           "title": "新金主!比亚迪官宣赞助LPL",
@@ -61,8 +64,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时09分]"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
