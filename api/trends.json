@@ -1,260 +1,99 @@
 {
-  "generated_at": "2026-06-08T22:34:37.392712+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-06-09T01:53:27.971428+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 08时08分]"
-        },
-        {
-          "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
-          "url": "https://news.ifeng.com/c/8tlaJRmbbef",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时38分]"
-        },
-        {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 08时08分]"
-        },
-        {
-          "title": "英国政府：E3领导人谴责俄罗斯对乌克兰城市的大规模导弹和无人机袭击，包括反复使用“奥列什尼克”导弹。领导人强调，迫切需要扩大拦截器的生产规模，共同开发反导导弹和纵深打击能力。领导人还讨论了如何利用七国集团峰会、有意愿者联盟下一次会议以及北约峰会，来最佳地协调对乌克兰的进一步支持。",
-          "url": "https://flash.jin10.com/detail/20260608044605760800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "A股油服工程板块异动走高，科力股份涨超18%，通源石油涨超11%，潜能恒信、中曼石油、贝肯能源等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3115869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 22时34分]"
-        },
-        {
-          "title": "黄仁勋和SK集团董事长Chey将于周一宣布合作计划",
-          "url": "https://www.cls.cn/detail/2392935",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "伊朗打击伊拉克苏莱曼尼亚省的恐怖分子基地。（IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3115646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "A股油服工程板块异动走高，科力股份涨超18%，通源石油涨超11%，潜能恒信、中曼石油、贝肯能源等个股跟涨。消息面上，伊朗马赫沙赫尔石化公司遭以色列袭击，部分设施受损。",
-          "url": "https://flash.jin10.com/detail/20260608130228139800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "太平洋海啸预警中心：未来三小时内可能出现海啸。",
-          "url": "https://wallstreetcn.com/livenews/3115684",
+          "title": "特斯拉涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3116298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "中东股市收盘播报｜阿曼股市收跌约1.6%，卡塔尔股指七天跌超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3115585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时55分]"
-        },
-        {
-          "title": "太平洋海啸预警中心：对菲律宾、印度尼西亚、帕劳、雅浦和巴布亚新几内亚发布海啸警报。",
-          "url": "https://flash.jin10.com/detail/20260608075020633800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "黑石集团计划出售价值20亿美元的私募投资基金股份。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3116028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "如何评价蔚来旗下电动车萤火虫?",
-          "url": "https://www.zhihu.com/question/1897036483069712166",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 08时08分]"
+          "time_info": "01时53分"
         },
         {
           "title": "“扫货”电解液，宁德时代在下一盘什么棋？",
           "url": "https://www.cls.cn/detail/2393941",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "交易商：阿联酋正通过招标向亚洲买家出售大量海湾石油",
-          "url": "https://flash.jin10.com/detail/20260608175018758800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "01时53分"
         },
         {
-          "title": "如何评价电影《宇宙巨人：希曼崛起》？",
-          "url": "https://www.zhihu.com/question/2046018725426597982",
-          "source": "知乎",
+          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
+          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
+          "url": "https://flash.jin10.com/detail/20260609010812804800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "奇瑞回应“与印度塔塔集团相关合作”",
+          "url": "https://www.toutiao.com/trending/7648157589721563190/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时53分"
         },
         {
-          "title": "舜宇光学科技（集团）考虑发行约30亿元人民币的点心债，这家港股上市公司计划最早于本月内推介这只5年期债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3115850",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "01时53分"
         },
         {
-          "title": "印度为什么留不住特斯拉",
-          "url": "https://www.toutiao.com/trending/7647814099620331563/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "奇瑞回应“与印度塔塔集团相关合作”：没有在印度市场直接投资和技术转让等安排",
-          "url": "https://wallstreetcn.com/livenews/3116011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "网传江西南昌一小米汽车起火",
-          "url": "https://www.toutiao.com/trending/7648294901419704356/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "意大利银行Banco BPM希望与西雅那银行合并，打造该国第二大银行集团",
-          "url": "https://wallstreetcn.com/livenews/3115555",
-          "source": "华尔街见闻-快讯",
+          "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
+          "url": "https://flash.jin10.com/detail/20260609004519849800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时53分"
         }
       ]
     }
