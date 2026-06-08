@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T06:10:39.789122+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-06-09T07:47:18.326637+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时47分]"
         },
         {
           "title": "伊朗圣城旅指挥官：霍尔木兹海峡到曼德海峡正形成“新的安全带”",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时47分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -85,8 +85,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时47分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
@@ -106,7 +106,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -128,7 +128,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
