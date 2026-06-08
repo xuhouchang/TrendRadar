@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T18:04:07.473977+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-06-08T22:34:37.392712+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -64,6 +64,19 @@
           "time_info": "13时13分"
         },
         {
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 22时34分]"
+        },
+        {
           "title": "黄仁勋和SK集团董事长Chey将于周一宣布合作计划",
           "url": "https://www.cls.cn/detail/2392935",
           "source": "财联社热门",
@@ -84,18 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 18时04分]"
         },
         {
           "title": "A股油服工程板块异动走高，科力股份涨超18%，通源石油涨超11%，潜能恒信、中曼石油、贝肯能源等个股跟涨。消息面上，伊朗马赫沙赫尔石化公司遭以色列袭击，部分设施受损。",
@@ -150,7 +151,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -168,13 +169,24 @@
           "time_info": "[00时52分 ~ 08时08分]"
         },
         {
+          "title": "“扫货”电解液，宁德时代在下一盘什么棋？",
+          "url": "https://www.cls.cn/detail/2393941",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "交易商：阿联酋正通过招标向亚洲买家出售大量海湾石油",
           "url": "https://flash.jin10.com/detail/20260608175018758800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -218,7 +230,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
