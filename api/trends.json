@@ -1,470 +1,88 @@
 {
-  "generated_at": "2026-06-09T21:45:15.433592+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-06-10T00:32:32.655569+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
-          "url": "https://www.cls.cn/detail/2394752",
+          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
+          "url": "https://www.cls.cn/detail/2395125",
           "source": "财联社热门",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 21时45分]"
-        },
-        {
-          "title": "“扫货”电解液，宁德时代在下一盘什么棋？",
-          "url": "https://www.cls.cn/detail/2393941",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时47分]"
-        },
-        {
-          "title": "王传福：5年后比亚迪规模全球第一",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 15时03分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         },
         {
           "title": "王传福称5年后比亚迪规模全球第一",
           "url": "https://www.toutiao.com/trending/7649338218843737642/",
           "source": "今日头条",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
-          "url": "https://news.ifeng.com/c/8toKe0HelhI",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 15时03分]"
-        },
-        {
-          "title": "赛豆汽车正脸",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E8%B1%86%E6%B1%BD%E8%BD%A6%E6%AD%A3%E8%84%B8&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
-          "url": "https://www.cls.cn/detail/2395125",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "金十图示：2026年06月09日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260609110836582800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "伊朗圣城旅指挥官：霍尔木兹海峡到曼德海峡正形成“新的安全带”",
-          "url": "https://flash.jin10.com/detail/20260609034922041800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美军称，美国直升机机组人员在阿曼海岸附近获救。美国中央司令部称，两名士兵目前状况稳定。美国表示，直升机坠落原因正在调查中。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "阿里巴巴百度蔚来紧急公告",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E5%BA%A6%E8%94%9A%E6%9D%A5%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 11时31分]"
-        },
-        {
-          "title": "王传福：5年后比亚迪将做到全球第一",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%86%E5%81%9A%E5%88%B0%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "特斯拉涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3116298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "美军在阿曼湾袭击一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3116334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 06时10分]"
-        },
-        {
-          "title": "5月汽车销量前十已无燃油车",
-          "url": "https://www.baidu.com/s?wd=5%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时32分"
         },
         {
-          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
-          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "title": "特斯拉(TSLA.O)跌幅达5%。",
+          "url": "https://flash.jin10.com/detail/20260610001744004800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时32分"
         },
         {
-          "title": "《网络测评活动规范》出台，这会对汽车的智驾实测、汽车横评等项目带来哪些影响？对汽车博主测评有影响吗？",
-          "url": "https://www.zhihu.com/question/2047281068265273006",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "乘联分会：汽车出口成行业增长核心支柱，预计6月“弱复苏”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33336337",
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
           "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "赛豆AI汽车AIVA亮相",
-          "url": "https://www.toutiao.com/trending/7649173735878443049/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "孟羽童向平安高管求职",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%90%91%E5%B9%B3%E5%AE%89%E9%AB%98%E7%AE%A1%E6%B1%82%E8%81%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时32分"
         },
         {
-          "title": "博通、阿波罗、黑石集团成立战略平台",
-          "url": "https://wallstreetcn.com/livenews/3116855",
-          "source": "华尔街见闻-快讯",
+          "title": "股价未能反映潜力！王传福：2027年将有“惊艳”技术爆发｜比亚迪股东大会",
+          "url": "https://www.cls.cn/detail/2395116",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "5月汽车销量前十已无燃油车",
-          "url": "https://www.toutiao.com/trending/7648638193265999935/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时32分"
         },
         {
-          "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
-          "url": "https://flash.jin10.com/detail/20260609010812804800",
-          "source": "金十数据",
+          "title": "王传福：5年后比亚迪规模全球第一",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A7%84%E6%A8%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时32分"
         },
         {
-          "title": "蔚来回应被美列入中国军事企业名单",
-          "url": "https://www.toutiao.com/trending/7649096448684081178/",
-          "source": "今日头条",
+          "title": "湖南建设投资集团党委书记、董事长蔡典维被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33340186",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
-          "url": "https://wallstreetcn.com/livenews/3116344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "奇瑞回应“与印度塔塔集团相关合作”",
-          "url": "https://www.toutiao.com/trending/7648157589721563190/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "海关总署：中国5月汽车（包括底盘）出口98.8万辆，4月93.9万辆。",
-          "url": "https://flash.jin10.com/detail/20260609105415390800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "阿维塔：中国汽车不能走复制粘贴之路",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E7%BB%B4%E5%A1%94%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%8D%E8%83%BD%E8%B5%B0%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E4%B9%8B%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "联想集团(00992.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260609142919212800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "博通(AVGO.O)、阿波罗、黑石集团(BX.N)成立战略平台，以加速超过20吉瓦的全球人工智能部署。",
-          "url": "https://flash.jin10.com/detail/20260609210136059800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "海关总署：中国1-5月汽车（包括底盘）出口423.8万辆。",
-          "url": "https://flash.jin10.com/detail/20260609105333969800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "阿维塔 赛豆汽车",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E7%BB%B4%E5%A1%94%20%E8%B5%9B%E8%B1%86%E6%B1%BD%E8%BD%A6&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "为什么汽车公司要忙着自研智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E8%A6%81%E5%BF%99%E7%9D%80%E8%87%AA%E7%A0%94%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
-          "url": "https://flash.jin10.com/detail/20260609004519849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "湖南建设投资集团董事长蔡典维被查",
-          "url": "https://www.toutiao.com/trending/7649195006285021247/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "王传福：五年后比亚迪将在规模上做到真正的全球第一",
-          "url": "https://wallstreetcn.com/livenews/3116573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "广东：2027年底前全省累计建成300万个以上充电设施，满足超过800万辆新能源汽车充电需求",
-          "url": "https://wallstreetcn.com/livenews/3116712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "诺曼底72小时豆瓣开分8.2",
-          "url": "https://www.douyin.com/hot/2527787",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "00时32分"
         }
       ]
     }
