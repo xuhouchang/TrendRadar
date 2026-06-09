@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T07:47:18.326637+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-09T11:31:58.200961+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "“扫货”电解液，宁德时代在下一盘什么棋？",
@@ -21,6 +21,30 @@
           "time_info": "[01时53分 ~ 07时47分]"
         },
         {
+          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 11时31分]"
+        },
+        {
+          "title": "金十图示：2026年06月09日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260609110836582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "伊朗圣城旅指挥官：霍尔木兹海峡到曼德海峡正形成“新的安全带”",
           "url": "https://flash.jin10.com/detail/20260609034922041800",
           "source": "金十数据",
@@ -30,6 +54,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 11时31分]"
         },
         {
           "title": "特斯拉涨超5%。",
@@ -66,29 +113,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时47分]"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时47分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
           "url": "https://flash.jin10.com/detail/20260609010812804800",
           "source": "金十数据",
@@ -122,6 +146,28 @@
           "time_info": "01时53分"
         },
         {
+          "title": "海关总署：中国5月汽车（包括底盘）出口98.8万辆，4月93.9万辆。",
+          "url": "https://flash.jin10.com/detail/20260609105415390800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "海关总署：中国1-5月汽车（包括底盘）出口423.8万辆。",
+          "url": "https://flash.jin10.com/detail/20260609105333969800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "为什么汽车公司要忙着自研智驾芯片",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8%E8%A6%81%E5%BF%99%E7%9D%80%E8%87%AA%E7%A0%94%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -142,6 +188,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "湖南建设投资集团董事长蔡典维被查",
+          "url": "https://www.toutiao.com/trending/7649195006285021247/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "诺曼底72小时豆瓣开分8.2",
+          "url": "https://www.douyin.com/hot/2527787",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     }
