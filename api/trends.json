@@ -1,308 +1,88 @@
 {
-  "generated_at": "2026-06-12T22:20:04.788971+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-06-13T01:22:30.564176+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
-          "url": "https://www.zhihu.com/question/2048159787817375467",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 09时57分]"
-        },
-        {
-          "title": "Smoggy 最难受的还是曼谷",
-          "url": "https://search.bilibili.com/all?keyword=Smoggy%20%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E8%BF%98%E6%98%AF%E6%9B%BC%E8%B0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 07时07分]"
-        },
-        {
-          "title": "加拿大汽配巨头向中国车企“示好”",
-          "url": "https://news.ifeng.com/c/8trRtfSsKoD",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 05时21分]"
-        },
-        {
-          "title": "马斯克每天花100万美元或够花2700年",
-          "url": "https://www.toutiao.com/trending/7649975809004126249/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "我国汽车出口连续两月超90万辆",
-          "url": "https://www.douyin.com/hot/2531627",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "电动汽车为何不交养路费",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BA%A4%E5%85%BB%E8%B7%AF%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时20分 ~ 19时02分]"
-        },
-        {
-          "title": "余承东：防诈骗买鸿蒙",
-          "url": "https://www.toutiao.com/trending/7650414983611875378/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：海峡的未来管理将作为地区事务，通过伊朗与阿曼之间的对话和共同决策来解决。",
-          "url": "https://flash.jin10.com/detail/20260612183553947800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "B 席将离开曼城加盟皇马，两年合同 + 一年续约选择权，如何看待这笔转会，B 席能给皇马带来什么？",
-          "url": "https://www.zhihu.com/question/2048701825893626395",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "A股创新药板块走高，赛伦生物涨超18%，诺诚健华涨超11%，荣昌生物、益方生物、亚泰集团、阳光诺和跟涨。",
-          "url": "https://flash.jin10.com/detail/20260612143046684800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
-          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "独家|能源巨头战略延伸？宁德时代首次投资核聚变企业 为何“花落”贝塔聚变",
-          "url": "https://www.cls.cn/detail/2397280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 07时07分]"
-        },
-        {
-          "title": "哈兰德抖音粉丝数超曼城",
-          "url": "https://www.douyin.com/hot/2532056",
-          "source": "抖音",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 22时20分]"
-        },
         {
           "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
           "url": "https://www.cls.cn/detail/2398745",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
-          "title": "吴晓波：马斯克“造神运动”背后",
-          "url": "https://www.toutiao.com/trending/7649371811609002025/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
-          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
-          "url": "https://www.zhihu.com/question/2048672745810916944",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "马斯克半裸充气人偶现身时代广场",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8D%8A%E8%A3%B8%E5%85%85%E6%B0%94%E4%BA%BA%E5%81%B6%E7%8E%B0%E8%BA%AB%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
-          "title": "Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3118397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "01时22分"
         },
         {
-          "title": "日产汽车将在未来一年左右发布七款新车。 公司将新车研发周期减半，至两年。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3118428",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊(AMZN.O)：下一次柯伊伯计划LEO Europe 3（LE-03）任务计划于美东时间6月17日（周三）上午7:53发射。",
+          "url": "https://flash.jin10.com/detail/20260613005602054800",
+          "source": "金十数据",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "01时22分"
         },
         {
-          "title": "国轩高科配套问界M6",
-          "url": "https://wallstreetcn.com/livenews/3118806",
-          "source": "华尔街见闻-快讯",
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "01时22分"
         },
         {
-          "title": "余承东谈盘古大模型",
-          "url": "https://www.toutiao.com/trending/7649680189663772714/",
-          "source": "今日头条",
+          "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
+          "url": "https://flash.jin10.com/detail/20260613004141210800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
+          "url": "https://wallstreetcn.com/livenews/3119003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
+          "url": "https://wallstreetcn.com/livenews/3118995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "01时22分"
         },
         {
-          "title": "周四（6月11日），彭博电动汽车价格回报指数涨1.16%，报3663.28点。 北京时间10:45，指数刷新日低至35688.91点，随后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3118385",
+          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3118990",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "【华尔街大行限制对冲基金对SK海力士和三星等亚洲芯片股的做多杠杆】据媒体消息，知情人士透露，全球银行正在限制对冲基金对亚洲顶级芯片制造商（包括SK海力士和三星电子）的杠杆押注，此前今年以来的猛烈上涨引发了可能回调的担忧。知情人士表示，包括花旗集团、摩根大通和高盛在内的经纪商已经提高了对冲基金通过掉期方式押注SK海力士和三星电子股票的融资成本。银行收紧了新交易的规模以及向哪些公司提供交易，有些银行甚至拒绝客户提出的新掉期交易请求，或根据具体情况进行评估。针对台积电，银行也采取了类似措施。",
-          "url": "https://wallstreetcn.com/livenews/3118600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "市场消息：委内瑞拉与壳牌签署石油和天然气协议，包括该公司参与洛兰海上天然气田的项目。",
-          "url": "https://flash.jin10.com/detail/20260612052944337800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "报道：美伊正接近达成和平协议，预计将在下周的七国集团会议期间达成",
-          "url": "https://wallstreetcn.com/livenews/3118785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "A股零售板块午后异动，中百集团直线涨停。",
-          "url": "https://wallstreetcn.com/livenews/3118597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "01时22分"
         }
       ]
     }
