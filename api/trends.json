@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T01:22:30.564176+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-13T03:31:28.359176+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时31分]"
+        },
+        {
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时31分]"
         },
         {
           "title": "亚马逊(AMZN.O)：下一次柯伊伯计划LEO Europe 3（LE-03）任务计划于美东时间6月17日（周三）上午7:53发射。",
@@ -30,15 +41,15 @@
           "time_info": "01时22分"
         },
         {
-          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
-          "url": "https://wallstreetcn.com/articles/3774523",
-          "source": "华尔街见闻",
+          "title": "马斯克成全球首位万亿富翁",
+          "url": "https://www.douyin.com/hot/2532626",
+          "source": "抖音",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
         },
         {
           "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
