@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:24:37.126294+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-14T06:37:34.217971+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "中国人保集团原党委委员、副总裁俞小平被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33374579",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
@@ -37,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -50,19 +52,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
           "url": "https://www.cls.cn/detail/2398745",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "李斌：建立新品牌难度被低估，乐道知名度相当于6年前的蔚来",
@@ -72,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时37分]"
         },
         {
           "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
@@ -81,11 +84,26 @@
           "source": "财联社热门",
           "ranks": [
             8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -106,32 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 05时24分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
-        },
-        {
-          "title": "一艘油轮在阿曼附近海域遇袭",
-          "url": "https://flash.jin10.com/detail/20260614041728636800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -142,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时37分]"
         },
         {
           "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
@@ -153,8 +147,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时37分]"
         },
         {
           "title": "中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受中央纪委国家监委纪律审查和监察调查。（新华社）",
@@ -164,8 +158,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 06时37分]"
+        },
+        {
+          "title": "一艘油轮在阿曼附近海域遇袭",
+          "url": "https://flash.jin10.com/detail/20260614041728636800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时37分]"
         },
         {
           "title": "美国高级政府官员：我们认为美印达成贸易协议是可能的，但不预计会在七国集团会议期间敲定。",
