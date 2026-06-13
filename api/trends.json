@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T08:22:13.113484+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-06-13T13:02:39.533672+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 08时22分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 13时02分]"
         },
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -26,11 +27,36 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 08时22分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 13时02分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时16分 ~ 13时02分]"
+        },
+        {
+          "title": "雷军回应装600斤车厘子被指违规",
+          "url": "https://www.toutiao.com/trending/7650630947360325695/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "亚马逊(AMZN.O)：下一次柯伊伯计划LEO Europe 3（LE-03）任务计划于美东时间6月17日（周三）上午7:53发射。",
@@ -44,16 +70,48 @@
           "time_info": "01时22分"
         },
         {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
+          "title": "雷军回应用私家车装600斤车厘子",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%94%A8%E7%A7%81%E5%AE%B6%E8%BD%A6%E8%A3%85600%E6%96%A4%E8%BD%A6%E5%8E%98%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
           "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 08时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "余承东带队盘古大模型喊话「只做第一」，当下盘古大模型在业内处于什么水平？距离行业第一还有多远？",
+          "url": "https://www.zhihu.com/question/2048810661476579092",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "雷军回应装600斤车厘子被指违规",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A3%85600%E6%96%A4%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A2%AB%E6%8C%87%E8%BF%9D%E8%A7%84%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -74,11 +132,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 13时02分]"
+        },
+        {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时21分 ~ 13时02分]"
         },
         {
           "title": "马斯克成全球首位万亿富翁",
@@ -102,17 +173,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 08时22分]"
-        },
-        {
-          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时21分 ~ 08时22分]"
         },
         {
           "title": "汽车行业的利润率再创新低",
@@ -159,6 +219,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
           "url": "https://wallstreetcn.com/livenews/3119003",
           "source": "华尔街见闻-快讯",
@@ -192,13 +263,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
+          "url": "https://flash.jin10.com/detail/20260613090819670800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "周五（6月12日），美股信息科技指数涨1.98%，报437.15点，本周累涨6.44%。 成分股中，希捷科技收涨7.25%，英特尔涨6.51%表现第二（最近两个交易日累计上涨16.38%），西部数据涨6.35%、高意公司Coherent涨5.90%、泰瑞达涨5.72%、科磊涨5.55%、IREN涨5.40%、闪迪涨5.24%、CoreWeave涨5.02%紧随其后，美光科技跌1.43%、苹果跌1.52%表现靠后，Ondas Inc.跌5.09%跌幅第三大，Credo科技集团跌5.27%，Adobe跌6.76%。 在标普500指数的科技板块，希捷科技、英特尔、西部数据、Coherent、泰瑞达、科磊、闪迪领跑，Lumentum涨3.59%表现第十二，超微电脑跌4.72%、与Adobe表现最差。",
           "url": "https://wallstreetcn.com/livenews/3119071",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         }
