@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T05:52:40.209957+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-06-15T07:09:53.557923+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             4,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 07时09分]"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -28,7 +29,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -61,7 +62,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
