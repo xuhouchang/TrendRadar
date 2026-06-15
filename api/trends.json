@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T15:32:48.227365+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-06-15T21:55:44.526969+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "日本炸鸡店一锅油反复用 66 年，店主称「只要油好好保养，味道没问题」，这种油真的不会带来健康隐患吗？",
@@ -34,6 +34,28 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
+          "url": "https://www.zhihu.com/question/2049485598407373278",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "德国总理默茨：希望将七国集团向新伙伴开放。",
+          "url": "https://flash.jin10.com/detail/20260615214056190800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "汽车整车股早盘拉升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3119369",
           "source": "华尔街见闻-快讯",
@@ -43,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "瑞士爆发反G7峰会游行，民众点燃汽车，与警察发生冲突",
+          "url": "https://news.ifeng.com/c/8tyml9ydQu8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -107,9 +140,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "科威特民航局宣布，科威特国际机场4号航站楼已恢复对海湾、阿拉伯及外国航空公司的有限运营。",
+          "url": "https://flash.jin10.com/detail/20260615213650435800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩谈伊朗协议：现在的首要任务是执行。 如果黎巴嫩战火纷飞，就不可能有持久和平。 我们的能源依赖被武器化了。 将讨论减少对霍尔木兹海峡的依赖。 需要保护我们的市场免受不公平行为的侵害。 产能过剩对经济的危险性日益增加。 正与七国集团合作达成关键原材料协议。 七国集团在人工智能模型上展开协作至关重要。 在解除伊朗制裁之前，需要切实的变化。",
+          "url": "https://wallstreetcn.com/livenews/3119730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "A股汽车整车板块震荡上升，众泰汽车、汉马科技双双涨停，金龙汽车、海马汽车、曙光股份、福田汽车、中国重汽涨超6%。",
@@ -123,15 +178,37 @@
           "time_info": "10时02分"
         },
         {
+          "title": "美伊达成谅解备忘录，美国油气概念股普跌，埃克森美孚石油(XOM.N)跌5.6%、雪佛龙(CVX.N)跌4.4%，西方石油(OXY.N)跌5.4%、康菲石油(COP.N)跌4.9%。",
+          "url": "https://flash.jin10.com/detail/20260615213242608800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "雷军说在街边吃热干面几十年没变",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%9C%A8%E8%A1%97%E8%BE%B9%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E5%87%A0%E5%8D%81%E5%B9%B4%E6%B2%A1%E5%8F%98%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "诺奖得主炮轰马斯克是真人版庞氏骗局",
+          "url": "https://www.toutiao.com/trending/7650456833015676978/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "雷军对来合影的小学生发出灵魂拷问",
@@ -140,9 +217,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "雷军在武汉给青年两点忠告",
+          "url": "https://www.toutiao.com/trending/7651543514962231315/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "澳大利亚LNG出口商伍德赛德能源称未与埃克森美孚就潜在收购进行讨论",
@@ -154,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "乌克兰和美国总统将在七国集团峰会期间会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     }
