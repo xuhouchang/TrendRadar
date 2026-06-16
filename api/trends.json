@@ -1,402 +1,110 @@
 {
-  "generated_at": "2026-06-16T23:11:09.262873+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-06-17T03:03:18.228727+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
           "url": "https://wallstreetcn.com/articles/3774759",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
-          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
-          "url": "https://www.cls.cn/detail/2400615",
-          "source": "财联社热门",
+          "title": "雷军回应雷军同款",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9B%E5%90%8C%E6%AC%BE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 12时05分]"
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
-          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
-          "url": "https://www.zhihu.com/question/2047945194050254497",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 12时05分]"
-        },
-        {
-          "title": "媒体：马斯克“血洗”股市",
-          "url": "https://www.toutiao.com/trending/7650889281959510067/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
-          "url": "https://www.zhihu.com/question/2049485598407373278",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
-        },
-        {
-          "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
-          "url": "https://www.zhihu.com/question/2048363192439646181",
-          "source": "知乎",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 23时11分]"
-        },
-        {
-          "title": "七国集团峰会在抗议声中开幕",
-          "url": "https://wallstreetcn.com/livenews/3120049",
+          "title": "加拿大负责与美国贸易事务的部长Leblanc在七国集团（G7）会议期金表示：与美国贸易代表格里尔进行了长时间的、富有建设性的会谈。 两国官员下周将再次开会讨论贸易问题。",
+          "url": "https://wallstreetcn.com/livenews/3120452",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "华正新材：控股股东华立集团6月10日至6月16日减持56.42万股",
-          "url": "https://wallstreetcn.com/livenews/3120210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "据港交所披露，6月11日，摩根士丹利对宁德时代H股的多头持仓从4.36%提升至5.26%。",
-          "url": "https://flash.jin10.com/detail/20260616172945510800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "史诗级造富盛宴持续！SpaceX股价再飙20% 马斯克身家升破1.3万亿美元",
-          "url": "https://www.cls.cn/detail/2400667",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
-          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "据Kpler分析师Amena Bakr：大多数替代船只距离海湾地区仍有很远距离，因此航运运力无法立即恢复。",
-          "url": "https://flash.jin10.com/detail/20260616172846763800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "塞尔维亚总统亚历山大·武契奇：匈牙利MOL集团与俄罗斯的俄罗斯天然气工业石油公司（Gazprom NEFT）及俄罗斯天然气工业股份公司（Gazprom），应就收购受美国制裁的塞尔维亚石油工业公司（NIS）51.56%股权的谈判获得15天的延期。",
-          "url": "https://wallstreetcn.com/livenews/3120388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "七国集团领导人呼吁多边开发银行推广使用风险分担工具。",
-          "url": "https://flash.jin10.com/detail/20260616223956793800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "据Kpler分析师Amena Bakr：关于霍尔木兹海峡，约118艘满载石油的油轮（共装载约7500万桶原油）目前滞留在海湾内，一旦海峡重新开放，它们将立即启程。",
-          "url": "https://flash.jin10.com/detail/20260616172801853800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "03时03分"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
           "url": "https://www.zhihu.com/question/2049776018660103123",
           "source": "知乎",
           "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 23时11分]"
-        },
-        {
-          "title": "力拓集团首席商务官：铁矿石业务为投资组合向铜和锂增长方向再平衡提供了支撑。",
-          "url": "https://flash.jin10.com/detail/20260616113958256800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "七国集团领导人呼吁加大对那些债务状况可持续且拥有强有力改革议程、却被挤出投资机会的国家的支持。",
-          "url": "https://flash.jin10.com/detail/20260616223858620800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "雷军过早吃热干面的姿势太地道了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BF%87%E6%97%A9%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E7%9A%84%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%9C%B0%E9%81%93%E4%BA%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "运机集团：签订3.07亿元合同",
-          "url": "https://flash.jin10.com/detail/20260616172706222800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "雷军在武汉给青年两点忠告",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9C%A8%E6%AD%A6%E6%B1%89%E7%BB%99%E9%9D%92%E5%B9%B4%E4%B8%A4%E7%82%B9%E5%BF%A0%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 07时45分]"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "七国集团领导人表示将加大力度应对全球债务脆弱性问题。",
-          "url": "https://flash.jin10.com/detail/20260616223818095800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "03时03分"
         },
         {
-          "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
-          "url": "https://wallstreetcn.com/livenews/3119869",
+          "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
+          "url": "https://wallstreetcn.com/livenews/3120451",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "03时03分"
         },
         {
-          "title": "马斯克：想到如果我们能将太阳能量的仅仅百万分之一用于人工智能，其所蕴含的智能将超过全人类总智能的百万倍，这不禁让人感到自身的渺小。",
-          "url": "https://flash.jin10.com/detail/20260616223559485800",
-          "source": "金十数据",
+          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2049548864626202351",
+          "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "马斯克个人财富飙升至1.4万亿美元",
-          "url": "https://flash.jin10.com/detail/20260616223250133800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伦铝创3月底以来新低，伊朗与美国协议提振海湾出口前景",
-          "url": "https://wallstreetcn.com/livenews/3119818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "03时03分"
         },
         {
-          "title": "中船集团与国开行签署战略合作协议",
-          "url": "https://flash.jin10.com/detail/20260616223217669800",
+          "title": "李佳琦直播间首次卖车，40 台奔驰秒售罄，直播卖车会成为新趋势吗？你会选择线上订车还是去 4S 店购车？",
+          "url": "https://www.zhihu.com/question/2048363192439646181",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "加拿大对美贸易事务部长：（就七国集团会议期间与美国贸易代表的会晤）我们继续取得进展。",
+          "url": "https://flash.jin10.com/detail/20260617015727172800",
           "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "全球最富五百人单日财富激增3360亿美元 马斯克身家达1.27万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3120191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "李想吐槽汽车发布会越来越多",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E5%90%90%E6%A7%BD%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "马斯克财富单日增长近1400亿美元",
-          "url": "https://flash.jin10.com/detail/20260616060206357800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "七国集团领导人呼吁对埃博拉疫情采取强有力和协调一致的应对措施。",
-          "url": "https://flash.jin10.com/detail/20260616223034656800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美国白宫与参议院民主党成员Warren声明：参议员们写信给埃克森美孚、雪佛龙、壳牌、英国石油、康菲石油、西方石油等公司。",
-          "url": "https://wallstreetcn.com/livenews/3119856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "武汉市委书记会见雷军",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E4%BC%9A%E8%A7%81%E9%9B%B7%E5%86%9B",
-          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "03时03分"
         },
         {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗革命卫队圣城旅指挥官表示，曼德海峡是抵抗阵线的王牌之一，如有必要，还会使用其他牌。",
-          "url": "https://flash.jin10.com/detail/20260616041025867800",
-          "source": "金十数据",
+          "title": "“特斯拉劲敌”Rivian裁员（至少）数百人，占比低于2%。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3120435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "03时03分"
         }
       ]
     }
