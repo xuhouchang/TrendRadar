@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T15:17:02.808322+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-06-18T19:36:39.119731+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "奥特曼改革,开拓女性市场",
@@ -16,11 +16,27 @@
             7,
             8,
             9,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 19时36分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            8,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时29分 ~ 19时36分]"
         },
         {
           "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
@@ -35,20 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 07时03分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时29分 ~ 15时17分]"
         },
         {
           "title": "我国将启动2026年新能源汽车下乡",
@@ -95,6 +97,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "宁德时代利润超7家车企总和",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%88%A9%E6%B6%A6%E8%B6%857%E5%AE%B6%E8%BD%A6%E4%BC%81%E6%80%BB%E5%92%8C%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
           "url": "https://flash.jin10.com/detail/20260618063743531800",
           "source": "金十数据",
@@ -104,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
+          "url": "https://www.cls.cn/detail/2403340",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "据海湾时报：迪拜阿联酋金融大厦顶层发生火灾，起火原因尚不明。",
@@ -128,6 +152,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "浙江省政府与航天科技集团签署深化战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260618191101754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
           "url": "https://wallstreetcn.com/livenews/3121288",
           "source": "华尔街见闻-快讯",
@@ -137,6 +172,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "港股博弈现冰火两重天 建滔集团、长飞光纤光缆遭空头加码",
+          "url": "https://www.cls.cn/detail/2403381",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "东风标致508停产后部分配件断供？售后称恢复供应环节多难实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396434",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时36分]"
         },
         {
           "title": "比亚迪大唐23.99万起上市",
@@ -149,17 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 03时26分]"
-        },
-        {
-          "title": "东风标致508停产后部分配件断供？售后称恢复供应环节多难实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396434",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "蔚来四平台超70万用户同步升级",
@@ -190,9 +237,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "五部门开展新能源汽车下乡活动",
+          "url": "https://www.douyin.com/hot/2539139",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "埃克森美孚将向南非供应LNG，助其降低对煤炭的依赖",
@@ -267,7 +325,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -281,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "谅解备忘录：伊朗和美国承诺在最多60天内磋商最终协议。 伊朗与美国最终协议的最后期限可经双方同意延长。 美国将在30天内全面结束海上封锁。 伊朗将安排船舶安全通行，60天内不收取任何费用。 商船的交通立即恢复。 伊朗和阿曼将讨论霍尔木兹海峡服务的未来管理问题。 美国与伙伴将共同制定3000亿美元伊朗重建计划。 根据最终协议，美国将终止对伊朗的所有制裁。 伊朗重申不会采购或发展核武器。 伊朗将维持其核计划现状。 美国在最终协议达成前不会实施任何新的制裁。 美国将在谅解备忘录签署后不久发布伊朗石油出口豁免令。",
+          "url": "https://wallstreetcn.com/livenews/3121652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "A股医疗板块竞价高开，爱迪特20CM涨停，东方锆业、长裕集团、华瓷股份均高开涨停，国瓷材料、康惠股份、正海医疗等跟涨。",
