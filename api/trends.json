@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T05:11:27.282826+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-06-20T06:32:08.676062+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -36,22 +36,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时11分]"
-        },
-        {
-          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3122185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
         },
         {
           "title": "郑州一汽车用品商城起火浓烟滚滚",
@@ -60,11 +50,47 @@
           "ranks": [
             9,
             28,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
+          "url": "https://flash.jin10.com/detail/20260620025928900800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时11分]"
+          "time_info": "[03时54分 ~ 06时32分]"
+        },
+        {
+          "title": "占比超八成！香港国产电动汽车市场“一车难求”",
+          "url": "https://www.cls.cn/detail/2404243",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时32分]"
+        },
+        {
+          "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
+          "url": "https://flash.jin10.com/detail/20260620024815870800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 06时32分]"
         },
         {
           "title": "马斯克称，未来，人类将投入难以想象的巨额资金来制造反物质，以实现前往其他恒星系的星际旅行。",
@@ -78,39 +104,16 @@
           "time_info": "03时54分"
         },
         {
-          "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
-          "url": "https://flash.jin10.com/detail/20260620025928900800",
-          "source": "金十数据",
+          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122185",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            22
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时11分]"
-        },
-        {
-          "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
-          "url": "https://flash.jin10.com/detail/20260620024815870800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时11分]"
-        },
-        {
-          "title": "占比超八成！香港国产电动汽车市场“一车难求”",
-          "url": "https://www.cls.cn/detail/2404243",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 05时11分]"
+          "time_info": "[05时11分 ~ 06时32分]"
         },
         {
           "title": "英国大曼彻斯特市长伯纳姆（Andy Burnham）料将于下周一前往伦敦，会见议员们。（英国卫报）",
