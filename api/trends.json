@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T00:18:48.166303+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-21T01:55:28.522387+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时55分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
           "url": "https://m.thepaper.cn/newsDetail_forward_33418162",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时55分]"
         },
         {
           "title": "马斯克暴赚7800亿",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A7800%E4%BA%BF%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时55分]"
         },
         {
           "title": "苏州市委书记、市长会见京东集团创始人刘强东",
@@ -48,8 +50,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时55分]"
         }
       ]
     }
