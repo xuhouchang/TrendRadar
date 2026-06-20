@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T06:06:56.846939+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-06-21T07:45:52.578024+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时45分]"
         },
         {
           "title": "苏州市委书记、市长会见京东集团创始人刘强东",
@@ -26,8 +27,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时45分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -37,11 +38,12 @@
             25,
             20,
             19,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时45分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
