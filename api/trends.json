@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T04:51:38.546194+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-21T06:06:56.846939+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时06分]"
+        },
+        {
+          "title": "苏州市委书记、市长会见京东集团创始人刘强东",
+          "url": "https://wallstreetcn.com/livenews/3122243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -27,17 +38,6 @@
             20,
             19,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时51分]"
-        },
-        {
-          "title": "苏州市委书记、市长会见京东集团创始人刘强东",
-          "url": "https://wallstreetcn.com/livenews/3122243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 4,
