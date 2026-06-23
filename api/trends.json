@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T01:55:44.043857+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T04:05:19.638625+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时05分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时05分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时05分]"
         },
         {
           "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
@@ -48,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时05分]"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 04时05分]"
         }
       ]
     }
