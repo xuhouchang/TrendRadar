@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T13:38:08.286541+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-24T17:29:38.965523+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "我国汽车保有量达到3.7亿辆",
@@ -74,6 +74,29 @@
           "time_info": "[13时37分 ~ 13时38分]"
         },
         {
+          "title": "阿曼海事安全中心说正在霍尔木兹海峡开设临时航道",
+          "url": "https://wallstreetcn.com/livenews/3123917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "如何看待网传比亚迪海豹 08 定价 25 万？如果属实会对 30 万以下的轿车市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2052704788622602395",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 17时29分]"
+        },
+        {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
@@ -99,6 +122,28 @@
           "time_info": "05时57分"
         },
         {
+          "title": "伊朗说准备与海湾国家达成安全协议",
+          "url": "https://wallstreetcn.com/livenews/3123910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "特斯拉 豆包",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道",
           "url": "https://flash.jin10.com/detail/20260624051500086800",
           "source": "金十数据",
@@ -109,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时10分]"
-        },
-        {
-          "title": "如何看待网传比亚迪海豹 08 定价 25 万？如果属实会对 30 万以下的轿车市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052704788622602395",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "“新能源汽车第一省”迎来新挑战者",
@@ -173,7 +207,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
