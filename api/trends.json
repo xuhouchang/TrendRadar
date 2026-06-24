@@ -1,161 +1,33 @@
 {
-  "generated_at": "2026-06-24T23:19:21.731078+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-06-25T01:29:43.662034+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 23,
+      "match_count": 7,
       "titles": [
         {
-          "title": "我国汽车保有量达到3.7亿辆",
-          "url": "https://www.toutiao.com/trending/7654559562183233033/",
+          "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
+          "url": "https://wallstreetcn.com/livenews/3124172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "小米集团股价跌破23港元",
+          "url": "https://www.toutiao.com/trending/7654789079603052570/",
           "source": "今日头条",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 09时26分]"
-        },
-        {
-          "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://www.douyin.com/hot/2545202",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 09时26分]"
-        },
-        {
-          "title": "如何看待网传比亚迪海豹 08 定价 25 万？如果属实会对 30 万以下的轿车市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052704788622602395",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时37分 ~ 23时19分]"
-        },
-        {
-          "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
-          "url": "https://www.cls.cn/detail/2406809",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时10分]"
-        },
-        {
-          "title": "中国汽车保有量达到3.7亿辆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BF%9D%E6%9C%89%E9%87%8F%E8%BE%BE%E5%88%B03.7%E4%BA%BF%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
-          "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%86%8D%E6%8E%A8%E6%96%B0%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 04时05分]"
-        },
-        {
-          "title": "让汽车消费“跑”起来",
-          "url": "https://www.douyin.com/hot/2545491",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
-          "title": "阿曼海事安全中心说正在霍尔木兹海峡开设临时航道",
-          "url": "https://wallstreetcn.com/livenews/3123917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时10分]"
-        },
-        {
-          "title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道",
-          "url": "https://wallstreetcn.com/livenews/3123653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "伊朗说准备与海湾国家达成安全协议",
-          "url": "https://wallstreetcn.com/livenews/3123910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "特斯拉 豆包",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道",
-          "url": "https://flash.jin10.com/detail/20260624051500086800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时10分]"
+          "time_info": "01时29分"
         },
         {
           "title": "惊魂未定！高速上多辆汽车被天降钢筋砸中，车头被刺穿",
@@ -165,108 +37,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时06分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "“新能源汽车第一省”迎来新挑战者",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E7%9C%81%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
-          "title": "巴西对外贸易委员会执行管理委员会：巴西将维持对进口电动和混合动力汽车的关税上调计划，对整车及半拆解电动车征收35%的进口关税，该措施将于2026年7月生效；而对完全拆解状态进口的车辆，也将从2027年1月1日起适用同样的税率。",
-          "url": "https://flash.jin10.com/detail/20260624045054703800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时10分]"
-        },
-        {
-          "title": "小米集团股价跌破23港元",
-          "url": "https://www.toutiao.com/trending/7654789079603052570/",
+          "title": "无人车追尾特斯拉被判全责",
+          "url": "https://www.toutiao.com/trending/7654640018397347878/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "01时29分"
         },
         {
-          "title": "阿曼：霍尔木兹航线遵循国际海事组织（IMO）的协调安排。",
-          "url": "https://wallstreetcn.com/livenews/3124008",
+          "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
+          "url": "https://wallstreetcn.com/livenews/3124157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时07分"
+          "time_info": "01时29分"
         },
         {
-          "title": "孙正义说马斯克太空数据中心没啥价值",
-          "url": "https://www.toutiao.com/trending/7654508707421945875/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
-          "url": "https://wallstreetcn.com/livenews/3123677",
+          "title": "特斯拉跌0.9%，刷新日低。 纳斯达克100指数转跌，半导体指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3124155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "01时29分"
         },
         {
-          "title": "A股磷化工概念午后走强，兴发集团涨停，雅克科技涨超9%，瑞丰高材、南大光电涨超7%，云天化、兴福电子涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260624130753695800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "亿纬锂能：截至本公告披露日，公司全资孙公司EBIL收到参股公司思摩尔国际现金分红款3.75亿港币。",
-          "url": "https://wallstreetcn.com/livenews/3123998",
+          "title": "本田汽车、日产汽车、三菱考虑将零部件标准化。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3124153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
-          "url": "https://wallstreetcn.com/livenews/3123630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "01时29分"
         }
       ]
     }
