@@ -1,393 +1,66 @@
 {
-  "generated_at": "2026-06-27T23:16:35.482800+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-06-28T00:39:38.131940+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 33,
+      "match_count": 5,
       "titles": [
         {
           "title": "宁德时代创始人曾毓群财富狂飙千亿，如何解读整车厂「都在给宁德时代打工」的现象？",
           "url": "https://www.zhihu.com/question/2053712124153696318",
           "source": "知乎",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
-          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
-          "url": "https://www.zhihu.com/question/2053574442261944010",
-          "source": "知乎",
+          "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33468283",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 12时35分]"
-        },
-        {
-          "title": "市场消息：马斯克获联邦贸易委员会批准收购SpaceX前员工创立的公司Mesh。",
-          "url": "https://flash.jin10.com/detail/20260627031651332800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "据华尔街日报：日产美国首席执行官希望重振这家汽车制造商的“前卫”形象。",
-          "url": "https://flash.jin10.com/detail/20260627031218021800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "伊朗方面表示，美军空袭其南部海岸多处目标，违反停战备忘录；伊朗武装力量已对与美国军方有关联的目标实施了防御性打击。伊朗警告海湾南岸国家，禁止允许其领土被用于对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260627150838212800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "6月26日，中国稀土集团与湖南高新创投集团在长沙签署湖南稀土院股权合作协议。",
-          "url": "https://flash.jin10.com/detail/20260627150357978800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "力拓铝业及锂业务单元负责人Jérôme Pécresse表示：“未来两年，锂需求在电动汽车与储能之间的分布将更加均衡。”该公司计划到2028年提升锂产能。",
-          "url": "https://wallstreetcn.com/livenews/3125489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "6月26日，四川省人民政府和三峡集团签署全面深化战略合作协议。",
-          "url": "https://flash.jin10.com/detail/20260627152734020800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时09分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社：阿曼与埃及外长通话，讨论了双边关系、地区局势及霍尔木兹海峡的航行安全。",
-          "url": "https://flash.jin10.com/detail/20260627175952001800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时55分]"
-        },
-        {
-          "title": "锂生产商押注电池储能，需求重心逐渐超越电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3125488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "余承东：全新一代问界M9系列大定破42000台",
-          "url": "https://wallstreetcn.com/livenews/3125573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 21时42分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
-          "url": "https://flash.jin10.com/detail/20260627151134945800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时09分]"
-        },
-        {
-          "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
-          "url": "https://wallstreetcn.com/livenews/3125436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时19分]"
-        },
-        {
-          "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时16分]"
-        },
-        {
-          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
-          "url": "https://wallstreetcn.com/livenews/3125596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时16分]"
-        },
-        {
-          "title": "时隔近4个月，沙特重启海湾原油出口终端",
-          "url": "https://wallstreetcn.com/livenews/3125547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 18时09分]"
-        },
-        {
-          "title": "雪佛龙：委内瑞拉所有雪佛龙员工均已确认安全，其设施安全且运营正常。",
-          "url": "https://wallstreetcn.com/livenews/3125460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时45分]"
-        },
-        {
-          "title": "余承东：全新一代问界M9系列大定破42000台",
-          "url": "https://flash.jin10.com/detail/20260627171134659800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时55分]"
-        },
-        {
-          "title": "新加坡籍货船在阿曼湾遭袭，美方称伊朗无人机干的，伊方称不走指定航线的船没安全保障，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2053826098052518882",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 12时35分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，网易初步收涨7.8%，拼多多涨4.5%，新东方、蔚来、百胜中国、理想至多涨4.2%，阿里涨0.1%，日月光半导体跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3125451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时45分]"
-        },
-        {
-          "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-          "url": "https://wallstreetcn.com/livenews/3125563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时55分]"
-        },
-        {
-          "title": "马斯克获准收购Mesh，加码数据中心光通信布局",
-          "url": "https://wallstreetcn.com/livenews/3125444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时45分]"
+          "time_info": "00时39分"
         },
         {
           "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
           "url": "https://www.cls.cn/detail/2410934",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时16分"
+          "time_info": "00时39分"
         },
         {
-          "title": "中国驻加拿大大使Wang Di（王迪）表示，根据协议，吉利控股集团旗下的路特斯品牌（Lotus）电动汽车将于下月抵达加拿大。 “吉利电动汽车将于下月抵达加拿大，届时将在蒙特利尔举行交车仪式。” 奇瑞和比亚迪等其他中国品牌正在与加拿大政府机构协调，以在完成相关步骤后向加拿大发运车辆。 “我希望在今年秋季，其他真正名副其实的中国品牌电动汽车能够完成相关程序，进入加拿大市场。” 中国电动汽车制造商对建立合资企业感兴趣，但首先会专注于建立销售渠道并评估市场需求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125480",
+          "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3125597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
+          "url": "https://wallstreetcn.com/livenews/3125596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会Ebrahimazizi：对海湾合作委员会领导人的警告，将安全外包使你们的安全状况变得更糟。 你们已经看到，美国在你们国家的军事基地如何从提供安全保障变成了威胁来源。 我们的导弹和无人机力量，以及霍尔木兹海峡的管理，是伊朗的严重红线。 实现地区安全的唯一可靠途径是与美国保持距离。",
-          "url": "https://wallstreetcn.com/livenews/3125397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：结束对约376,241辆特斯拉(TSLA.O)Model 3和Model Y车辆因转向失控问题的工程分析。",
-          "url": "https://flash.jin10.com/detail/20260627162738213800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟准备以建设性的方式参与，以寻求符合七国集团财长结论的全球数字经济公平征税解决方案。",
-          "url": "https://flash.jin10.com/detail/20260627023359066800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "超级牛散章建平新动向，大举减仓江淮汽车",
-          "url": "https://wallstreetcn.com/livenews/3125556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "李想称汽车行业进入「不服就直播」状态是好事，如何看待这一言论？你认为直播会给行业带来哪些正向作用？",
-          "url": "https://www.zhihu.com/question/2052398917862667740",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "张兴海回应问界供应链：坚定与华为、宁德时代的战略约定不改变",
-          "url": "https://wallstreetcn.com/livenews/3125554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
-          "url": "https://flash.jin10.com/detail/20260627092006521800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "伊朗和阿曼海关负责人提议：成立联合委员会以落实海关协议。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3125386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "00时39分"
         }
       ]
     }
