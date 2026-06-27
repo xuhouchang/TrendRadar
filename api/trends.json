@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:04:08.763221+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-06-28T06:36:40.990253+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
@@ -38,11 +39,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 05时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
@@ -52,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
@@ -63,8 +65,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 06时36分]"
         }
       ]
     }
