@@ -1,275 +1,66 @@
 {
-  "generated_at": "2026-06-28T23:49:54.221798+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-06-29T01:12:08.584297+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
         {
-          "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33468283",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 16时28分]"
-        },
-        {
-          "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
-          "url": "https://www.cls.cn/detail/2410934",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 22时23分]"
-        },
-        {
-          "title": "宁德时代创始人曾毓群财富狂飙千亿，如何解读整车厂「都在给宁德时代打工」的现象？",
-          "url": "https://www.zhihu.com/question/2053712124153696318",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            5,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 08时02分]"
-        },
-        {
-          "title": "广州一高校禁止小米汽车入校",
-          "url": "https://www.toutiao.com/trending/7655493258701340718/",
+          "title": "比亚迪市值为何蒸发8000亿",
+          "url": "https://www.toutiao.com/trending/7656107637293547529/",
           "source": "今日头条",
           "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时42分]"
-        },
-        {
-          "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 13时02分]"
-        },
-        {
-          "title": "广州一高校禁止小米汽车进校",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E7%A6%81%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%BF%9B%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "time_info": "[01时11分 ~ 01时12分]"
         },
         {
-          "title": "中东股市收盘播报｜周日（6月28日），阿曼MSM 30指数收涨0.97%，报7387.48点。 卡塔尔证交所指数收涨0.12%，结束此前连续六个交易日下跌的趋势，报10293.72点。 科威特证交所超级市场价格回报指数收跌0.12%，连续九天下跌（6月14日结束交易以来累计下跌2.25%），报9115.14点。",
-          "url": "https://wallstreetcn.com/livenews/3125670",
-          "source": "华尔街见闻-快讯",
+          "title": "余承东官宣尊界 V800 定位「超高端 MPV」，其市场竞争力如何？",
+          "url": "https://www.zhihu.com/question/2047340679060251139",
+          "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "赵一德赵刚与比亚迪董事长王传福一行座谈",
-          "url": "https://wallstreetcn.com/livenews/3125596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
-          "url": "https://flash.jin10.com/detail/20260628122518438800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "毕业了！孙颖莎、王曼昱照片登上海交大校友墙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467126",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时02分 ~ 13时02分]"
+          "time_info": "[01时11分 ~ 01时12分]"
         },
         {
-          "title": "韩国将于周一宣布三星、SK集团的多个大型项目",
-          "url": "https://wallstreetcn.com/livenews/3125636",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
+          "url": "https://www.zhihu.com/question/2053871133401806051",
+          "source": "知乎",
           "ranks": [
-            6,
-            13,
-            25
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 20时17分]"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 01时12分]"
         },
         {
           "title": "宁德时代新增2026年度商品套期保值业务，保证金上限增至640亿元",
           "url": "https://wallstreetcn.com/livenews/3125683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "伊朗外长呼吁与海湾国家建立“安全框架”",
-          "url": "https://flash.jin10.com/detail/20260628174806783800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 20时17分]"
-        },
-        {
-          "title": "雷军回应被扣营销帽子",
-          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%A3%E8%90%A5%E9%94%80%E5%B8%BD%E5%AD%90&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时42分]"
-        },
-        {
-          "title": "据阿曼通讯社：阿曼谴责今天凌晨对科威特领土发动的军事袭击。",
-          "url": "https://flash.jin10.com/detail/20260628173605809800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 20时17分]"
-        },
-        {
-          "title": "伊朗呼吁与海湾国家建立安全框架",
-          "url": "https://wallstreetcn.com/livenews/3125656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 22时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         },
         {
           "title": "理想汽车正式进入澳门市场，全球化布局再添重要版图",
           "url": "https://wallstreetcn.com/livenews/3125676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            20
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "初代蔚来ES8入藏北京汽车博物馆",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%9D%E4%BB%A3%E8%94%9A%E6%9D%A5ES8%E5%85%A5%E8%97%8F%E5%8C%97%E4%BA%AC%E6%B1%BD%E8%BD%A6%E5%8D%9A%E7%89%A9%E9%A6%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
-        },
-        {
-          "title": "马斯克：基于我们1.5万亿参数的V9基础模型、并在补充训练中加入Cursor数据的Grok 4.5，现已在SpaceX和特斯拉进入内测阶段。",
-          "url": "https://flash.jin10.com/detail/20260628185444117800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "乘联分会崔东树：5月中国汽车进口3.8万辆，同比下降19%",
-          "url": "https://flash.jin10.com/detail/20260628113025458800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：德黑兰欢迎与伊拉克等海湾阿拉伯国家就海湾安全问题进行谈判的框架。",
-          "url": "https://flash.jin10.com/detail/20260628164210683800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "江淮汽车股价腰斩",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E8%82%A1%E4%BB%B7%E8%85%B0%E6%96%A9%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "01时12分"
         }
       ]
     }
