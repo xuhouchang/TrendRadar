@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T04:25:02.562895+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-30T05:52:45.468710+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时52分]"
         },
         {
           "title": "市场消息：伊莱克斯集团已提交与退还《国际紧急经济权力法》关税相关的索赔，金额约8800万美元。",
@@ -42,6 +43,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 04时25分]"
+        },
+        {
+          "title": "Digital Reality将按35亿美元收购黑石集团数据中心的股份。",
+          "url": "https://wallstreetcn.com/livenews/3126311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
+          "url": "https://wallstreetcn.com/livenews/3126310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
@@ -70,11 +93,23 @@
           "url": "https://wallstreetcn.com/livenews/3126290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时52分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3126306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时52分"
         },
         {
           "title": "法国将与阿曼合作在霍尔木兹海峡排雷",
@@ -94,7 +129,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
         },
