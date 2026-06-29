@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T09:38:01.046621+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-06-29T14:48:08.834755+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 27,
       "titles": [
         {
           "title": "比亚迪市值为何蒸发8000亿",
@@ -49,6 +49,28 @@
           "time_info": "[01时11分 ~ 09时38分]"
         },
         {
+          "title": "雷军斥资近 5 亿连续 7 天增持金山软件至 26.18%，这一举动背后有哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2053853117280687684",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "SK集团会长崔泰源：将在韩国建设总规模15吉瓦的人工智能数据中心。 即便SK海力士加快推进在建晶圆厂的建设，存储器短缺问题仍将持续。",
+          "url": "https://wallstreetcn.com/livenews/3125905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "据韩媒报道，三星与SK集团未来10年的投资总额或将达到2000万亿韩元。",
           "url": "https://wallstreetcn.com/livenews/3125721",
           "source": "华尔街见闻-快讯",
@@ -58,6 +80,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "伊朗副外长：召开了伊朗-阿曼霍尔木兹海联合委员会首次会议。",
+          "url": "https://flash.jin10.com/detail/20260629143149737800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "三星集团会长李在镕：计划将光州作为芯片生产基地。 计划在忠清建设HBM工厂。 机器人项目投资将落户庆尚北道龟尾市。 生物领域投资将集中布局韩国仁川。",
+          "url": "https://wallstreetcn.com/livenews/3125902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
+          "url": "https://www.cls.cn/detail/2411509",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "广州一高校通报网传禁止小米汽车入校",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E7%A6%81%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%A5%E6%A0%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "马斯克：SpaceX计划今年每月发布一个全新的人工智能模型",
+          "url": "https://flash.jin10.com/detail/20260629142549757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "据韩国《每日经济》报道，三星与SK集团未来10年的投资计划总额或将达到2000万亿韩元（约合1.3万亿美元）。",
@@ -107,13 +195,46 @@
           "time_info": "[05时38分 ~ 07时02分]"
         },
         {
+          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2054648629869146324",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "三星与SK集团或将投资2000万亿韩元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%88%96%E5%B0%86%E6%8A%95%E8%B5%842000%E4%B8%87%E4%BA%BF%E9%9F%A9%E5%85%83%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
+          "title": "博主：比亚迪赢了销量却输给资本",
+          "url": "https://www.toutiao.com/trending/7656616192316018218/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 14时48分]"
+        },
+        {
           "title": "途虎：拟发行美国存托股份，已秘密提交F-1表格注册声明草稿",
           "url": "https://wallstreetcn.com/livenews/3125751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         },
@@ -129,6 +250,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "据阿曼通讯社：阿曼液化天然气公司的首艘液化天然气运输船已从阿曼启航。",
+          "url": "https://flash.jin10.com/detail/20260629140956972800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260629053242125800",
           "source": "金十数据",
@@ -138,6 +270,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "Verizon据称将与英国电信BT集团成立合资企业",
+          "url": "https://flash.jin10.com/detail/20260629140805161800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "三星集团会长李在镕：这是一场与时间的赛跑，更新后的计划加快了三星电子在首尔都市圈建设芯片厂的步伐。",
+          "url": "https://flash.jin10.com/detail/20260629140625863800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "SK集团会长崔泰源：将投资400万亿韩元建设新的芯片集群。",
+          "url": "https://flash.jin10.com/detail/20260629140546458800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "正新集团回应上市传闻：两年内无明确上市计划",
+          "url": "https://wallstreetcn.com/livenews/3125871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     }
