@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-07-01T18:32:39.877318+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-07-01T21:20:31.115250+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 43,
       "titles": [
         {
           "title": "电动汽车“最严国标”来了",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时20分]"
+        },
+        {
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时20分]"
+        },
+        {
+          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
+          "url": "https://www.cls.cn/detail/2414041",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 21时20分]"
         },
         {
           "title": "深蓝汽车：6月全球销量33625辆，同比增长12.5%。",
@@ -36,9 +60,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "比亚迪6月新能源汽车销量403472辆",
+          "url": "https://www.toutiao.com/trending/7656692993961820214/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "吉利汽车：6月汽车销量240799辆，同比增长2%；1-6月累计销量1422958辆，同比增长1%。",
@@ -47,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -58,31 +93,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
         {
-          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
-          "url": "https://www.zhihu.com/question/2055596626312541231",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
-          "url": "https://www.cls.cn/detail/2414041",
+          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
+          "url": "https://www.cls.cn/detail/2414363",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "21时20分"
         },
         {
           "title": "蔚来：截至目前全国建成9056座充换电站",
@@ -140,6 +164,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "日产首席执行官：日产正在削减墨西哥生产汽车的成本，以抵消美国关税。",
+          "url": "https://flash.jin10.com/detail/20260701204721784800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
           "url": "https://wallstreetcn.com/livenews/3126978",
           "source": "华尔街见闻-快讯",
@@ -158,7 +193,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -167,11 +202,23 @@
           "url": "https://www.douyin.com/hot/2553990",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 21时20分]"
+        },
+        {
+          "title": "华为余承东称将冲击第二个百万目标",
+          "url": "https://www.toutiao.com/trending/7656626381799034411/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "平安证券：非银板块基本面持续向好 具有较高配置性价比",
@@ -185,6 +232,28 @@
           "time_info": "14时27分"
         },
         {
+          "title": "比亚迪储能签约波兰规模最大储能项目",
+          "url": "https://wallstreetcn.com/livenews/3127427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "阿曼被曝推出霍尔木兹海峡收费政策，仿效马六甲海峡自愿模式",
+          "url": "https://wallstreetcn.com/livenews/3127426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "A股保险板块午后强势拉升，新华保险涨停，中国人寿、中国人保、中国太保、中国平安跟涨。",
           "url": "https://wallstreetcn.com/livenews/3127180",
           "source": "华尔街见闻-快讯",
@@ -194,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判进展顺利。 因为股市上涨，每个人都在获利。 正在美国建设很多汽车工厂和人工智能基地。 到我卸任时，我们可能占据芯片市场50%的份额。",
+          "url": "https://wallstreetcn.com/livenews/3127425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "深铁集团正式“换帅”，黄力平出任董事长",
@@ -207,13 +287,57 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特斯拉撞护栏起火 理想车主救出司机",
+          "url": "https://www.toutiao.com/trending/7657459579064221746/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "美光科技与通用汽车签署战略协议，以确保供应并加速创新。",
+          "url": "https://wallstreetcn.com/livenews/3127422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "比亚迪6月新能源车销量40.35万辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%94%80%E9%87%8F40.35%E4%B8%87%E8%BE%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "据德国媒体Correctiv：大众汽车正在考虑出售其在德国足球俱乐部中的股权。",
+          "url": "https://flash.jin10.com/detail/20260701204118025800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "台军承认：用了大陆品牌轮胎",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E5%86%9B%E6%89%BF%E8%AE%A4%EF%BC%9A%E7%94%A8%E4%BA%86%E5%A4%A7%E9%99%86%E5%93%81%E7%89%8C%E8%BD%AE%E8%83%8E",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -246,7 +370,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -260,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "日产首席执行官：汽车开发时间缩短40%至30个月。",
+          "url": "https://flash.jin10.com/detail/20260701203927569800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "问界汽车：6月交付新车30199台，上半年累计交付同比增长10.2％。",
@@ -284,6 +419,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "美国总统特朗普：我们在美国建设很多汽车工厂和人工智能项目。",
+          "url": "https://flash.jin10.com/detail/20260701203753909800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "蔚来公司6月交付40,597台，创今年以来新高，同比增长62.9%",
           "url": "https://wallstreetcn.com/livenews/3127159",
           "source": "华尔街见闻-快讯",
@@ -293,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "比亚迪储能签约波兰规模最大储能项目",
+          "url": "https://flash.jin10.com/detail/20260701203703491800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "小鹏集团6月交付量40126辆，同比+16%。",
@@ -306,13 +463,24 @@
           "time_info": "14时27分"
         },
         {
+          "title": "常熟银行：江南商贸集团于2026年6月9日至2026年6月30日期间，合计增持本行股份1712.86万股，占本行总股本比例为0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3127407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "台军承认用了大陆品牌轮胎",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E6%89%BF%E8%AE%A4%E7%94%A8%E4%BA%86%E5%A4%A7%E9%99%86%E5%93%81%E7%89%8C%E8%BD%AE%E8%83%8E%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
