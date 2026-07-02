@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-02T23:21:01.916536+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2026-07-03T01:11:36.361267+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 49,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
         {
           "title": "如何看待比亚迪 6 月销量 403472 辆？",
           "url": "https://www.zhihu.com/question/2055723812524652185",
@@ -15,551 +26,85 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时39分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
-          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
-          "url": "https://www.cls.cn/detail/2414363",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 07时52分]"
-        },
-        {
-          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
-          "url": "https://www.cls.cn/detail/2414041",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 06时02分]"
-        },
-        {
-          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
-          "url": "https://www.cls.cn/detail/2415009",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时40分]"
-        },
-        {
-          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
-          "url": "https://www.zhihu.com/question/2055596626312541231",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时25分]"
-        },
-        {
-          "title": "小鹏MONAL03价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，费城半导体指数跌超1.8%，特斯拉跌超6%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "电动汽车“最严国标”来了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            24,
-            25,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 07时52分]"
-        },
-        {
-          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
-          "url": "https://www.cls.cn/detail/2414781",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 15时33分]"
-        },
-        {
-          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
-          "url": "https://wallstreetcn.com/livenews/3128130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时11分"
         },
         {
-          "title": "国家发改委赴小米集团开展工作调研",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E8%B5%B4%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%BC%80%E5%B1%95%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94%23&t=31&band_rank=1&Refer=top",
+          "title": "小鹏MONAL03价格",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "世界杯 1/16 决赛，比利时 3-2 淘汰塞内加尔，加时赛蒂莱曼斯点射绝杀，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055629959377444878",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "中国五矿中国三冶集团原董事长赵广利接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3127977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "廖岷会见汇丰集团行政总裁艾桥智",
-          "url": "https://flash.jin10.com/detail/20260702152348973800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260702110717579800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
-          "url": "https://wallstreetcn.com/livenews/3127574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 04时25分]"
-        },
-        {
-          "title": "尽管面临压力，美国汽车销量仍保持平稳",
-          "url": "https://wallstreetcn.com/livenews/3127630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时52分]"
-        },
-        {
-          "title": "比亚迪：大唐系列搭载螺纹生态接口",
-          "url": "https://www.toutiao.com/trending/7657280821036859455/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "广汽集团：6月汽车产量为145,406辆，同比下降5.13%",
-          "url": "https://flash.jin10.com/detail/20260702182846959800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "通用汽车二季度美国销售下滑4.2%，受累于电动汽车需求下滑。",
-          "url": "https://wallstreetcn.com/livenews/3127516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时02分]"
+          "time_info": "01时11分"
         },
         {
           "title": "再走天路｜零公里处再出发，打开老何的“百宝箱”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33476162",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 23时21分]"
-        },
-        {
-          "title": "特罗萨德蒂勒曼斯已和好",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%BD%97%E8%90%A8%E5%BE%B7%E8%92%82%E5%8B%92%E6%9B%BC%E6%96%AF%E5%B7%B2%E5%92%8C%E5%A5%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
-          "title": "比亚迪海豹08代言人秦岚",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E8%B1%B908%E4%BB%A3%E8%A8%80%E4%BA%BA%E7%A7%A6%E5%B2%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "低智商犯罪就这样狠狠售后",
-          "url": "https://www.douyin.com/hot/2554819",
-          "source": "抖音",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 07时52分]"
-        },
-        {
-          "title": "比亚迪海豹08上市，售价19.69万起",
-          "url": "https://wallstreetcn.com/livenews/3128119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "报道：海湾国家被曝欲独自与伊朗达成地区安全协议",
-          "url": "https://wallstreetcn.com/livenews/3127594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "01时11分"
         },
         {
-          "title": "特斯拉跌超6%，该公司此前披露的车辆交付数据远超分析师预期",
-          "url": "https://wallstreetcn.com/livenews/3128118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "博主：比亚迪赢了销量却困在盈利泥潭",
-          "url": "https://www.toutiao.com/trending/7657586544584166953/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "永太科技：与宁德时代的最终采购规模及对公司经营业绩的贡献均存在较大不确定性",
-          "url": "https://flash.jin10.com/detail/20260702182258036800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "海湾国家被曝欲独自与伊朗达成地区安全协议",
-          "url": "https://flash.jin10.com/detail/20260702034254006800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "欧洲大国被曝默认霍尔木兹海峡收费，部分海湾官员也私下认同",
-          "url": "https://flash.jin10.com/detail/20260702224806570800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "在SpaceX获巨额回报，报道称马斯克盟友Gracias瞄准AI与能源领域投资",
-          "url": "https://wallstreetcn.com/livenews/3127640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "小鹏MONAL03对标30万级开发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%E5%AF%B9%E6%A0%8730%E4%B8%87%E7%BA%A7%E5%BC%80%E5%8F%91%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "实施重组后，首开集团新的领导班子定了",
-          "url": "https://wallstreetcn.com/livenews/3127505",
+          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
+          "url": "https://wallstreetcn.com/livenews/3128130",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "01时11分"
         },
         {
-          "title": "丰田汽车(TM.N)6月美国电动车销量为122,063辆，同比增长35%。",
-          "url": "https://flash.jin10.com/detail/20260701233144979800",
+          "title": "英国央行货币政策委员曼恩：自6月以来金融条件的宽松变化，将对我在下次会议上的利率投票至关重要。",
+          "url": "https://flash.jin10.com/detail/20260703001850144800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "01时11分"
         },
         {
-          "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
-          "url": "https://wallstreetcn.com/livenews/3127581",
+          "title": "比亚迪海豹08上市，售价19.69万起",
+          "url": "https://wallstreetcn.com/livenews/3128119",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "01时11分"
         },
         {
-          "title": "周三（7月1日），彭博电动汽车价格回报指数涨0.21%，报3562.45点。 亚太早盘，指数于北京时间08:00-12:00出现V形反转行情、10:14刷新日低至3517.16点，剩余时间里主要处于上涨状态。",
-          "url": "https://wallstreetcn.com/livenews/3127609",
+          "title": "特斯拉跌超6%，该公司此前披露的车辆交付数据远超分析师预期",
+          "url": "https://wallstreetcn.com/livenews/3128118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "国务院残疾人工作委员会印发《残疾人保障和发展“十五五”规划》",
-          "url": "https://wallstreetcn.com/livenews/3127943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "现代汽车（美国）CEO Randy Parker：公司将在Savannah工厂提高混合动力车型的产量。",
-          "url": "https://wallstreetcn.com/livenews/3127502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至2.1%，地平线机器人、比亚迪股份涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3127741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "马斯克回应华尔街日报关于原型设备的报道，称：完全是虚假的。",
-          "url": "https://wallstreetcn.com/livenews/3127579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "比亚迪6月新能源汽车销量403472辆",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F403472%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "据华尔街日报：美国民主党参议员沃伦要求美联储监管机构审查美联储理事鲍曼出席美国银行私人晚宴一事。",
-          "url": "https://flash.jin10.com/detail/20260702011616261800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)跌幅扩大至6.1%。",
-          "url": "https://flash.jin10.com/detail/20260702223511118800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3127561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "海南自贸区板块集体走强，海南瑞泽、欣龙控股、海马汽车、海南海药涨停，神农种业、海南发展涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3127736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "地产股震荡拉升，金科股份、津投城开涨停，华丽家族、荣丰控股、电子城、滨江集团、绿地控股涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3127732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "01时11分"
         }
       ]
     }
