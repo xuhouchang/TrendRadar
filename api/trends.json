@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T15:33:01.942777+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-07-02T18:40:11.503080+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -32,6 +32,18 @@
           "time_info": "[00时06分 ~ 06时02分]"
         },
         {
+          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
+          "url": "https://www.cls.cn/detail/2415009",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 18时40分]"
+        },
+        {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
           "url": "https://www.zhihu.com/question/2055596626312541231",
           "source": "知乎",
@@ -43,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时06分 ~ 04时25分]"
+        },
+        {
+          "title": "如何看待比亚迪 6 月销量 403472 辆？",
+          "url": "https://www.zhihu.com/question/2055723812524652185",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 18时40分]"
         },
         {
           "title": "电动汽车“最严国标”来了",
@@ -72,17 +95,6 @@
           "time_info": "[11时33分 ~ 15时33分]"
         },
         {
-          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
-          "url": "https://www.cls.cn/detail/2415009",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
-        },
-        {
           "title": "世界杯 1/16 决赛，比利时 3-2 淘汰塞内加尔，加时赛蒂莱曼斯点射绝杀，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2055629959377444878",
           "source": "知乎",
@@ -94,13 +106,24 @@
           "time_info": "07时52分"
         },
         {
+          "title": "中国五矿中国三冶集团原董事长赵广利接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3127977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "廖岷会见汇丰集团行政总裁艾桥智",
           "url": "https://flash.jin10.com/detail/20260702152348973800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -151,6 +174,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "广汽集团：6月汽车产量为145,406辆，同比下降5.13%",
+          "url": "https://flash.jin10.com/detail/20260702182846959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "通用汽车二季度美国销售下滑4.2%，受累于电动汽车需求下滑。",
           "url": "https://wallstreetcn.com/livenews/3127516",
           "source": "华尔街见闻-快讯",
@@ -172,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时02分]"
+        },
+        {
+          "title": "特罗萨德蒂勒曼斯已和好",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%BD%97%E8%90%A8%E5%BE%B7%E8%92%82%E5%8B%92%E6%9B%BC%E6%96%AF%E5%B7%B2%E5%92%8C%E5%A5%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 18时40分]"
         },
         {
           "title": "低智商犯罪就这样狠狠售后",
@@ -217,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "永太科技：与宁德时代的最终采购规模及对公司经营业绩的贡献均存在较大不确定性",
+          "url": "https://flash.jin10.com/detail/20260702182258036800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "海湾国家被曝欲独自与伊朗达成地区安全协议",
@@ -283,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "国务院残疾人工作委员会印发《残疾人保障和发展“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3127943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "现代汽车（美国）CEO Randy Parker：公司将在Savannah工厂提高混合动力车型的产量。",
