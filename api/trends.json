@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T14:20:59.072653+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-04T17:06:11.904999+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -34,6 +34,19 @@
           "time_info": "[00时07分 ~ 07时35分]"
         },
         {
+          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
+          "url": "https://wallstreetcn.com/articles/3776152",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 17时06分]"
+        },
+        {
           "title": "新能源汽车车船税优惠政策调整",
           "url": "https://www.douyin.com/hot/2557214",
           "source": "抖音",
@@ -48,16 +61,26 @@
           "time_info": "[00时07分 ~ 10时52分]"
         },
         {
-          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
-          "url": "https://wallstreetcn.com/articles/3776152",
-          "source": "华尔街见闻",
+          "title": "英法将与阿曼合作 保障该国领海航行安全",
+          "url": "https://flash.jin10.com/detail/20260704164044675800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 14时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "英法将与阿曼合作 保障该国领海航行安全",
+          "url": "https://wallstreetcn.com/livenews/3128920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
@@ -79,9 +102,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "宁德时代与北京绿交所等签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3128914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
@@ -94,6 +128,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时35分]"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 17时06分]"
+        },
+        {
+          "title": "德国队止步世界杯32强，主帅纳格尔斯曼辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511830",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 17时06分]"
         },
         {
           "title": "温瑞博蒯曼1:3不敌韩国组合",
@@ -119,26 +175,26 @@
           "time_info": "[01时57分 ~ 03时25分]"
         },
         {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
-          "source": "澎湃新闻",
+          "title": "宁德时代与北京绿交所等签署战略合作协议",
+          "url": "https://flash.jin10.com/detail/20260704152503645800",
+          "source": "金十数据",
           "ranks": [
-            16
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "17时06分"
         },
         {
-          "title": "德国队止步世界杯32强，主帅纳格尔斯曼辞职",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511830",
-          "source": "澎湃新闻",
+          "title": "中国平安继续增持农业银行H股，所持股份占该行H股总数突破26%",
+          "url": "https://wallstreetcn.com/livenews/3128903",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "17时06分"
         },
         {
           "title": "安盛集团（AXA Group）首席经济学家Gilles Moec认为，美国劳动力市场的基本面尚可，尽管其对利率政策是否会出现分歧不太确定。 “美国的通胀问题比欧洲严重得多。美国的货币政策已经具有限制性，而欧洲则不然。因此，你可以认为他们两者要做的就是维持现状。”（彭博电视）",
