@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:34:53.447395+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T02:03:22.327264+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时03分]"
         },
         {
           "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
           "url": "https://www.zhihu.com/question/2057012511703053889",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时03分]"
         }
       ]
     }
