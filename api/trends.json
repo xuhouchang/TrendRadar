@@ -1,317 +1,33 @@
 {
-  "generated_at": "2026-07-05T23:12:50.881737+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-07-06T00:34:53.447395+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 18时12分]"
-        },
-        {
-          "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
-          "url": "https://wallstreetcn.com/livenews/3128941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 15时44分]"
-        },
-        {
-          "title": "英法将与阿曼合作 保障该国领海航行安全",
-          "url": "https://wallstreetcn.com/livenews/3128920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 08时02分]"
-        },
         {
           "title": "中国石油集团董事长戴厚良会见壳牌公司首席执行官",
           "url": "https://wallstreetcn.com/livenews/3128991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            10,
-            14,
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 23时12分]"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：过去数小时内，以色列袭击了黎巴嫩南部的曼苏里与塔卢萨两地。",
-          "url": "https://flash.jin10.com/detail/20260705052513726800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 08时02分]"
-        },
-        {
-          "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "蒯曼4:3战胜佐藤瞳",
-          "url": "https://www.douyin.com/hot/2559323",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 19时54分]"
-        },
-        {
-          "title": "王曼昱蒯曼击败日本组合夺冠",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E7%BB%84%E5%90%88%E5%A4%BA%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时44分]"
-        },
-        {
-          "title": "王曼昱蒯曼美国大满贯夺冠",
-          "url": "https://www.toutiao.com/trending/7658443284846772250/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "00时34分"
         },
         {
-          "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
-          "url": "https://flash.jin10.com/detail/20260704225030985800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时34分]"
-        },
-        {
-          "title": "据塔斯社：俄罗斯国防部表示，他们的部队正在清除利曼镇的乌克兰军队。",
-          "url": "https://flash.jin10.com/detail/20260704215043902800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "王曼昱蒯曼美国大满贯女双夺冠",
-          "url": "https://www.douyin.com/hot/2558794",
-          "source": "抖音",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 15时44分]"
-        },
-        {
-          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
-          "url": "https://flash.jin10.com/detail/20260705191605772800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时38分]"
-        },
-        {
-          "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
-          "url": "https://flash.jin10.com/detail/20260705022611722800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时29分]"
-        },
-        {
-          "title": "伊拉克内阁批准巴士拉石油公司与由雪佛龙、Capital Energy TI和卡塔尔UCC能源组成的财团签署战略输油管道项目初步协议。",
-          "url": "https://flash.jin10.com/detail/20260705044508876800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 08时02分]"
-        },
-        {
-          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼调整产量，重申对市场稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20260705181641262800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时38分]"
-        },
-        {
-          "title": "蒯曼 4-3 逆转日本削球手佐藤瞳，晋级 WTT 美国大满贯女单四强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2057077247014614163",
+          "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
+          "url": "https://www.zhihu.com/question/2057012511703053889",
           "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时38分]"
-        },
-        {
-          "title": "霍尔木兹海峡阿曼航道船舶锐减 伊朗持续强化航道控制",
-          "url": "https://flash.jin10.com/detail/20260705134913699800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "蒯曼4比3逆转佐藤瞳晋级4强",
-          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC4%E6%AF%943%E9%80%86%E8%BD%AC%E4%BD%90%E8%97%A4%E7%9E%B3%E6%99%8B%E7%BA%A74%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "备战新一轮锂电扩产竞争，国轩高科、亿纬锂能“卖股”变现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517130",
-          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
-          "url": "https://flash.jin10.com/detail/20260705120323119800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "梅德韦杰夫称曼德海峡是伊另一底牌",
-          "url": "https://flash.jin10.com/detail/20260705115324698800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "仕佳光子：股东鹤壁投资集团拟减持不超1%股份",
-          "url": "https://flash.jin10.com/detail/20260705154938660800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "蒯曼vs佐藤瞳",
-          "url": "https://s.weibo.com/weibo?q=%E8%92%AF%E6%9B%BCvs%E4%BD%90%E8%97%A4%E7%9E%B3&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "黑石集团放弃全球最大数据中心项目",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E6%94%BE%E5%BC%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "00时34分"
         }
       ]
     }
