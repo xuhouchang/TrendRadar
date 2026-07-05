@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T12:15:44.034571+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2026-07-05T15:44:33.114724+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 12时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 15时44分]"
         },
         {
           "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 12时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 15时44分]"
         },
         {
           "title": "英法将与阿曼合作 保障该国领海航行安全",
@@ -66,27 +68,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "王曼昱蒯曼美国大满贯女双夺冠",
-          "url": "https://www.douyin.com/hot/2558794",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "王曼昱蒯曼击败日本组合夺冠",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E7%BB%84%E5%90%88%E5%A4%BA%E5%86%A0",
           "source": "百度热搜",
           "ranks": [
             7,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时44分]"
         },
         {
           "title": "王曼昱蒯曼美国大满贯夺冠",
@@ -95,7 +87,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -123,6 +115,18 @@
           "time_info": "00时02分"
         },
         {
+          "title": "王曼昱蒯曼美国大满贯女双夺冠",
+          "url": "https://www.douyin.com/hot/2558794",
+          "source": "抖音",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 15时44分]"
+        },
+        {
           "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
           "url": "https://flash.jin10.com/detail/20260705022611722800",
           "source": "金十数据",
@@ -147,6 +151,39 @@
           "time_info": "[05时31分 ~ 08时02分]"
         },
         {
+          "title": "霍尔木兹海峡阿曼航道船舶锐减 伊朗持续强化航道控制",
+          "url": "https://flash.jin10.com/detail/20260705134913699800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "蒯曼4比3逆转佐藤瞳晋级4强",
+          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC4%E6%AF%943%E9%80%86%E8%BD%AC%E4%BD%90%E8%97%A4%E7%9E%B3%E6%99%8B%E7%BA%A74%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "蒯曼4:3战胜佐藤瞳",
+          "url": "https://www.douyin.com/hot/2559323",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://flash.jin10.com/detail/20260704205119305800",
           "source": "金十数据",
@@ -164,9 +201,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
+          "url": "https://flash.jin10.com/detail/20260705120323119800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "梅德韦杰夫称曼德海峡是伊另一底牌",
+          "url": "https://flash.jin10.com/detail/20260705115324698800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "蒯曼vs佐藤瞳",
@@ -175,7 +234,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
