@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T19:54:52.129321+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-07-05T21:38:46.347415+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 21时38分]"
         },
         {
           "title": "据黎巴嫩国家通讯社：过去数小时内，以色列袭击了黎巴嫩南部的曼苏里与塔卢萨两地。",
@@ -107,17 +108,6 @@
           "time_info": "[08时01分 ~ 15时44分]"
         },
         {
-          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
-          "url": "https://flash.jin10.com/detail/20260705191605772800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "王曼昱蒯曼美国大满贯夺冠",
           "url": "https://www.toutiao.com/trending/7658443284846772250/",
           "source": "今日头条",
@@ -164,6 +154,18 @@
           "time_info": "[12时15分 ~ 15时44分]"
         },
         {
+          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
+          "url": "https://flash.jin10.com/detail/20260705191605772800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时38分]"
+        },
+        {
           "title": "王毅会见瑞典银瑞达集团董事会主席雅各布·瓦伦堡",
           "url": "https://flash.jin10.com/detail/20260705022611722800",
           "source": "金十数据",
@@ -188,6 +190,30 @@
           "time_info": "[05时31分 ~ 08时02分]"
         },
         {
+          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼调整产量，重申对市场稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20260705181641262800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时38分]"
+        },
+        {
+          "title": "蒯曼 4-3 逆转日本削球手佐藤瞳，晋级 WTT 美国大满贯女单四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2057077247014614163",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 21时38分]"
+        },
+        {
           "title": "霍尔木兹海峡阿曼航道船舶锐减 伊朗持续强化航道控制",
           "url": "https://flash.jin10.com/detail/20260705134913699800",
           "source": "金十数据",
@@ -210,17 +236,6 @@
           "time_info": "15时44分"
         },
         {
-          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼调整产量，重申对市场稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20260705181641262800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
           "url": "https://flash.jin10.com/detail/20260704205119305800",
           "source": "金十数据",
@@ -241,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
-        },
-        {
-          "title": "蒯曼 4-3 逆转日本削球手佐藤瞳，晋级 WTT 美国大满贯女单四强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2057077247014614163",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
