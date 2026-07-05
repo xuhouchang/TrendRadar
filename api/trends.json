@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T06:09:47.552065+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-07-06T07:35:33.763139+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
@@ -19,19 +19,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 07时35分]"
         },
         {
           "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
           "url": "https://www.zhihu.com/question/2056780978534750118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 07时35分]"
+        },
+        {
+          "title": "据华尔街日报：美国航空航天局（NASA）局长贾里德·艾萨克曼不顾美国联邦航空管理局（FAA）反对，驾驶复古战机参加华盛顿航展。艾萨克曼曾邀请美国财长贝森特、白宫办公厅副主任丹·斯卡维诺以及特朗普高级顾问克里斯·拉西维塔等白宫官员乘坐飞机，但这些安排最终被取消。",
+          "url": "https://flash.jin10.com/detail/20260706071640269800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "中国石油集团董事长戴厚良会见壳牌公司首席执行官",
@@ -51,7 +63,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -60,11 +72,23 @@
           "url": "https://www.douyin.com/hot/2558794",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时35分]"
+        },
+        {
+          "title": "蒯曼vs张本美和",
+          "url": "https://s.weibo.com/weibo?q=%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时35分"
         }
       ]
     }
