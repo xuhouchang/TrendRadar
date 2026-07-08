@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T05:42:13.901330+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-07-09T07:08:18.139285+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 07时08分]"
         },
         {
           "title": "马斯克：（关于Grok）2万亿参数模型预计下月向客户提供。",
@@ -57,11 +57,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%AB%A5%E5%9D%90%E6%BB%91%E6%A2%AF%E5%A4%B9%E6%96%AD%E5%B0%8F%E6%8B%87%E6%8C%87+%E8%B5%94%E5%81%BF%E4%BB%8D%E6%9C%AA%E8%B0%88%E6%8B%A2",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 05时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时04分 ~ 07时08分]"
         },
         {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
@@ -81,7 +82,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
