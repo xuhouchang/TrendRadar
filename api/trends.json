@@ -1,355 +1,66 @@
 {
-  "generated_at": "2026-07-08T22:56:50.794615+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-07-09T00:39:50.614937+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 5,
       "titles": [
         {
-          "title": "西藏文旅重奖创作者为地方文旅打开思路，多地“悬赏”拍爆款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533560",
-          "source": "澎湃新闻",
+          "title": "马斯克：（关于Grok）2万亿参数模型预计下月向客户提供。",
+          "url": "https://flash.jin10.com/detail/20260709003603155800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            13,
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时33分 ~ 16时28分]"
-        },
-        {
-          "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
-          "url": "https://www.zhihu.com/question/2058113452170798939",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         },
         {
-          "title": "【数读IPO】今日1申购1上市，涉及汽车零部件细分“小巨人”等",
-          "url": "https://www.cls.cn/detail/2419794",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时28分]"
-        },
-        {
-          "title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。",
-          "url": "https://flash.jin10.com/detail/20260708034407140800",
+          "title": "马斯克：根据用户需求，我们几乎每天都在持续改进Grok Build工具链和1.5万亿参数基础模型。",
+          "url": "https://flash.jin10.com/detail/20260709003516795800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "中国铁路广州局集团有限公司原党委书记、董事长武勇接受纪律审查和监察调查",
-          "url": "https://wallstreetcn.com/livenews/3130328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "海湾合作委员会秘书长：伊朗袭击沙特油轮是“犯罪行为”，威胁航运安全和能源供应。",
-          "url": "https://flash.jin10.com/detail/20260708034041885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "time_info": "00时39分"
         },
         {
           "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
           "url": "https://www.zhihu.com/question/2057993033182978590",
           "source": "知乎",
           "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 22时56分]"
-        },
-        {
-          "title": "小米汽车新系列",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时57分]"
-        },
-        {
-          "title": "余承东发了带车顶帐篷的享界G9",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E4%BA%86%E5%B8%A6%E8%BD%A6%E9%A1%B6%E5%B8%90%E7%AF%B7%E7%9A%84%E4%BA%AB%E7%95%8CG9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "00时39分"
         },
         {
-          "title": "港股科网股午后持续走高，阿里巴巴股价涨幅扩大至10%，为2025年9月以来最大。快手涨近7%，小米集团涨超6%，百度集团涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3130391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "汇丰：（关于石油）我们的基准情景假设海湾地区出口将在9月底前恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260708181322433800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。 该公司将从2026年夏季开始搬迁到纽约市。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3130172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时38分]"
-        },
-        {
-          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
-          "url": "https://wallstreetcn.com/livenews/3130170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时38分]"
-        },
-        {
-          "title": "小米汽车官宣新产品 中文名或为澎程",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%AE%98%E5%AE%A3%E6%96%B0%E4%BA%A7%E5%93%81+%E4%B8%AD%E6%96%87%E5%90%8D%E6%88%96%E4%B8%BA%E6%BE%8E%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 16时28分]"
-        },
-        {
-          "title": "小米汽车发布新品牌SKYNOMAD",
-          "url": "https://www.toutiao.com/trending/7659350915090612267/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨2.99%，恒生科技指数收涨4.97%。科网股爆发，阿里巴巴涨超12%领涨蓝筹，小米集团涨超9%；医药股延续调整态势，恒生生物科技指数跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3130511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "江淮汽车：预计2026年半年度净利润亏损7.4亿元",
-          "url": "https://wallstreetcn.com/livenews/3130667",
+          "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
+          "url": "https://wallstreetcn.com/livenews/3130811",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "00时39分"
         },
         {
-          "title": "小米调整「小爱同学」：模型能力来自罗福莉，产品交给手机、汽车等终端",
-          "url": "https://wallstreetcn.com/livenews/3130501",
-          "source": "华尔街见闻-快讯",
+          "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
+          "url": "https://www.zhihu.com/question/2058113452170798939",
+          "source": "知乎",
           "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
-          "url": "https://wallstreetcn.com/livenews/3130160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "中原出版传媒投资控股集团有限公司原党委书记、董事长李永臻被开除党籍。（中央纪委国家监委网站）",
-          "url": "https://wallstreetcn.com/livenews/3130496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美股盘前中概股普涨，阿里巴巴涨11%，百度涨6%，京东、哔哩哔哩、网易涨4%，携程、理想汽车、蔚来涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3130494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
-          "url": "https://wallstreetcn.com/livenews/3130157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3130156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "摩根大通：特斯拉与SpaceX合并的潜在阻碍被低估",
-          "url": "https://wallstreetcn.com/livenews/3130118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian跌幅扩大至15%，创2024年11月份以来最差盘中表现，该公司发布业绩报告时宣布股票增发计划。",
-          "url": "https://wallstreetcn.com/livenews/3130087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至2%，恒指涨超1%，联想集团涨近7%，华虹涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3130285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "小米集团大涨超9%",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%A4%A7%E6%B6%A8%E8%B6%859%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "阿曼谴责在霍尔木兹海峡针对巴林、科威特、沙特及卡塔尔油轮的袭击。",
-          "url": "https://wallstreetcn.com/livenews/3130557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "中国人民银行副行长宣昌能会见法国农业信贷银行集团首席执行官奥利弗·加瓦达",
-          "url": "https://wallstreetcn.com/livenews/3130474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "00时39分"
         }
       ]
     }
