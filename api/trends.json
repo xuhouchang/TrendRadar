@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T13:39:28.163623+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-07-09T17:39:28.338825+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "曾年销 26 万台的比亚迪秦 L 被曝停产，这是出于哪些商业考量？",
@@ -21,6 +21,17 @@
           "time_info": "[00时39分 ~ 09时10分]"
         },
         {
+          "title": "国务院：推动产业结构绿色低碳转型 持续增强新能源、新能源汽车、动力电池等产业竞争优势",
+          "url": "https://wallstreetcn.com/livenews/3131245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "马斯克：（关于Grok）2万亿参数模型预计下月向客户提供。",
           "url": "https://flash.jin10.com/detail/20260709003603155800",
           "source": "金十数据",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "国务院：到2030年，新能源汽车保有量占比力争达到30%",
+          "url": "https://wallstreetcn.com/livenews/3131241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "马斯克：根据用户需求，我们几乎每天都在持续改进Grok Build工具链和1.5万亿参数基础模型。",
@@ -49,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -65,13 +87,24 @@
           "time_info": "04时04分"
         },
         {
+          "title": "三峡新材：与关联人共同投资临港汽车及电子玻璃项目，总投资约26亿元",
+          "url": "https://flash.jin10.com/detail/20260709171716077800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "港股午后持续走低，恒指跌1%，恒生科技指数跌0.79%，科技股回落，哔哩哔哩(09626.HK)跌超5%，百度(09888.HK)、小米集团(01810.HK)、美团(03690.HK)跌超3%。",
           "url": "https://flash.jin10.com/detail/20260709132105212800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -86,6 +119,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 07时08分]"
+        },
+        {
+          "title": "雷军正式公布小米汽车新系列",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 17时39分]"
         },
         {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
@@ -110,6 +155,28 @@
           "time_info": "09时10分"
         },
         {
+          "title": "比亚迪储能与阿联酋Masdar签署11.275GWh储能合作协议",
+          "url": "https://wallstreetcn.com/livenews/3131225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "中方回应日本组建“宇宙作战集团”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%BB%84%E5%BB%BA%E2%80%9C%E5%AE%87%E5%AE%99%E4%BD%9C%E6%88%98%E9%9B%86%E5%9B%A2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "周三（7月8日），彭博电动汽车价格回报指数跌1.58%，报3421.07点，全天处于下跌状态，临近北京时间10:00出现一波加速下跌行情，随后平缓地持续扩大跌幅。",
           "url": "https://wallstreetcn.com/livenews/3130888",
           "source": "华尔街见闻-快讯",
@@ -121,24 +188,13 @@
           "time_info": "05时42分"
         },
         {
-          "title": "雷军正式公布小米汽车新系列",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "雷军说小米造车5年只做了两个系列",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BD%A65%E5%B9%B4%E5%8F%AA%E5%81%9A%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%B3%BB%E5%88%97%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -163,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "国务院：推动产业结构绿色低碳转型 持续增强新能源、新能源汽车、动力电池等产业竞争优势",
+          "url": "https://flash.jin10.com/detail/20260709170954025800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "马斯克： 将持续优化 1.5T（万亿参数）基础模型。 2T（万亿参数）模型将于本月完成训练，将于8月份向客户开放。",
@@ -193,9 +260,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "昆明一智己汽车门店爆雷",
+          "url": "https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%80%E6%99%BA%E5%B7%B1%E6%B1%BD%E8%BD%A6%E9%97%A8%E5%BA%97%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     }
