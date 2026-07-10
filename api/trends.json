@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T06:51:05.532879+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-10T08:05:19.597884+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 08时05分]"
         },
         {
           "title": "凯雷集团将以26亿美元将数据中心电力业务出售给EQT，实现五倍回报。（英国金融时报）",
@@ -31,6 +31,29 @@
           "time_info": "03时46分"
         },
         {
+          "title": "马斯克的野心正在考验太空极限",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时46分 ~ 08时05分]"
+        },
+        {
+          "title": "男子抱轮胎游3小时回村找父母",
+          "url": "https://www.toutiao.com/trending/7659790392569577499/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "德国大众汽车将把车型阵容精简至多50%。 大众汽车将评估核心汽车业务之外的资产。",
           "url": "https://wallstreetcn.com/livenews/3131517",
           "source": "华尔街见闻-快讯",
@@ -42,26 +65,39 @@
           "time_info": "03时46分"
         },
         {
-          "title": "马斯克的野心正在考验太空极限",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
-          "source": "百度热搜",
+          "title": "马斯克“抄了”智谱",
+          "url": "https://wallstreetcn.com/articles/3776533",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时46分 ~ 06时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "比亚迪大汉红银双拼色实车曝光",
           "url": "https://www.toutiao.com/trending/7659935011042476073/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 08时05分]"
+        },
+        {
+          "title": "监管机构称：埃克森美孚及合作伙伴将向尼日利亚油田投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3131568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时50分 ~ 06时51分]"
+          "time_info": "[06时51分 ~ 08时05分]"
         },
         {
           "title": "美联储：美联储工作组成员还包括经济学家曼昆、萨金特、切蒂，风险投资家安德森及Xbox CEO夏尔马。",
@@ -73,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "监管机构称：埃克森美孚及合作伙伴将向尼日利亚油田投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3131568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时51分"
         },
         {
           "title": "周四（7月9日），彭博电动汽车价格回报指数涨0.33%，报3427.92点，整体呈现出长尾V形反转、亚太早盘显著下挫、北京时间11:21刷新日低至3365.86点。",
