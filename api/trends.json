@@ -1,338 +1,66 @@
 {
-  "generated_at": "2026-07-10T23:56:57.550331+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-07-11T01:48:17.154363+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 29,
+      "match_count": 5,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 23时56分]"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
-          "url": "https://www.zhihu.com/question/2058507973886997487",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 12时34分]"
-        },
-        {
-          "title": "凯雷集团将以26亿美元将数据中心电力业务出售给EQT，实现五倍回报。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3131525",
+          "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3132194",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "研究机构：全球电动汽车需求持续增长",
-          "url": "https://wallstreetcn.com/livenews/3132173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
-          "url": "https://www.cls.cn/detail/2422471",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
-        },
-        {
-          "title": "特斯拉在韩国推出FSD v14 Light 但仅适用于美产车型",
-          "url": "https://flash.jin10.com/detail/20260710160237843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "马斯克的野心正在考验太空极限",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时46分 ~ 08时05分]"
-        },
-        {
-          "title": "石四药集团：95个品种产品纳入国家基本药物目录(2026年版)",
-          "url": "https://flash.jin10.com/detail/20260710120259715800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "男子抱轮胎游3小时回村找父母",
-          "url": "https://www.toutiao.com/trending/7659790392569577499/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "德国大众汽车将把车型阵容精简至多50%。 大众汽车将评估核心汽车业务之外的资产。",
-          "url": "https://wallstreetcn.com/livenews/3131517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "王曼昱缺席全锦赛双打",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%BC%BA%E5%B8%AD%E5%85%A8%E9%94%A6%E8%B5%9B%E5%8F%8C%E6%89%93%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "马斯克“抄了”智谱",
-          "url": "https://wallstreetcn.com/articles/3776533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "比亚迪大汉红银双拼色实车曝光",
-          "url": "https://www.toutiao.com/trending/7659935011042476073/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 08时05分]"
-        },
-        {
-          "title": "监管机构称：埃克森美孚及合作伙伴将向尼日利亚油田投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3131568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 08时05分]"
+          "time_info": "01时48分"
         },
         {
           "title": "奥特曼初音未来联动",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E8%81%94%E5%8A%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21,
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时27分 ~ 23时56分]"
+          "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "美联储：美联储工作组成员还包括经济学家曼昆、萨金特、切蒂，风险投资家安德森及Xbox CEO夏尔马。",
-          "url": "https://flash.jin10.com/detail/20260710030512772800",
+          "title": "伊拉克国家石油公司：伊拉克将8月销往亚洲的巴士拉中质原油官方售价设为较阿曼/迪拜均价贴水6.50美元/桶",
+          "url": "https://flash.jin10.com/detail/20260711003745498800",
           "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "SK集团董事长：SK海力士对增发ADR持开放态度",
-          "url": "https://flash.jin10.com/detail/20260710232244499800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "01时48分"
         },
         {
-          "title": "据日经新闻：大众汽车正寻求与日产合作，在美国开发一款大型SUV。",
-          "url": "https://flash.jin10.com/detail/20260710232121996800",
-          "source": "金十数据",
+          "title": "研究机构：全球电动汽车需求持续增长",
+          "url": "https://wallstreetcn.com/livenews/3132173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "摩根大通：将雪佛龙(CVX.N)目标价从224美元下调至190美元。",
-          "url": "https://flash.jin10.com/detail/20260710115746206800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "周四（7月9日），彭博电动汽车价格回报指数涨0.33%，报3427.92点，整体呈现出长尾V形反转、亚太早盘显著下挫、北京时间11:21刷新日低至3365.86点。",
-          "url": "https://wallstreetcn.com/livenews/3131546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "SK集团董事长：在美国的投资计划将“大得多”",
-          "url": "https://wallstreetcn.com/livenews/3132160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "奥特曼60周年",
-          "url": "https://www.douyin.com/hot/2566370",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "奥特曼60周年",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
-          "url": "https://wallstreetcn.com/livenews/3131541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
-          "url": "https://flash.jin10.com/detail/20260710035930896800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
-          "url": "https://wallstreetcn.com/livenews/3131501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "日本汽车经销商Yanase开设比亚迪经销店",
-          "url": "https://flash.jin10.com/detail/20260710190946847800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
-          "url": "https://wallstreetcn.com/livenews/3131532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2026年07月10日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260710115029173800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "01时48分"
         }
       ]
     }
