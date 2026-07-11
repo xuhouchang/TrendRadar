@@ -1,367 +1,77 @@
 {
-  "generated_at": "2026-07-11T23:32:28.464248+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-07-12T00:58:55.622868+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 30,
+      "match_count": 6,
       "titles": [
         {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
+          "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
+          "url": "https://flash.jin10.com/detail/20260712001645365800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 06时03分]"
-        },
-        {
-          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
-          "url": "https://wallstreetcn.com/articles/3776682",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时14分 ~ 23时32分]"
-        },
-        {
-          "title": "雷军让卖车的和卖房的都沉默了",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AE%A9%E5%8D%96%E8%BD%A6%E7%9A%84%E5%92%8C%E5%8D%96%E6%88%BF%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 20时33分]"
-        },
-        {
-          "title": "奥特曼初音未来联动",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E8%81%94%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            14,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时47分 ~ 09时00分]"
-        },
-        {
-          "title": "曝余承东内部群发飙",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BD%99%E6%89%BF%E4%B8%9C%E5%86%85%E9%83%A8%E7%BE%A4%E5%8F%91%E9%A3%99%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "曝余承东内部群发飙",
           "url": "https://www.toutiao.com/trending/7660768642707263030/",
           "source": "今日头条",
           "ranks": [
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "曝余承东内部群发飙",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%BD%99%E6%89%BF%E4%B8%9C%E5%86%85%E9%83%A8%E7%BE%A4%E5%8F%91%E9%A3%99",
           "source": "百度热搜",
           "ranks": [
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 23时32分]"
-        },
-        {
-          "title": "汽车该如何扛过台风",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%AF%A5%E5%A6%82%E4%BD%95%E6%89%9B%E8%BF%87%E5%8F%B0%E9%A3%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 14时36分]"
-        },
-        {
-          "title": "意大利油企埃尼集团首席执行官：中东冲突若持续，油市或于2027年初突破当前区间。",
-          "url": "https://flash.jin10.com/detail/20260711195515068800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
-          "url": "https://wallstreetcn.com/livenews/3132224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "周五（7月10日），彭博电动汽车价格回报指数涨0.33%，报3438.04点，本周累计下跌4.06%，7月7-8日持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3132244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时50分 ~ 09时00分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
-          "url": "https://flash.jin10.com/detail/20260711042255340800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 07时31分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260711025239161800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3132194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。",
-          "url": "https://flash.jin10.com/detail/20260711140137269800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 16时47分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐抵达阿曼",
-          "url": "https://wallstreetcn.com/livenews/3132315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时15分]"
-        },
-        {
-          "title": "伊朗外交部发言人巴盖伊：阿拉格齐将访问阿曼，讨论并就建立保障船只安全通过霍尔木兹海峡的适当机制交换意见。",
-          "url": "https://flash.jin10.com/detail/20260711041744419800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 06时03分]"
-        },
-        {
-          "title": "据The Information：马斯克要求特斯拉(TSLA.O)员工转向使用Grok。",
-          "url": "https://flash.jin10.com/detail/20260711040529087800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20260711221401757800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "伊朗外长将访阿曼 继续沟通霍尔木兹海峡状况",
-          "url": "https://flash.jin10.com/detail/20260711040952735800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 06时03分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.23%，报6120.74点，本周累计上涨3.53%。 热门中概股里，网易初步收跌4.5%，日月光半导体跌1.2%，腾讯跌1.1%，拼多多跌0.8%，阿里涨1%，比亚迪涨2.9%，小米集团涨3.4%。 ETF中，中国科技指数ETF（CQQQ）收跌2.68%，本周反弹3.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.39%，本周反弹0.63%； XtrackersHarvest中证50（ASHS）收跌1.33%，本周跌0.89%； 中概互联网指数ETF（KWEB）收跌0.38%，本周累涨5.56%、延续上周反弹4.39%的表现； MSCI新兴市场ex中国ETF（EMXC）收涨0.33%，本周反弹1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3132240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 06时03分]"
-        },
-        {
-          "title": "崔东树：2026年全国汽车市场总体走势较平稳",
-          "url": "https://flash.jin10.com/detail/20260711172028491800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时32分]"
-        },
-        {
-          "title": "王曼昱申请不参加全锦赛双打，因伤病恢复和状态调整，怎样看待这一决定？",
-          "url": "https://www.zhihu.com/question/2059020089266004929",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时33分]"
-        },
-        {
-          "title": "隆华科技集团旗下丰联科光电实现G8.7 AMOLED银合金管靶全自主量产出货",
-          "url": "https://flash.jin10.com/detail/20260711110349200800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时36分]"
+          "time_info": "00时58分"
         },
         {
           "title": "张辽为何没有成为曹魏军事集团的核心？",
           "url": "https://www.zhihu.com/question/368391476",
           "source": "知乎",
           "ranks": [
-            20,
-            18
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "伊拉克国家石油公司：伊拉克将8月销往亚洲的巴士拉中质原油官方售价设为较阿曼/迪拜均价贴水6.50美元/桶",
-          "url": "https://flash.jin10.com/detail/20260711003745498800",
+          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260711221401757800",
           "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "伊朗外长将访阿曼，继续沟通霍尔木兹海峡状况",
-          "url": "https://wallstreetcn.com/livenews/3132224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：以色列战机对黎巴嫩南部的阿尔曼苏里镇进行了第三次空袭。",
-          "url": "https://flash.jin10.com/detail/20260711205437151800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "研究机构：全球电动汽车需求持续增长",
-          "url": "https://wallstreetcn.com/livenews/3132173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "00时58分"
         }
       ]
     }
