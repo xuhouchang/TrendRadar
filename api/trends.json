@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:22:29.571331+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-12T07:27:27.011349+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时27分]"
         },
         {
           "title": "曝余承东内部群发飙",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时27分]"
         },
         {
           "title": "GPT-5.6发布之际 马斯克与奥尔特曼隔空互怼",
@@ -45,8 +46,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 07时27分]"
         },
         {
           "title": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
@@ -56,8 +57,88 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时27分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：报道称伊拉克北部的埃尔比勒和苏莱曼尼亚地区传出了爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260712004734012800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            15,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 07时27分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时27分]"
+        },
+        {
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时27分]"
+        },
+        {
+          "title": "张辽为何没有成为曹魏军事集团的核心？",
+          "url": "https://www.zhihu.com/question/368391476",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19,
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时27分]"
+        },
+        {
+          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
+          "url": "https://flash.jin10.com/detail/20260712030241916800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时27分]"
+        },
+        {
+          "title": "据CNN：消息人士称，就霍尔木兹海峡航运路线，阿曼提出通过两个独立控制的航道管理海峡的交通；该提议尚未最终敲定。",
+          "url": "https://flash.jin10.com/detail/20260712025753094800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时27分]"
         },
         {
           "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
@@ -69,6 +150,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 01时58分]"
+        },
+        {
+          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
+          "url": "https://flash.jin10.com/detail/20260712024237763800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 07时27分]"
         },
         {
           "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
@@ -86,45 +180,6 @@
           "time_info": "[00时58分 ~ 05时23分]"
         },
         {
-          "title": "据伊通社（IRNA）：报道称伊拉克北部的埃尔比勒和苏莱曼尼亚地区传出了爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260712004734012800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            15,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时22分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
-          "url": "https://flash.jin10.com/detail/20260712041548582800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
@@ -134,59 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "张辽为何没有成为曹魏军事集团的核心？",
-          "url": "https://www.zhihu.com/question/368391476",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时22分]"
-        },
-        {
-          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
-          "url": "https://flash.jin10.com/detail/20260712030241916800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时22分]"
-        },
-        {
-          "title": "据CNN：消息人士称，就霍尔木兹海峡航运路线，阿曼提出通过两个独立控制的航道管理海峡的交通；该提议尚未最终敲定。",
-          "url": "https://flash.jin10.com/detail/20260712025753094800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时22分]"
-        },
-        {
-          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
-          "url": "https://flash.jin10.com/detail/20260712024237763800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时22分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
