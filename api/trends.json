@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:31:42.213763+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-07-11T09:00:35.261449+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[01时47分 ~ 06时03分]"
         },
         {
+          "title": "奥特曼初音未来联动",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E8%81%94%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            14,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 09时00分]"
+        },
+        {
           "title": "伊朗官方媒体IRNA：伊朗外长将于周六访问阿曼。",
           "url": "https://wallstreetcn.com/livenews/3132224",
           "source": "华尔街见闻-快讯",
@@ -30,17 +44,18 @@
           "time_info": "03时27分"
         },
         {
-          "title": "奥特曼初音未来联动",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E8%81%94%E5%8A%A8",
-          "source": "bilibili 热搜",
+          "title": "周五（7月10日），彭博电动汽车价格回报指数涨0.33%，报3438.04点，本周累计下跌4.06%，7月7-8日持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3132244",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            14,
-            23
+            3,
+            15,
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 09时00分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
@@ -50,19 +65,6 @@
             1,
             23,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 07时31分]"
-        },
-        {
-          "title": "周五（7月10日），彭博电动汽车价格回报指数涨0.33%，报3438.04点，本周累计下跌4.06%，7月7-8日持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3132244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            19
           ],
           "is_new": false,
           "appearance_count": 3,
