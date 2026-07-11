@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T20:33:32.648777+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-07-11T22:22:53.385611+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 06时03分]"
+        },
+        {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时22分]"
         },
         {
           "title": "雷军让卖车的和卖房的都沉默了",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时35分 ~ 20时33分]"
-        },
-        {
-          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
-          "url": "https://wallstreetcn.com/articles/3776682",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时33分]"
         },
         {
           "title": "奥特曼初音未来联动",
@@ -80,13 +81,36 @@
           "time_info": "[14时35分 ~ 14时36分]"
         },
         {
+          "title": "曝余承东内部群发飙",
+          "url": "https://www.toutiao.com/trending/7660768642707263030/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 22时22分]"
+        },
+        {
+          "title": "曝余承东内部群发飙",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%BD%99%E6%89%BF%E4%B8%9C%E5%86%85%E9%83%A8%E7%BE%A4%E5%8F%91%E9%A3%99",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 22时22分]"
+        },
+        {
           "title": "意大利油企埃尼集团首席执行官：中东冲突若持续，油市或于2027年初突破当前区间。",
           "url": "https://flash.jin10.com/detail/20260711195515068800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -114,28 +138,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时50分 ~ 09时00分]"
-        },
-        {
-          "title": "曝余承东内部群发飙",
-          "url": "https://www.toutiao.com/trending/7660768642707263030/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "曝余承东内部群发飙",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%BD%99%E6%89%BF%E4%B8%9C%E5%86%85%E9%83%A8%E7%BE%A4%E5%8F%91%E9%A3%99",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -313,6 +315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "张辽为何没有成为曹魏军事集团的核心？",
+          "url": "https://www.zhihu.com/question/368391476",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：以色列战机对黎巴嫩南部的阿尔曼苏里镇进行了第三次空袭。",
+          "url": "https://flash.jin10.com/detail/20260711205437151800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "研究机构：全球电动汽车需求持续增长",
