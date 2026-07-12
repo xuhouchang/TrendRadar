@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T00:02:44.213977+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-13T01:11:33.543958+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "小鹏X9集体趴窝 疑因高温",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FX9%E9%9B%86%E4%BD%93%E8%B6%B4%E7%AA%9D+%E7%96%91%E5%9B%A0%E9%AB%98%E6%B8%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
+        },
+        {
+          "title": "小鹏X9集体趴窝 疑因高温",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FX9%E9%9B%86%E4%BD%93%E8%B6%B4%E7%AA%9D+%E7%96%91%E5%9B%A0%E9%AB%98%E6%B8%A9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
         },
         {
           "title": "阿曼称一商船在该国北部海域遇险，多名船员已获救",
@@ -48,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
         },
         {
           "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
@@ -59,8 +61,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
         },
         {
           "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
@@ -70,8 +72,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时11分]"
         }
       ]
     }
