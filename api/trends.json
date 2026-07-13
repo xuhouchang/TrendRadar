@@ -1,106 +1,12 @@
 {
-  "generated_at": "2026-07-13T23:42:34.105300+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-07-14T01:56:19.667773+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 14时18分]"
-        },
-        {
-          "title": "美国驻阿曼使馆发布“就地避险”提醒",
-          "url": "https://wallstreetcn.com/livenews/3132430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时48分]"
-        },
-        {
-          "title": "泰国曼谷一啤酒餐厅发生火灾致27人死亡、60多人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3132458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时54分]"
-        },
-        {
-          "title": "阿曼称一商船在该国北部海域遇险，多名船员已获救",
-          "url": "https://wallstreetcn.com/livenews/3132422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时50分]"
-        },
-        {
-          "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
-          "url": "https://wallstreetcn.com/livenews/3132403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时50分]"
-        },
-        {
-          "title": "阿曼称霍尔木兹海峡南侧部分地区遭无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3132393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时50分]"
-        },
-        {
-          "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
-          "url": "https://flash.jin10.com/detail/20260713022951270800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时50分]"
-        },
-        {
-          "title": "【沪电股份：预计上半年净利润同比增长68.17%–78.28%】沪电股份公告，预计2026年上半年净利润为28.3亿元–30亿元，同比增长68.17%–78.28%。受益于高速交换机、AI服务器、高性能计算及智能汽车等应用领域的结构性需求，叠加公司产品结构的持续优化，预计2026年上半年公司营业收入和净利润较上年同期均有较快增长。",
-          "url": "https://wallstreetcn.com/livenews/3132790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
         {
           "title": "外媒称中国四支舰队出击太平洋“扫海”",
           "url": "https://v.ifeng.com/c/8ugG4l7UYb9",
@@ -108,125 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "博世集团（Bosch）计划今后至2031年在美国（运营领域）投资至多75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3132995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "WTI原油日内涨幅达5.0%，报75美元/桶，据伊朗媒体IRNA，伊朗伊斯兰革命卫队袭击美国在阿曼和巴林的军事资产。",
-          "url": "https://wallstreetcn.com/livenews/3132645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "科威特将8月对亚洲出口的超轻原油官方售价（OSP）定为较阿曼/迪拜均价贴水5美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3132643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "OPEC月报：OPEC将2027年全球石油需求增长预测上调至194万桶/日（此前预测为173万桶/日）。 OPEC将2026年全球石油需求增长预测下调至78万桶/日（此前预测为97万桶/日）。 OPEC+原油产量（包括前成员国阿联酋）2026年6月平均为3628万桶/日，较5月增加约300万桶/日，主要得益于海湾产油国的增产。 沙特6月原油产量增加56.1万桶/日，达到712.2万桶/日。",
-          "url": "https://wallstreetcn.com/livenews/3132907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "泰国曼谷一啤酒餐厅发生火灾致27人死亡",
-          "url": "https://flash.jin10.com/detail/20260713040638574800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时50分]"
-        },
-        {
-          "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
-          "url": "https://flash.jin10.com/detail/20260713052720745800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时48分]"
-        },
-        {
-          "title": "安全消息人士：无人机袭击目标为伊朗库尔德反对派在伊拉克东部苏莱曼尼亚的营地。",
-          "url": "https://flash.jin10.com/detail/20260713020118699800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时50分]"
-        },
-        {
-          "title": "小鹏X9集体趴窝 疑因高温",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FX9%E9%9B%86%E4%BD%93%E8%B6%B4%E7%AA%9D+%E7%96%91%E5%9B%A0%E9%AB%98%E6%B8%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时11分]"
-        },
-        {
-          "title": "外媒称中国四支舰队太平洋“扫海”",
-          "url": "https://www.toutiao.com/trending/7660790268983787583/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 05时50分]"
-        },
-        {
-          "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
-          "url": "https://www.cls.cn/detail/2423670",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "01时56分"
         },
         {
           "title": "曼联签下蒂莱曼斯",
@@ -235,163 +25,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "河北宽城遇持续暴雨 街边汽车被冲走",
-          "url": "https://www.toutiao.com/trending/7661809733791125011/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "01时56分"
         },
         {
-          "title": "美联储理事鲍曼：我们必须根据每家机构的风险状况来制定相应的监管措施。不同银行在规模、系统影响、复杂性和风险状况方面差异巨大。",
-          "url": "https://flash.jin10.com/detail/20260713172747851800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
-          "url": "https://flash.jin10.com/detail/20260713063453673800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "美联储理事鲍曼：呼吁全球金融监管机构要灵活应对。",
-          "url": "https://flash.jin10.com/detail/20260713172613635800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "中船集团助力全球首次运载火箭网系回收",
-          "url": "https://flash.jin10.com/detail/20260713201330668800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗对美国位于海湾地区的军事目标发动大规模袭击",
-          "url": "https://wallstreetcn.com/livenews/3132541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "马斯克再出狂言，称其目标是让 SpaceX 价值超过整个地球，如何理解他的这一目标？",
-          "url": "https://www.zhihu.com/question/2059280313839366365",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "科威特将销往亚洲的超轻质原油8月份官方售价（OSP）定为较阿曼/迪拜原油均价贴水5美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260713133451492800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "越疆与星星充电达成战略合作 具身智能落地汽车充电场景",
-          "url": "https://flash.jin10.com/detail/20260713172346821800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3132618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "江河集团：子公司近日中标圣淘沙名胜世界滨海生活区项目 中标金额约人民币3.59亿元",
-          "url": "https://flash.jin10.com/detail/20260713172227156800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "国轩高科：G垣固液混合电池已完成多项测试与验证 具备量产能力",
-          "url": "https://wallstreetcn.com/livenews/3132616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "中国驻泰使馆：暂无中国公民在曼谷酒吧火灾中遇难",
-          "url": "https://flash.jin10.com/detail/20260713101613178800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "龙蟠科技：预计2026年上半年净利润3.73亿元至4.48亿元，同比扭亏为盈",
-          "url": "https://wallstreetcn.com/livenews/3132741",
+          "title": "马士基：WAF6服务现在可以通过红海航线落实。",
+          "url": "https://wallstreetcn.com/livenews/3133001",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "01时56分"
         }
       ]
     }
