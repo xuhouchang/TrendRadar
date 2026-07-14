@@ -1,480 +1,77 @@
 {
-  "generated_at": "2026-07-14T22:51:19.294889+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-07-15T00:15:04.142876+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "外媒称中国四支舰队出击太平洋“扫海”",
-          "url": "https://v.ifeng.com/c/8ugG4l7UYb9",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时56分 ~ 13时15分]"
-        },
-        {
-          "title": "一分钟看懂上半年经济关键词",
-          "url": "https://www.douyin.com/hot/2570974",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 19时07分]"
-        },
-        {
-          "title": "曼联签下蒂莱曼斯",
-          "url": "https://www.douyin.com/hot/2570182",
-          "source": "抖音",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 07时55分]"
-        },
-        {
-          "title": "欧洲航空安全局：航空运营商不应在巴林、科威特、卡塔尔、阿联酋的领空以及阿曼湾水域上空运行。",
-          "url": "https://flash.jin10.com/detail/20260714190401900800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "外交部：中方对海湾地区军事冲突再起深表关切。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3133402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "长城汽车：预计上半年净利润为23.50亿元到26.00亿元，同比减少58.97%到62.92%。",
-          "url": "https://wallstreetcn.com/livenews/3133521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "专家：视比亚迪为纯车企有失偏颇",
-          "url": "https://www.toutiao.com/trending/7662324954515377718/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
-        },
-        {
-          "title": "美军宣布于美东时间14日开始对伊朗实施海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3133043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
         {
           "title": "专家：比亚迪不是车企",
           "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "阿曼附近海域一油轮遭袭",
-          "url": "https://wallstreetcn.com/livenews/3133131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "阿联酋国防部：两艘本国油轮在霍尔木兹海峡南部遭到两枚伊朗巡航导弹的袭击。 袭击发生在阿曼领海内。 其中一艘油轮上有一名印度籍船员遇难，另有八人受伤。 两艘油轮上的大火均已被扑灭并得到控制。 保留对局势升级做出回应的全部权利。",
-          "url": "https://wallstreetcn.com/livenews/3133116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "比亚迪4S店承诺补贴成“空头支票”",
-          "url": "https://www.toutiao.com/trending/7661608516637868086/",
-          "source": "今日头条",
-          "ranks": [
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "花旗集团下跌2.9%，刷新日低，道指持平，费城银行指数涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "00时15分"
         },
         {
           "title": "郑州一长途汽车站9个窗口只开1个",
           "url": "https://www.toutiao.com/trending/7662332204488409098/",
           "source": "今日头条",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国国家航空航天局（NASA）的SunRISE任务将发射载具从ULA更换为马斯克旗下太空探索公司SpaceX。",
-          "url": "https://wallstreetcn.com/livenews/3133103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时57分]"
-        },
-        {
-          "title": "据AXIOS：美国官员透露，特朗普对沙特王储本·萨勒曼针对也门胡塞武装采取极为罕见的军事行动表示支持。",
-          "url": "https://flash.jin10.com/detail/20260714063620914800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时55分]"
-        },
-        {
-          "title": "周一（7月13日），彭博电动汽车价格回报指数跌2.12%，报3363.74点，亚太盘初曾短暂地微幅冲高回落，北京时间10:00前后跌幅显著，11:00以来持稳于3380点附近，美股开盘后略微地持续扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3133095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时57分]"
-        },
-        {
-          "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
-          "url": "https://wallstreetcn.com/livenews/3133073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时57分]"
-        },
-        {
-          "title": "阿联酋国防部：两艘本国油轮在霍尔木兹海峡南部遭到两枚伊朗巡航导弹袭击。袭击发生在阿曼领海内。",
-          "url": "https://flash.jin10.com/detail/20260714062034282800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "巴克莱：将特斯拉(TSLA.O)的目标价从360美元上调至370美元。",
-          "url": "https://flash.jin10.com/detail/20260714185849175800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "英国海上贸易行动办公室：阿曼卡尔哈特东北40海里处一油轮遇袭",
-          "url": "https://flash.jin10.com/detail/20260714061529135800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "星展集团：对宁德时代可能流失市场份额的担忧似乎被夸大了",
-          "url": "https://flash.jin10.com/detail/20260714124340776800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报6112.45点，整体高开低走。 热门中概股里，日月光半导体初步收跌5.1%，百度跌3.6%，阿里跌0.1%，网易涨2.6%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌4.39%，中概互联网指数ETF（KWEB）收跌0.57%。 XtrackersHarvest中证50（ASHS）收跌4.79%，MSCI新兴市场ex中国ETF（EMXC）收跌4.12%，德银嘉实沪深300指数ETF（ASHR）收跌2.49%。",
-          "url": "https://wallstreetcn.com/livenews/3133069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "花旗集团第二季度营收为247.7亿美元，预期为237亿美元。 第二季度每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3133646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "A股油气股开盘领涨，科力股份涨超10%，潜能恒信、中曼石油、蓝焰控股、石化油服涨幅居前，消息上，美国总统特朗普已正式通知国会，伊朗战事重新爆发，美军开始对伊朗发动新一轮打击。",
-          "url": "https://wallstreetcn.com/livenews/3133196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "特斯拉官方宣传汽车寿命",
-          "url": "https://www.toutiao.com/trending/7661917083823276082/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "汽车观察｜赛力斯由盈转亏背后：分工时代的得与失",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33573882",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
-          "url": "https://flash.jin10.com/detail/20260714060823307800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "壳牌在200亿美元尼日利亚石油项目中获更多税收减免",
-          "url": "https://flash.jin10.com/detail/20260714185414214800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "智谱：公司英文名称已由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co., Ltd.\"",
-          "url": "https://wallstreetcn.com/livenews/3133639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "河北宽城遭遇 6 小时持续暴雨，道路积水超 2 米，多辆汽车被洪水冲走，目前当地情况怎么样？",
-          "url": "https://www.zhihu.com/question/2059956101601129404",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "比亚迪全新B级闪充轿车秦MAX官宣",
-          "url": "https://www.toutiao.com/trending/7661207271717208091/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "小米汽车紧急避险",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%B4%A7%E6%80%A5%E9%81%BF%E9%99%A9&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "港股汽车股拉升，蔚来汽车(09866.HK)涨超6%，比亚迪股份(01211.HK)涨超2%，理想汽车(02015.HK)、小鹏集团(09868.HK)、小米集团(01810.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260714100820753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "比亚迪回应唐车型后电机总成脱落：底盘发生严重磕碰，非产品质量问题",
-          "url": "https://wallstreetcn.com/livenews/3133636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "珠免集团：预计上半年净利润为2,700万元到4,000万元，将扭亏为盈。",
-          "url": "https://wallstreetcn.com/livenews/3133579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "曼联为何签下蒂勒曼斯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E4%B8%BA%E4%BD%95%E7%AD%BE%E4%B8%8B%E8%92%82%E5%8B%92%E6%9B%BC%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "金地集团：预计上半年净亏损24亿元到29亿元",
-          "url": "https://flash.jin10.com/detail/20260714185221873800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：这是我们近六年来看到的最好的通胀报告。 能源价格已经大幅下降。 将汽油价格降至每加仑3美元是现实的。 当前物价波动由伊朗局势引发。 我们在CPI数据中看到了特朗普政策取得成效的迹象。 有信心让石油从海湾流出，以稳定市场。 核心通胀势头正朝美联储目标靠近。",
-          "url": "https://wallstreetcn.com/livenews/3133694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "BW汽车知识挑战",
-          "url": "https://search.bilibili.com/all?keyword=BW%E6%B1%BD%E8%BD%A6%E7%9F%A5%E8%AF%86%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "马士基：WAF6服务现在可以通过红海航线落实。",
-          "url": "https://wallstreetcn.com/livenews/3133001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "郑州长途汽车中心站9个窗口只开1个",
           "url": "https://www.baidu.com/s?wd=%E9%83%91%E5%B7%9E%E9%95%BF%E9%80%94%E6%B1%BD%E8%BD%A6%E4%B8%AD%E5%BF%83%E7%AB%999%E4%B8%AA%E7%AA%97%E5%8F%A3%E5%8F%AA%E5%BC%801%E4%B8%AA",
           "source": "百度热搜",
           "ranks": [
-            28
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "花旗集团CEO弗雷泽：如果良好的环境持续，将加快投资步伐。",
+          "url": "https://flash.jin10.com/detail/20260714233637222800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "00时15分"
         },
         {
-          "title": "国轩高科：预计2026年上半年净利润12亿-15.5亿元，同比增长227.31%-322.77%",
-          "url": "https://wallstreetcn.com/livenews/3133570",
-          "source": "华尔街见闻-快讯",
+          "title": "三艘油轮在阿曼附近海域遇袭 已致3人失踪",
+          "url": "https://flash.jin10.com/detail/20260714233614434800",
+          "source": "金十数据",
           "ranks": [
-            30
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "00时15分"
         }
       ]
     }
