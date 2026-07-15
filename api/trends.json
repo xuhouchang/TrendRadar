@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:59:28.632451+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-07-15T21:56:27.272671+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "专家：比亚迪不是车企",
@@ -38,6 +38,20 @@
           "time_info": "[04时37分 ~ 11时20分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时56分]"
+        },
+        {
           "title": "如何看待比亚迪回应一辆比亚迪唐电机总成脱落事件，称底盘发生严重磕碰，非产品质量问题？",
           "url": "https://www.zhihu.com/question/2059993881601749194",
           "source": "知乎",
@@ -50,17 +64,15 @@
           "time_info": "[13时53分 ~ 16时09分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
+          "title": "比亚迪高管：没美国市场销量也超丰田",
+          "url": "https://www.toutiao.com/trending/7662542579950977060/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            6,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "【伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声】据伊朗多家媒体报道，当地时间14日深夜，伊朗南部的格什姆岛、阿巴斯港、亨加姆岛，以及东南部班普尔市和西部阿瓦士市等地传出爆炸声。 伊朗布什尔核电站周边防空系统已启动。目前，伊朗官方尚未就此发表评论。 美军中央司令部14日在社交媒体发文说，其部队于美东时间当天15时对伊朗发动新一轮打击，16时恢复针对往返伊朗港口及沿海地区船只的海上封锁。（新华社）",
@@ -74,16 +86,15 @@
           "time_info": "05时58分"
         },
         {
-          "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
-          "url": "https://www.zhihu.com/question/2059993881601749194",
-          "source": "知乎",
+          "title": "纳斯达克中国金龙指数涨超2%，阿里巴巴涨约6%，贝壳涨约7%，哔哩哔哩涨约4%，小鹏集团涨约4%。",
+          "url": "https://wallstreetcn.com/livenews/3134403",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "曼城球迷看世界杯半决赛belike",
@@ -110,6 +121,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "证监会同意深圳嘉立创科技集团股份有限公司首次公开发行股票注册。",
+          "url": "https://flash.jin10.com/detail/20260715213628331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "历峰集团第一季度按固定汇率计算的销售额增长20%，预期为增长11.2%。 第一季度零售业务按固定汇率计算的销售额增长24%，市场预估增长11.3%。",
           "url": "https://wallstreetcn.com/livenews/3134113",
           "source": "华尔街见闻-快讯",
@@ -121,6 +143,19 @@
           "time_info": "13时53分"
         },
         {
+          "title": "如何看待比亚迪唐电机总成脱落事件客服最新回应，为底盘发生严重磕碰所致？",
+          "url": "https://www.zhihu.com/question/2059993881601749194",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时56分]"
+        },
+        {
           "title": "《中国汽车行业整车成本测算规则》团体标准正式发布",
           "url": "https://wallstreetcn.com/livenews/3134058",
           "source": "华尔街见闻-快讯",
@@ -130,6 +165,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时56分]"
         },
         {
           "title": "阿曼海事安全中心：油轮“Stolt Magnesium”号在阿尔沙尔基亚（Al Sharqiyah）附近遭到袭击。 该事件导致船只机舱起火。",
@@ -267,18 +315,6 @@
           "time_info": "[01时42分 ~ 03时20分]"
         },
         {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时59分]"
-        },
-        {
           "title": "郑州一长途汽车站9个窗口只开1个",
           "url": "https://www.toutiao.com/trending/7662332204488409098/",
           "source": "今日头条",
@@ -331,7 +367,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -466,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "关志鸥会见中国海洋石油集团董事长张传江",
+          "url": "https://flash.jin10.com/detail/20260715212217340800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     }
