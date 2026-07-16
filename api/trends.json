@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:18:23.483166+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-07-16T21:00:54.839677+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时28分]"
+        },
+        {
+          "title": "小鹏汽车致歉 X9前空气弹簧系统质保延长至8年或16万公里",
+          "url": "https://wallstreetcn.com/livenews/3135092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "匈牙利前外长加入比亚迪：曾是最年轻议员，主导“东方开放”政策",
+          "url": "https://news.ifeng.com/c/8uoKLqeKEm0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "宁德时代宜春锂矿现状如何？记者最新实探",
@@ -113,6 +135,17 @@
           "time_info": "17时13分"
         },
         {
+          "title": "美国6月零售销售(除汽车与汽油)环比 0.4%，预期 0.4%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "匈牙利前外长加入比亚迪释放何信号",
           "url": "https://www.toutiao.com/trending/7663034468784934419/",
           "source": "今日头条",
@@ -160,6 +193,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美国6月零售销售(除汽车)环比 -0.2%，预期 -0.1%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3135079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
+          "title": "小鹏集团：将在今年实现首款飞行汽车量产，小鹏飞行汽车已收获超过7000个订单。",
+          "url": "https://wallstreetcn.com/livenews/3135078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "明晟公司MSCI北欧国家指数大致持平，报392.87点。 在十个板块中，北欧信息技术板块跌幅最大。 电信集团Elisa Oyj跌5.4%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3134507",
           "source": "华尔街见闻-快讯",
@@ -169,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "伊朗被曝或要求也门胡塞武装封锁曼德海峡",
+          "url": "https://wallstreetcn.com/livenews/3135075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "比亚迪回应王朝系列车型设计",
@@ -221,7 +287,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
