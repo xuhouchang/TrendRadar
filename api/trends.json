@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:22:10.101153+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-07-18T07:24:47.678570+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,24 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "释新闻｜从港口东迁到重修废弃管道，海湾诸国如何摆脱对霍尔木兹的依赖？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33597892",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时24分]"
+        },
+        {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
             6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时22分]"
-        },
-        {
-          "title": "释新闻｜从港口东迁到重修废弃管道，海湾诸国如何摆脱对霍尔木兹的依赖？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33597892",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时24分]"
         },
         {
           "title": "英国政府拟通过相关立法，将中国敬业集团旗下的英国钢铁公司国有化，对此你怎么看？",
@@ -49,11 +50,12 @@
           "ranks": [
             17,
             12,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时07分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[03时07分 ~ 07时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%，本周累涨2.6%。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。",
@@ -91,6 +93,19 @@
           "time_info": "[04时28分 ~ 06时22分]"
         },
         {
+          "title": "美国贸易办公室（USTR）：美国、墨西哥将在墨西哥城继续评估美国墨西哥加拿大贸易协议（USMCA）。 两国将于7月21日举行第三轮双边谈判，谈判团队将交流三天时间。 两国将讨论钢铁、铝、汽车贸易，并讨论农业、电子支付、劳动力。",
+          "url": "https://wallstreetcn.com/livenews/3135912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
           "title": "周五（7月17日）纽约尾盘，彭博电动汽车价格回报指数跌2.42%，报3304.17点，本周累计下跌3.85%。",
           "url": "https://wallstreetcn.com/livenews/3135894",
           "source": "华尔街见闻-快讯",
@@ -116,18 +131,6 @@
           "time_info": "[04时28分 ~ 05时23分]"
         },
         {
-          "title": "美国贸易办公室（USTR）：美国、墨西哥将在墨西哥城继续评估美国墨西哥加拿大贸易协议（USMCA）。 两国将于7月21日举行第三轮双边谈判，谈判团队将交流三天时间。 两国将讨论钢铁、铝、汽车贸易，并讨论农业、电子支付、劳动力。",
-          "url": "https://wallstreetcn.com/livenews/3135912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
           "url": "https://wallstreetcn.com/livenews/3135830",
           "source": "华尔街见闻-快讯",
@@ -138,6 +141,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时38分]"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时24分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -162,17 +177,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-          "url": "https://www.zhihu.com/question/2060791514276615811",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
