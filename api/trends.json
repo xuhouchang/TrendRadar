@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:51:50.083876+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-07-19T06:49:49.313476+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时51分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 06时49分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时00分 ~ 06时49分]"
         },
         {
           "title": "B站奥特曼投票迪迦断层第一",
@@ -41,19 +41,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 06时49分]"
         },
         {
           "title": "美伊战火越烧越旺，海湾国家能否成为降温力量？",
           "url": "https://flash.jin10.com/detail/20260719045406034800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时49分]"
         },
         {
           "title": "据沙特国家电视台：欧盟和海湾国家呼吁伊朗无条件、免费永久开放霍尔木兹海峡。",
@@ -61,11 +62,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时49分]"
         },
         {
           "title": "据沙特国家电视台：欧盟和海湾国家反对在霍尔木兹海峡对国际航行征收许可证要求或费用。",
@@ -73,11 +75,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时49分]"
         },
         {
           "title": "据沙特国家电视台：欧盟和海湾国家在霍尔木兹海峡及航行自由的联合声明中，拒绝任何对海峡的“非法主权或控制权”主张。",
@@ -85,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时49分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
