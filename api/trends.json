@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T03:42:34.696361+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-07-19T04:47:11.604347+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "英国海上贸易行动办公室（UKMTO）：已收到一份关于一艘商船与军事力量在阿曼杜库姆（Duqm）以东约100海里处发生事件的报告。 报告指出，该油轮是在该地区持续军事活动中遭到拦截（或发生接触）的。",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时47分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -27,8 +27,54 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时47分]"
+        },
+        {
+          "title": "据沙特国家电视台：欧盟和海湾国家呼吁伊朗无条件、免费永久开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260719034808172800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据沙特国家电视台：欧盟和海湾国家反对在霍尔木兹海峡对国际航行征收许可证要求或费用。",
+          "url": "https://flash.jin10.com/detail/20260719034556895800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据沙特国家电视台：欧盟和海湾国家在霍尔木兹海峡及航行自由的联合声明中，拒绝任何对海峡的“非法主权或控制权”主张。",
+          "url": "https://flash.jin10.com/detail/20260719034449106800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "B站奥特曼投票迪迦断层第一",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8A%95%E7%A5%A8%E8%BF%AA%E8%BF%A6%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 04时47分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
@@ -41,18 +87,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时02分]"
-        },
-        {
-          "title": "B站奥特曼投票迪迦断层第一",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8A%95%E7%A5%A8%E8%BF%AA%E8%BF%A6%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时42分]"
         },
         {
           "title": "英国海上贸易行动办公室：收到一起事件报告，涉及一艘商船和军事力量，事发地点位于阿曼杜古姆（Duqm）以东约100海里处。报告显示，该油轮在该地区的持续军事活动中受到影响。",
