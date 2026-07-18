@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T17:57:54.584966+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-07-18T19:05:35.097776+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,17 @@
           "time_info": "[08时56分 ~ 17时57分]"
         },
         {
+          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
+          "url": "https://wallstreetcn.com/articles/3777224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时05分]"
+        },
+        {
           "title": "奥特曼60周年投票现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%A5%A5%E7%89%B9%E6%9B%BC60%E5%91%A8%E5%B9%B4%E6%8A%95%E7%A5%A8%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
@@ -111,17 +122,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "市场消息：伊拉克石油部与雪佛龙(CVX.N)签署两项补充协议，旨在开发油田和能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20260718170715409800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "本周，存储芯片指数跌16.7%——成分股闪迪跌27.3%、西部数据跌17.6%、美光跌11.8%。标普累跌1.5%，道指累跌0.8%，纳指累跌2.7%。费城半导体指数跌9.5%。 标普500指数初步收跌约1%，电信板块跌2.4%，可选消费板块跌1.5%，科技板块跌0.8%，能源板块涨1.1%。 纳斯达克100指数初步收跌1.5%，成分股中，ISRG初步收跌13.8%，铿腾电子跌9%，新思科技跌8%，奈飞跌6.9%，应用材料、Astera Labs跌超5%，西部数据涨2.2%，Diamondback Energy涨2.9%，Nebius集团涨3%，Lumentum涨4.1%，希捷科技涨6.2%。 可口可乐初步收跌4.1%，与IBM、家得宝、高盛、SHW、麦当劳、谷歌A领跌道指成分股，苹果涨0.1%，思科涨2.1%，Travelers Companies Inc.涨9.5%。",
           "url": "https://wallstreetcn.com/livenews/3135896",
           "source": "华尔街见闻-快讯",
@@ -131,17 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
-          "url": "https://wallstreetcn.com/articles/3777224",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "Lucid集团涨32%，创将近一年来最大单日涨幅。",
@@ -170,6 +159,19 @@
           "time_info": "[04时28分 ~ 06时22分]"
         },
         {
+          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+          "url": "https://www.zhihu.com/question/660373683",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 19时05分]"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3135900",
           "source": "华尔街见闻-快讯",
@@ -180,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
+          "title": "市场消息：伊拉克石油部与雪佛龙(CVX.N)签署两项补充协议，旨在开发油田和能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260718170715409800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 19时05分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
@@ -240,18 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 03时07分]"
-        },
-        {
-          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
-          "url": "https://www.zhihu.com/question/660373683",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
