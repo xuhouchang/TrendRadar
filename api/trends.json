@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T02:02:27.928800+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-07-19T03:42:34.696361+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时42分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 03时42分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
@@ -43,13 +43,25 @@
           "time_info": "[00时59分 ~ 02时02分]"
         },
         {
+          "title": "B站奥特曼投票迪迦断层第一",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8A%95%E7%A5%A8%E8%BF%AA%E8%BF%A6%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时42分]"
+        },
+        {
           "title": "英国海上贸易行动办公室：收到一起事件报告，涉及一艘商船和军事力量，事发地点位于阿曼杜古姆（Duqm）以东约100海里处。报告显示，该油轮在该地区的持续军事活动中受到影响。",
           "url": "https://flash.jin10.com/detail/20260719004636140800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
-        },
-        {
-          "title": "B站奥特曼投票迪迦断层第一",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8A%95%E7%A5%A8%E8%BF%AA%E8%BF%A6%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
         }
       ]
     }
