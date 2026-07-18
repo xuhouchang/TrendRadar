@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T21:57:36.356587+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-07-18T22:55:47.589130+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "释新闻｜从港口东迁到重修废弃管道，海湾诸国如何摆脱对霍尔木兹的依赖？",
@@ -75,6 +75,20 @@
           "time_info": "[08时56分 ~ 17时57分]"
         },
         {
+          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
+          "url": "https://www.zhihu.com/question/660373683",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 22时55分]"
+        },
+        {
           "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
           "url": "https://wallstreetcn.com/articles/3777224",
           "source": "华尔街见闻",
@@ -87,20 +101,6 @@
           "time_info": "[17时57分 ~ 20时13分]"
         },
         {
-          "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
-          "url": "https://www.zhihu.com/question/660373683",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 21时57分]"
-        },
-        {
           "title": "用小拇指做手机支架的受害者出现了",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8%E5%B0%8F%E6%8B%87%E6%8C%87%E5%81%9A%E6%89%8B%E6%9C%BA%E6%94%AF%E6%9E%B6%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
           "source": "百度热搜",
@@ -109,8 +109,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时12分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[20时12分 ~ 22时55分]"
+        },
+        {
+          "title": "为什么贝克汉姆会和恩师弗格森反目，选择出走曼联？",
+          "url": "https://www.zhihu.com/question/503931227",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时12分 ~ 22时55分]"
         },
         {
           "title": "黎巴嫩军方表示，在曼苏里地区一辆军用车辆上发生可疑物体爆炸，造成一名军人死亡，另一名受伤。",
@@ -133,18 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时04分 ~ 14时05分]"
-        },
-        {
-          "title": "为什么贝克汉姆会和恩师弗格森反目，选择出走曼联？",
-          "url": "https://www.zhihu.com/question/503931227",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时12分 ~ 21时57分]"
         },
         {
           "title": "伊拉克总统：我们谴责针对埃尔比勒和苏莱曼尼亚两座城市的袭击，任何此类袭击行为都是对主权的侵犯。我们拒绝成为冲突或报复的舞台，并致力于建立在相互尊重基础上的关系。",
@@ -172,15 +172,15 @@
           "time_info": "[05时23分 ~ 08时56分]"
         },
         {
-          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
-          "url": "https://flash.jin10.com/detail/20260718212017645800",
-          "source": "金十数据",
+          "title": "林诗栋蒯曼vs温瑞博石洵瑶",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BCvs%E6%B8%A9%E7%91%9E%E5%8D%9A%E7%9F%B3%E6%B4%B5%E7%91%B6",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "22时55分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%，本周累涨2.6%。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。",
@@ -241,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
+          "url": "https://flash.jin10.com/detail/20260718212017645800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时55分]"
         },
         {
           "title": "市场消息：伊拉克石油部与雪佛龙(CVX.N)签署两项补充协议，旨在开发油田和能源基础设施。",
