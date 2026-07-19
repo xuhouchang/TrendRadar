@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:47:58.204335+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-07-20T05:52:57.765349+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时52分]"
         },
         {
           "title": "林诗栋蒯曼获全锦赛混双冠军",
@@ -25,11 +25,52 @@
           "ranks": [
             6,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时52分]"
+        },
+        {
+          "title": "赛罗奥特曼掉出投票前10",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            18,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时52分]"
+        },
+        {
+          "title": "72岁刘德凯在昆明保养车被偶遇",
+          "url": "https://www.toutiao.com/trending/7663716013896515627/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17,
+            16,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时52分]"
+        },
+        {
+          "title": "大乌龙!印度狠罚比亚迪6.3亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时52分]"
         },
         {
           "title": "据阿拉伯卫星电视台：阿曼与约旦外长强调，有必要加大政治斡旋力度，以制止局势升级。阿曼与约旦外长警告，地区局势可能滑向更多对抗。",
@@ -56,44 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时47分]"
-        },
-        {
-          "title": "赛罗奥特曼掉出投票前10",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时47分]"
-        },
-        {
-          "title": "72岁刘德凯在昆明保养车被偶遇",
-          "url": "https://www.toutiao.com/trending/7663716013896515627/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时47分]"
-        },
-        {
-          "title": "大乌龙!印度狠罚比亚迪6.3亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时47分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
