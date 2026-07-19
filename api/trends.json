@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:17:45.588212+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-19T18:07:52.352159+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "英国海上贸易行动办公室（UKMTO）：已收到一份关于一艘商船与军事力量在阿曼杜库姆（Duqm）以东约100海里处发生事件的报告。 报告指出，该油轮是在该地区持续军事活动中遭到拦截（或发生接触）的。",
@@ -46,6 +46,30 @@
           "time_info": "[02时02分 ~ 07时54分]"
         },
         {
+          "title": "大乌龙!印度狠罚比亚迪6.3亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 18时07分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 18时07分]"
+        },
+        {
           "title": "马斯克称看中国机器人格斗赛看乐了",
           "url": "https://www.toutiao.com/trending/7663919447194845220/",
           "source": "今日头条",
@@ -68,16 +92,15 @@
           "time_info": "[13时52分 ~ 13时53分]"
         },
         {
-          "title": "大乌龙!印度狠罚比亚迪6.3亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
-          "source": "贴吧",
+          "title": "5个关键词 一文读懂中国经济半年报",
+          "url": "https://www.baidu.com/s?wd=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时17分]"
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 18时07分]"
         },
         {
           "title": "美伊战火越烧越旺，海湾国家能否成为降温力量？",
@@ -90,28 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 07时54分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 16时17分]"
-        },
-        {
-          "title": "5个关键词 一文读懂中国经济半年报",
-          "url": "https://www.baidu.com/s?wd=5%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D+%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "据沙特国家电视台：欧盟和海湾国家呼吁伊朗无条件、免费永久开放霍尔木兹海峡。",
@@ -153,13 +154,24 @@
           "time_info": "[04时47分 ~ 07时54分]"
         },
         {
+          "title": "平成奥特曼战力解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E6%88%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%88%98%E5%8A%9B%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果",
           "url": "https://flash.jin10.com/detail/20260719152301120800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -209,6 +221,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。",
           "url": "https://flash.jin10.com/detail/20260718230600966800",
           "source": "金十数据",
@@ -226,9 +249,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "江淮汽车：截至7月17日已累计回购股份154.67万股",
+          "url": "https://flash.jin10.com/detail/20260719165119013800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "心言集团首款家庭主动智能陪伴机器人巴布亮相世界人工智能大会",
@@ -237,7 +271,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
