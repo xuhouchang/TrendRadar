@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-19T22:39:47.647625+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-07-19T23:59:14.911722+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时52分 ~ 23时59分]"
+        },
         {
           "title": "大乌龙!印度狠罚比亚迪6.3亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
@@ -17,24 +31,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 22时39分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 22时39分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 23时59分]"
         },
         {
           "title": "英国海上贸易行动办公室（UKMTO）：已收到一份关于一艘商船与军事力量在阿曼杜库姆（Duqm）以东约100海里处发生事件的报告。 报告指出，该油轮是在该地区持续军事活动中遭到拦截（或发生接触）的。",
@@ -182,6 +184,19 @@
           "time_info": "[04时47分 ~ 07时54分]"
         },
         {
+          "title": "72岁刘德凯在昆明保养车被偶遇",
+          "url": "https://www.toutiao.com/trending/7663716013896515627/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时16分 ~ 23时59分]"
+        },
+        {
           "title": "马斯克宣称要赶超Kimi",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -200,11 +215,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时59分]"
         },
         {
           "title": "平成奥特曼战力解析",
@@ -234,23 +250,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时39分]"
-        },
-        {
-          "title": "72岁刘德凯在昆明保养车被偶遇",
-          "url": "https://www.toutiao.com/trending/7663716013896515627/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            12
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时16分 ~ 22时39分]"
+          "time_info": "[21时17分 ~ 23时59分]"
         },
         {
           "title": "为什么杭州湾和珠三角都建大桥了，可是渤海湾却没有建大桥?",
@@ -287,13 +292,24 @@
           "time_info": "[21时16分 ~ 21时17分]"
         },
         {
+          "title": "邓亚萍祝贺蒯曼覃予萱获全锦赛冠军",
+          "url": "https://www.toutiao.com/trending/7664231712460639750/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "林诗栋蒯曼全锦赛混双夺冠",
           "url": "https://www.baidu.com/s?wd=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E5%85%A8%E9%94%A6%E8%B5%9B%E6%B7%B7%E5%8F%8C%E5%A4%BA%E5%86%A0",
           "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -340,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
+        },
+        {
+          "title": "美的集团：截至7月17日累计回购A股股份数量为8433.94万股",
+          "url": "https://flash.jin10.com/detail/20260719223655477800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
@@ -392,7 +419,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
