@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:33:14.999687+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-07-20T18:10:52.148172+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "林诗栋蒯曼获全锦赛混双冠军",
@@ -46,8 +46,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 14时33分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 18时10分]"
         },
         {
           "title": "大乌龙!印度狠罚比亚迪6.3亿",
@@ -73,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 18时10分]"
         },
         {
           "title": "72岁刘德凯在昆明保养车被偶遇",
@@ -99,9 +99,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "中国平安：坚定支持资本市场发展",
+          "url": "https://wallstreetcn.com/livenews/3136782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "据阿拉伯卫星电视台：阿曼与约旦外长强调，有必要加大政治斡旋力度，以制止局势升级。阿曼与约旦外长警告，地区局势可能滑向更多对抗。",
@@ -115,6 +126,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 03时42分]"
+        },
+        {
+          "title": "中国建筑：控股股东中建集团拟增持公司A股股份5亿元-10亿元",
+          "url": "https://wallstreetcn.com/livenews/3136770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
@@ -153,6 +175,17 @@
           "time_info": "[01时02分 ~ 02时27分]"
         },
         {
+          "title": "招商证券：市场整体呈现“成长挤泡沫、价值稳底盘”的分化筑底格局",
+          "url": "https://flash.jin10.com/detail/20260720175941888800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "工信部：持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求",
           "url": "https://wallstreetcn.com/livenews/3136509",
           "source": "华尔街见闻-快讯",
@@ -175,6 +208,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "蒯曼双线作战一赛双冠",
           "url": "https://www.toutiao.com/trending/7663453235198148650/",
           "source": "今日头条",
@@ -192,7 +236,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -203,9 +247,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "上港集团：预计上半年净利润同比增长5.35%",
+          "url": "https://flash.jin10.com/detail/20260720174955123800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "A股电力板块再度走强，立新能源三连板，乐山电力2连板，涪陵电力涨停，九洲集团、南网科技、南网能源、西昌电力、广西能源跟涨。",
@@ -217,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "锐评墨子奥特曼联动皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "本田与广汽集团达成协议，将广汽本田合资公司的期限延长至2038年。",
@@ -236,7 +302,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         }
