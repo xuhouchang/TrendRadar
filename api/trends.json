@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T00:55:53.266788+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-21T02:53:10.837815+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国人保中国太保中国平安集体发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
         },
         {
           "title": "事关资本市场，中国人保、中国太保、中国平安、新华保险集体发声",
@@ -26,30 +26,78 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
+        },
+        {
+          "title": "现代汽车因无线充电技术遭专利侵权诉讼",
+          "url": "https://wallstreetcn.com/livenews/3137054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时53分"
         },
         {
           "title": "赛罗奥特曼掉出投票前10",
           "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
         },
         {
           "title": "王曼昱 乒超",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
+        },
+        {
+          "title": "锐评墨子奥特曼联动皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
+        },
+        {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时53分]"
+        },
+        {
+          "title": "市场消息：法国矿业和冶金公司埃赫曼与加蓬共和国签署谅解备忘录，共同开发锰产业价值链。",
+          "url": "https://flash.jin10.com/detail/20260721013704407800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时53分"
         },
         {
           "title": "雪佛龙关停墨西哥湾Petronius平台的石油生产",
@@ -63,26 +111,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "机器人断头反杀看乐马斯克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "贴吧",
+          "title": "花旗集团上调中国股市资产配置评级",
+          "url": "https://wallstreetcn.com/livenews/3137034",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "锐评墨子奥特曼联动皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "02时53分"
         },
         {
           "title": "雪佛龙(CVX.N)：该平台所有工作人员在海湾风暴来临前已转移至岸上。",
@@ -105,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：因热带低压影响关闭Petronius海上平台生产，并撤离部分海上人员，但其他墨西哥湾资产产量保持正常。",
+          "url": "https://flash.jin10.com/detail/20260721011101647800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "恒大汽车：独立非执行董事谢武辞任",
