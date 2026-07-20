@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T04:21:27.772377+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-21T05:43:34.332589+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国人保中国太保中国平安集体发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
         },
         {
           "title": "事关资本市场，中国人保、中国太保、中国平安、新华保险集体发声",
@@ -26,8 +26,104 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
+        },
+        {
+          "title": "沙特主导联军：正采取必要军事行动确保曼德海峡航运安全",
+          "url": "https://flash.jin10.com/detail/20260721053119145800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
+          "url": "https://flash.jin10.com/detail/20260721051526286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "赛罗奥特曼掉出投票前10",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
+        },
+        {
+          "title": "王曼昱 乒超",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            29,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
+        },
+        {
+          "title": "锐评墨子奥特曼联动皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
+        },
+        {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时43分]"
+        },
+        {
+          "title": "白宫：美国将对相关商品加征额外关税，以抵消加拿大在乳制品贸易方面和汽车贸易方面对美国商业实施的歧视性措施。",
+          "url": "https://flash.jin10.com/detail/20260721050555475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "白宫：美国将对加拿大部分产品加征50%额外关税，该措施将于美东时间2026年8月19日起生效。",
+          "url": "https://flash.jin10.com/detail/20260721050349303800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。",
@@ -36,7 +132,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -47,18 +143,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "周一（7月20日）纽约尾盘，彭博电动汽车价格回报指数跌0.47%，报3290.09点。",
-          "url": "https://wallstreetcn.com/livenews/3137068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -75,54 +160,16 @@
           "time_info": "[02时53分 ~ 04时21分]"
         },
         {
-          "title": "赛罗奥特曼掉出投票前10",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
-          "source": "bilibili 热搜",
+          "title": "周一（7月20日）纽约尾盘，彭博电动汽车价格回报指数跌0.47%，报3290.09点。",
+          "url": "https://wallstreetcn.com/livenews/3137068",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            16
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
-        },
-        {
-          "title": "王曼昱 乒超",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
-        },
-        {
-          "title": "锐评墨子奥特曼联动皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
-        },
-        {
-          "title": "机器人断头反杀看乐马斯克",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时21分]"
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时43分]"
         },
         {
           "title": "市场消息：法国矿业和冶金公司埃赫曼与加蓬共和国签署谅解备忘录，共同开发锰产业价值链。",
@@ -136,6 +183,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "雪佛龙关停墨西哥湾Petronius平台的石油生产",
           "url": "https://wallstreetcn.com/livenews/3137008",
           "source": "华尔街见闻-快讯",
@@ -145,6 +203,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "沙特领导的也门联军表示，将保障其商业船只在曼德海峡的航行安全。",
+          "url": "https://flash.jin10.com/detail/20260721042112709800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "美国中央司令部：美东时间周一下午4时，美军对伊朗发动新一轮打击。此次行动旨在进一步削弱伊朗用于攻击霍尔木兹海峡商业船只的军事能力。",
+          "url": "https://flash.jin10.com/detail/20260721041724576800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "花旗集团上调中国股市资产配置评级",
@@ -189,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3137072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         },
         {
           "title": "恒大汽车：独立非执行董事谢武辞任",
