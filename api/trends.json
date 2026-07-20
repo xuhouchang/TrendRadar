@@ -1,110 +1,12 @@
 {
-  "generated_at": "2026-07-20T23:11:52.314513+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-07-21T00:55:53.266788+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 35,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "林诗栋蒯曼获全锦赛混双冠军",
-          "url": "https://www.douyin.com/hot/2577561",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            9,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 14时33分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时52分]"
-        },
-        {
-          "title": "赛罗奥特曼掉出投票前10",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18,
-            13,
-            15,
-            17,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 23时11分]"
-        },
-        {
-          "title": "大乌龙!印度狠罚比亚迪6.3亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356303&amp;topic_name=%E5%A4%A7%E4%B9%8C%E9%BE%99%21%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%BD%9A%E6%AF%94%E4%BA%9A%E8%BF%AA6.3%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 14时33分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 18时10分]"
-        },
-        {
-          "title": "72岁刘德凯在昆明保养车被偶遇",
-          "url": "https://www.toutiao.com/trending/7663716013896515627/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            16,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时57分]"
-        },
-        {
-          "title": "事关资本市场，中国人保、中国太保、中国平安、新华保险集体发声",
-          "url": "https://www.cls.cn/detail/2431498",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 23时11分]"
-        },
         {
           "title": "中国人保中国太保中国平安集体发声",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E4%B8%AD%E5%9B%BD%E5%A4%AA%E4%BF%9D%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0",
@@ -112,315 +14,108 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时11分"
+          "time_info": "00时55分"
         },
         {
-          "title": "新能源汽车维修作业安全国标8月施行",
-          "url": "https://flash.jin10.com/detail/20260720143025729800",
-          "source": "金十数据",
+          "title": "事关资本市场，中国人保、中国太保、中国平安、新华保险集体发声",
+          "url": "https://www.cls.cn/detail/2431498",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "00时55分"
         },
         {
-          "title": "淘天集团正式发布AIGX四项重磅成果",
-          "url": "https://flash.jin10.com/detail/20260720200533725800",
-          "source": "金十数据",
+          "title": "赛罗奥特曼掉出投票前10",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E7%BD%97%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8E%89%E5%87%BA%E6%8A%95%E7%A5%A8%E5%89%8D10",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "中国平安：坚定支持资本市场发展",
-          "url": "https://wallstreetcn.com/livenews/3136782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "三环集团：拟以4.5亿元-9亿元回购公司股份",
-          "url": "https://wallstreetcn.com/livenews/3136899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "三环集团公告，拟以4.5亿元-9亿元回购公司A股股份，回购价格不超过135元/股。",
-          "url": "https://flash.jin10.com/detail/20260720200238555800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "00时55分"
         },
         {
           "title": "王曼昱 乒超",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85&t=31&band_rank=8&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "据阿拉伯卫星电视台：阿曼与约旦外长强调，有必要加大政治斡旋力度，以制止局势升级。阿曼与约旦外长警告，地区局势可能滑向更多对抗。",
-          "url": "https://flash.jin10.com/detail/20260720005050797800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18,
-            24
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时42分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
-          "title": "中国建筑：控股股东中建集团拟增持公司A股股份5亿元-10亿元",
-          "url": "https://wallstreetcn.com/livenews/3136770",
+          "title": "雪佛龙关停墨西哥湾Petronius平台的石油生产",
+          "url": "https://wallstreetcn.com/livenews/3137008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "覃予萱蒯曼获全锦赛女双冠军",
-          "url": "https://www.douyin.com/hot/2577670",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
-          "url": "https://flash.jin10.com/detail/20260720012242848800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时47分]"
+          "time_info": "00时55分"
         },
         {
           "title": "机器人断头反杀看乐马斯克",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
           "source": "贴吧",
           "ranks": [
-            16,
-            17,
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "锐评墨子奥特曼联动皮肤",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%A2%A8%E5%AD%90%E5%A5%A5%E7%89%B9%E6%9B%BC%E8%81%94%E5%8A%A8%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            26,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 23时11分]"
-        },
-        {
-          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
-          "url": "https://wallstreetcn.com/livenews/3136285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时42分]"
-        },
-        {
-          "title": "国家管网集团天津LNG接收站迎来投产第500船",
-          "url": "https://wallstreetcn.com/livenews/3136279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时27分]"
-        },
-        {
-          "title": "恒大汽车：谢武辞任独立非执行董事。",
-          "url": "https://flash.jin10.com/detail/20260720225149664800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "招商证券：市场整体呈现“成长挤泡沫、价值稳底盘”的分化筑底格局",
-          "url": "https://flash.jin10.com/detail/20260720175941888800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "工信部：持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求",
-          "url": "https://wallstreetcn.com/livenews/3136509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "工信部：持续实施新一轮机械、汽车、电力装备等行业稳增长工作方案，全方位扩大优质供给和有效需求",
-          "url": "https://flash.jin10.com/detail/20260720103215458800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "三花智控：控股股东三花控股集团提议以2亿元-4亿元回购公司A股股份",
-          "url": "https://wallstreetcn.com/livenews/3136881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "蒯曼双线作战一赛双冠",
-          "url": "https://www.toutiao.com/trending/7663453235198148650/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "海湾基石石油公司：鉴于地区安全局势变化，作为安全防范措施，已暂时停产。公司资产未受影响，沙伊坎油田最新日产量已超过4.5万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260720140504537800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "00时55分"
         },
         {
-          "title": "A股保险板块午后持续走高，中国太保涨超6%，中国平安、中国人保、中国人寿、新华保险跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3136603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "上港集团：预计上半年净利润同比增长5.35%",
-          "url": "https://flash.jin10.com/detail/20260720174955123800",
+          "title": "雪佛龙(CVX.N)：该平台所有工作人员在海湾风暴来临前已转移至岸上。",
+          "url": "https://flash.jin10.com/detail/20260720233343435800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "00时55分"
         },
         {
-          "title": "A股电力板块再度走强，立新能源三连板，乐山电力2连板，涪陵电力涨停，九洲集团、南网科技、南网能源、西昌电力、广西能源跟涨。",
-          "url": "https://flash.jin10.com/detail/20260720102826295800",
+          "title": "雪佛龙(CVX.N)：已关闭位于墨西哥湾的Petronius平台的石油生产。",
+          "url": "https://flash.jin10.com/detail/20260720233327570800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "00时55分"
         },
         {
-          "title": "三星生物以18亿美元全现金报价收购瑞士PolyPeptide集团",
-          "url": "https://wallstreetcn.com/livenews/3136949",
+          "title": "恒大汽车：独立非执行董事谢武辞任",
+          "url": "https://wallstreetcn.com/livenews/3136996",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "本田与广汽集团达成协议，将广汽本田合资公司的期限延长至2038年。",
-          "url": "https://wallstreetcn.com/livenews/3136479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "公司西班牙工厂项目是否取消？森麒麟回应",
-          "url": "https://wallstreetcn.com/livenews/3136583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "00时55分"
         }
       ]
     }
