@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:28:26.182251+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-22T07:31:21.198963+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,33 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
-          "url": "https://flash.jin10.com/detail/20260722062026177800",
-          "source": "金十数据",
+          "title": "现代电动汽车变“移动充电宝”",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            1
+            10,
+            17,
+            27,
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 07时31分]"
+        },
+        {
+          "title": "比亚迪到底在电池里装了什么",
+          "url": "https://www.toutiao.com/trending/7664821144687640602/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            29,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 07时31分]"
         },
         {
           "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
@@ -30,31 +48,16 @@
           "time_info": "04时01分"
         },
         {
-          "title": "现代电动汽车变“移动充电宝”",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
-          "source": "百度热搜",
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            17,
-            27,
-            29
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时28分]"
-        },
-        {
-          "title": "比亚迪到底在电池里装了什么",
-          "url": "https://www.toutiao.com/trending/7664821144687640602/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            29,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 06时28分]"
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时31分]"
         },
         {
           "title": "瑞银集团：上调标普500指数2026年年底目标至8100点。",
@@ -99,7 +102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
