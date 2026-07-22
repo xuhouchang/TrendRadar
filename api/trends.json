@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-23T04:12:21.053868+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-23T05:38:12.820490+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "在家复刻价值138元的米其林鱼丸",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%AE%B6%E5%A4%8D%E5%88%BB%E4%BB%B7%E5%80%BC138%E5%85%83%E7%9A%84%E7%B1%B3%E5%85%B6%E6%9E%97%E9%B1%BC%E4%B8%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            15,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时38分]"
+        },
+        {
+          "title": "马斯克母亲吐槽纽约脏乱差",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时38分]"
+        },
         {
           "title": "海湾合作委员会秘书长：伊朗的行为破坏了国际上努力实现稳定的行动。呼吁联合国安理会和国际社会制止伊朗的侵略和攻击。",
           "url": "https://flash.jin10.com/detail/20260723004714905800",
@@ -25,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -36,33 +61,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "在家复刻价值138元的米其林鱼丸",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%AE%B6%E5%A4%8D%E5%88%BB%E4%BB%B7%E5%80%BC138%E5%85%83%E7%9A%84%E7%B1%B3%E5%85%B6%E6%9E%97%E9%B1%BC%E4%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时12分]"
-        },
-        {
-          "title": "马斯克母亲吐槽纽约脏乱差",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时12分]"
         },
         {
           "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
@@ -76,15 +77,27 @@
           "time_info": "02时42分"
         },
         {
+          "title": "特斯拉二季度利润远逊预期，成本攀升拖累业绩",
+          "url": "https://wallstreetcn.com/livenews/3138412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX跌超6.1%，刷新日低，此前一度涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3138383",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 05时38分]"
         },
         {
           "title": "雷军称澎程首保后整车 3 年或增程器 3 万公里才需保养，这个保养逻辑合理吗？会改变你的购车选择吗？",
@@ -104,9 +117,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "德州仪器：汽车业务在二季度加速。",
+          "url": "https://wallstreetcn.com/livenews/3138403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "铜业巨头墨西哥集团高管：银钟铜矿扩建项目和雷伊铜矿选矿厂扩建项目将不会受到关税影响。",
@@ -120,15 +144,81 @@
           "time_info": "02时42分"
         },
         {
+          "title": "特斯拉：在上半年将美国得州工厂的本地算力规模翻了一倍多。 电池包产能仍然是限制性因素。 公司正设法提高电池包的产能。",
+          "url": "https://wallstreetcn.com/livenews/3138397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "特斯拉：预计美国Fremont工厂的人形机器人Optimus将于今年稍晚投产。 半拖车与Megapack 3仍然按生产进度推进。",
+          "url": "https://wallstreetcn.com/livenews/3138398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "特斯拉第二季度营收超预期但盈利不及预期",
+          "url": "https://flash.jin10.com/detail/20260723042148270800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度汽车营收205.2亿美元，分析师预期186.8亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。 二季度毛利润率16.8%，分析师预期19.4%。 二季度运营利润3.98亿美元，分析师预期13.9亿美元。 二季度自由现金流（FCF）为负10.9亿美元（-10.9亿美元），分析师预期-36.4亿美元。 特斯拉美股盘后跌2.41%，暂报365.00美元。",
+          "url": "https://wallstreetcn.com/livenews/3138393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：我们的能源储存业务恢复增长。",
+          "url": "https://flash.jin10.com/detail/20260723040954190800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
           "url": "https://wallstreetcn.com/livenews/3138365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.80%，报6180.98点。 热门中概股里，网易初步收跌6.6%，%腾讯跌6%，小鹏、B站、贝壳、金山云跌超3%，携程跌2.5%，阿里跌1.4%，华住、世纪互联、大全新能源至少涨超1%。 ETF中，中概互联网指数ETF（KWEB）收跌2.15%，中国科技指数ETF（CQQQ）收跌1.72%。 XtrackersHarvest中证50（ASHS）收跌0.60%，MSCI新兴市场ex中国ETF（EMXC）收跌0.41%，德银嘉实沪深300指数ETF（ASHR）收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3138388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     }
