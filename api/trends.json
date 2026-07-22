@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-22T07:31:21.198963+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-07-22T09:01:35.887678+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "比亚迪到底在电池里装了什么",
+          "url": "https://www.toutiao.com/trending/7664821144687640602/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            29,
+            7,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时01分 ~ 09时01分]"
+        },
         {
           "title": "现代电动汽车变“移动充电宝”",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
@@ -23,20 +38,6 @@
           "time_info": "[00时55分 ~ 07时31分]"
         },
         {
-          "title": "比亚迪到底在电池里装了什么",
-          "url": "https://www.toutiao.com/trending/7664821144687640602/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            29,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时01分 ~ 07时31分]"
-        },
-        {
           "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
           "url": "https://wallstreetcn.com/livenews/3137738",
           "source": "华尔街见闻-快讯",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "澳大利亚6月西太平洋领先指标环比 0.04%，前值 -0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3137822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -70,6 +82,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时21分]"
+        },
+        {
+          "title": "笔记本电脑出问题去售后被要求更换主板，最后发现只是某一个电子元件损坏了，为什么他们都是换件而不维修呢？",
+          "url": "https://www.zhihu.com/question/2052832195203560632",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。",
@@ -105,6 +128,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "澳大利亚6月西太平洋领先指标月率 0.04%，前值-0.04%。",
+          "url": "https://flash.jin10.com/detail/20260722083054881800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本芯片概念股上涨，铠侠股价上涨8.5%，罗姆半导体上涨4.3%，软银集团上涨3.4%。",
+          "url": "https://flash.jin10.com/detail/20260722081803791800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
