@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:56:58.408791+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-07-24T08:01:52.888108+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国汽车加速全球化布局",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 08时01分]"
         },
         {
           "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
@@ -28,31 +28,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 08时01分]"
         },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
           "url": "https://wallstreetcn.com/articles/3777724",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时56分]"
-        },
-        {
-          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 08时01分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -62,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 08时01分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
@@ -76,8 +65,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 08时01分]"
+        },
+        {
+          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 05时36分]"
         },
         {
           "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
@@ -113,9 +114,24 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时01分]"
+        },
+        {
+          "title": "上海地产集团8比5米粒乒乓球特长生",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A28%E6%AF%945%E7%B1%B3%E7%B2%92%E4%B9%92%E4%B9%93%E7%90%83%E7%89%B9%E9%95%BF%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时46分 ~ 08时01分]"
         },
         {
           "title": "美国启动车门安全制度的制定工作，特斯拉已经发生多起相关的死亡事故。",
@@ -129,18 +145,38 @@
           "time_info": "01时36分"
         },
         {
-          "title": "上海地产集团8比5米粒乒乓球特长生",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A28%E6%AF%945%E7%B1%B3%E7%B2%92%E4%B9%92%E4%B9%93%E7%90%83%E7%89%B9%E9%95%BF%E7%94%9F",
-          "source": "百度热搜",
+          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
+          "url": "https://wallstreetcn.com/articles/3777778",
+          "source": "华尔街见闻",
           "ranks": [
-            30,
-            13,
-            14,
-            16
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时46分 ~ 06时56分]"
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时01分]"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "今年上半年中国汽车出口超6000亿元，同比增长48.3%",
+          "url": "https://wallstreetcn.com/livenews/3139118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "马斯克：Grok 4.5现已在所有平台上线。",
@@ -165,6 +201,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "韩国最贵离婚案今日判决，SK集团控制权与巨额财富分配受关注",
+          "url": "https://flash.jin10.com/detail/20260724071813635800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。 SpaceX一度涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/3139048",
           "source": "华尔街见闻-快讯",
@@ -177,15 +224,16 @@
           "time_info": "[04时12分 ~ 05时36分]"
         },
         {
-          "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
-          "url": "https://wallstreetcn.com/articles/3777778",
-          "source": "华尔街见闻",
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时01分]"
         },
         {
           "title": "美国高级官员：在途货物的相关关税措施将于美东时间7月28日凌晨12:01（北京时间7月28日中午12:01）生效。",
@@ -247,15 +295,26 @@
           "time_info": "04时12分"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
+          "title": "今年上半年我国汽车出口超6000亿元 同比增长48.3%",
+          "url": "https://flash.jin10.com/detail/20260724071315653800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
@@ -297,7 +356,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
