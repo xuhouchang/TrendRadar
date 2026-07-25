@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T00:04:38.668484+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-26T01:32:01.260394+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -26,52 +26,67 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
         },
         {
           "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
           "url": "https://wallstreetcn.com/articles/3777914",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
+        },
+        {
+          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260726010043722800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时32分"
         },
         {
           "title": "扛不住!峰学蔚来接班人住院",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
           "url": "https://www.toutiao.com/trending/7666381434109578761/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时32分]"
         }
       ]
     }
