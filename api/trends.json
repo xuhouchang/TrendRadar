@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:24:51.144007+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-07-25T22:47:45.892675+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 22时47分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 21时24分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 22时47分]"
         },
         {
           "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 22时47分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -62,6 +62,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 08时04分]"
+        },
+        {
+          "title": "扛不住!峰学蔚来接班人住院",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时49分 ~ 22时47分]"
         },
         {
           "title": "公安部：反诈联盟即将成立，已彻底摧毁缅北果敢“四大家族”犯罪集团",
@@ -97,20 +112,6 @@
             3,
             2,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 21时24分]"
-        },
-        {
-          "title": "扛不住!峰学蔚来接班人住院",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            6,
-            7,
-            8
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -178,11 +179,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时47分]"
         },
         {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
@@ -275,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 08时04分]"
+        },
+        {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时47分]"
         },
         {
           "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
@@ -389,17 +403,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 08时04分]"
-        },
-        {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。",
@@ -605,6 +608,18 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
+          "title": "A股史上最大回购！宁德时代拟回购200亿−400亿元股份用于注销，上半年净利增四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654589",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时47分]"
+        },
+        {
           "title": "小鹏人形机器人已试生产",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E8%AF%95%E7%94%9F%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -768,17 +783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "A股史上最大回购！宁德时代拟回购200亿−400亿元股份用于注销，上半年净利增四成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654589",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "马斯克旗下的隧道企业“无聊公司”（The Boring Company）拟在新一轮融资中寻求200亿美元的估值。（华尔街日报）",
