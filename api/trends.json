@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:32:01.260394+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-07-26T02:34:25.332911+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         },
         {
           "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -50,19 +50,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
           "url": "https://flash.jin10.com/detail/20260726010043722800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时34分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         },
         {
           "title": "扛不住!峰学蔚来接班人住院",
@@ -73,20 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时34分]"
         }
       ]
     }
