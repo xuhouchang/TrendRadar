@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T22:09:33.694105+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-07-26T23:39:21.044401+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 22时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 23时39分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -53,8 +53,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时05分 ~ 22时09分]"
+          "appearance_count": 8,
+          "time_info": "[14时05分 ~ 23时39分]"
+        },
+        {
+          "title": "宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读？",
+          "url": "https://www.zhihu.com/question/2064123998942901167",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            15,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 23时39分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -84,26 +99,12 @@
             19,
             20,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 22时09分]"
-        },
-        {
-          "title": "宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读？",
-          "url": "https://www.zhihu.com/question/2064123998942901167",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            15,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 22时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 23时39分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -160,6 +161,18 @@
           "time_info": "[06时27分 ~ 07时33分]"
         },
         {
+          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3139854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时39分]"
+        },
+        {
           "title": "中东股市收盘播报｜周日（7月26日），阿曼MSM 30指数收涨0.15%，报7127.88点。 卡塔尔证交所指数收跌0.29%，报10003.67点。 科威特证交所超级市场价格回报指数收涨0.57%，报9123.98点。",
           "url": "https://wallstreetcn.com/livenews/3139834",
           "source": "华尔街见闻-快讯",
@@ -196,15 +209,17 @@
           "time_info": "[01时32分 ~ 04时11分]"
         },
         {
-          "title": "宁德时代：587Ah储能大电芯已规模化交付",
-          "url": "https://flash.jin10.com/detail/20260726213559391800",
-          "source": "金十数据",
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
           "ranks": [
-            3
+            12,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 23时39分]"
         },
         {
           "title": "伊朗阿曼多轮磋商霍尔木兹海峡问题",
@@ -218,15 +233,26 @@
           "time_info": "14时06分"
         },
         {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
+          "title": "据CBS新闻援引消息人士报道，美国已暂停对伊朗的轰炸，因阿曼官员周五前往德黑兰进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260726230732779800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时39分"
+        },
+        {
+          "title": "德国内政部长：柏林汽车撞人事件疑似恐怖袭击",
+          "url": "https://flash.jin10.com/detail/20260726230106866800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
@@ -284,6 +310,17 @@
           "time_info": "14时06分"
         },
         {
+          "title": "美国国家飓风中心：福斯托（Fausto）正在逐渐减弱，本周夏威夷部分地区预计将出现显著海浪。",
+          "url": "https://flash.jin10.com/detail/20260726224604095800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国国家飓风中心：“Fausto”继续向西移动，预计周日凌晨进入中太平洋。“Genevieve”已接近飓风强度，预计下周初将增强为强飓风。",
           "url": "https://flash.jin10.com/detail/20260726043541129800",
           "source": "金十数据",
@@ -297,16 +334,28 @@
           "time_info": "[05时25分 ~ 07时33分]"
         },
         {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
+          "title": "宁德时代：587Ah储能大电芯已规模化交付",
+          "url": "https://flash.jin10.com/detail/20260726213559391800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            7
+            3,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 22时09分]"
+          "time_info": "[22时09分 ~ 23时39分]"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时39分]"
         },
         {
           "title": "据俄新社：俄航天集团公司的直播画面显示，载有俄罗斯和美国宇航员的“联盟MS-28”号飞船在哈萨克斯坦着陆。",
@@ -319,6 +368,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时03分 ~ 22时09分]"
+        },
+        {
+          "title": "甘肃景区山洪冲走多辆汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%99%AF%E5%8C%BA%E5%B1%B1%E6%B4%AA%E5%86%B2%E8%B5%B0%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时39分]"
         },
         {
           "title": "美国国家飓风中心：福斯托（Fausto）在进入中太平洋盆地时略微减弱。",
@@ -344,6 +405,18 @@
           "time_info": "[18时45分 ~ 18时46分]"
         },
         {
+          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
+          "url": "https://wallstreetcn.com/livenews/3139835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时39分]"
+        },
+        {
           "title": "特斯拉三代 Optimus 初步定型，Optimus 量产对全球人形机器人产业有何影响？",
           "url": "https://www.zhihu.com/question/2058635266215227709",
           "source": "知乎",
@@ -355,15 +428,16 @@
           "time_info": "[14时05分 ~ 14时06分]"
         },
         {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            27,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时39分]"
         },
         {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
@@ -416,31 +490,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
         {
-          "title": "甘肃景区山洪冲走多辆汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%99%AF%E5%8C%BA%E5%B1%B1%E6%B4%AA%E5%86%B2%E8%B5%B0%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "日本大妈网恋“马斯克”被骗70万日元",
+          "url": "https://www.toutiao.com/trending/7666708739600646154/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
-          "url": "https://wallstreetcn.com/livenews/3139835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时39分"
         },
         {
           "title": "柏林汽车冲撞行人事件已致1死16伤 警方通缉21岁嫌疑人",
@@ -452,17 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
         },
         {
           "title": "特斯拉人形机器人",
