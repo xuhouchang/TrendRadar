@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T05:39:30.812149+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-07-28T07:01:52.168816+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "长鑫上市首日雷军浮盈7个多亿",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "曼德海峡油轮遇袭正重塑油市 绕行将进一步收紧成品油市场",
@@ -51,6 +52,33 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "迪奥曼德加盟皇马",
+          "url": "https://www.douyin.com/hot/2586500",
+          "source": "抖音",
+          "ranks": [
+            17,
+            11,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时01分]"
+        },
+        {
+          "title": "饭店老板撞脸马斯克爆火",
+          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "据华尔街日报：福特汽车(F.N)加入竞逐美国下一代陆军卡车项目的竞争。",
@@ -135,30 +163,17 @@
           "time_info": "[04时22分 ~ 05时39分]"
         },
         {
-          "title": "迪奥曼德加盟皇马",
-          "url": "https://www.douyin.com/hot/2586500",
-          "source": "抖音",
+          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+          "url": "https://www.cls.cn/detail/2437832",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            11,
-            19
+            13,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时39分]"
-        },
-        {
-          "title": "饭店老板撞脸马斯克爆火",
-          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时39分]"
+          "time_info": "[02时56分 ~ 07时01分]"
         },
         {
           "title": "LVMH集团：二季度迪奥有机销售增速略微高于部门均值。",
@@ -171,19 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时56分]"
-        },
-        {
-          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-          "url": "https://www.cls.cn/detail/2437832",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时39分]"
         },
         {
           "title": "费曼是一位怎么样的人呢？",
@@ -226,7 +228,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -237,7 +239,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -275,6 +277,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "SpaceX蒸发的市值相当于一个特斯拉",
+          "url": "https://flash.jin10.com/detail/20260728054612999800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美国总统特朗普：有理由善待通用汽车。",
           "url": "https://wallstreetcn.com/livenews/3140470",
           "source": "华尔街见闻-快讯",
@@ -284,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国芝加哥商业交易所集团（CME Group Inc.）董事总经理兼全球贵金属业务负责人Jin Hennig：“尽管波动率较低，但我们在首个周末迎来了非常强劲的成交量。” 芝商所的参与者构成与其现有的1盎司黄金客户群相似，需求继续主要来自散户投资者。交易活动在地域上分布广泛，芝商所的金属交易通常约有半数来自美国时区以外。 Hennig交易所目前没有计划将全天候交易扩展到其他贵金属合约或规模更大的黄金期货，尽管如果客户需求出现，他们会考虑这样做。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3140528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "蔚来1.58亿元战略入股长鑫科技",
