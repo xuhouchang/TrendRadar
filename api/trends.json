@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T20:23:38.361889+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-07-27T23:24:43.668556+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
@@ -57,6 +57,19 @@
           "time_info": "[01时01分 ~ 07时29分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 23时24分]"
+        },
+        {
           "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
           "url": "https://www.cls.cn/detail/2437313",
           "source": "财联社热门",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 07时29分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 20时23分]"
         },
         {
           "title": "扛不住!峰学蔚来接班人住院",
@@ -119,6 +119,18 @@
           "time_info": "[13时11分 ~ 16时55分]"
         },
         {
+          "title": "曼德海峡油轮遇袭正重塑油市 绕行将进一步收紧成品油市场",
+          "url": "https://www.cls.cn/detail/2437716",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时24分]"
+        },
+        {
           "title": "国机集团与国轩高科座谈交流",
           "url": "https://flash.jin10.com/detail/20260727124819429800",
           "source": "金十数据",
@@ -140,17 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时02分]"
-        },
-        {
-          "title": "曼德海峡油轮遇袭正重塑油市 绕行将进一步收紧成品油市场",
-          "url": "https://www.cls.cn/detail/2437716",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时23分"
         },
         {
           "title": "曝皇马签下迪奥曼德",
@@ -181,7 +182,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -255,9 +256,32 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "大众汽车否认呼吁欧盟对中国混动汽车加征关税",
+          "url": "https://flash.jin10.com/detail/20260727225608934800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
+          "url": "https://www.zhihu.com/question/2024602270579323820",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 23时24分]"
         },
         {
           "title": "The Exploration Company GmbH洽谈从欧盟Scaleup Europe Fund融资至少3亿美元，使得公司估值超过20亿美元。（英国金融时报）",
@@ -278,7 +302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -300,9 +324,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "迪奥曼德加盟皇马",
+          "url": "https://www.douyin.com/hot/2586500",
+          "source": "抖音",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 23时24分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -328,15 +364,16 @@
           "time_info": "[01时01分 ~ 02时09分]"
         },
         {
-          "title": "迪奥曼德加盟皇马",
-          "url": "https://www.douyin.com/hot/2586500",
+          "title": "雷军称SUV做纯平地板很难",
+          "url": "https://www.douyin.com/hot/2586890",
           "source": "抖音",
           "ranks": [
-            12
+            16,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时54分 ~ 20时23分]"
+          "time_info": "[16时54分 ~ 23时24分]"
         },
         {
           "title": "海湾国家发债需求旺盛，加速摆脱霍尔木兹海峡",
@@ -351,24 +388,13 @@
           "time_info": "[01时01分 ~ 02时09分]"
         },
         {
-          "title": "雷军称SUV做纯平地板很难",
-          "url": "https://www.douyin.com/hot/2586890",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
-        },
-        {
           "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
           "url": "https://www.cls.cn/detail/2437832",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -395,15 +421,15 @@
           "time_info": "13时11分"
         },
         {
-          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
-          "url": "https://www.zhihu.com/question/2024602270579323820",
-          "source": "知乎",
+          "title": "伊朗议会议员哈兹里安：从法律角度来看，阿曼无法在未与伊朗协调的情况下开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260727224406834800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "23时24分"
         },
         {
           "title": "为什么被称为「操控之王」的特斯拉赛道圈速成绩并不好？",
@@ -423,7 +449,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -489,7 +515,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
