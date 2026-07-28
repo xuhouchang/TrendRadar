@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:01:52.168816+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-07-28T08:57:08.036999+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "长鑫上市首日雷军浮盈7个多亿",
@@ -32,6 +32,19 @@
           "time_info": "[01时18分 ~ 07时01分]"
         },
         {
+          "title": "饭店老板撞脸马斯克爆火",
+          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 08时57分]"
+        },
+        {
           "title": "曼德海峡油轮遇袭正重塑油市 绕行将进一步收紧成品油市场",
           "url": "https://www.cls.cn/detail/2437716",
           "source": "财联社热门",
@@ -41,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时56分]"
+        },
+        {
+          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
+          "url": "https://www.cls.cn/detail/2438416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "交易商在芝加哥商品交易所集团推出全天候（24/7）黄金期货的首个周末带动了强劲需求。",
@@ -54,6 +78,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "作为缔约国，中国海警赴北太平洋公海执法",
+          "url": "https://news.ifeng.com/c/8v7VoXw4SrJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
           "title": "迪奥曼德加盟皇马",
           "url": "https://www.douyin.com/hot/2586500",
           "source": "抖音",
@@ -62,19 +97,6 @@
             11,
             19,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时01分]"
-        },
-        {
-          "title": "饭店老板撞脸马斯克爆火",
-          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -200,6 +222,17 @@
           "time_info": "[01时18分 ~ 04时22分]"
         },
         {
+          "title": "雷军打新长鑫科技浮盈7亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%887%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
           "title": "也门候任外交部长：与胡塞武装没有直接对话，阿曼在其中发挥了作用。胡塞武装因国际社会对其袭击航运缺乏严肃反应而变得更加大胆。",
           "url": "https://flash.jin10.com/detail/20260728033539881800",
           "source": "金十数据",
@@ -283,7 +316,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -305,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
