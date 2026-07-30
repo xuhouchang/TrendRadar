@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-30T08:55:31.643738+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-07-30T11:57:38.792100+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 08时55分]"
-        },
         {
           "title": "这次，马斯克都看不下去了",
           "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 08时55分]"
+        },
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 11时57分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -63,6 +64,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "曝马斯克拟斥巨资助力共和党中期选举",
+          "url": "https://www.toutiao.com/trending/7668126459894693942/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "美国能源部长Wright：过去一周，通过海湾地区输送石油1300万桶/日。 其中一半经由霍尔木兹海峡运输，另外一半通过管道运输。 战略石油储备（SPR）“还要很长时间”才会出现可运作的最低水平。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3141812",
           "source": "华尔街见闻-快讯",
@@ -74,13 +86,25 @@
           "time_info": "02时08分"
         },
         {
+          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+          "url": "https://www.zhihu.com/question/2065799308067041337",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 11时57分]"
+        },
+        {
           "title": "安徽省省长王清宪与中国电信集团总经理刘桂清举行工作会谈",
           "url": "https://wallstreetcn.com/livenews/3141997",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -109,16 +133,28 @@
           "time_info": "[03时53分 ~ 07时08分]"
         },
         {
-          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
-          "url": "https://www.zhihu.com/question/2065799308067041337",
-          "source": "知乎",
+          "title": "17岁小将爆冷击败世界冠军蒯曼",
+          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%8F%E5%B0%86%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            5
+            13,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时55分]"
+          "time_info": "[08时55分 ~ 11时57分]"
+        },
+        {
+          "title": "雷军晒小米机器人工作视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 11时57分]"
         },
         {
           "title": "比亚迪：公司正加紧提升产能",
@@ -132,6 +168,17 @@
           "time_info": "[02时07分 ~ 02时08分]"
         },
         {
+          "title": "据伊朗媒体报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
+          "url": "https://wallstreetcn.com/livenews/3142115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨14.7%，小米涨8.1%，理想涨4.6%，拼多多、腾讯涨3.2%，B站、小鹏涨超2%，网易涨1.8%，日月光半导体跌6.8%。 ETF中，KWEB初步收涨1.8%，CQQQ涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3141891",
           "source": "华尔街见闻-快讯",
@@ -143,26 +190,15 @@
           "time_info": "04时55分"
         },
         {
-          "title": "17岁小将爆冷击败世界冠军蒯曼",
-          "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%8F%E5%B0%86%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%92%AF%E6%9B%BC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "雷军晒小米机器人工作视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92%E5%B0%8F%E7%B1%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "马斯克“钞能力”重启！重金布局中期选举，特朗普的超级援军来了",
+          "url": "https://flash.jin10.com/detail/20260730111552578800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "11时57分"
         },
         {
           "title": "马斯克两个核心资产遭遇市场拷问",
@@ -174,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "报道称胡塞武装否认拟在曼德海峡征收过境费",
+          "url": "https://flash.jin10.com/detail/20260730111203990800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -196,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260730110613278800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "前美联储高级顾问乔恩·福斯特：认为美联储今日不会加息；同意FOMC副主席约翰·威廉姆斯的观点，即“通过刻意让市场意外来赚取信誉红利的可能性不会发挥作用”。",
