@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-30T11:57:38.792100+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-30T14:30:03.308002+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时30分]"
+        },
         {
           "title": "这次，马斯克都看不下去了",
           "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 08时55分]"
-        },
-        {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 11时57分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -53,6 +54,19 @@
           "time_info": "[00时52分 ~ 08时55分]"
         },
         {
+          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+          "url": "https://www.zhihu.com/question/2065799308067041337",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 14时30分]"
+        },
+        {
           "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
           "url": "https://wallstreetcn.com/livenews/3141905",
           "source": "华尔街见闻-快讯",
@@ -68,11 +82,12 @@
           "url": "https://www.toutiao.com/trending/7668126459894693942/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时30分]"
         },
         {
           "title": "美国能源部长Wright：过去一周，通过海湾地区输送石油1300万桶/日。 其中一半经由霍尔木兹海峡运输，另外一半通过管道运输。 战略石油储备（SPR）“还要很长时间”才会出现可运作的最低水平。（彭博电视）",
@@ -86,18 +101,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
-          "url": "https://www.zhihu.com/question/2065799308067041337",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 11时57分]"
-        },
-        {
           "title": "安徽省省长王清宪与中国电信集团总经理刘桂清举行工作会谈",
           "url": "https://wallstreetcn.com/livenews/3141997",
           "source": "华尔街见闻-快讯",
@@ -107,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "英美资源集团（Anglo American）上半年营收99.3亿美元，同比增长11%。 上半年调整后每股收益77美分，上年同期32美分，市场预估59美分。 上半年调整后利润6.18亿美元，上年同期1.75亿美元。 上半年调整后EBITDA40.0亿美元，同比增长35%。 预计2027年精简后投资组合资本支出约29亿美元，此前预期约30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "雷军感谢各地文旅支持",
@@ -157,6 +171,28 @@
           "time_info": "[08时55分 ~ 11时57分]"
         },
         {
+          "title": "小鹏X9趴窝 给车企上了一课",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FX9%E8%B6%B4%E7%AA%9D+%E7%BB%99%E8%BD%A6%E4%BC%81%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
+          "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
+          "url": "https://www.zhihu.com/question/2065751316211701463",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
           "title": "比亚迪：公司正加紧提升产能",
           "url": "https://www.toutiao.com/trending/7666921747123945481/",
           "source": "今日头条",
@@ -174,7 +210,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -190,13 +226,24 @@
           "time_info": "04时55分"
         },
         {
+          "title": "壳牌第二季度调整后利润98.4亿美元，市场预估86.8亿美元。 第二季度调整后每股收益1.76美元，市场预估1.55美元。 第二季度营收946.6亿美元，市场预估836.1亿美元。 第二季度营业现金流214.3亿美元，市场预估186.5亿美元。 壳牌计划进行30亿美元的新一轮股票回购，将在Q3业绩公布前完成。",
+          "url": "https://wallstreetcn.com/livenews/3142175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
           "title": "马斯克“钞能力”重启！重金布局中期选举，特朗普的超级援军来了",
           "url": "https://flash.jin10.com/detail/20260730111552578800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -218,7 +265,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -232,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "宝马汽车第二季度汽车业务息税前利润率2.3％，市场预估2.22％。 第二季度销售额312.6亿欧元，市场预估320.9亿欧元。 第二季度汽车部门营收271.6亿欧元，市场预估280亿欧元。 第二季度交付量590947辆，市场预估596062辆。 仍然预测全年汽车业务息税前利润率1％至3％，市场预估2.71％。",
+          "url": "https://wallstreetcn.com/livenews/3142167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "奥特曼 坠机之前摇一摇",
@@ -251,7 +309,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -276,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "壳牌(SHEL.N)：预计全年资本支出为240亿至260亿美元。",
+          "url": "https://flash.jin10.com/detail/20260730140617095800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         }
       ]
     }
