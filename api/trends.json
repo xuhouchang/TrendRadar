@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-02T01:00:03.781794+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T02:05:07.454603+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "我带哈兰葱看曼城香港行",
           "url": "https://www.douyin.com/hot/2593685",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "雷军说晚安被指营销",
@@ -26,19 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
-        },
-        {
-          "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
-          "url": "https://wallstreetcn.com/livenews/3143623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "新势力7月交付榜：零跑首破10万创行业纪录 蔚来小鹏企稳、理想连续三月同环比双降",
@@ -48,8 +38,41 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
+          "url": "https://wallstreetcn.com/livenews/3143623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
+          "time_info": "[01时00分 ~ 02时05分]"
+        },
+        {
+          "title": "热身三连胜！国米点球4-2曼城",
+          "url": "https://www.baidu.com/s?wd=%E7%83%AD%E8%BA%AB%E4%B8%89%E8%BF%9E%E8%83%9C%EF%BC%81%E5%9B%BD%E7%B1%B3%E7%82%B9%E7%90%834-2%E6%9B%BC%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "宁德时代与平陆运河集团签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3143614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时05分]"
         },
         {
           "title": "国米点球4:2曼城",
@@ -63,37 +86,26 @@
           "time_info": "[00时59分 ~ 01时00分]"
         },
         {
-          "title": "热身三连胜！国米点球4-2曼城",
-          "url": "https://www.baidu.com/s?wd=%E7%83%AD%E8%BA%AB%E4%B8%89%E8%BF%9E%E8%83%9C%EF%BC%81%E5%9B%BD%E7%B1%B3%E7%82%B9%E7%90%834-2%E6%9B%BC%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
-        },
-        {
-          "title": "宁德时代与平陆运河集团签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3143614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时00分"
-        },
-        {
           "title": "上汽集团公布最新销量数据：7月上汽集团整车销售33.9万辆，1-7月累计销售238.4万辆。",
           "url": "https://wallstreetcn.com/livenews/3143611",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 02时05分]"
+        },
+        {
+          "title": "比亚迪7月销售41.9万辆汽车",
+          "url": "https://www.toutiao.com/trending/7668443476165623850/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 02时05分]"
         },
         {
           "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
@@ -102,7 +114,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
         },
@@ -113,7 +125,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
         },
@@ -124,7 +136,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
         }
