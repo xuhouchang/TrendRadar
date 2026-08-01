@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T03:44:19.197936+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-08-02T04:52:54.927567+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -13,23 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时44分]"
-        },
-        {
-          "title": "雷军说晚安被指营销",
-          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时52分]"
         },
         {
           "title": "新势力7月交付榜：零跑首破10万创行业纪录 蔚来小鹏企稳、理想连续三月同环比双降",
@@ -39,8 +28,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时52分]"
+        },
+        {
+          "title": "雷军说晚安被指营销",
+          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时52分]"
         },
         {
           "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
@@ -50,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时52分]"
         },
         {
           "title": "热身三连胜！国米点球4-2曼城",
@@ -61,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时52分]"
         },
         {
           "title": "宁德时代与平陆运河集团签署战略合作协议",
@@ -72,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时52分]"
         },
         {
           "title": "上汽集团公布最新销量数据：7月上汽集团整车销售33.9万辆，1-7月累计销售238.4万辆。",
@@ -83,8 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时52分]"
         },
         {
           "title": "国米点球4:2曼城",
