@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:03:20.958625+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-08-02T22:09:05.016080+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,18 @@
           "time_info": "[01时00分 ~ 14时18分]"
         },
         {
+          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
+          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 22时09分]"
+        },
+        {
           "title": "热身三连胜！国米点球4-2曼城",
           "url": "https://www.baidu.com/s?wd=%E7%83%AD%E8%BA%AB%E4%B8%89%E8%BF%9E%E8%83%9C%EF%BC%81%E5%9B%BD%E7%B1%B3%E7%82%B9%E7%90%834-2%E6%9B%BC%E5%9F%8E",
           "source": "百度热搜",
@@ -78,16 +90,17 @@
           "time_info": "[00时59分 ~ 07时58分]"
         },
         {
-          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
-          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
-          "source": "凤凰网",
+          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2066920261631451637",
+          "source": "知乎",
           "ranks": [
-            6,
-            7
+            7,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时17分 ~ 20时03分]"
+          "time_info": "[16时44分 ~ 22时09分]"
         },
         {
           "title": "宁德时代与平陆运河集团签署战略合作协议",
@@ -115,18 +128,6 @@
           "time_info": "[01时00分 ~ 07时58分]"
         },
         {
-          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2066920261631451637",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 20时03分]"
-        },
-        {
           "title": "7 月，零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/2066920261631451637",
           "source": "知乎",
@@ -136,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼同意调整产量，并重申对市场稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20260802192744359800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "电动汽车开了5年 电池应该在啥水平",
@@ -186,6 +176,18 @@
           "time_info": "[16时44分 ~ 20时03分]"
         },
         {
+          "title": "欧佩克+：沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼同意调整产量，并重申对市场稳定的承诺。",
+          "url": "https://flash.jin10.com/detail/20260802192744359800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时09分]"
+        },
+        {
           "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
           "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
           "source": "澎湃新闻",
@@ -210,6 +212,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时18分 ~ 18时41分]"
+        },
+        {
+          "title": "比亚迪大汉8月21日成都车展将亮相",
+          "url": "https://www.toutiao.com/trending/7669296754139463723/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 22时09分]"
+        },
+        {
+          "title": "广汽集团：7月新增10座充电站",
+          "url": "https://flash.jin10.com/detail/20260802190004688800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时09分]"
         },
         {
           "title": "国米点球4:2曼城",
@@ -245,17 +271,6 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "广汽集团：7月新增10座充电站",
-          "url": "https://flash.jin10.com/detail/20260802190004688800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
           "title": "雷军说晚安被指营销 小米高管回应",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -287,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
-        },
-        {
-          "title": "比亚迪大汉8月21日成都车展将亮相",
-          "url": "https://www.toutiao.com/trending/7669296754139463723/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "金十整理：2026年7月造车新势力成绩单出炉——比亚迪超41万辆创新高，零跑突破10万大关",
