@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T03:43:47.342689+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-08-03T04:56:20.941036+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,24 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时56分]"
+        },
+        {
+          "title": "报道：普睿司曼即将收购美国电气设备制造商安科",
+          "url": "https://wallstreetcn.com/livenews/3143735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时56分]"
         },
         {
           "title": "伊朗外交部发言人Baghaei：我方与阿曼讨论在霍尔木兹海峡新开辟一条航道。（伊朗电视台IRIB）",
@@ -32,26 +45,16 @@
           "time_info": "00时58分"
         },
         {
-          "title": "报道：普睿司曼即将收购美国电气设备制造商安科",
-          "url": "https://wallstreetcn.com/livenews/3143735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
           "title": "普睿司曼据悉接近收购美国电气制造商Atkore",
           "url": "https://flash.jin10.com/detail/20260803031653529800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时56分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：消息人士称，哈马斯武装派别卡桑旅领导人纳菲兹·萨比赫在以色列对加沙一辆汽车发动的空袭中被击毙。",
@@ -59,17 +62,6 @@
           "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
-          "url": "https://flash.jin10.com/detail/20260802234110526800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,8 +77,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时56分]"
+        },
+        {
+          "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
+          "url": "https://flash.jin10.com/detail/20260802234110526800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
           "title": "伊朗外长：伊朗与阿曼谈判接近完成",
@@ -94,11 +97,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时56分]"
         },
         {
           "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
@@ -106,11 +110,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时56分]"
+        },
+        {
+          "title": "雷军为何推出一台“减配车”",
+          "url": "https://www.toutiao.com/trending/7669398703962066473/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            25,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时56分]"
         },
         {
           "title": "伊朗外交部：霍尔木兹海峡不会恢复战前状态，开放问题与阿曼谈判无关",
@@ -123,19 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时43分]"
-        },
-        {
-          "title": "雷军为何推出一台“减配车”",
-          "url": "https://www.toutiao.com/trending/7669398703962066473/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时43分]"
         },
         {
           "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
