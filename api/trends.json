@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:45:14.274988+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-08-03T15:25:37.957231+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -24,6 +24,18 @@
           "time_info": "[00时58分 ~ 11时45分]"
         },
         {
+          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+          "url": "https://www.zhihu.com/question/2066988587279718231",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 15时25分]"
+        },
+        {
           "title": "雷军为何推出一台“减配车”",
           "url": "https://www.toutiao.com/trending/7669398703962066473/",
           "source": "今日头条",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 08时00分]"
-        },
-        {
-          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
-          "url": "https://www.zhihu.com/question/2066988587279718231",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 11时45分]"
         },
         {
           "title": "报道：普睿司曼即将收购美国电气设备制造商安科",
@@ -144,6 +144,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "道达尔能源将以18亿欧元向KKR出售欧洲可再生能源业务股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
           "url": "https://flash.jin10.com/detail/20260802234110526800",
           "source": "金十数据",
@@ -153,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "壳牌与道达尔能源签署协议，出售其欧洲陆上可再生能源资产组合。",
+          "url": "https://flash.jin10.com/detail/20260803143641138800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "英国海上贸易行动办公室：在阿曼海塞卜东北方向20海里处发生了一起事件。一艘油轮的船长报告称，听到船只附近发生爆炸。",
@@ -213,6 +235,28 @@
           "time_info": "[11时44分 ~ 11时45分]"
         },
         {
+          "title": "侨福集团：境内贷款不存在逾期或违约情形 境外融资部分正在积极磋商",
+          "url": "https://flash.jin10.com/detail/20260803143619996800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "侨福集团：境内贷款不存在逾期或违约情形，境外融资部分正在积极磋商",
+          "url": "https://wallstreetcn.com/livenews/3143942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "黎巴嫩力量党主席萨米尔·贾加：黎巴嫩与海湾国家的关系将恢复到以前的状态。",
           "url": "https://flash.jin10.com/detail/20260803005533639800",
           "source": "金十数据",
@@ -222,6 +266,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "欧拉汽车7月销量10820台，同比增长152%",
+          "url": "https://flash.jin10.com/detail/20260803142344852800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "蚂蚁集团旗下具身智能公司灵波科技首轮拟募资 15 亿元",
+          "url": "https://flash.jin10.com/detail/20260803142314544800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "大众汽车启动史上最大规模重组",
+          "url": "https://wallstreetcn.com/livenews/3143937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "阿拉格齐：伊朗与阿曼谈判接近完成",
@@ -241,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -268,6 +345,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "据丹麦汽车统计网站Bilstatistik.dk：特斯拉7月份在丹麦的注册量同比增长52%。",
+          "url": "https://flash.jin10.com/detail/20260803141732087800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "伊朗外交部发言人：我们目前正在与阿曼讨论一条通过霍尔木兹海峡的路线，该路线既不是北向也不是南向。我们关于新航线的理解并不意味着霍尔木兹海峡的开放或关闭。",
           "url": "https://flash.jin10.com/detail/20260803004114541800",
           "source": "金十数据",
@@ -277,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "起亚汽车：七月全球销量汽车为298,037辆，同比增长13.4%。",
+          "url": "https://flash.jin10.com/detail/20260803141238813800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
