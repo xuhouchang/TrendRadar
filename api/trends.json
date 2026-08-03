@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T15:25:37.957231+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-03T18:56:14.628392+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -150,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -172,7 +172,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -187,6 +187,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时00分]"
+        },
+        {
+          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
+          "url": "https://www.zhihu.com/question/2067158057784718693",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 18时56分]"
         },
         {
           "title": "伊朗外交部：霍尔木兹海峡不会恢复战前状态，开放问题与阿曼谈判无关",
@@ -213,17 +225,6 @@
           "time_info": "[02时03分 ~ 03时43分]"
         },
         {
-          "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
-          "url": "https://www.zhihu.com/question/2067158057784718693",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
           "title": "全球大五座科技旗舰小鹏G9L来了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%A7%E4%BA%94%E5%BA%A7%E7%A7%91%E6%8A%80%E6%97%97%E8%88%B0%E5%B0%8F%E9%B9%8FG9L%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -241,7 +242,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -252,9 +253,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "西班牙汽车工业协会：1至7月特斯拉(TSLA.O)在西班牙新车注册量同比增长19.8%，而整体电动汽车注册量增长34.9%。",
+          "url": "https://flash.jin10.com/detail/20260803182348841800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "黎巴嫩力量党主席萨米尔·贾加：黎巴嫩与海湾国家的关系将恢复到以前的状态。",
@@ -274,9 +286,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "西班牙汽车工业协会：特斯拉(TSLA.O)7月在西班牙新车注册量同比下降81.3%，至131辆。",
+          "url": "https://flash.jin10.com/detail/20260803182242052800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "蚂蚁集团旗下具身智能公司灵波科技首轮拟募资 15 亿元",
@@ -285,9 +308,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "巴克莱：将雪佛龙(CVX.N)目标价从213美元上调至216美元。",
+          "url": "https://flash.jin10.com/detail/20260803182105153800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "大众汽车启动史上最大规模重组",
@@ -296,7 +330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -351,7 +385,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -373,7 +407,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
