@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T14:28:01.845329+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-08-04T17:21:55.988456+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "雷欧奥特曼人物志",
@@ -64,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -167,9 +167,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
+          "url": "https://www.zhihu.com/question/2067882801500836048",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美伊官员称伊朗与阿曼接近达成霍尔木兹海峡航行协议",
@@ -178,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -263,6 +274,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "广汽集团：7月汽车销量11.29万辆，同比下降5.48%",
+          "url": "https://wallstreetcn.com/livenews/3144628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "据日经新闻：铃木汽车轻型迷你电动汽车在英国售价预计低于2万英镑。",
           "url": "https://flash.jin10.com/detail/20260803235236187800",
           "source": "金十数据",
@@ -296,13 +318,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "战争下沙特阿美迎“黄金季度”：利润超越埃克森美孚和雪佛龙之和",
+          "url": "https://flash.jin10.com/detail/20260804165943149800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "丰田汽车第一季度净利润1.48万亿日元，同比增长76%，预估1.04万亿日元。 经营利润1.06万亿日元，同比下降8.8%，预估1.07万亿日元。 预计全年经营利润3.40万亿日元，此前预计3.00万亿日元，预估3.94万亿日元。 预计全年净利润3.25万亿日元，此前预计3.00万亿日元，预估3.72万亿日元。 仍然预测全年股息100.00日元，预估104.10日元。 丰田汽车将回购最多1万亿日元的股票。",
           "url": "https://wallstreetcn.com/livenews/3144529",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -340,6 +373,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "港股收盘：恒生指数收跌0.6%，恒生科技指数收涨0.21%。药明康德涨约11%，智谱涨超7%，中芯国际涨约5%。汽车股多数走低，小鹏集团、赛力斯均跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3144612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "券商8月金股热捧宁德时代药明康德",
           "url": "https://www.toutiao.com/trending/7669795989456162347/",
           "source": "今日头条",
@@ -351,6 +395,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "今创集团：2026年上半年实现利润总额5.13亿元 同比增长20.95%",
+          "url": "https://flash.jin10.com/detail/20260804165207958800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "从马斯克到“烤斯克”",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E2%80%9C%E7%83%A4%E6%96%AF%E5%85%8B%E2%80%9D",
           "source": "百度热搜",
@@ -360,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "据阿曼国家通讯社：今日10月份交割的阿曼原油官方价格为83.51美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260804164820773800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     }
