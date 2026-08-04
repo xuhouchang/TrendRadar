@@ -1,511 +1,88 @@
 {
-  "generated_at": "2026-08-04T22:09:56.442967+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-08-05T00:29:30.252912+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 44,
+      "match_count": 7,
       "titles": [
         {
-          "title": "雷欧奥特曼人物志",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E4%BA%BA%E7%89%A9%E5%BF%97",
-          "source": "bilibili 热搜",
+          "title": "伊朗高官：美试图阻挠伊朗阿曼就霍尔木兹海峡谈判",
+          "url": "https://wallstreetcn.com/livenews/3144866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 08时14分]"
-        },
-        {
-          "title": "赛力斯7月新能源汽车销量同比降45%",
-          "url": "https://www.toutiao.com/trending/7669619798967484459/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时00分]"
-        },
-        {
-          "title": "国家出手 新能源汽车充电将全面升级",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
           "url": "https://www.zhihu.com/question/2067882801500836048",
           "source": "知乎",
           "ranks": [
-            7,
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 22时09分]"
-        },
-        {
-          "title": "为什么好多人不想买新能源汽车？",
-          "url": "https://www.zhihu.com/question/2067315373137990163",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 08时14分]"
-        },
-        {
-          "title": "沙特阿美首席执行官：我们将继续充分利用所有出口路线，包括曼德海峡、苏伊士运河、苏麦德管道和霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260804141805931800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "A股MLCC概念震荡拉升，博迁新材午后涨停，洁美科技、斯迪克、三环集团、商络电子、火炬电子、风华高科均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3144561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
-          "url": "https://flash.jin10.com/detail/20260804051558715800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 08时14分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，KWEB涨0.9%，CQQQ跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3144343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "英国海军报告称，一艘货船在阿曼附近海域遭不明射弹击中。",
-          "url": "https://wallstreetcn.com/livenews/3144402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份轻型全电动汽车新注册量同比增长54.3%。",
-          "url": "https://flash.jin10.com/detail/20260804001027591800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份特斯拉(TSLA.O)汽车新注册量同比下降68.7%，1月至7月累计增长45.6%。",
-          "url": "https://flash.jin10.com/detail/20260804000916003800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "韦唯和王楚钦王曼昱同唱亚洲雄风",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E5%94%AF%E5%92%8C%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%90%8C%E5%94%B1%E4%BA%9A%E6%B4%B2%E9%9B%84%E9%A3%8E%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时11分 ~ 07时00分]"
-        },
-        {
-          "title": "美国五角大楼附近的达美乐披萨和Pizzato披萨的订单在美东时间周一下午6:00显著上升。",
-          "url": "https://flash.jin10.com/detail/20260804071358386800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "沙特阿美首席执行官：我们仍在持续优化东西向管道的灵活性，已有效管理风险一段时间，（沙特）政府正在应对这一风险，但这从未限制过我们通过曼德海峡的通行选择。",
-          "url": "https://flash.jin10.com/detail/20260804141308271800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "马斯克又悄悄做出一个独角兽",
-          "url": "https://www.toutiao.com/trending/7670012720964239402/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美伊官员称伊朗与阿曼接近达成霍尔木兹海峡航行协议",
-          "url": "https://wallstreetcn.com/livenews/3144551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "00时29分"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
           "url": "https://www.cls.cn/detail/2445217",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时09分]"
-        },
-        {
-          "title": "比亚迪攻入日本汽车腹地",
-          "url": "https://www.toutiao.com/trending/7669798854924963366/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时17分]"
-        },
-        {
-          "title": "韦唯和王楚钦王曼昱同唱《亚洲雄风》",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A6%E5%94%AF%E5%92%8C%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%90%8C%E5%94%B1%E3%80%8A%E4%BA%9A%E6%B4%B2%E9%9B%84%E9%A3%8E%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时11分 ~ 05时41分]"
-        },
-        {
-          "title": "云南水富巨石滚落砸中行驶汽车",
-          "url": "https://www.toutiao.com/trending/7670003902872879113/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "周一（8月3日），彭博电动汽车价格回报指数跌0.03%，报3352.55点。",
-          "url": "https://wallstreetcn.com/livenews/3144350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 07时00分]"
-        },
-        {
-          "title": "云南水富巨石滚落砸中行驶汽车",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B0%B4%E5%AF%8C%E5%B7%A8%E7%9F%B3%E6%BB%9A%E8%90%BD%E7%A0%B8%E4%B8%AD%E8%A1%8C%E9%A9%B6%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
-        },
-        {
-          "title": "土耳其总统府：总统埃尔多安与沙特王储穆罕默德·本·萨勒曼通电话。 双方在通话中探讨了土耳其与沙特双边关系，以及地区和国际议题。",
-          "url": "https://wallstreetcn.com/livenews/3144292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "俄太平洋舰队举行大规模军演",
-          "url": "https://www.toutiao.com/trending/7669734281677127722/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "伊朗正与阿曼就霍尔木兹海峡通航进行磋商",
-          "url": "https://wallstreetcn.com/livenews/3144291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "00时29分"
         },
         {
-          "title": "广汽集团：7月汽车销量11.29万辆，同比下降5.48%",
-          "url": "https://wallstreetcn.com/livenews/3144628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "据日经新闻：铃木汽车轻型迷你电动汽车在英国售价预计低于2万英镑。",
-          "url": "https://flash.jin10.com/detail/20260803235236187800",
+          "title": "据日经新闻：日本石油巨头Eneos Holdings在收购雪佛龙(CVX.N)旗下东南亚和澳大利亚的石油产品营销业务后，计划将其全球增长投资额提升至约1万亿日元（约合63.6亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260804234553766800",
           "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "福特美国7月汽车总销量为169,951辆，同比下降10.2%；7月电动汽车销量为2,065辆，同比下降74.9%。",
-          "url": "https://wallstreetcn.com/livenews/3144784",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "00时29分"
         },
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "英国7月新注册纯电动汽车共计43,547辆，去年同期为29,226辆。",
-          "url": "https://flash.jin10.com/detail/20260803234301060800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "备忘录显示，花旗集团(C.N)聘请美国银行的Rohan Sen负责领导科技服务银行业务覆盖。",
-          "url": "https://flash.jin10.com/detail/20260804005954716800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "战争下沙特阿美迎“黄金季度”：利润超越埃克森美孚和雪佛龙之和",
-          "url": "https://flash.jin10.com/detail/20260804165943149800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "丰田汽车第一季度净利润1.48万亿日元，同比增长76%，预估1.04万亿日元。 经营利润1.06万亿日元，同比下降8.8%，预估1.07万亿日元。 预计全年经营利润3.40万亿日元，此前预计3.00万亿日元，预估3.94万亿日元。 预计全年净利润3.25万亿日元，此前预计3.00万亿日元，预估3.72万亿日元。 仍然预测全年股息100.00日元，预估104.10日元。 丰田汽车将回购最多1万亿日元的股票。",
-          "url": "https://wallstreetcn.com/livenews/3144529",
+          "title": "英伟达：Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
+          "url": "https://wallstreetcn.com/livenews/3144846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "00时29分"
         },
         {
-          "title": "篮球神童纽曼现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AF%AE%E7%90%83%E7%A5%9E%E7%AB%A5%E7%BA%BD%E6%9B%BC%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "A股免税店板块短线拉升，南宁百货涨停，东百集团、中百集团、步步高、友阿股份、岭南控股等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260804110712565800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "金十图示：2026年08月04日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260804110548355800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌0.6%，恒生科技指数收涨0.21%。药明康德涨约11%，智谱涨超7%，中芯国际涨约5%。汽车股多数走低，小鹏集团、赛力斯均跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3144612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "券商8月金股热捧宁德时代药明康德",
-          "url": "https://www.toutiao.com/trending/7669795989456162347/",
+          "title": "马斯克又悄悄做出一个独角兽",
+          "url": "https://www.toutiao.com/trending/7670012720964239402/",
           "source": "今日头条",
           "ranks": [
-            27
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "今创集团：2026年上半年实现利润总额5.13亿元 同比增长20.95%",
-          "url": "https://flash.jin10.com/detail/20260804165207958800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "从马斯克到“烤斯克”",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E2%80%9C%E7%83%A4%E6%96%AF%E5%85%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "福特汽车(F.N)七月美国销量为169,951辆，下降10.2%。",
-          "url": "https://flash.jin10.com/detail/20260804211828619800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "中国汽车出口大厂 在韩国重大布局",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E5%A4%A7%E5%8E%82+%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%87%8D%E5%A4%A7%E5%B8%83%E5%B1%80",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "据阿曼国家通讯社：今日10月份交割的阿曼原油官方价格为83.51美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260804164820773800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "00时29分"
         }
       ]
     }
