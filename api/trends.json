@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:15:02.326589+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-08-05T18:07:42.999136+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 39,
+      "match_count": 56,
       "titles": [
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -38,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 18时07分]"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -116,6 +117,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "石药集团：收到阿斯利康战略研发合作协议项下1000万美元里程碑付款",
+          "url": "https://flash.jin10.com/detail/20260805175129954800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
           "url": "https://wallstreetcn.com/livenews/3144895",
           "source": "华尔街见闻-快讯",
@@ -127,6 +139,39 @@
           "time_info": "02时12分"
         },
         {
+          "title": "长安汽车：7月销量16.16万辆，同比下降23.29%",
+          "url": "https://wallstreetcn.com/livenews/3145321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3145320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "尊界V800上市售76.6万元起",
+          "url": "https://www.toutiao.com/trending/7670460778495004186/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "市场监管总局无条件批准天汽模收购东实汽车股权案",
           "url": "https://flash.jin10.com/detail/20260805114104720800",
           "source": "金十数据",
@@ -136,6 +181,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "三峡能源：拟3.4亿元参与设立三峡集团青海能源投资有限公司",
+          "url": "https://flash.jin10.com/detail/20260805174910649800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "中国汽车工业协会自动驾驶汽车产业发展联席会启动成立",
+          "url": "https://wallstreetcn.com/livenews/3145313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
@@ -272,7 +339,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -283,7 +350,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -297,6 +364,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "长安汽车：7月销量16.16万辆，同比-23.29%",
+          "url": "https://flash.jin10.com/detail/20260805173520726800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "华为余承东：内存高昂涨价，手机之后可能都要大规模涨价",
+          "url": "https://wallstreetcn.com/livenews/3145302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "据日经新闻：日本石油巨头Eneos Holdings在收购雪佛龙(CVX.N)旗下东南亚和澳大利亚的石油产品营销业务后，计划将其全球增长投资额提升至约1万亿日元（约合63.6亿美元）。",
@@ -321,6 +421,28 @@
           "time_info": "04时09分"
         },
         {
+          "title": "如何看待 8 月 5 日尊界 MPV 正式上市，能否打破超豪华 MPV 市场被外资品牌垄断的格局？",
+          "url": "https://www.zhihu.com/question/2068289436979402325",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "马斯克回应一个月亏掉2.45万亿",
+          "url": "https://www.toutiao.com/trending/7669518703364640297/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。 公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
           "url": "https://wallstreetcn.com/livenews/3144956",
           "source": "华尔街见闻-快讯",
@@ -341,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
+          "url": "https://wallstreetcn.com/livenews/3145296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "小鹏G9L首发AI主动贴合零重力座椅",
@@ -365,6 +498,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "汉缆股份：控股股东汉河集团累计减持0.63%股份",
+          "url": "https://flash.jin10.com/detail/20260805173156744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "英伟达：Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
           "url": "https://wallstreetcn.com/livenews/3144846",
           "source": "华尔街见闻-快讯",
@@ -382,9 +526,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "石药集团：与阿斯利康就成立合资公司签署合资合同",
+          "url": "https://wallstreetcn.com/livenews/3145293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
@@ -431,6 +586,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "福田汽车：7月汽车产品销量51784辆，去年同期45974辆",
+          "url": "https://flash.jin10.com/detail/20260805173015361800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
           "url": "https://wallstreetcn.com/livenews/3144948",
           "source": "华尔街见闻-快讯",
@@ -442,6 +608,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "乘联分会：中国7月新能源汽车零售销量同比下降2%，环比下降4%。",
+          "url": "https://wallstreetcn.com/livenews/3145282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "特斯拉不会恢复FSD自定义最高速度",
           "url": "https://www.toutiao.com/trending/7670369394756963878/",
           "source": "今日头条",
@@ -451,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "中国汽车工业协会自动驾驶汽车产业发展联席会启动成立",
+          "url": "https://flash.jin10.com/detail/20260805172709071800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     }
