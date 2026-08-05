@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T02:22:36.842150+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-06T04:09:54.005010+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -47,9 +47,53 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3145574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
+          "url": "https://wallstreetcn.com/livenews/3145573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
+          "url": "https://flash.jin10.com/detail/20260806035154028800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "据路透社：五名消息人士称，伊朗已警告海湾国家，美国任何新的袭击伊朗领土的行动都将引发伊朗对该地区关键能源基础设施的报复。",
+          "url": "https://flash.jin10.com/detail/20260806034009632800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "倍耐力与The Abet Group签署协议，双方将开发远程控制（遥控）地面救助车辆。",
@@ -58,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -68,11 +112,25 @@
           "source": "今日头条",
           "ranks": [
             6,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
+        },
+        {
+          "title": "余承东：手机可能都要大规模涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "俄无人机厂负责人遭汽车炸弹袭击",
@@ -87,16 +145,17 @@
           "time_info": "[00时42分 ~ 02时22分]"
         },
         {
-          "title": "余承东：手机可能都要大规模涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "余承东称手机将大规模涨价",
+          "url": "https://www.toutiao.com/trending/7670470899877068836/",
+          "source": "今日头条",
           "ranks": [
-            15,
+            18,
+            27,
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "异物砸底盘,智界R7高速起火",
@@ -107,20 +166,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
-        },
-        {
-          "title": "余承东称手机将大规模涨价",
-          "url": "https://www.toutiao.com/trending/7670470899877068836/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "马斯克回应一个月亏掉2.45万亿",
@@ -128,11 +175,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时09分]"
         },
         {
           "title": "张家界中心汽车站候车厅漏水如瀑布",
@@ -153,7 +201,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -164,7 +212,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -175,7 +223,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
