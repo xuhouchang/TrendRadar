@@ -1,771 +1,154 @@
 {
-  "generated_at": "2026-08-05T23:02:12.267649+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-08-06T00:42:43.652948+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 67,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 15时15分]"
-        },
-        {
-          "title": "异物砸底盘,智界R7高速起火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 23时02分]"
-        },
-        {
-          "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
-          "url": "https://www.zhihu.com/question/2067882801500836048",
-          "source": "知乎",
-          "ranks": [
-            2,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
         {
           "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
           "url": "https://www.cls.cn/detail/2446615",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "余承东称手机将大规模涨价",
-          "url": "https://www.toutiao.com/trending/7670470899877068836/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 23时02分]"
-        },
-        {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
-          "url": "https://flash.jin10.com/detail/20260805012901694800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "00时42分"
         },
         {
-          "title": "尊界V800/V680上市1小时大定2115台",
-          "url": "https://www.toutiao.com/trending/7670488588269735470/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
-        },
-        {
-          "title": "尊界MPV及华为新品发布会",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8A%E7%95%8CMPV%E5%8F%8A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
-          "title": "余承东发布会口误 24999元报成2499元",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 23时02分]"
-        },
-        {
-          "title": "马斯克又悄悄做出一个独角兽",
-          "url": "https://www.toutiao.com/trending/7670012720964239402/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            19,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 07时03分]"
-        },
-        {
-          "title": "阿布扎比国家石油公司：上半年海湾合作委员会地区零售燃料销量同比增长1.7%。",
-          "url": "https://flash.jin10.com/detail/20260805114948853800",
+          "title": "俄无人机厂负责人遭汽车炸弹袭击",
+          "url": "https://flash.jin10.com/detail/20260806001132747800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，金山云初步收涨10.4%，日月光半导体涨5.2%，阿特斯太阳能涨5.3%，万国数据涨2.1%，再鼎医药、晶科能源、阿里巴巴至少涨超1.1%，世纪互联涨0.8%，小鹏跌2.4%，新东方跌4.8%。 ETF中，CQQQ初步收涨2.9%，KWEB涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3144933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "石药集团：收到阿斯利康战略研发合作协议项下1000万美元里程碑付款",
-          "url": "https://flash.jin10.com/detail/20260805175129954800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
-          "url": "https://wallstreetcn.com/livenews/3144895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "长安汽车：7月销量16.16万辆，同比下降23.29%",
-          "url": "https://wallstreetcn.com/livenews/3145321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3145320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "尊界V800上市售76.6万元起",
-          "url": "https://www.toutiao.com/trending/7670460778495004186/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时24分]"
-        },
-        {
-          "title": "市场监管总局无条件批准天汽模收购东实汽车股权案",
-          "url": "https://flash.jin10.com/detail/20260805114104720800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "三峡能源：拟3.4亿元参与设立三峡集团青海能源投资有限公司",
-          "url": "https://flash.jin10.com/detail/20260805174910649800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "中国汽车工业协会自动驾驶汽车产业发展联席会启动成立",
-          "url": "https://wallstreetcn.com/livenews/3145313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
-          "url": "https://flash.jin10.com/detail/20260805053156645800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "伊朗高官：美试图阻挠伊朗阿曼就霍尔木兹海峡谈判",
-          "url": "https://wallstreetcn.com/livenews/3144866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时12分]"
-        },
-        {
-          "title": "马斯克：星舰预计到2027年底可安全载人。",
-          "url": "https://flash.jin10.com/detail/20260805053022430800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
-          "url": "https://wallstreetcn.com/livenews/3144973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "伤瓜太平洋",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%A4%E7%93%9C%E5%A4%AA%E5%B9%B3%E6%B4%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "余承东：手机可能都要大规模涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 23时02分]"
-        },
-        {
-          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
-          "url": "https://wallstreetcn.com/livenews/3144965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "如何看待奇瑞集团成为中国首个单月出口突破 20 万辆的车企？它的全球化布局有哪些可复制的经验？",
-          "url": "https://www.zhihu.com/question/2066947338829051252",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 15时15分]"
-        },
-        {
-          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
-          "url": "https://flash.jin10.com/detail/20260805051012522800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
-          "url": "https://www.cls.cn/detail/2445835",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
-          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
-          "url": "https://wallstreetcn.com/livenews/3144961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 07时03分]"
-        },
-        {
-          "title": "余承东称手机将大规模涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E6%89%8B%E6%9C%BA%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
-        },
-        {
-          "title": "未成年人“偷开”汽车致2死3伤",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E2%80%9C%E5%81%B7%E5%BC%80%E2%80%9D%E6%B1%BD%E8%BD%A6%E8%87%B42%E6%AD%BB3%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 20时24分]"
-        },
-        {
-          "title": "余承东回应口误",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%8F%A3%E8%AF%AF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
+          "time_info": "00时42分"
         },
         {
           "title": "余承东：鸿蒙智行至今保持零燃烧事故",
           "url": "https://www.toutiao.com/trending/7670179217723850758/",
           "source": "今日头条",
           "ranks": [
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时42分"
         },
         {
-          "title": "蒯曼1-7落后连得10分取胜",
-          "url": "https://www.baidu.com/s?wd=%E8%92%AF%E6%9B%BC1-7%E8%90%BD%E5%90%8E%E8%BF%9E%E5%BE%9710%E5%88%86%E5%8F%96%E8%83%9C",
+          "title": "俄无人机厂负责人遭汽车炸弹袭击",
+          "url": "https://wallstreetcn.com/livenews/3145506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "余承东：手机可能都要大规模涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
-          "title": "A股磷肥及磷化工板块尾盘走高，澄星股份涨停，川金诺、六国化工、川发龙蟒、云天化、兴发集团跟涨。",
-          "url": "https://flash.jin10.com/detail/20260805145430343800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "A股磷化工板块尾盘走高，澄星股份涨停，川金诺、六国化工、川发龙蟒、云天化、兴发集团等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3145212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
-          "url": "https://wallstreetcn.com/livenews/3144976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "长安汽车：7月销量16.16万辆，同比-23.29%",
-          "url": "https://flash.jin10.com/detail/20260805173520726800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "华为余承东：内存高昂涨价，手机之后可能都要大规模涨价",
-          "url": "https://wallstreetcn.com/livenews/3145302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
-          "url": "https://www.zhihu.com/question/2068289164244693148",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "据日经新闻：日本石油巨头Eneos Holdings在收购雪佛龙(CVX.N)旗下东南亚和澳大利亚的石油产品营销业务后，计划将其全球增长投资额提升至约1万亿日元（约合63.6亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260804234553766800",
-          "source": "金十数据",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "00时42分"
         },
         {
-          "title": "黄仁勋：马斯克是AI竞赛的赢家，基于基础设施的“算力数学”使然",
-          "url": "https://wallstreetcn.com/livenews/3144917",
-          "source": "华尔街见闻-快讯",
+          "title": "异物砸底盘,智界R7高速起火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
+          "source": "贴吧",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "00时42分"
         },
         {
-          "title": "如何看待 8 月 5 日尊界 MPV 正式上市，能否打破超豪华 MPV 市场被外资品牌垄断的格局？",
-          "url": "https://www.zhihu.com/question/2068289436979402325",
-          "source": "知乎",
+          "title": "余承东称手机将大规模涨价",
+          "url": "https://www.toutiao.com/trending/7670470899877068836/",
+          "source": "今日头条",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "00时42分"
         },
         {
           "title": "马斯克回应一个月亏掉2.45万亿",
           "url": "https://www.toutiao.com/trending/7669518703364640297/",
           "source": "今日头条",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "00时42分"
         },
         {
-          "title": "据港交所披露：高盛集团在中际旭创H股的持股比例于7月30日从5.95%提升至11.90%。",
-          "url": "https://wallstreetcn.com/livenews/3145364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。 公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
-          "url": "https://wallstreetcn.com/livenews/3144956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "通用汽车与上汽集团将上汽通用的合资期限延长20年。",
-          "url": "https://wallstreetcn.com/livenews/3145098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
-          "url": "https://wallstreetcn.com/livenews/3145296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "小鹏G9L首发AI主动贴合零重力座椅",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E9%A6%96%E5%8F%91AI%E4%B8%BB%E5%8A%A8%E8%B4%B4%E5%90%88%E9%9B%B6%E9%87%8D%E5%8A%9B%E5%BA%A7%E6%A4%85%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "分析：伊朗-阿曼协议只是良好开始，不会解决所有问题",
-          "url": "https://flash.jin10.com/detail/20260805031121994800",
+          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231327490800",
           "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "汉缆股份：控股股东汉河集团累计减持0.63%股份",
-          "url": "https://flash.jin10.com/detail/20260805173156744800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "英伟达：Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
-          "url": "https://wallstreetcn.com/livenews/3144846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "本田汽车第一季度经营利润5,307.7亿日元，上年同期2,441.7亿日元，预估3,001.6亿日元。 第一季度净利润4,509.2亿日元，上年同期1,966.7亿日元，预估2,507.8亿日元。 预计全年经营利润6,500.0亿日元，此前预计5,000.0亿日元，预估6,763.5亿日元。 预计全年销售净额24.15万亿日元，此前预计23.15万亿日元，预估23.21万亿日元。 预计全年净利润4,000.0亿日元，此前预计2,600.0亿日元，预估4,789.6亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3145202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "石药集团：与阿斯利康就成立合资公司签署合资合同",
-          "url": "https://wallstreetcn.com/livenews/3145293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
-          "url": "https://wallstreetcn.com/livenews/3144951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
-          "url": "https://wallstreetcn.com/livenews/3144874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
-          "url": "https://wallstreetcn.com/livenews/3144950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "蚂蚁数科与湖北大数据集团数据开发公司达成合作，将联合运营“词元工厂”",
-          "url": "https://wallstreetcn.com/livenews/3145354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "马斯克一个月亏掉2.45万亿元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%8F%E6%8E%892.45%E4%B8%87%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "00时42分"
         },
         {
-          "title": "福田汽车：7月汽车产品销量51784辆，去年同期45974辆",
-          "url": "https://flash.jin10.com/detail/20260805173015361800",
-          "source": "金十数据",
+          "title": "余承东：手机可能要大规模涨价",
+          "url": "https://www.douyin.com/hot/2598776",
+          "source": "抖音",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "00时42分"
         },
         {
-          "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
-          "url": "https://wallstreetcn.com/livenews/3144948",
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://wallstreetcn.com/livenews/3145479",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "乘联分会：中国7月新能源汽车零售销量同比下降2%，环比下降4%。",
-          "url": "https://wallstreetcn.com/livenews/3145282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "特斯拉不会恢复FSD自定义最高速度",
-          "url": "https://www.toutiao.com/trending/7670369394756963878/",
-          "source": "今日头条",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "00时42分"
         },
         {
-          "title": "中国汽车工业协会自动驾驶汽车产业发展联席会启动成立",
-          "url": "https://flash.jin10.com/detail/20260805172709071800",
-          "source": "金十数据",
+          "title": "伊朗：与阿曼围绕航运路线达成共识",
+          "url": "https://wallstreetcn.com/livenews/3145478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "张家界中心汽车站候车厅漏水如瀑布",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%AD%E5%BF%83%E6%B1%BD%E8%BD%A6%E7%AB%99%E5%80%99%E8%BD%A6%E5%8E%85%E6%BC%8F%E6%B0%B4%E5%A6%82%E7%80%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "00时42分"
         }
       ]
     }
