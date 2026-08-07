@@ -1,474 +1,77 @@
 {
-  "generated_at": "2026-08-07T22:33:38.046221+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-08-08T00:54:24.504133+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 6,
       "titles": [
         {
-          "title": "中方是否计划在太平洋海底开采稀土？外交部回应",
-          "url": "https://news.ifeng.com/c/8vNMlaCtEbt",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时24分 ~ 16时13分]"
-        },
-        {
-          "title": "太平洋岛国没批评中国，新西兰外长跳出来了",
-          "url": "https://news.ifeng.com/c/8vO4igFw4uZ",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时24分 ~ 16时13分]"
-        },
-        {
-          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 11时29分]"
-        },
-        {
-          "title": "中国移动通信集团重庆有限公司政企客户部总经理王辉明接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3146789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
-          "url": "https://www.cls.cn/detail/2447866",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时46分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "男子赴曼谷收“生意回款”失联58天",
-          "url": "https://www.toutiao.com/trending/7671107139330637843/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "工信部公布《享受车船税减免优惠的节约能源使用新能源汽车车型目录》（第八十九批），比亚迪方程豹钛9、赛力斯问界M8等多款车型在列。",
-          "url": "https://flash.jin10.com/detail/20260807130257425800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "17岁中国高中生重写核心架构，马斯克点赞",
-          "url": "https://news.ifeng.com/c/8vO7wsFXz3e",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 14时46分]"
-        },
-        {
-          "title": "朱鹤新会见明讯银行董事长、德意志交易所集团执行委员会成员斯蒂芬妮•埃克儿曼",
-          "url": "https://wallstreetcn.com/livenews/3146490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "德国工业生产连续第三个月增长，汽车行业成为主要驱动力",
-          "url": "https://flash.jin10.com/detail/20260807143300758800",
-          "source": "金十数据",
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "00时54分"
         },
         {
-          "title": "27岁女子成组织卖淫集团主犯被通缉",
-          "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 16时13分]"
-        },
-        {
-          "title": "27岁女子成组织卖淫集团主犯被通缉",
-          "url": "https://www.toutiao.com/trending/7670541877679620150/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时24分 ~ 13时16分]"
-        },
-        {
-          "title": "网友偶遇樊振东保养汽车",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BF%9D%E5%85%BB%E6%B1%BD%E8%BD%A6&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时52分]"
-        },
-        {
-          "title": "比亚迪定制版“海獭”日本热卖",
-          "url": "https://www.toutiao.com/trending/7670827360703365126/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时46分]"
-        },
-        {
-          "title": "高速轮胎砸晕车主 爱车独自完成救援",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E8%BD%AE%E8%83%8E%E7%A0%B8%E6%99%95%E8%BD%A6%E4%B8%BB+%E7%88%B1%E8%BD%A6%E7%8B%AC%E8%87%AA%E5%AE%8C%E6%88%90%E6%95%91%E6%8F%B4",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时33分]"
-        },
-        {
-          "title": "皇马官宣迪奥曼德加盟",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9A%87%E9%A9%AC%E5%AE%98%E5%AE%A3%E8%BF%AA%E5%A5%A5%E6%9B%BC%E5%BE%B7%E5%8A%A0%E7%9B%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "比亚迪1-7月海外销量约97万辆",
-          "url": "https://www.toutiao.com/trending/7669759309915521078/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "宜春官方：宁德时代锂矿处于停产检修状态",
-          "url": "https://wallstreetcn.com/livenews/3146443",
+          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
+          "url": "https://wallstreetcn.com/livenews/3146828",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "张姩菡请峰学蔚来员工立秋喝奶茶",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A7%A9%E8%8F%A1%E8%AF%B7%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E5%91%98%E5%B7%A5%E7%AB%8B%E7%A7%8B%E5%96%9D%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "00时54分"
         },
         {
-          "title": "张姩菡请峰学蔚来员工立秋喝奶茶",
-          "url": "https://www.toutiao.com/trending/7671103686646595647/",
-          "source": "今日头条",
+          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
+          "url": "https://flash.jin10.com/detail/20260807234317790800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "00时54分"
         },
         {
-          "title": "中汽协：上半年汽车整车出口530.7万辆，同比增长52.8%",
-          "url": "https://wallstreetcn.com/livenews/3146544",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
+          "url": "https://flash.jin10.com/detail/20260807234249085800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "00时54分"
         },
         {
-          "title": "中国贸促会副会长林红红会见美国特斯拉公司副总裁陶琳",
-          "url": "https://wallstreetcn.com/livenews/3146634",
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "龙湖集团：7月合同销售金额20.9亿元，前7个月累计186.4亿元",
-          "url": "https://flash.jin10.com/detail/20260807190546937800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "宜春官方：宁德时代锂矿处于停产检修状态",
-          "url": "https://flash.jin10.com/detail/20260807123338211800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "27岁女子成组织卖淫集团主犯",
-          "url": "https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "朱鹤新会见明讯银行董事长、德意志交易所集团执行委员会成员斯蒂芬妮•埃克儿曼",
-          "url": "https://flash.jin10.com/detail/20260807142313725800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "高速飞来轮胎致车主昏迷爱车独自完成全套救援",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E9%A3%9E%E6%9D%A5%E8%BD%AE%E8%83%8E%E8%87%B4%E8%BD%A6%E4%B8%BB%E6%98%8F%E8%BF%B7%E7%88%B1%E8%BD%A6%E7%8B%AC%E8%87%AA%E5%AE%8C%E6%88%90%E5%85%A8%E5%A5%97%E6%95%91%E6%8F%B4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "澳大利亚LNG工会就壳牌Prelude谈判申请调解",
-          "url": "https://wallstreetcn.com/livenews/3146295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "海关总署：中国7月汽车（包括底盘）出口109.2万辆，6月106.9万辆。",
-          "url": "https://flash.jin10.com/detail/20260807103805271800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "男子赴曼谷收生意回款失联58天",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%B4%E6%9B%BC%E8%B0%B7%E6%94%B6%E7%94%9F%E6%84%8F%E5%9B%9E%E6%AC%BE%E5%A4%B1%E8%81%9458%E5%A4%A9%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "中梁控股：2026年1月至7月，本集团累计合约销售金额约为人民币39.8亿元，累计合约销售面积约为401,000平方米，合约销售均价约为人民币9,900元╱平方米。7月单月，本集团合约销售金额约为人民币3.8亿元，合约销售面积约为36,000平方米，合约销售均价约为人民币10,400元╱平方米。",
-          "url": "https://flash.jin10.com/detail/20260807190146505800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "00时54分"
         },
         {
-          "title": "中方回应是否在太平洋海底开采稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
+          "title": "怪兽中出了一个奥特曼的卧底",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%AA%E5%85%BD%E4%B8%AD%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9A%84%E5%8D%A7%E5%BA%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "海关总署：中国1-7月汽车（包括底盘）出口639.9万辆。",
-          "url": "https://flash.jin10.com/detail/20260807103750442800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "金龙汽车：7月客车销量3860辆，同比增13.46%",
-          "url": "https://flash.jin10.com/detail/20260807180446608800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "JBS集团：与印尼主权财富基金Danantara的合资企业将寻求在亚洲和澳大利亚的蛋白质领域交易。",
-          "url": "https://flash.jin10.com/detail/20260807185847625800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "OCBC给予比亚迪A股买进的初始评级，目标价110.26元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3146662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "江淮汽车：新能源乘用车7月销量为1277辆，同比下降33.66%",
-          "url": "https://flash.jin10.com/detail/20260807170524781800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "大众汽车计划在美国战略调整中推出皮卡车型。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3146718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "蔚来首批第五代换电站投入运营",
-          "url": "https://wallstreetcn.com/livenews/3146717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "本田7月中国汽车销量25,052辆，同比下降44.1%；1-7月中国汽车销量230,870辆，同比下降35.9%。",
-          "url": "https://wallstreetcn.com/livenews/3146414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "00时54分"
         }
       ]
     }
