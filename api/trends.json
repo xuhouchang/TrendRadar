@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T03:52:59.076669+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-08-08T04:40:47.037487+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "怪兽中出了一个奥特曼的卧底",
@@ -27,33 +27,46 @@
           "ranks": [
             29,
             18,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://wallstreetcn.com/livenews/3146901",
+          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
+          "url": "https://wallstreetcn.com/livenews/3146922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时52分"
+          "time_info": "04时40分"
         },
         {
-          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
-          "url": "https://flash.jin10.com/detail/20260808032301628800",
-          "source": "金十数据",
+          "title": "据知情人士透露，日本软银集团持股的3D打印机制造商Formlabs考虑IPO。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3146918",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时52分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://wallstreetcn.com/livenews/3146901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时40分]"
         },
         {
           "title": "媒体援引知情人士报道称，加拿大希望关税减免相关协议以附函形式达成，而非写入更新后的美国墨西哥加拿大贸易协议（USMCA）正文。 加拿大清楚其将不得不接受美国部分钢铁和铝关税。 加拿大准备回应美国针对酒类销售、乳制品及汽车行业提出的诉求，但作为交换，加拿大需要获得232条款关税减免。 加方称美方同意开展每日谈判，直至8月19日。 加拿大正与美国加紧谈判，避免8月19日加征新关税。 加拿大已告知美方谈判代表，若双方无法在8月19日前达成协议以推迟关税实施，渥太华进一步谈判的空间将受到限制。",
@@ -77,6 +90,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时56分]"
+        },
+        {
+          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
+          "url": "https://flash.jin10.com/detail/20260808032301628800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时52分 ~ 04时40分]"
         },
         {
           "title": "福特汽车打算新推四个版本的Mustang四门车型。（华尔街日报）",
@@ -113,6 +138,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "周五（8月7日），彭博电动汽车价格回报指数2.16%，报3475.48点，本周累计上涨3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3146911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
           "url": "https://flash.jin10.com/detail/20260807234317790800",
           "source": "金十数据",
@@ -130,9 +166,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
+          "url": "https://flash.jin10.com/detail/20260808035655589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
@@ -152,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -179,13 +226,35 @@
           "time_info": "02时56分"
         },
         {
+          "title": "雪佛龙：预计年底资本开支处于指引区间180亿-190亿美元的低端。",
+          "url": "https://wallstreetcn.com/livenews/3146904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
           "title": "美国官员：预计阿曼与伊朗将很快达成协议",
           "url": "https://flash.jin10.com/detail/20260808030033577800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -207,7 +276,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
