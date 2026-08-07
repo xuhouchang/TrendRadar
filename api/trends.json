@@ -1,453 +1,55 @@
 {
-  "generated_at": "2026-08-06T22:07:31.782422+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-08-07T08:24:55.771767+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 64,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "中方是否计划在太平洋海底开采稀土？外交部回应",
+          "url": "https://news.ifeng.com/c/8vNMlaCtEbt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
           "url": "https://wallstreetcn.com/articles/3778783",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时49分 ~ 22时07分]"
-        },
-        {
-          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
-          "url": "https://www.cls.cn/detail/2446615",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时04分]"
-        },
-        {
-          "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
-          "url": "https://www.zhihu.com/question/2068403196586897921",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时49分 ~ 22时07分]"
-        },
-        {
-          "title": "异物砸底盘,智界R7高速起火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356784&amp;topic_name=%E5%BC%82%E7%89%A9%E7%A0%B8%E5%BA%95%E7%9B%98%2C%E6%99%BA%E7%95%8CR7%E9%AB%98%E9%80%9F%E8%B5%B7%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 14时31分]"
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            10,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 22时07分]"
-        },
-        {
-          "title": "余承东：手机可能都要大规模涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16,
-            9,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 08时04分]"
-        },
-        {
-          "title": "余承东口误将24999元电脑报成2499",
-          "url": "https://www.toutiao.com/trending/7670512223148752942/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 17时26分]"
-        },
-        {
-          "title": "中方回应是否在太平洋海底开采稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "08时24分"
         },
         {
-          "title": "深圳市委书记靳磊会见中信集团董事长奚国华",
-          "url": "https://wallstreetcn.com/livenews/3146023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
-          "url": "https://www.zhihu.com/question/2068437296529897006",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 22时07分]"
-        },
-        {
-          "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
-          "url": "https://flash.jin10.com/detail/20260806021357579800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "中汽协：6月汽车商品进出口总额318.2亿美元 同比增长35.5%",
-          "url": "https://flash.jin10.com/detail/20260806170700079800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "王腾回应吐槽小米汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E5%90%90%E6%A7%BD%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
-        },
-        {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "title": "太平洋岛国没批评中国，新西兰外长跳出来了",
+          "url": "https://news.ifeng.com/c/8vO4igFw4uZ",
           "source": "凤凰网",
           "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时50分]"
-        },
-        {
-          "title": "俄无人机厂负责人遭汽车炸弹袭击",
-          "url": "https://flash.jin10.com/detail/20260806001132747800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：沙特、埃及、土耳其和巴基斯坦的外长在安曼会晤，重申了共同努力确保霍尔木兹海峡和曼德海峡水道安全的重要性。外长们还强调了确保水道安全对维护供应链和能源市场稳定的重要性。",
-          "url": "https://flash.jin10.com/detail/20260806021220426800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3145574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
-          "url": "https://wallstreetcn.com/livenews/3145573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "8月6日投资避雷针：余承东称内存高昂涨价 手机之后可能都要大规模涨价",
-          "url": "https://www.cls.cn/detail/2446883",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
-        },
-        {
-          "title": "余承东：鸿蒙智行至今保持零燃烧事故",
-          "url": "https://www.toutiao.com/trending/7670179217723850758/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            20,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 05时47分]"
-        },
-        {
-          "title": "余承东称手机将大规模涨价",
-          "url": "https://www.toutiao.com/trending/7670470899877068836/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            27,
-            16,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 06时58分]"
-        },
-        {
-          "title": "马斯克回应一个月亏掉2.45万亿",
-          "url": "https://www.toutiao.com/trending/7669518703364640297/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 06时58分]"
-        },
-        {
-          "title": "马斯克：人们没意识到我说的将实现",
-          "url": "https://www.toutiao.com/trending/7670018813664051243/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "中汽协：6月汽车商品进出口总额318.2亿美元，同比增长35.5%",
-          "url": "https://wallstreetcn.com/livenews/3145946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
-          "url": "https://flash.jin10.com/detail/20260806035154028800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 14时31分]"
-        },
-        {
-          "title": "据路透社：五名消息人士称，伊朗已警告海湾国家，美国任何新的袭击伊朗领土的行动都将引发伊朗对该地区关键能源基础设施的报复。",
-          "url": "https://flash.jin10.com/detail/20260806034009632800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "倍耐力与The Abet Group签署协议，双方将开发远程控制（遥控）地面救助车辆。",
-          "url": "https://wallstreetcn.com/livenews/3145527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "一拍无人接盘，哪吒汽车南宁工厂设备降价20%拍卖",
-          "url": "https://wallstreetcn.com/livenews/3145780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "俄无人机厂负责人遭汽车炸弹袭击",
-          "url": "https://wallstreetcn.com/livenews/3145506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时22分]"
-        },
-        {
-          "title": "张家界中心汽车站候车厅漏水如瀑布",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%AD%E5%BF%83%E6%B1%BD%E8%BD%A6%E7%AB%99%E5%80%99%E8%BD%A6%E5%8E%85%E6%BC%8F%E6%B0%B4%E5%A6%82%E7%80%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时58分]"
-        },
-        {
-          "title": "曼联名宿儿子心脏骤停去世",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%BC%E8%81%94%E5%90%8D%E5%AE%BF%E5%84%BF%E5%AD%90%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%8E%BB%E4%B8%96",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "余承东回应口误",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%8F%A3%E8%AF%AF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "高盛集团增持中际旭创H股",
-          "url": "https://www.douyin.com/hot/2599054",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "雷军回应小米汽车保值率成绩",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BF%9D%E5%80%BC%E7%8E%87%E6%88%90%E7%BB%A9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
+          "time_info": "08时24分"
         },
         {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
@@ -456,295 +58,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "08时24分"
         },
         {
-          "title": "中国是否计划在太平洋海底开采稀土？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3146004",
-          "source": "华尔街见闻-快讯",
+          "title": "17岁中国高中生重写核心架构，马斯克点赞",
+          "url": "https://news.ifeng.com/c/8vO7wsFXz3e",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "08时24分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
-          "url": "https://wallstreetcn.com/livenews/3145607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-          "url": "https://flash.jin10.com/detail/20260806042849231800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3145521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "港交所文件显示，小米集团于8月6日以约5000万港元回购186.2万股B类股份。",
-          "url": "https://wallstreetcn.com/livenews/3145999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
-          "url": "https://flash.jin10.com/detail/20260806011433363800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "中方回应是否开采太平洋海底稀土资源",
-          "url": "https://www.toutiao.com/trending/7670870725185699878/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "港股AI应用股多数下跌，汇量科技(01860.HK)大跌近8%，金山云(03896.HK)跌超6%，中手游(00302.HK)、百度(09888.HK)、阿里巴巴(09988.HK)、小米集团(01810.HK)均跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260806112007682800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "上海市委网信办会同多部门指导行业协会制定汽车行业“合规公约”",
-          "url": "https://wallstreetcn.com/livenews/3145995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "中方回应日本在太平洋岛屿建军事设施",
-          "url": "https://www.toutiao.com/trending/7670868771767894058/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
-          "url": "https://flash.jin10.com/detail/20260806070213899800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "摩根大通：科技股交易在经历惨烈抛售后，散户影响力或将加大",
-          "url": "https://wallstreetcn.com/livenews/3145627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "RENK集团上半年订单量：12.0亿欧元，同比增长30%，市场预估11.3亿欧元。 上半年营收6.372亿欧元，同比增长2.8%，市场预估6.428亿欧元。 上半年调整后EBIT9,820万欧元，同比增长10%，市场预估9,800万欧元。 仍预计全年营收超过15亿欧元，市场预估15.5亿欧元。 仍预计全年调整后EBIT2.55亿至2.85亿欧元，市场预估2.622亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3145828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "金十图示：2026年08月06日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260806111157951800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
+          "title": "澳大利亚LNG工会就壳牌Prelude谈判申请调解",
+          "url": "https://wallstreetcn.com/livenews/3146295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时58分"
+          "time_info": "08时24分"
         },
         {
-          "title": "滴滴旗下99与巴西汽车租赁企业Movida签署合作协议",
-          "url": "https://wallstreetcn.com/livenews/3145763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "A股电池板块短线走低，圣阳股份、宁德时代、领湃科技、金银河、容百科技等走低。",
-          "url": "https://wallstreetcn.com/livenews/3145822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
-          "url": "https://flash.jin10.com/detail/20260806010451877800",
-          "source": "金十数据",
+          "title": "中方回应是否在太平洋海底开采稀土",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%BA%95%E5%BC%80%E9%87%87%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
-        },
-        {
-          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
-          "url": "https://flash.jin10.com/detail/20260805231327490800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "兴发集团：拟定增募资不超过30亿元，用于桥沟磷矿280万吨/年采矿工程、桥沟磷矿500万吨/年选矿项目（一期）、偿还银行贷款。",
-          "url": "https://wallstreetcn.com/livenews/3145986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "余承东：手机可能要大规模涨价",
-          "url": "https://www.douyin.com/hot/2598776",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "中国海外宏洋集团(00081.HK)：2026年7月份，中海宏洋系列公司实现合约销售额人民币29.36亿元人民币及合约销售面积247,900平方米，分别按年上升44.0%及31.4%。",
-          "url": "https://flash.jin10.com/detail/20260806165034921800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
-          "url": "https://wallstreetcn.com/livenews/3145479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗：与阿曼围绕航运路线达成共识",
-          "url": "https://wallstreetcn.com/livenews/3145478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "绿地集团：与深兰科技合作建设OPC社区，计划三年内服务超10万OPC创业者",
-          "url": "https://wallstreetcn.com/livenews/3145920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "08时24分"
         }
       ]
     }
