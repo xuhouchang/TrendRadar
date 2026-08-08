@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:50:10.105918+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-08-08T16:40:47.181683+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             26,
             14,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 15时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时40分]"
         },
         {
           "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
@@ -48,11 +49,12 @@
           "ranks": [
             19,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 16时40分]"
         },
         {
           "title": "雪佛兰将停止在中国市场销售？通用汽车仍未正面回应",
@@ -63,11 +65,12 @@
             4,
             7,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时40分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -80,6 +83,54 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时52分 ~ 07时34分]"
+        },
+        {
+          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
+          "url": "https://wallstreetcn.com/livenews/3146955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            11,
+            15,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时40分]"
+        },
+        {
+          "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
+          "url": "https://wallstreetcn.com/livenews/3146954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            12,
+            16,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时40分]"
+        },
+        {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            13,
+            17,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 16时40分]"
         },
         {
           "title": "据知情人士透露，日本软银集团持股的3D打印机制造商Formlabs考虑IPO。（彭博）",
@@ -97,49 +148,18 @@
           "time_info": "[04时40分 ~ 09时29分]"
         },
         {
-          "title": "中国东方电气集团原党组副书记、董事宋致远被查",
-          "url": "https://wallstreetcn.com/livenews/3146955",
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://wallstreetcn.com/livenews/3146964",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时50分]"
-        },
-        {
-          "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
-          "url": "https://wallstreetcn.com/livenews/3146954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            3,
             7,
-            9,
-            12,
-            16,
-            21
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时50分]"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            13,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时40分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
@@ -151,19 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
-          "url": "https://wallstreetcn.com/livenews/3146964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时50分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -263,6 +270,20 @@
           "time_info": "[11时12分 ~ 13时43分]"
         },
         {
+          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
+          "url": "https://flash.jin10.com/detail/20260808121316604800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时40分]"
+        },
+        {
           "title": "周五（8月7日），彭博电动汽车价格回报指数2.16%，报3475.48点，本周累计上涨3.63%。",
           "url": "https://wallstreetcn.com/livenews/3146911",
           "source": "华尔街见闻-快讯",
@@ -286,19 +307,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时34分]"
-        },
-        {
-          "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
-          "url": "https://flash.jin10.com/detail/20260808121316604800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时50分]"
         },
         {
           "title": "雪佛龙：预计年底资本开支处于指引区间180亿-190亿美元的低端。",
@@ -336,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时49分]"
+        },
+        {
+          "title": "济南再发5000万汽车购新补贴，8月20日起申报",
+          "url": "https://wallstreetcn.com/livenews/3146972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 16时40分]"
         },
         {
           "title": "据路透社：消息人士透露，加拿大方面表示，美方已同意在8月19日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第232条关税豁免。",
@@ -446,17 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        },
-        {
-          "title": "济南再发5000万汽车购新补贴，8月20日起申报",
-          "url": "https://wallstreetcn.com/livenews/3146972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
