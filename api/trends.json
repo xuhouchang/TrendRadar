@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:29:05.105156+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-08-09T07:00:02.150505+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
@@ -44,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
@@ -57,8 +58,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "宋致远被查，东方电气集团党组：坚决拥护党中央决定",
@@ -70,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -83,8 +84,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -96,8 +97,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时00分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -110,36 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时29分 ~ 06时29分]"
-        },
-        {
-          "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260809042132942800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时29分]"
-        },
-        {
-          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
-          "url": "https://flash.jin10.com/detail/20260809040308516800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[03时29分 ~ 07时00分]"
         },
         {
           "title": "怪兽中出了一个奥特曼的卧底",
@@ -153,8 +126,36 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时00分]"
+        },
+        {
+          "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260809042132942800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 07时00分]"
+        },
+        {
+          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
+          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 07时00分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -165,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时00分]"
         },
         {
           "title": "汕头母子误饮曼陀罗水中毒",
