@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T05:01:58.095919+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-08-09T05:56:51.450840+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "宋致远被查，东方电气集团党组：坚决拥护党中央决定",
@@ -55,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
@@ -67,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -79,8 +79,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -91,8 +91,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时56分]"
         },
         {
           "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
@@ -100,11 +100,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 05时56分]"
         },
         {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
@@ -112,11 +113,36 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 05时56分]"
+        },
+        {
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 05时56分]"
+        },
+        {
+          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
+          "url": "https://flash.jin10.com/detail/20260809045524710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "怪兽中出了一个奥特曼的卧底",
@@ -131,18 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 04时29分]"
-        },
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 05时01分]"
         },
         {
           "title": "汕头母子误饮曼陀罗水中毒",
