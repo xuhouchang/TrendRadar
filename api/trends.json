@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:01:47.722188+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-08-09T02:51:54.040555+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时51分]"
         },
         {
           "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时51分]"
         },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时51分]"
         },
         {
           "title": "宋致远被查，东方电气集团党组：坚决拥护党中央决定",
@@ -51,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时51分]"
         },
         {
           "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
@@ -62,8 +62,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时51分]"
         },
         {
           "title": "汕头母子误饮曼陀罗水中毒",
@@ -78,38 +100,17 @@
           "time_info": "[00时35分 ~ 01时30分]"
         },
         {
-          "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
-          "url": "https://wallstreetcn.com/livenews/3146999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时01分]"
-        },
-        {
-          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
-          "url": "https://wallstreetcn.com/livenews/3146996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时01分]"
-        },
-        {
           "title": "美联储理事鲍曼将于十分钟后参加一场炉边谈话。",
           "url": "https://flash.jin10.com/detail/20260809003500000800",
           "source": "金十数据",
           "ranks": [
             14,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时30分 ~ 02时51分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
