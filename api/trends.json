@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:34:37.513929+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-08-09T23:31:51.045798+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 22时34分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 23时31分]"
         },
         {
           "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
@@ -93,6 +93,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时42分 ~ 19时57分]"
+        },
+        {
+          "title": "提欧奥特曼开播好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时57分 ~ 23时31分]"
         },
         {
           "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
@@ -189,18 +202,6 @@
           "time_info": "[00时35分 ~ 07时37分]"
         },
         {
-          "title": "提欧奥特曼开播好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时57分 ~ 22时34分]"
-        },
-        {
           "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
           "url": "https://flash.jin10.com/detail/20260809042132942800",
           "source": "金十数据",
@@ -236,8 +237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时31分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
