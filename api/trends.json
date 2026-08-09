@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T01:05:28.200914+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-08-10T01:59:55.702381+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时59分]"
         },
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -27,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时59分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
           "url": "https://flash.jin10.com/detail/20260810002924011800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时59分]"
         },
         {
           "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
