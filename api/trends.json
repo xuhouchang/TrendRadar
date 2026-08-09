@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:05:08.510216+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-09T14:08:40.321430+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时08分]"
         },
         {
           "title": "一船只在阿曼以东海域遭袭起火",
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时08分]"
         },
         {
           "title": "美国参议院安排下周二美东时间14:00表决Clarity Act。（PunchBowl）",
@@ -68,8 +68,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时08分]"
         },
         {
           "title": "怪兽中出了一个奥特曼的卧底",
@@ -81,11 +81,12 @@
             26,
             21,
             12,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 09时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 14时08分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -113,8 +114,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 13时05分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 14时08分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -141,6 +142,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 07时37分]"
+        },
+        {
+          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
+          "url": "https://www.zhihu.com/question/2069357693840667744",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时08分]"
         },
         {
           "title": "约旦外交部：约旦副首相兼外交与侨务大臣艾曼·萨夫迪今天与巴林外交大臣阿卜杜拉提夫·扎亚尼博士进行了电话交谈。",
@@ -171,15 +184,17 @@
           "time_info": "[04时29分 ~ 07时37分]"
         },
         {
-          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
-          "url": "https://www.zhihu.com/question/2069357693840667744",
-          "source": "知乎",
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 14时08分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -204,19 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 13时05分]"
         },
         {
           "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
