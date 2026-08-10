@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T16:14:25.112842+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-08-10T17:58:28.981074+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -32,8 +32,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 10时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 17时58分]"
         },
         {
           "title": "如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？",
@@ -47,6 +47,31 @@
           "time_info": "[08时02分 ~ 10时42分]"
         },
         {
+          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 17时58分]"
+        },
+        {
+          "title": "假如全球所有人同时获得三个选项：立刻变成祖国人、十分钟后变成超人、十五分钟后变成曼哈顿博士，怎么选？",
+          "url": "https://www.zhihu.com/question/2069190461437261714",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时58分]"
+        },
+        {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
           "url": "https://flash.jin10.com/detail/20260810045558184800",
           "source": "金十数据",
@@ -58,31 +83,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时06分 ~ 06时37分]"
-        },
-        {
-          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 16时14分]"
-        },
-        {
-          "title": "假如全球所有人同时获得三个选项：立刻变成祖国人、十分钟后变成超人、十五分钟后变成曼哈顿博士，怎么选？",
-          "url": "https://www.zhihu.com/question/2069190461437261714",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 16时14分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -121,15 +121,37 @@
           "time_info": "08时02分"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "比亚迪“RACCO”在日本上市两周订单破千",
           "url": "https://wallstreetcn.com/livenews/3147361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810173950857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "市场消息：一艘船只在霍尔木兹海峡入口处的阿曼穆桑代姆半岛昆扎尔附近海域起火。",
@@ -151,9 +173,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "上交所终止阳光集团发行上市审核",
+          "url": "https://wallstreetcn.com/livenews/3147414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "从流程简化到资金加码 多地完善汽车消费补贴政策",
@@ -223,6 +256,50 @@
           "time_info": "00时02分"
         },
         {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "伊朗明确声明：当前重心为与阿曼谈判，并非华盛顿",
+          "url": "https://flash.jin10.com/detail/20260810173149746800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "南向资金今日净买入20.21亿元。港股通（沪）方面，、智谱分别获净买入8.33亿港元、5.6亿港元；中芯国际净卖出额居首，金额为1.39亿港元；港股通（深）方面，金斯瑞生物科技、小米集团-W分别获净买入4.72亿港元、1.95亿港元；中芯国际净卖出额居首，金额为3.13亿港元。",
+          "url": "https://flash.jin10.com/detail/20260810173143516800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "中国一重集团有限公司原党委常委、副总经理陆文俊受贿案一审宣判",
+          "url": "https://wallstreetcn.com/livenews/3147401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "马斯克的8000亿芯片梦会是灾难吗",
           "url": "https://www.toutiao.com/trending/7672219771949026870/",
           "source": "今日头条",
@@ -232,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "鸿海旗下电动汽车公司‌Foxtron：1-6月净亏损20.1亿元新台币，每股亏损1.15元新台币。",
+          "url": "https://flash.jin10.com/detail/20260810172519214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "男子误采曼陀罗煮水致妻子进ICU",
@@ -251,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -309,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "王曼昱 头号种子出战",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E5%A4%B4%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%87%BA%E6%88%98&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "马雷斯卡首秀曼城3-1马竞",
