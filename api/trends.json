@@ -1,34 +1,47 @@
 {
-  "generated_at": "2026-08-10T08:02:32.250587+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-08-10T10:42:02.760993+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "提欧奥特曼开播好看吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 08时02分]"
-        },
         {
           "title": "马斯克，要颠覆EUV光刻机？",
           "url": "https://wallstreetcn.com/articles/3779015",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 08时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 10时42分]"
+        },
+        {
+          "title": "提欧奥特曼开播好看吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 10时42分]"
+        },
+        {
+          "title": "如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？",
+          "url": "https://www.zhihu.com/question/2069687163239625579",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 10时42分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -69,24 +82,13 @@
           "time_info": "[01时05分 ~ 03时33分]"
         },
         {
-          "title": "如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？",
-          "url": "https://www.zhihu.com/question/2069687163239625579",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
           "title": "宁德时代宜春枧下窝锂矿复产迎来关键期",
           "url": "https://flash.jin10.com/detail/20260810071341251800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -104,6 +106,40 @@
           "time_info": "[05时59分 ~ 08时02分]"
         },
         {
+          "title": "从流程简化到资金加码 多地完善汽车消费补贴政策",
+          "url": "https://flash.jin10.com/detail/20260810102211345800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 10时42分]"
+        },
+        {
+          "title": "西太平洋银行：下行风险兑现但CPI降温 澳联储8月料维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260810102044156800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
           "url": "https://www.zhihu.com/question/2069357693840667744",
           "source": "知乎",
@@ -115,15 +151,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
-          "source": "澎湃新闻",
+          "title": "据日经新闻：索尼集团与台积电(TSM.N)最早将于2029年量产新一代图像传感器。",
+          "url": "https://flash.jin10.com/detail/20260810100324838800",
+          "source": "金十数据",
           "ranks": [
-            19
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "10时42分"
+        },
+        {
+          "title": "据日经新闻：索尼集团与台积电(TSM.N)将向熊本工厂投资1万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260810100226558800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
