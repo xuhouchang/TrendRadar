@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T14:28:43.228300+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-08-11T15:47:53.925463+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -42,11 +42,12 @@
           "ranks": [
             2,
             8,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 15时47分]"
         },
         {
           "title": "提欧奥特曼开播好看吗",
@@ -65,11 +66,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时47分]"
         },
         {
           "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
@@ -95,15 +97,48 @@
           "time_info": "02时14分"
         },
         {
+          "title": "一艘沙特船只在曼德海峡遭袭",
+          "url": "https://flash.jin10.com/detail/20260811151758890800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "主动投案，南京市交通集团党委书记、董事长奚晖接受审查调查",
           "url": "https://wallstreetcn.com/livenews/3147889",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
+          "url": "https://www.zhihu.com/question/2070336637360518307",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时47分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局周二表示，特斯拉因近光灯可能过亮，导致迎面而来的驾驶员视野受阻并增加碰撞风险，正在美国召回20,349辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3147926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
@@ -117,17 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时08分 ~ 08时02分]"
-        },
-        {
-          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
-          "url": "https://www.zhihu.com/question/2070336637360518307",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时28分]"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：利比亚军队军事情报负责人福兹·曼苏里在利比亚班加西遭遇刺杀事件。",
@@ -214,6 +238,17 @@
           "time_info": "[12时02分 ~ 13时17分]"
         },
         {
+          "title": "美国国家公路交通安全管理局周二表示，丰田公司正在美国召回508,354辆汽车，原因是仪表盘无法显示关键安全信息，从而增加了发生碰撞或造成人员受伤的风险。",
+          "url": "https://wallstreetcn.com/livenews/3147922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750119",
           "source": "澎湃新闻",
@@ -223,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "一艘沙特船只在曼德海峡遭袭",
+          "url": "https://wallstreetcn.com/livenews/3147921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
@@ -258,6 +304,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3147675",
           "source": "华尔街见闻-快讯",
@@ -269,13 +326,24 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美国国家公路交通安全管理局：特斯拉(TSLA.O)正在召回20,349辆美国车辆，原因是前大灯近光灯过亮，可能会降低迎面而来的驾驶员的能见度，从而增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20260811150628529800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "港股科网股震荡走弱，京东(09618.HK)、小米集团(01810.HK)跌超3%，快手(01024.HK)、百度(09888.HK)等跟跌。",
           "url": "https://flash.jin10.com/detail/20260811134115485800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
