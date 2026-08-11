@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T12:02:02.938081+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-08-11T13:17:35.188786+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -36,6 +36,18 @@
           "time_info": "[00时03分 ~ 08时02分]"
         },
         {
+          "title": "AI在黎曼猜想上做出了什么突破",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 13时17分]"
+        },
+        {
           "title": "提欧奥特曼开播好看吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
@@ -48,15 +60,16 @@
           "time_info": "[00时03分 ~ 05时13分]"
         },
         {
-          "title": "AI在黎曼猜想上做出了什么突破",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
+          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3147843",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 12时02分]"
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
-          "url": "https://wallstreetcn.com/livenews/3147843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
@@ -130,6 +132,41 @@
           "time_info": "[05时13分 ~ 06时08分]"
         },
         {
+          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
+          "url": "https://www.zhihu.com/question/2070336637360518307",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 13时17分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3147828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
+        },
+        {
+          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时17分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
           "url": "https://wallstreetcn.com/livenews/3147676",
           "source": "华尔街见闻-快讯",
@@ -142,15 +179,16 @@
           "time_info": "[05时13分 ~ 06时08分]"
         },
         {
-          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
-          "url": "https://www.zhihu.com/question/2070336637360518307",
-          "source": "知乎",
+          "title": "“21龙湖06”如期兑付，龙湖集团年内到期信用债已全部偿清",
+          "url": "https://wallstreetcn.com/livenews/3147810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "time_info": "[12时02分 ~ 13时17分]"
         },
         {
           "title": "潮起渤海湾，奋楫“十五五”——党中央国务院邀请优秀专家人才代表北戴河休假侧记",
@@ -164,17 +202,6 @@
           "time_info": "00时03分"
         },
         {
-          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3147828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
           "url": "https://flash.jin10.com/detail/20260811065651934800",
           "source": "金十数据",
@@ -186,6 +213,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "消息人士：通用汽车计划将一电池合资企业出售给三星SDI",
+          "url": "https://flash.jin10.com/detail/20260811125515781800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
           "url": "https://wallstreetcn.com/livenews/3147587",
           "source": "华尔街见闻-快讯",
@@ -195,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3147820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
@@ -225,18 +252,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "“21龙湖06”如期兑付，龙湖集团年内到期信用债已全部偿清",
-          "url": "https://wallstreetcn.com/livenews/3147810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -247,7 +263,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
