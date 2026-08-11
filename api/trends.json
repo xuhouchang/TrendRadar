@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:51:19.555026+08:00",
-  "total_titles_processed": 1774,
+  "generated_at": "2026-08-11T21:04:14.589422+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -59,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 19时51分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 21时04分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -124,6 +124,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时17分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时01分 ~ 21时04分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
@@ -203,6 +217,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "王曼昱复出后首胜",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%8D%E5%87%BA%E5%90%8E%E9%A6%96%E8%83%9C",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
           "url": "https://flash.jin10.com/detail/20260811183204331800",
           "source": "金十数据",
@@ -225,6 +250,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "钛能化学：拟与磷化集团共同投资建设年产40万吨钛白粉及140万吨七水硫酸亚铁项目",
+          "url": "https://flash.jin10.com/detail/20260811203618619800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国国家公路交通安全管理局周二表示，特斯拉因近光灯可能过亮，导致迎面而来的驾驶员视野受阻并增加碰撞风险，正在美国召回20,349辆汽车。",
           "url": "https://wallstreetcn.com/livenews/3147926",
           "source": "华尔街见闻-快讯",
@@ -234,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "巴基斯坦防长：美伊当前接近达成某项和平安排或协议",
+          "url": "https://wallstreetcn.com/livenews/3148076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "阅文集团上半年营收35.3亿元人民币，上半年净利润1.354亿元人民币。 上半年平均月付费用户820万，预估880万。",
@@ -258,19 +305,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时08分 ~ 08时02分]"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时01分 ~ 19时51分]"
         },
         {
           "title": "马斯克一年赚2.16万亿 平均每天59亿",
@@ -321,6 +355,17 @@
           "time_info": "[05时13分 ~ 06时08分]"
         },
         {
+          "title": "小鹏G9L全球首秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时51分 ~ 21时04分]"
+        },
+        {
           "title": "马斯克平均每天赚59亿",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E8%B5%9A59%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -330,6 +375,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时01分 ~ 18时59分]"
+        },
+        {
+          "title": "王曼昱极限倒地爆冲",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%9E%81%E9%99%90%E5%80%92%E5%9C%B0%E7%88%86%E5%86%B2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
@@ -390,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时17分]"
+        },
+        {
+          "title": "王祖蓝说小鹏G9L后备箱大到能住人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E8%AF%B4%E5%B0%8F%E9%B9%8FG9L%E5%90%8E%E5%A4%87%E7%AE%B1%E5%A4%A7%E5%88%B0%E8%83%BD%E4%BD%8F%E4%BA%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "采矿项目环评公示结束，宁德时代江西锂矿复产还要多久？",
@@ -464,7 +531,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -546,6 +613,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "巴基斯坦防长：美伊当前接近达成某项和平安排或协议",
+          "url": "https://flash.jin10.com/detail/20260811202520468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260811111058055800",
           "source": "金十数据",
@@ -601,15 +679,26 @@
           "time_info": "18时59分"
         },
         {
-          "title": "小鹏G9L全球首秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "华阳集团：惠州东兴工厂光模块、液冷散热零部件扩产项目即将投产",
+          "url": "https://flash.jin10.com/detail/20260811201810332800",
+          "source": "金十数据",
           "ranks": [
-            26
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "21时04分"
+        },
+        {
+          "title": "中国机械工业联合会会长徐念沙日前在国机集团第七个机械工业纪念日文化交流活动上说，今年上半年，我国机械工业经济运行总体平稳。",
+          "url": "https://flash.jin10.com/detail/20260811201649822800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则。（新华社）",
