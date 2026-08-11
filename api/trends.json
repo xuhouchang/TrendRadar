@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:02:15.997452+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-08-11T18:59:56.955908+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -36,6 +36,17 @@
           "time_info": "[00时03分 ~ 08时02分]"
         },
         {
+          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
+          "url": "https://www.zhihu.com/question/2070336637360518307",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 18时59分]"
+        },
+        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
@@ -43,11 +54,26 @@
             1,
             2,
             18,
-            10
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时59分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时28分 ~ 18时02分]"
+          "time_info": "[15时47分 ~ 18时59分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -64,17 +90,6 @@
           "time_info": "[10时22分 ~ 15时47分]"
         },
         {
-          "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
-          "url": "https://www.zhihu.com/question/2070336637360518307",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 18时02分]"
-        },
-        {
           "title": "提欧奥特曼开播好看吗",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%BC%80%E6%92%AD%E5%A5%BD%E7%9C%8B%E5%90%97",
           "source": "bilibili 热搜",
@@ -85,19 +100,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 05时13分]"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 18时02分]"
         },
         {
           "title": "马斯克母子发文强烈推荐中国游",
@@ -151,7 +153,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -162,7 +164,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -178,6 +180,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "主动投案，南京市交通集团党委书记、董事长奚晖接受审查调查",
           "url": "https://wallstreetcn.com/livenews/3147889",
           "source": "华尔街见闻-快讯",
@@ -189,13 +202,24 @@
           "time_info": "14时28分"
         },
         {
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "卡塔尔国防部：卡塔尔武装部队总参谋长会见海湾阿拉伯国家合作委员会军事事务助理秘书长。",
           "url": "https://flash.jin10.com/detail/20260811173736454800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -283,6 +307,29 @@
           "time_info": "[05时13分 ~ 06时08分]"
         },
         {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 18时59分]"
+        },
+        {
+          "title": "马斯克平均每天赚59亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E8%B5%9A59%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 18时59分]"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3147828",
           "source": "华尔街见闻-快讯",
@@ -293,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时17分]"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
@@ -340,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时17分]"
-        },
-        {
-          "title": "马斯克平均每天赚59亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E8%B5%9A59%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "采矿项目环评公示结束，宁德时代江西锂矿复产还要多久？",
@@ -436,9 +461,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
@@ -496,6 +543,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "一艘集装箱船在阿曼湾遇袭",
+          "url": "https://flash.jin10.com/detail/20260811181604724800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
           "url": "https://flash.jin10.com/detail/20260811110335188800",
           "source": "金十数据",
@@ -505,6 +563,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "据海事安全部门消息人士透露，一艘集装箱船在阿曼湾巴基斯坦近海海域疑似遭导弹击中。",
+          "url": "https://flash.jin10.com/detail/20260811181454571800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "英国海事运输组织称，已将阿曼湾意外事件中的船只类型评估从油轮改为集装箱船。",
+          "url": "https://flash.jin10.com/detail/20260811181436969800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "外交部：敦促太平洋岛国论坛秘书处恪守一个中国原则。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3148011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
