@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:44:27.966205+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-13T06:40:35.842324+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时40分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时40分]"
         },
         {
           "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时40分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -50,11 +50,24 @@
             8,
             18,
             19,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时40分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
+          "url": "https://flash.jin10.com/detail/20260813051034278800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时40分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 03时39分]"
-        },
-        {
-          "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
-          "url": "https://flash.jin10.com/detail/20260813051034278800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
         },
         {
           "title": "新能源汽车月度新车销量占比首超60%",
@@ -114,17 +116,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
-          "url": "https://flash.jin10.com/detail/20260813044926176800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
           "url": "https://flash.jin10.com/detail/20260813011204869800",
           "source": "金十数据",
@@ -149,6 +140,18 @@
           "time_info": "[02时29分 ~ 03时39分]"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
+          "url": "https://flash.jin10.com/detail/20260813044926176800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时40分]"
+        },
+        {
           "title": "汽车实体按键“杀”回来了",
           "url": "https://www.toutiao.com/trending/7671986425835913266/",
           "source": "今日头条",
@@ -160,6 +163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 02时29分]"
+        },
+        {
+          "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时40分]"
         },
         {
           "title": "加拿大拟接受部分汽车关税 换取美国降低关税",
@@ -184,17 +199,6 @@
           "time_info": "02时29分"
         },
         {
-          "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3148753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "王曼昱蒯曼17分钟光速下班",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC17%E5%88%86%E9%92%9F%E5%85%89%E9%80%9F%E4%B8%8B%E7%8F%AD",
           "source": "百度热搜",
@@ -212,7 +216,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
