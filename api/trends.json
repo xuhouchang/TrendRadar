@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T19:46:21.209539+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-08-13T21:09:14.013123+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -30,6 +30,35 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 12时12分]"
+        },
+        {
+          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 21时09分]"
+        },
+        {
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 21时09分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -58,11 +87,12 @@
             16,
             20,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 19时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时09分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -78,44 +108,30 @@
           "time_info": "[07时40分 ~ 17时12分]"
         },
         {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 19时46分]"
-        },
-        {
-          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
-          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时46分]"
-        },
-        {
           "title": "服务区开水间英文标识翻译错误，甘肃省高速公路服务集团致歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33769667",
           "source": "澎湃新闻",
           "ranks": [
             20,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 21时09分]"
+        },
+        {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 21时09分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -127,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时38分]"
-        },
-        {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时46分]"
         },
         {
           "title": "卡塔尔将9月海运原油官方售价（OSP）设定为较阿曼/迪拜原油基准价低5美元/桶；陆运原油官方售价设定为较阿曼/迪拜原油基准价低4.50美元/桶。",
@@ -191,9 +196,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "俄罗斯太平洋舰队军演，日本急了",
+          "url": "https://v.ifeng.com/c/8vYmNSHdxRh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -303,7 +319,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -454,7 +470,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
