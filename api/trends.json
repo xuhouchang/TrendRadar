@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:12:36.804006+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-08-13T15:38:42.421557+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -38,11 +38,24 @@
           "ranks": [
             9,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 12时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 15时38分]"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 15时38分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -60,16 +73,15 @@
           "time_info": "[00时02分 ~ 07时40分]"
         },
         {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
+          "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.toutiao.com/trending/7672287681459585050/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 12时12分]"
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 15时38分]"
         },
         {
           "title": "联想集团第一财季营收269.4亿美元，预估224.2亿美元。 第一财季净亏损6.086亿美元，预估收益4.317亿美元。 第一财季营业利润1,920万美元。",
@@ -78,7 +90,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -119,17 +131,6 @@
           "time_info": "[01时29分 ~ 03时39分]"
         },
         {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.toutiao.com/trending/7672287681459585050/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "新能源汽车月度新车销量占比首超60%",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -139,6 +140,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "寺庙售卖开光奥特曼？当地回应",
+          "url": "https://www.toutiao.com/trending/7673370106181746714/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "黑石集团正在考虑终止一项价值30亿美元的股权换现金交易。",
@@ -186,6 +209,19 @@
           "time_info": "07时40分"
         },
         {
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 15时38分]"
+        },
+        {
           "title": "汽车实体按键“杀”回来了",
           "url": "https://www.toutiao.com/trending/7671986425835913266/",
           "source": "今日头条",
@@ -221,18 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
-        },
-        {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时12分]"
         },
         {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
@@ -291,6 +315,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "服务区开水间英文标识翻译错误，甘肃省高速公路服务集团致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769667",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "王曼昱蒯曼17分钟光速下班",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC17%E5%88%86%E9%92%9F%E5%85%89%E9%80%9F%E4%B8%8B%E7%8F%AD",
           "source": "百度热搜",
@@ -308,9 +343,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "卖车亏百万的4S店集体“爆改”",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%BD%A6%E4%BA%8F%E7%99%BE%E4%B8%87%E7%9A%844S%E5%BA%97%E9%9B%86%E4%BD%93%E2%80%9C%E7%88%86%E6%94%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美国防长赫格塞思：哥伦比亚将加入美国反贩毒集团联盟，授权与美国开展联合军事行动。",
