@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T13:56:22.050035+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-08-14T15:24:12.618980+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时27分 ~ 13时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时27分 ~ 15时24分]"
         },
         {
           "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
@@ -166,6 +166,17 @@
           "time_info": "[04时42分 ~ 05时44分]"
         },
         {
+          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
+          "url": "https://www.cls.cn/detail/2454007",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 15时24分]"
+        },
+        {
           "title": "比亚迪秦MAX上市",
           "url": "https://www.toutiao.com/trending/7673470363653341225/",
           "source": "今日头条",
@@ -201,17 +212,6 @@
           "time_info": "05时44分"
         },
         {
-          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
-          "url": "https://www.cls.cn/detail/2454007",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "泛林集团计划在未来五年内投资超过30亿美元，以扩大其全球实验室网络，目标是将实验产能提升50%以上。",
           "url": "https://wallstreetcn.com/livenews/3149319",
           "source": "华尔街见闻-快讯",
@@ -240,7 +240,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -273,7 +273,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -295,7 +295,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
