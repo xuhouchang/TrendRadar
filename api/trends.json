@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T10:33:54.879802+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-08-15T11:38:59.478227+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             12,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时53分 ~ 10时33分]"
+          "appearance_count": 11,
+          "time_info": "[01时53分 ~ 11时38分]"
         },
         {
           "title": "中国汽车开放崛起之路",
@@ -55,24 +56,27 @@
           "time_info": "[04时59分 ~ 05时32分]"
         },
         {
+          "title": "林诗栋蒯曼混双夺冠",
+          "url": "https://www.toutiao.com/trending/7673067301227151396/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 11时38分]"
+        },
+        {
           "title": "特朗普如何将马斯克重新拉回身边",
           "url": "https://www.toutiao.com/trending/7674001293995675190/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "以色列对黎巴嫩南部城镇阿尔曼苏里发起新一轮空袭。",
-          "url": "https://flash.jin10.com/detail/20260815091952066800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -83,22 +87,33 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
         {
-          "title": "林诗栋蒯曼混双夺冠",
-          "url": "https://www.toutiao.com/trending/7673067301227151396/",
-          "source": "今日头条",
+          "title": "以色列对黎巴嫩南部城镇阿尔曼苏里发起新一轮空袭。",
+          "url": "https://flash.jin10.com/detail/20260815091952066800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            13,
-            18
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 11时38分]"
+        },
+        {
+          "title": "海湾产油国斥巨资“改道”石油出口，霍尔木兹海峡真会变得无关紧要？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33783908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时33分]"
+          "time_info": "[09时11分 ~ 11时38分]"
         },
         {
           "title": "旺旺集团面临重大经营危机",
@@ -161,18 +176,6 @@
           "time_info": "[01时53分 ~ 02时53分]"
         },
         {
-          "title": "海湾产油国斥巨资“改道”石油出口，霍尔木兹海峡真会变得无关紧要？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33783908",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 10时33分]"
-        },
-        {
           "title": "汽车困在泥石流中险象环生 当地回应",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%9B%B0%E5%9C%A8%E6%B3%A5%E7%9F%B3%E6%B5%81%E4%B8%AD%E9%99%A9%E8%B1%A1%E7%8E%AF%E7%94%9F+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -182,6 +185,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 06时51分]"
+        },
+        {
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "马斯克：由于电力供应不足以及地面设施审批困难，到2029年左右，轨道计算（即太空计算平台）可能是大规模扩展AI的唯一出路。",
