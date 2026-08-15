@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T05:46:21.790710+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-08-16T06:49:13.448675+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "观察｜国乒的集团优势正在瓦解，暴露出的问题待解答",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
@@ -48,11 +49,12 @@
           "ranks": [
             15,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "原中国船舶工业集团公司副总经理王树森逝世，享年85岁",
@@ -62,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -73,8 +75,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 06时49分]"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。",
