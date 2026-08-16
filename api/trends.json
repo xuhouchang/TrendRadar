@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:25:16.111106+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-17T00:51:43.916399+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "问界儿童车即将上市 网友：M0.9来了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "王曼昱4:0蒯曼晋级决赛",
@@ -59,41 +59,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "阿森纳vs曼城",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "一图世界 | 普京指挥、超60艘舰船参加，俄太平洋舰队为何举行大规模演习",
           "url": "https://m.thepaper.cn/newsDetail_forward_33789683",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
@@ -103,8 +106,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 00时51分]"
         },
         {
           "title": "美媒：海湾盟友对美沮丧情绪持续上升",
@@ -113,9 +116,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时51分]"
         }
       ]
     }
