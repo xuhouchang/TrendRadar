@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T13:28:52.249816+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-08-16T14:39:03.597482+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 13时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 14时39分]"
         },
         {
           "title": "观察｜国乒的集团优势正在瓦解，暴露出的问题待解答",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 11时48分]"
+        },
+        {
+          "title": "AC米兰4:2曼联",
+          "url": "https://www.douyin.com/hot/2611240",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 14时39分]"
         },
         {
           "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
@@ -66,16 +79,17 @@
           "time_info": "[00时51分 ~ 13时28分]"
         },
         {
-          "title": "AC米兰4:2曼联",
-          "url": "https://www.douyin.com/hot/2611240",
-          "source": "抖音",
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            1
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 14时39分]"
         },
         {
           "title": "原中国船舶工业集团公司副总经理王树森逝世，享年85岁",
@@ -92,16 +106,16 @@
           "time_info": "[00时51分 ~ 11时48分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
+            10,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 14时39分]"
         },
         {
           "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
@@ -118,29 +132,31 @@
           "time_info": "[09时15分 ~ 13时28分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 13时28分]"
-        },
-        {
           "title": "蔚来汽车：截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
           "url": "https://wallstreetcn.com/livenews/3150018",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时39分]"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时39分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -158,11 +174,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%9215%E5%B9%B4%E5%89%8D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 14时39分]"
+        },
+        {
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 14时39分]"
         },
         {
           "title": "米兰4-2曼联",
@@ -177,28 +206,16 @@
           "time_info": "[10时42分 ~ 11时48分]"
         },
         {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
-          "source": "澎湃新闻",
+          "title": "雷军晒图：15年前的今天小米手机发布",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            17
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时28分]"
-        },
-        {
-          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
-          "url": "https://www.cls.cn/detail/2455019",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时15分]"
+          "time_info": "[13时28分 ~ 14时39分]"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。",
@@ -211,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 05时46分]"
+        },
+        {
+          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击。",
@@ -248,15 +276,15 @@
           "time_info": "[00时51分 ~ 03时46分]"
         },
         {
-          "title": "雷军晒图：15年前的今天小米手机发布",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
+          "title": "伊朗宣布与阿曼达成协议",
+          "url": "https://www.douyin.com/hot/2611104",
+          "source": "抖音",
           "ranks": [
-            14
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "伊朗与阿曼已就通过霍尔木兹海峡的航运路线达成一致",
@@ -309,7 +337,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
