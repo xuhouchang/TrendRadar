@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T09:12:53.817344+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-08-17T10:42:20.877599+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "问界儿童车即将上市 网友：M0.9来了",
@@ -19,19 +19,6 @@
           "time_info": "[00时24分 ~ 06时48分]"
         },
         {
-          "title": "问界儿童车即将上市",
-          "url": "https://www.toutiao.com/trending/7674162628880518699/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 09时12分]"
-        },
-        {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
@@ -42,6 +29,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 09时12分]"
+        },
+        {
+          "title": "问界儿童车即将上市",
+          "url": "https://www.toutiao.com/trending/7674162628880518699/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 10时42分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -161,11 +162,12 @@
           "url": "https://www.douyin.com/hot/2612338",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时42分]"
         },
         {
           "title": "王曼昱瑞典大满贯女单夺冠",
@@ -173,22 +175,34 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时42分]"
+        },
+        {
+          "title": "菲日沮丧得想哭：美军这是不管西太平洋了",
+          "url": "https://news.ifeng.com/c/8veFLR5AQaZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时12分]"
+          "time_info": "[09时12分 ~ 10时42分]"
         },
         {
-          "title": "2026 WTT 瑞典大满贯赛女单决赛，王曼昱 4-2 战胜王艺迪夺得女单冠军，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2072490910139544733",
-          "source": "知乎",
+          "title": "阿森纳3-0曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A3%AE%E7%BA%B33-0%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "10时42分"
         },
         {
           "title": "王曼昱4比2王艺迪",
@@ -215,28 +229,6 @@
           "time_info": "[00时24分 ~ 00时51分]"
         },
         {
-          "title": "王曼昱瑞典大满贯女单夺冠",
-          "url": "https://www.toutiao.com/trending/7674771660993482249/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "王曼昱夺冠后比1庆祝",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%E5%90%8E%E6%AF%941%E5%BA%86%E7%A5%9D%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "阿森纳3-0曼城夺社区盾杯冠军",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A3%AE%E7%BA%B33-0%E6%9B%BC%E5%9F%8E%E5%A4%BA%E7%A4%BE%E5%8C%BA%E7%9B%BE%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
@@ -248,15 +240,40 @@
           "time_info": "07时45分"
         },
         {
-          "title": "菲日沮丧得想哭：美军这是不管西太平洋了",
-          "url": "https://news.ifeng.com/c/8veFLR5AQaZ",
-          "source": "凤凰网",
+          "title": "2026 WTT 瑞典大满贯赛女单决赛，王曼昱 4-2 战胜王艺迪夺得女单冠军，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2072490910139544733",
+          "source": "知乎",
           "ranks": [
-            10
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 10时42分]"
+        },
+        {
+          "title": "王曼昱瑞典大满贯女单夺冠",
+          "url": "https://www.toutiao.com/trending/7674771660993482249/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 10时42分]"
+        },
+        {
+          "title": "王曼昱夺冠后比1庆祝",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%E5%90%8E%E6%AF%941%E5%BA%86%E7%A5%9D%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 10时42分]"
         },
         {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
@@ -268,6 +285,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 00时51分]"
+        },
+        {
+          "title": "美媒曝光太平洋深处三起“神秘袭击”事件",
+          "url": "https://news.ifeng.com/c/8vecbzz2kFA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 10时42分]"
         },
         {
           "title": "相关发言人表示，加拿大负责对美贸易事务的部长多米尼克·勒布朗将于美东时间周日下午4点30分（北京时间次日凌晨4:30）与美国贸易代表格里尔举行视频会晤。",
@@ -306,15 +334,38 @@
           "time_info": "[03时45分 ~ 04时48分]"
         },
         {
-          "title": "美媒曝光太平洋深处三起“神秘袭击”事件",
-          "url": "https://news.ifeng.com/c/8vecbzz2kFA",
-          "source": "凤凰网",
+          "title": "王曼昱夺冠后比1庆祝",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%E5%90%8E%E6%AF%941%E5%BA%86%E7%A5%9D",
+          "source": "百度热搜",
           "ranks": [
-            12
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 10时42分]"
+        },
+        {
+          "title": "聚焦供应链协同 宁德时代公布2035全价值链碳中和行动计划",
+          "url": "https://flash.jin10.com/detail/20260817101613534800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "10时42分"
+        },
+        {
+          "title": "2026 年英格兰社区盾杯阿森纳 3-0 曼城，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2072450391694730602",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "2026 年英格兰社区盾杯阿森纳 vs 曼城，如何评价本场比赛？",
@@ -323,20 +374,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
         {
-          "title": "王曼昱夺冠后比1庆祝",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0%E5%90%8E%E6%AF%941%E5%BA%86%E7%A5%9D",
-          "source": "百度热搜",
+          "title": "A股商业零售概念震荡反弹，利群股份涨停，飞亚达、鹏飞绿能、曼卡龙、菜百股份、汉商集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260817100556030800",
+          "source": "金十数据",
           "ranks": [
-            28
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "10时42分"
         },
         {
           "title": "曼城新帅遭阿森纳球迷嘲讽：明早下课",
@@ -345,7 +396,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
