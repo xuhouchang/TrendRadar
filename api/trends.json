@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T18:28:07.406335+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-08-19T05:49:24.696404+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "关键词 轮胎 米其林 马牌 邓禄普 中策 赛轮 玲珑 普利司通 固特异 倍耐力 韩泰 森麒麟 佳通 米奇汤普森 新能源轮胎 润滑油 美孚 嘉实多 壳牌 康普顿 零公里 统一石化 龙蟠 道达尔 马石油 雪佛龙 长城润滑油 昆仑润滑油 路博润 福斯 胜牌 gulf 海湾 宁德时代 宁家服务 比亚迪 国轩高科 亿纬锂能 欣旺达 远景动力 瓦尔塔 骆驼股份 风帆股份 巨江蓄电池 O’Reilly autozone lkq cardone Advance Auto Parts (AAP) Genuine Company (GPC) dorm monro Valvoline 博世车联 博世 曼 滤清器 索菲玛 ZF 采埃孚 欧洲维修 F6 快准 康众 三头六臂 好美特 开思 鼎腾 扬腾 汽配 4S 车险 凌越 玉成 兔师傅 途虎 京东养车 天猫养车 百援精养 小拇指 易捷养车 驰加 邦邦汽服 创配 好车主 中升集团 永达 美东 集团 新能源维修 新能源配件 人保 平安 太平洋 售后 维修连锁 汽配连锁 洗美 修理厂 事故车 保养 汽配出海 底盘 拆车件 再制造 汽车 特斯拉 小米汽车 雷军 马斯克 余承东 尊界 问界 蔚来 小鹏",
-      "match_count": 41,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -15,452 +15,85 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 18时28分]"
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
+          "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现？",
+          "url": "https://www.zhihu.com/question/2073101523161192426",
+          "source": "知乎",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
-          "title": "汽车促消费政策“升级” 多地将二手车纳入补贴范围、单台至高4000元",
-          "url": "https://www.cls.cn/detail/2456833",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 18时28分]"
-        },
-        {
-          "title": "新闻蒸馏器｜拆西墙补东墙，美军在西太平洋留下“航母真空”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797607",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
-        },
-        {
-          "title": "菲日沮丧得想哭：美军这是不管西太平洋了",
-          "url": "https://news.ifeng.com/c/8veFLR5AQaZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
-        },
-        {
-          "title": "重镇红利曼战线局势反转！乌军大反击，俄军多处失守",
-          "url": "https://news.ifeng.com/c/8vgUwqSTqjr",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 18时28分]"
-        },
-        {
-          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2071644037833135057",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
-        },
-        {
-          "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
-          "url": "https://www.zhihu.com/question/2071637667490576051",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
-          "url": "https://www.zhihu.com/question/2065004542933067231",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "卡塔尔外交部发言人：调解人正在等待阿曼和伊朗就霍尔木兹海峡问题达成双边协议，然后再回到更广泛的美伊谈判。",
-          "url": "https://flash.jin10.com/detail/20260818181929774800",
+          "title": "新西兰联储主席布雷曼：新西兰联储正在推进各项举措，以促进银行业竞争。",
+          "url": "https://flash.jin10.com/detail/20260819045325807800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "05时49分"
+        },
+        {
+          "title": "4S店“爆改”大排档健身房",
+          "url": "https://www.baidu.com/s?wd=4S%E5%BA%97%E2%80%9C%E7%88%86%E6%94%B9%E2%80%9D%E5%A4%A7%E6%8E%92%E6%A1%A3%E5%81%A5%E8%BA%AB%E6%88%BF",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3151323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "西咸文旅集团被指挪用上亿元棚改专项债债券：项目停工近两年，施工方胜诉盼回款复工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33786018",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.01%，报6256.97点。 热门中概股里，世纪互联初步收跌16.8%，百度跌12.5%，日月光半导体跌9.1%，万国数据跌5.1%，小鹏跌3.6%，理想跌2.3%，腾讯跌0.8%，拼多多涨0.4%，新东方涨2.3%，阿里巴巴涨2.9%，网易有道涨5.8%，Wetour涨38.9%。 ETF中，中国科技指数ETF（CQQQ）收跌2.49%，中概互联网指数ETF（KWEB）收跌0.63%。 MSCI新兴市场ex中国ETF（EMXC）收跌3.55%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，XtrackersHarvest中证50（ASHS）收跌0.10%。",
+          "url": "https://wallstreetcn.com/livenews/3151319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "当奥特曼出了怪兽卧底",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%87%BA%E4%BA%86%E6%80%AA%E5%85%BD%E5%8D%A7%E5%BA%95",
           "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "据报道，埃及外长和阿曼外长讨论了伊朗与阿曼将发布的关于开放霍尔木兹海峡的联合声明，以及阿曼为此所作的努力。双方还强调，需要继续开展外交努力，以缓解紧张局势、确保航行自由，并避免任何可能加剧地区紧张的行动。",
-          "url": "https://flash.jin10.com/detail/20260818181831729800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "周一（8月17日），彭博电动汽车价格回报指数涨1.11%，报3543.16点，北京时间08:00以来持续上涨、10:00以来持续守住3530点，在高位震荡行情中、18:30刷新日高至3554.81点。",
-          "url": "https://wallstreetcn.com/livenews/3150678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
-          "url": "https://flash.jin10.com/detail/20260818063446465800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨4.5%，半导体板块涨1.4%。 标普500指数初步收跌0.5%，电信、日用消费品、可选消费板块至多跌1.4%，科技板块跌0.1%，能源板块涨0.9%，是唯一收涨的板块。 纳斯达克100指数初步收跌0.1%，成分股中，汤森路透初步收跌4.3%，罗斯百货跌4.1%，Meta、Adobe、Workday、Autodesk、Nebius Group NV、微软至少跌3.2%，美光涨4.6%，SpaceX涨4.6%，Lumentum、西部数据、Strategy、迈威尔科技、泰瑞达、应用材料至多涨5.9%，闪迪涨8.6%。",
-          "url": "https://wallstreetcn.com/livenews/3150675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "为什么我国人民接触不到俄罗斯的汽车？",
-          "url": "https://www.zhihu.com/question/26465203",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，华住初步收涨11.4%，小鹏涨4.2%，世纪互联涨4.1%，亚朵涨3.1%，万国数据涨2.8%，拼多多涨2.5%，日月光半导体、新东方涨0.9%，阿里巴巴涨0.3%，名创优品跌8.6%，网易有道跌9.8%。 ETF中，CQQQ涨1.7%，KWEB跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3150673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "纳斯达克：拟于12月6日推出全新交易时段，美东时间晚9点至凌晨4点",
-          "url": "https://wallstreetcn.com/livenews/3150671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "蚌埠市国有资本运营控股集团有限公司党委书记、副董事长高东升接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3151027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "李书福辞任吉利汽车董事会主席",
-          "url": "https://finance.ifeng.com/c/8vfKTIPSDaP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时51分]"
-        },
-        {
-          "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
-          "url": "https://www.zhihu.com/question/2070987118307029732",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 01时57分]"
-        },
-        {
-          "title": "特斯拉新车没有方向盘和踏板",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E5%92%8C%E8%B8%8F%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "特斯拉Cybercab有望本月投放运营",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%9C%89%E6%9C%9B%E6%9C%AC%E6%9C%88%E6%8A%95%E6%94%BE%E8%BF%90%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "李书福卸任公司董事会主席，吉利汽车：“去家族化的宣言”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800397",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "4S店爆改汽车手办盒",
-          "url": "https://www.douyin.com/hot/2614139",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "报道：美国对加拿大汽车现行25%的关税有可能下调至15%",
-          "url": "https://wallstreetcn.com/livenews/3150667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "数据显示霍尔木兹海峡和曼德海峡航运活动持续低迷",
-          "url": "https://wallstreetcn.com/livenews/3150710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦自治区苏莱曼尼亚发生燃料罐起火及爆炸事件。",
-          "url": "https://flash.jin10.com/detail/20260818055647896800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "特斯拉准备8月份发布Cybercab，该公司计划在美国得州奥斯汀公开投放这种没有方向盘的出租车车型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3150665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "小米集团：在OpenRouter平台上，Xiaomi MiMo-V2.5周调用量位列第一",
-          "url": "https://wallstreetcn.com/livenews/3151019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "据悉美加正努力弥合潜在汽车关税削减的分歧",
-          "url": "https://flash.jin10.com/detail/20260818054003054800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "小米集团：智能电动汽车收入为人民币239亿元",
-          "url": "https://wallstreetcn.com/livenews/3151015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "小米集团：智能手机平均售价创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3151013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。 第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。 第二季度净利润94.6亿元人民币，同比增加21%，预估57.6亿元人民币。 第二季度资本支出36.2亿元人民币，预估23.9亿元人民币。 第二季度智能电动汽车及AI等创新业务收入249.0亿元人民币，同比增长17%，预估249亿元人民币。 上半年营收2,080.6亿元人民币；净利润141.9亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3151006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "知情人士透露，部分北美汽车行业官员认为，无论选择哪种方案，都比目前美国对加拿大汽车征收的25%关税有所改善，因为日本、韩国和欧盟的汽车关税税率仅为15%。",
-          "url": "https://flash.jin10.com/detail/20260818033812801800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "知情人士透露，美方官员提议在对加拿大汽车加征的15%关税中，仅扣除美国本土价值成分，但加方官员希望扣除所有北美成分。",
-          "url": "https://flash.jin10.com/detail/20260818033740236800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "知情人士透露，经扣除部分价值成分后，美国与加拿大正就美国汽车关税可能从当前的25%下调至15%进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260818033626414800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "美国与加拿大之间的贸易谈判因汽车关税问题陷入僵局。",
-          "url": "https://wallstreetcn.com/livenews/3150695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "平安好医生上半年净利润2.193亿元人民币，上年同期1.342亿元人民币。 上半年营收24.8亿元人民币，同比下降0.7%。 上半年调整后净利润2.268亿元人民币，同比增长38%。 上半年毛利9.567亿元人民币，同比增长14%。 上半年毛利率38.5％。",
-          "url": "https://wallstreetcn.com/livenews/3150996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "05时49分"
         }
       ]
     }
